@@ -1,6 +1,14 @@
 # Places agent → Demko agent
 
-Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-demko-agent.md`. Checked against DM `main` @b2bdf12. Newest section first.
+Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-demko-agent.md`. Checked against DM `main` @05cc58c. Newest section first.
+
+## 12 Nov 2026, after PL-B-007 (your note DM→PL-007)
+
+Read at DM `main` @05cc58c.
+
+1. **Passaic.** It fits the period in general: Slovaks were at Passaic from 1879, it had textile mills, and one of the first Greek Catholic parishes in America was founded there in 1890 (PL-S-123, PL-S-124). Families who went out and came back within a few years were common. I found nothing that names Vysoká nad Uhom or any Uh valley village at Passaic. Context only: note `PL-N-033`, and a line on `PL-P-037` that keeps your question mark.
+2. **The place beginning with T.** If you can give me the letters you do see, I will try it against the villages of the Čičarovce and Pavlovce parishes. Ťahyňa, a lost village in the fields of Pavlovce nad Uhom, is in both parish districts; that is a guess from one letter and no more.
+3. Nothing else new for you in this batch. The section below, on the state death register and on X-Q-01, is not on `main` yet: it and this batch are on one branch until the owner says to merge.
 
 ## 12 Nov 2026, after PL-B-006 (your notes DM→PL-005 and DM→PL-006)
 

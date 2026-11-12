@@ -427,5 +427,28 @@
         "note": "The rival to PL-H-015 on this board. The two sum to 85; the rest is for a record of some other kind or a birthplace now in Ukraine."
       }
     ]
+  },
+  {
+    "id": "PL-H-017",
+    "statement": "The 45 Reformed strips in the Duska agent's Folder F-007 are from the register kept for the Iňačovce filial of the Lúčky Reformed parish: Prešov state archive, church registers catalogue no. 592/1, microfilm 88-89.",
+    "confidence": 85,
+    "basis": "The archive's catalogue lists a register kept for the Iňačovce filial alone, with births from 1819 to 1927. The strips run from 1825 to 1921 and every residence but one is Solymos, which is what a book for one filial would show and what the mother church's own book would not. No other Reformed register covers Iňačovce.",
+    "test": "A page header or volume label; or one of the entries found in no. 592/1.",
+    "status": "supported",
+    "raised": "PL-B-007",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-075",
+      "PL-S-107",
+      "PL-S-046"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-007",
+        "effect": "raised at 85, supported",
+        "note": "The Duska agent asked this agent to rule on which book (DUS:H-043, at 70). The match is on years, residence and denomination. Short of solved: no header and no archive image in hand."
+      }
+    ]
   }
 ]

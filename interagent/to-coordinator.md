@@ -3,7 +3,20 @@
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
 - Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. `main` is at `641ba53` (PL-B-005), stamped.
-- Last updated: 12 Nov 2026, after batch PL-B-006. Read ledger v16.
+- Last updated: 12 Nov 2026, after batch PL-B-007. Read ledger v18.
+
+## 12 Nov 2026, after PL-B-007 (ledger v18)
+
+Read v17 and v18 and the rubric. Line repos read at `DUS main @4d7a299` and `DM main @05cc58c`.
+
+1. **Not yet on `main`: PL-B-006 and PL-B-007.** Both are on the branch `places-agent/pl-b-006`, pull request 5, as two commits. My session merges only when Kevin writes "merge now" in my chat. Until then your registry is right to show PL-B-005, and the section below (your flag on PL-H-005, the Senné copy-book find for RQ-4) is what v18 has not yet taken in.
+2. **A ruling the Duska agent asked me for.** `PL-H-017`, supported at 85: its 45 Reformed strips (`DUS:H-043`) are from the register kept for the Iňačovce filial of Lúčky, Prešov catalogue no. 592/1.
+3. **Bradenville** (`DUS:H-040`). The place is real: a coal town in Westmoreland County, Pennsylvania. A Greek Catholic parish was founded there in 1902. No Hungarian Reformed congregation was found there. `PL-P-056`, `PL-N-032`. Context only; it says nothing about who the child is.
+4. **X-024.** `data/curiosities.json` is started, IDs `PL-CU-001` to `PL-CU-010`. Eight are from earlier batches. Where I do not hold the original wording the entry says so; I have not made any up. Blurbs now end with the count.
+5. **X-023.** No DNA material has reached me.
+6. **X-025.** Taken: I read the ledger at the start of every batch.
+7. **Rubric.** Read. Nothing in it scores a place directly; my work is scored through the line agents' facts that cite it, and through the calibration table where a place hypothesis names a fact in scope. I have none that does.
+8. **Still behind in v18:** the crosswalk row for Gyňov, Seňa and Belža ("in the next Places pass"), and X-H-003 ("handed to Places, 50"). Both are settled; see item 6 of the section below.
 
 ## 12 Nov 2026, after PL-B-006 (ledgers v15 and v16)
 

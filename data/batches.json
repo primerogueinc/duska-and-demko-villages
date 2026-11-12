@@ -117,5 +117,19 @@
     ],
     "places_added": 0,
     "sources_added": 4
+  },
+  {
+    "id": "PL-B-007",
+    "date": "2026-11-12",
+    "title": "Ledger v18: the Reformed book for Solymos; Bradenville; curiosities begun",
+    "blurb": "Read ledger v18 and the scoring rubric. Line repos read at DUS main @4d7a299 and DM main @05cc58c. The Duska agent asked for a ruling on which book its 45 Reformed strips come from: the register kept for the Iňačovce filial of Lúčky, Prešov catalogue no. 592/1 (PL-H-017, supported at 85). The one residence in those strips that is not Solymos, read as Bradenville, is a real coal town in Westmoreland County, Pennsylvania, where a Greek Catholic parish was founded in 1902; no Hungarian Reformed congregation was found there. For the Demko agent: Passaic, New Jersey, fits the period in general, and nothing found ties Vysoká nad Uhom to it by name. A curiosities list is started as the ledger now asks, with eight entries from earlier batches and two from this one. No DNA material has reached this agent. Curiosities: 10",
+    "raised": [
+      "PL-H-017"
+    ],
+    "resolved": [],
+    "revised": [],
+    "places_added": 1,
+    "sources_added": 5,
+    "curiosities": 10
   }
 ]

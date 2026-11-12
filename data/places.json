@@ -590,6 +590,21 @@
         "src": [
           "PL-S-075"
         ]
+      },
+      {
+        "text": "Forty-five strips held by the Duska agent, 1825 to 1921, come from a Reformed book in which every residence but one is Solymos. That fits the register kept for the Iňačovce filial alone (PL-H-017). Its ministers as read on the strips include István Riskó in the 1830s and 1840s, János Petrás in the 1860s and 1870s, and István Szakal from the 1880s to 1910. In 1837 the preacher of Pályin (Palín) baptised for Solymos.",
+        "src": [
+          "PL-S-107",
+          "PL-S-075"
+        ]
+      },
+      {
+        "text": "House numbers in that book run up to a doubtful '152' about 1898. The village had 119 houses in 1828 and 190 in 1940, so a number near 150 at the turn of the century is possible.",
+        "src": [
+          "PL-S-107",
+          "PL-S-005",
+          "PL-S-015"
+        ]
       }
     ],
     "links": [
@@ -671,6 +686,13 @@
       {
         "text": "The Reformed of Palín had their own register, 1806-1899 (catalogue nos. 787 and 788).",
         "src": [
+          "PL-S-075"
+        ]
+      },
+      {
+        "text": "A Reformed preacher of Pályin baptised a Solymos child in 1837, by a strip held by the Duska agent. No source read here makes Solymos a filial of Palín: the archive's catalogue gives Palín a register and district of its own and puts Iňačovce under Lúčky. A neighbour standing in is the simpler reading.",
+        "src": [
+          "PL-S-107",
           "PL-S-075"
         ]
       }
@@ -1503,6 +1525,14 @@
         "src": [
           "PL-S-107"
         ]
+      },
+      {
+        "text": "A compiled family chart held by the Demko agent names 'Vysoká n. Uh.' beside a birthplace read, with doubt, as Passaic, New Jersey, in 1906. Passaic had Slovaks from 1879, textile mills, and one of the first Greek Catholic parishes in America, founded in 1890. No source read here ties this village to Passaic by name.",
+        "src": [
+          "PL-S-108",
+          "PL-S-123",
+          "PL-S-124"
+        ]
       }
     ],
     "today": "Michalovce district, Košice Region",
@@ -2059,6 +2089,57 @@
         "label": "e-obce.sk: history",
         "url": "https://www.e-obce.sk/obec/lastomir/2-historia.html",
         "kind": "municipal"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-056",
+    "name": "Bradenville, Pennsylvania",
+    "kind": "residence",
+    "country": "United States",
+    "today": "Derry Township, Westmoreland County, Pennsylvania",
+    "lat": 40.3214,
+    "lon": -79.34,
+    "coord": "Wikipedia",
+    "maps": [],
+    "names": [
+      {
+        "form": "Bradenville",
+        "when": "as read, with doubt, in the residence column of a Reformed baptism entry for Solymos, with '1903' in the remark",
+        "src": "PL-S-107"
+      }
+    ],
+    "role": "The one residence that is not Solymos in the Duska agent's 45 Reformed strips: an entry made at home from an extract of a birth certificate.",
+    "facts": [
+      {
+        "text": "A coal town two miles from Latrobe. The reading on the strip is doubtful, but the place exists and was drawing people from this part of Europe at the right date.",
+        "src": [
+          "PL-S-121"
+        ]
+      },
+      {
+        "text": "A Greek Catholic parish was founded here in 1902 by about thirty families, who built a frame church dedicated in May 1903.",
+        "src": [
+          "PL-S-120"
+        ]
+      },
+      {
+        "text": "No Hungarian Reformed congregation was found at Bradenville. The nearest found are Pittsburgh, organised in 1890, and Johnstown, organised in 1900. Which of them, if either, baptised a child born here in 1902 is not established.",
+        "src": [
+          "PL-S-122"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "label": "Wikipedia (English)",
+        "url": "https://en.wikipedia.org/wiki/Bradenville,_Pennsylvania",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "St Mary Byzantine Catholic Church, Bradenville",
+        "url": "https://archpitt.org/place/bradenvillepa/",
+        "kind": "church"
       }
     ]
   },

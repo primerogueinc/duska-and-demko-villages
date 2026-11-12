@@ -1,0 +1,123 @@
+[
+  {
+    "id": "PL-CU-001",
+    "batch": "PL-B-006",
+    "src": [
+      "PL-S-075"
+    ],
+    "place": "PL-P-001",
+    "original": "z opačnej strany matriky prípisy szatmárskeho biskupa od r. 1837-1840",
+    "translation": "from the other end of the register, notes by the bishop of Szatmár from 1837 to 1840",
+    "why": "The Senné parish copied its bishop's circulars into a blank book in the 1830s, then turned the book over a generation later and began the marriage register of 1863 from the other end.",
+    "tone": "odd"
+  },
+  {
+    "id": "PL-CU-002",
+    "batch": "PL-B-003",
+    "src": [
+      "PL-S-015"
+    ],
+    "place": "PL-P-037",
+    "original": "Not quoted: a row of a table. Vysoká, 230 houses, 0 inhabitants.",
+    "translation": "The Slovak state's list for 1940 gives Vysoká 230 houses and nobody living in them.",
+    "why": "A printing or data fault, and the only evidence this repo has that the village was in Slovakia that year.",
+    "tone": "funny"
+  },
+  {
+    "id": "PL-CU-003",
+    "batch": "PL-B-001",
+    "src": [
+      "PL-S-046"
+    ],
+    "place": "PL-P-002",
+    "original": "Not held; taken from the village chronicle as summarised.",
+    "translation": "Lightning struck the Greek Catholic church of Iňačovce on 6 July 1929, and fire followed on 1 April 1930.",
+    "why": "The parish archive was hit twice in nine months. Yet the baptism book for 1870-1898 was still being written in four years later.",
+    "tone": "sad"
+  },
+  {
+    "id": "PL-CU-004",
+    "batch": "PL-B-004",
+    "src": [
+      "PL-S-107"
+    ],
+    "place": "PL-P-002",
+    "original": "Zomrela 18. augusta 1934.",
+    "translation": "She died on 18 August 1934.",
+    "why": "Written in Slovak into the remarks column of a Latin baptism entry of 1872. Somebody closed the record sixty-two years after opening it, in the third official language the book had seen.",
+    "tone": "history"
+  },
+  {
+    "id": "PL-CU-005",
+    "batch": "PL-B-001",
+    "src": [
+      "PL-S-039"
+    ],
+    "place": "PL-P-001",
+    "original": "Not held; from the municipal history as summarised.",
+    "translation": "Senné fished from dugout boats into the 20th century and kept geese in flocks of thousands until 1975.",
+    "why": "The village the records describe was half water. It explains the fishponds reserve that fills its fields today.",
+    "tone": "history"
+  },
+  {
+    "id": "PL-CU-006",
+    "batch": "PL-B-003",
+    "src": [
+      "PL-S-098"
+    ],
+    "place": "PL-P-053",
+    "original": "Szinna (Senya)",
+    "translation": "Fényes's spelling of Seňa in 1851.",
+    "why": "One letter from Szenna (Senné) and identical to Szinna (Snina). Three villages in three counties that an index can fold into one.",
+    "tone": "odd"
+  },
+  {
+    "id": "PL-CU-007",
+    "batch": "PL-B-004",
+    "src": [
+      "PL-S-107"
+    ],
+    "place": "PL-P-014",
+    "original": "House numbers as entered: 38, 32, 54, 33, [8]2, 47, 64.",
+    "translation": "One cottar household of Jesztreb at seven house numbers between 1864 and 1885.",
+    "why": "Either the family moved every three years or the village could not settle on its numbering. Nobody has found out which.",
+    "tone": "odd"
+  },
+  {
+    "id": "PL-CU-008",
+    "batch": "PL-B-007",
+    "src": [
+      "PL-S-120",
+      "PL-S-107"
+    ],
+    "place": "PL-P-056",
+    "original": "approximately 30 families purchased a piece of property for $350",
+    "translation": "The founding of the Greek Catholic parish at Bradenville, Pennsylvania, in 1902.",
+    "why": "The same coal town, in the same year, appears in the residence column of a Reformed baptism book kept for a village of a few hundred people on the Uh.",
+    "tone": "history"
+  },
+  {
+    "id": "PL-CU-009",
+    "batch": "PL-B-000",
+    "src": [
+      "PL-S-009"
+    ],
+    "place": "PL-P-013",
+    "original": "Not held; from a study of the 1734 visitation as summarised.",
+    "translation": "The Catholic priest of Senné in 1734 spent most of his teaching on Rebrín, a Reformed village, while Reformed preachers held three of his other filials under the landlord's protection.",
+    "why": "A parish priest whose flock mostly belonged to someone else.",
+    "tone": "history"
+  },
+  {
+    "id": "PL-CU-010",
+    "batch": "PL-B-000",
+    "src": [
+      "PL-S-003"
+    ],
+    "place": "PL-P-001",
+    "original": "Not held; from the municipal history as summarised.",
+    "translation": "About 600 cows died in Senné in 1940, and the harvests failed for two years after.",
+    "why": "A village of 171 houses losing 600 cows is most of its wealth gone in a season.",
+    "tone": "sad"
+  }
+]

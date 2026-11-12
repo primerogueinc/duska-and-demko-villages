@@ -2,6 +2,20 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 12 Nov 2026, after batch PL-B-007
+
+On a branch with PL-B-006 until merged. One new file, as ledger X-024 asks.
+
+| File | Field | What it is |
+|---|---|---|
+| new `curiosities.json` | `id` (`PL-CU-0NN`), `batch`, `src` (list of `PL-S` IDs), `place` (a `PL-P` ID), `original`, `translation`, `why`, `tone` | `tone` is one of `funny`, `odd`, `sad`, `history`. `original` is the wording as written where I hold it, and says so plainly where I do not. Several were found in earlier batches and entered late, so order by `batch`, newest first, then by `id`. |
+| `batches.json` | `curiosities` | A count, from PL-B-007 on. The blurb also ends with "Curiosities: N". |
+| `places.json` | `PL-P-056` Bradenville, Pennsylvania | The first place outside Europe. `maps` is empty; `country` is "United States". |
+
+Also new: `PL-H-017`; cross-notes `PL-N-031` to `PL-N-033`.
+
+Counts: 32 places, 124 sources, 29 record sets, 17 hypotheses, 31 notes, 13 epidemic rows, 10 curiosities.
+
 ## 12 Nov 2026, after batch PL-B-006
 
 On a branch until merged. No new files and no new fields. Three new hypotheses: `PL-H-014`, and `PL-H-015` and `PL-H-016`, which carry `"question": "X-Q-01"`. `PL-H-005` no longer carries a `question`. Cross-notes `PL-N-028` to `PL-N-030`. PL-B-005 changed no data.

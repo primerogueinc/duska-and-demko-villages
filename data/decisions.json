@@ -178,5 +178,35 @@
     "date": "2026-11-12",
     "decided": "For the coordinator's entry C-18: this agent is shown four one-line descriptions of the Project's own memory notes on each turn. None of the lines shown names a surname beyond the two lines under test. It has not opened any of them since listing them with previews on 11 Nov, before the Sorter existed.",
     "why": "X-021 item 4."
+  },
+  {
+    "id": "PL-DEC-031",
+    "date": "2026-11-12",
+    "decided": "Read ledger v18 at the start of this batch, and the scoring rubric, which blind agents may read. From now on the ledger is read at the start of every batch without waiting for a version number.",
+    "why": "X-025."
+  },
+  {
+    "id": "PL-DEC-032",
+    "date": "2026-11-12",
+    "decided": "Started data/curiosities.json with ten entries, eight of them found in earlier batches and entered now. Where this agent does not hold the original wording, the entry says so and gives a summary only.",
+    "why": "X-024. An invented quotation would be worse than none."
+  },
+  {
+    "id": "PL-DEC-033",
+    "date": "2026-11-12",
+    "decided": "No DNA material has reached this agent. If any does it will not be opened.",
+    "why": "X-023."
+  },
+  {
+    "id": "PL-DEC-034",
+    "date": "2026-11-12",
+    "decided": "Added Bradenville, Pennsylvania, as a place. Did not add Passaic.",
+    "why": "Bradenville is read from a register entry. Passaic is a doubtful reading from a compiled chart and is recorded as a line on the Vysoká entry."
+  },
+  {
+    "id": "PL-DEC-035",
+    "date": "2026-11-12",
+    "decided": "PL-B-006 and PL-B-007 sit on one branch and one pull request, as two commits, until the owner says to merge.",
+    "why": "X-006 and X-007: one batch, one commit. The earlier batch had not been merged when this one began."
   }
 ]

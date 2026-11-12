@@ -149,7 +149,7 @@ footer{padding:36px 0 48px;color:var(--muted);font-size:13.5px}
   <ul class="stats" id="stats"></ul>
 </div></header>
 <nav class="toc" aria-label="Sections"><div class="wrap">
-  <a href="#map">Map</a><a href="#villages">The two villages</a><a href="#jurisdictions">Who governed</a><a href="#churches">Who baptised</a><a href="#records">Where the records are</a><a href="#notes">Notes for the line agents</a><a href="#hypotheses">Place hypotheses</a><a href="#gazetteer">Gazetteer</a><a href="#timeline">Timeline</a><a href="#epidemics">Epidemics and hunger</a><a href="#batches">Batches</a><a href="#requests">Requests</a><a href="#decisions">Decisions</a><a href="#searches">Searches</a><a href="#sources">Sources</a><a href="#role">Brief</a>
+  <a href="#map">Map</a><a href="#villages">The two villages</a><a href="#jurisdictions">Who governed</a><a href="#churches">Who baptised</a><a href="#records">Where the records are</a><a href="#notes">Notes for the line agents</a><a href="#hypotheses">Place hypotheses</a><a href="#gazetteer">Gazetteer</a><a href="#timeline">Timeline</a><a href="#epidemics">Epidemics and hunger</a><a href="#curiosities">Curiosities</a><a href="#batches">Batches</a><a href="#requests">Requests</a><a href="#decisions">Decisions</a><a href="#searches">Searches</a><a href="#sources">Sources</a><a href="#role">Brief</a>
 </div></nav>
 <main class="wrap">
   <section id="map"><h2>Map</h2><p class="sub">The neighbourhood first, then the region. Positions are plotted from coordinates; a hollow mark means the village was placed from memory and may be a kilometre or two out.</p>
@@ -171,6 +171,7 @@ footer{padding:36px 0 48px;color:var(--muted);font-size:13.5px}
   <section id="gazetteer"><h2>Gazetteer</h2><p class="sub">Every other place on the maps or in the notes, with the names it has gone by and why it matters here.</p><div id="gaz-body"></div></section>
   <section id="timeline"><h2>Timeline</h2><p class="sub">Dated events for the two villages and the others in the records.</p><ul class="tl" id="tl-body"></ul></section>
   <section id="epidemics"><h2>Epidemics and hunger</h2><p class="sub">Asked for by the coordinator, for the rule on reused names of dead children. Each year claimed has its own number. Most rows say what has not been found: the regional waves are dated, but no burial has been counted yet for Senné, Iňačovce or Vysoká nad Uhom.</p><div id="epi-body"></div></section>
+  <section id="curiosities"><h2>Curiosities</h2><p class="sub">Things met along the way that a reader might repeat to someone else. Newest first. None of them is evidence, and none moves a confidence.</p><div id="cur-body"></div></section>
   <section id="batches"><h2>Batch log</h2><div id="batches-body"></div></section>
   <section id="requests"><h2>Request queue</h2><p class="sub">What would move this page on.</p><div id="req-body"></div></section>
   <section id="decisions"><h2>Decisions</h2><p class="sub">Taken without waiting for the owner, under his standing instruction, and logged here.</p><div id="dec-body"></div></section>
@@ -345,6 +346,8 @@ $("gaz-body").innerHTML = P.filter(p => p.kind !== "home").map(p => { const d = 
 /* ---------- the rest ---------- */
 $("epi-body").innerHTML = DATA.epidemics.map(e => row(e.id,
   `<div class="head">${pill(e.status.startsWith("documented") ? "confirmed" : e.status.startsWith("observation") ? "neutral" : "open", e.status)}<span class="meta">${esc(e.scope)}</span></div><p><b>${esc(e.years)}.</b> ${esc(e.what)}. ${esc(e.evidence)}</p><p class="try"><b>For the registers.</b> ${esc(e.for_the_records)}</p><div class="meta">${(e.places || []).map(id => `<a class="ref" href="#${esc(id)}">${esc(byId[id] ? byId[id].name : id)}</a>`).join(" ")} ${refs(e.src)}</div>`)).join("");
+$("cur-body").innerHTML = DATA.curiosities.slice().sort((x, y) => y.batch.localeCompare(x.batch) || y.id.localeCompare(x.id)).map(c => row(c.id,
+  `<div class="head"><span class="pill neutral">${esc(c.tone)}</span><span class="meta">${esc(c.batch)}${c.place && byId[c.place] ? " &middot; " + esc(byId[c.place].name) : ""}</span></div><p>${esc(c.translation)}</p><p class="meta">As written: ${esc(c.original)}</p><p class="try"><b>Why keep it.</b> ${esc(c.why)}</p><div class="meta">${refs(c.src)}</div>`)).join("");
 $("tl-body").innerHTML = DATA.timeline.map(t => `<li><span class="y">${esc(t.year)}</span><span class="p">${esc(t.place)}</span><span>${esc(t.text)} ${refs(t.src)}</span></li>`).join("");
 $("batches-body").innerHTML = DATA.batches.slice().reverse().map(b => row(b.id,
   `<div class="head"><h3>${esc(b.title)}</h3><span class="meta">${esc(b.date)}</span></div><p>${esc(b.blurb)}</p>

@@ -98,15 +98,18 @@
     "held": "State archive, Prešov: Lúčky Reformed nos. 590 to 592 (microfilm 134); Iňačovce filial no. 592/1 (microfilm 88-89)",
     "online": "not checked",
     "status": "confirmed",
-    "note": "No. 592/1 is a register kept for the Iňačovce filial alone: births 1819-1927, marriages 1820-1926, deaths 1819-1936. The Lúčky volumes begin in 1747, which confirms the start year. The Lúčky district also takes in Čečehov, Hažín, Komárovce, Zalužice, Nižná Rybnica, Tibava and Závadka.",
+    "note": "No. 592/1 is a register kept for the Iňačovce filial alone: births 1819-1927, marriages 1820-1926, deaths 1819-1936. The Lúčky volumes begin in 1747, which confirms the start year. The Lúčky district also takes in Čečehov, Hažín, Komárovce, Zalužice, Nižná Rybnica, Tibava and Závadka. The Duska agent holds 45 strips from this book, 1825 to 1921 (PL-H-017). One entry of about 1903 was made from an extract of a birth certificate for a child born in America, so the book also took in births abroad.",
     "src": [
       "PL-S-007",
       "PL-S-046",
       "PL-S-047",
-      "PL-S-075"
+      "PL-S-075",
+      "PL-S-107"
     ],
     "bears_on": [
-      "DM-H-002"
+      "DM-H-002",
+      "DUS:H-040",
+      "DUS:H-043"
     ]
   },
   {

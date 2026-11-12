@@ -15,7 +15,7 @@
       "PL-S-025",
       "PL-S-047"
     ],
-    "as_of": "DUS main @2e5f111, 12 Nov 2026"
+    "as_of": "DUS main @4d7a299, 12 Nov 2026"
   },
   {
     "id": "PL-N-002",
@@ -33,7 +33,7 @@
       "PL-S-039",
       "PL-S-046"
     ],
-    "as_of": "DUS main @2e5f111, 12 Nov 2026"
+    "as_of": "DUS main @4d7a299, 12 Nov 2026"
   },
   {
     "id": "PL-N-003",
@@ -49,7 +49,7 @@
       "PL-S-053",
       "PL-S-054"
     ],
-    "as_of": "DUS main @2e5f111, 12 Nov 2026"
+    "as_of": "DUS main @4d7a299, 12 Nov 2026"
   },
   {
     "id": "PL-N-004",
@@ -63,7 +63,7 @@
       "PL-S-028",
       "PL-S-015"
     ],
-    "as_of": "DUS main @2e5f111, 12 Nov 2026"
+    "as_of": "DUS main @4d7a299, 12 Nov 2026"
   },
   {
     "id": "PL-N-005",
@@ -81,7 +81,7 @@
       "PL-S-050",
       "PL-S-052"
     ],
-    "as_of": "DUS main @2e5f111, 12 Nov 2026"
+    "as_of": "DUS main @4d7a299, 12 Nov 2026"
   },
   {
     "id": "PL-N-006",
@@ -96,7 +96,7 @@
       "PL-S-003",
       "PL-S-014"
     ],
-    "as_of": "DUS main @2e5f111, 12 Nov 2026"
+    "as_of": "DUS main @4d7a299, 12 Nov 2026"
   },
   {
     "id": "PL-N-007",
@@ -109,7 +109,7 @@
     "src": [
       "PL-S-012"
     ],
-    "as_of": "DUS main @2e5f111, 12 Nov 2026"
+    "as_of": "DUS main @4d7a299, 12 Nov 2026"
   },
   {
     "id": "PL-N-010",
@@ -124,7 +124,7 @@
       "PL-S-011",
       "PL-S-007"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-011",
@@ -139,7 +139,7 @@
       "PL-S-032",
       "PL-S-023"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-012",
@@ -153,7 +153,7 @@
       "PL-S-024",
       "PL-S-007"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-013",
@@ -167,7 +167,7 @@
       "PL-S-019",
       "PL-S-020"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-014",
@@ -182,7 +182,7 @@
       "PL-S-006",
       "PL-S-005"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-015",
@@ -195,7 +195,7 @@
     "src": [
       "PL-S-009"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-016",
@@ -208,7 +208,7 @@
     "src": [
       "PL-S-019"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-017",
@@ -224,7 +224,7 @@
       "PL-S-046",
       "PL-S-047"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-018",
@@ -239,7 +239,7 @@
       "PL-S-047",
       "PL-S-007"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-019",
@@ -254,7 +254,7 @@
       "PL-S-072",
       "PL-S-071"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-020",
@@ -269,7 +269,7 @@
       "PL-S-087",
       "PL-S-088"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-021",
@@ -284,7 +284,7 @@
       "PL-S-037",
       "PL-S-036"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-022",
@@ -299,7 +299,7 @@
       "PL-S-076",
       "PL-S-069"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-023",
@@ -314,7 +314,7 @@
       "PL-S-077",
       "PL-S-092"
     ],
-    "as_of": "DUS main @2e5f111, 12 Nov 2026"
+    "as_of": "DUS main @4d7a299, 12 Nov 2026"
   },
   {
     "id": "PL-N-024",
@@ -329,7 +329,7 @@
       "PL-S-111",
       "PL-S-112"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-025",
@@ -343,7 +343,7 @@
       "PL-S-113",
       "PL-S-108"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   },
   {
     "id": "PL-N-026",
@@ -357,7 +357,7 @@
       "PL-S-075",
       "PL-S-107"
     ],
-    "as_of": "DUS main @2e5f111, 12 Nov 2026"
+    "as_of": "DUS main @4d7a299, 12 Nov 2026"
   },
   {
     "id": "PL-N-027",
@@ -371,7 +371,7 @@
       "PL-S-115",
       "PL-S-107"
     ],
-    "as_of": "DUS main @2e5f111, 12 Nov 2026"
+    "as_of": "DUS main @4d7a299, 12 Nov 2026"
   },
   {
     "id": "PL-N-028",
@@ -385,7 +385,7 @@
       "PL-S-075",
       "PL-S-025"
     ],
-    "as_of": "DUS main @2e5f111, 12 Nov 2026"
+    "as_of": "DUS main @4d7a299, 12 Nov 2026"
   },
   {
     "id": "PL-N-029",
@@ -398,7 +398,7 @@
     "src": [
       "PL-S-075"
     ],
-    "as_of": "DUS main @2e5f111, 12 Nov 2026"
+    "as_of": "DUS main @4d7a299, 12 Nov 2026"
   },
   {
     "id": "PL-N-030",
@@ -413,6 +413,52 @@
       "PL-S-118",
       "PL-S-104"
     ],
-    "as_of": "DM main @b2bdf12, 12 Nov 2026"
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-031",
+    "for": "Duska",
+    "target": "H-043",
+    "target_text": "The book these 45 strips come from is the Reformed register for Iňačovce kept within the Lúčky parish.",
+    "lean": "supports",
+    "note": "Ruled here as PL-H-017, supported at 85. The catalogue's no. 592/1 is a register kept for the Iňačovce filial alone, births 1819 to 1927; your strips run 1825 to 1921 and are all Solymos. On your question about Pályin: the catalogue gives Palín its own Reformed register from 1806 and its own district, and puts Iňačovce under Lúčky. Nothing read here makes Solymos a filial of Palín in 1837, so the Pályin preacher is best read as a neighbour standing in. On 'Solymos 152': the village had 119 houses in 1828 and 190 in 1940, so the number is possible.",
+    "try": "A marriage or burial of the same families is in the same volume: marriages 1820-1926, deaths 1819-1936.",
+    "src": [
+      "PL-S-075",
+      "PL-S-046",
+      "PL-S-005",
+      "PL-S-015"
+    ],
+    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-032",
+    "for": "Duska",
+    "target": "H-040",
+    "target_text": "Ahn 8 is the Mihály born in [1902] at a place written 'Bradenville'.",
+    "lean": "context only",
+    "note": "The place is real: Bradenville is a coal town in Derry Township, Westmoreland County, Pennsylvania, two miles from Latrobe. People from the Greek Catholic lands were there at the date: about thirty families founded a Greek Catholic parish in 1902. I found no Hungarian Reformed congregation at Bradenville; the nearest found are Pittsburgh (1890) and Johnstown (1900). So your recollection of the place holds, and where the child was baptised in America is not established. This says nothing about who the child is (X-009).",
+    "try": "The remark says the entry was made from an extract of a birth certificate. A Pennsylvania birth of 1902 predates statewide registration, so the extract was probably a county or church paper; the county is Westmoreland. That last sentence is recalled, not sourced.",
+    "src": [
+      "PL-S-120",
+      "PL-S-121",
+      "PL-S-122"
+    ],
+    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-033",
+    "for": "Demko",
+    "target": "DM-H-034",
+    "target_text": "The family on the compiled chart, with a birth of 1906 read as Passaic (?), are Demkos of Vysoká nad Uhom.",
+    "lean": "context only",
+    "note": "Passaic fits the period in general: Slovaks were there from 1879, it had textile mills, and it had one of the first Greek Catholic parishes in America, founded in 1890. Families going out and coming back within a few years were common. I found nothing that names Vysoká nad Uhom, or any Uh valley village, at Passaic. My one emigration fact for Vysoká is from its municipal history and concerns the 1930s.",
+    "try": "If the chart's 1906 birth is real, the Greek Catholic parish of St Michael at Passaic is the book to ask.",
+    "src": [
+      "PL-S-123",
+      "PL-S-124",
+      "PL-S-070"
+    ],
+    "as_of": "DM main @05cc58c, 12 Nov 2026"
   }
 ]

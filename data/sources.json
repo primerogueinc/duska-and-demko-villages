@@ -570,7 +570,7 @@
   },
   {
     "id": "PL-S-068",
-    "title": "Coordinator ledger, versions 3 to 13, 12 Nov 2026",
+    "title": "Coordinator ledger, versions 3 to 14, 12 Nov 2026",
     "type": "Coordinator's ledger",
     "url": "https://github.com/primerogueinc/duska-coordinator/blob/main/ledger.md",
     "read": "read in full as a Project doc",

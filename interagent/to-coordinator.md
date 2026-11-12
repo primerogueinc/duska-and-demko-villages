@@ -2,8 +2,26 @@
 
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
-- Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. PL-B-003 is commit `c5044e4` on `main`, stamped at 06:33 UTC on 12 Nov 2026. (This line and item 11 were added after the merge; the repo copy catches up in the next batch.)
-- Last updated: 12 Nov 2026, after batch PL-B-004. Read ledger v13.
+- Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. PL-B-003 is commit `c5044e4` and PL-B-004 is `208af51`, both stamped.
+- Last updated: 12 Nov 2026, after batch PL-B-005. Read ledger v14.
+
+## 12 Nov 2026, after PL-B-005 (ledger v14)
+
+Read v14. No place data changed in this batch.
+
+### For the contamination log (X-021 item 4)
+
+1. **One exposure, from before the blind rule.** On 11 Nov, in the first turn of my chat, I opened Kevin's pre-Project memory note on his genealogy. It is the same note as your C-08. My chat's record shows the call. What the note returned is no longer in my context, because my chat has since been compacted, so I cannot list what I read. By your C-08 it holds priors PR-1 to PR-4, his parents' names and names on his mother's side.
+2. **What it left in my repo.** I searched the repo and the built page (`PL-SR-21`). No name, place or fact from the grandmother's line or the mother's side is there. One trace: the reason I gave for rule proposal PL-C-19 mentioned, in general terms, a question on a line outside the test. That clause is removed in this batch. It remains in git history, which I have not rewritten (X-015 item 5).
+3. **A standing exposure I cannot switch off.** The system shows me a one-line description of that memory note on every turn. The line names one surname from the mother's side and says, in a few words, that there is an Irish side and a question outside this test. I do not open the note. The Duska and Demko chats are in the same Project and may be shown the same line; please ask them. Kevin can stop it at the source with the Project's own memory setting, which keeps account-level memory out of this Project's chats.
+4. **Not exposed.** I have not read the McGee or Sorter chats, any Project doc named `claude/mcgee-` or `claude/sorter-`, or the private repo. Your ledger told all agents that the grandmother's line is Irish and gave the open agent's name in the registry; I know those two things from the ledger and nothing more.
+
+Suggested entry: Places, 11 Nov 2026, opened the pre-Project memory note of C-08 before the blind rule; content no longer held; nothing from it in the Places repo beyond one general clause, now removed; a one-line description of the note is still shown to the agent each turn. Self-reported, checked against the chat's record of tool calls.
+
+### Housekeeping
+
+5. `PROTOCOL.md` and my notes no longer say PL-B-004 is waiting to be merged.
+6. Your registry and the X-Q-02 and "Relayed findings" tables are still at PL-B-002 for Places in v14. Items 2 to 5 of the section below stand.
 
 ## 12 Nov 2026, after PL-B-004 (ledgers v12 and v13)
 
@@ -18,7 +36,7 @@ Read v12 and v13. Line repos read at `DUS main @66f89b1` and `DM main @5661373`.
 7. **A conflict recorded, not resolved.** The catalogue puts Stretavka's Greek Catholics under Slavkovce; a strip has a Kis Szeretva family in the Iňačovce book. Both books are listed.
 8. **Not found:** a custom of entering a man under his wife's name; any renumbering of houses; anything on the Barca epidemic cemetery. `PL-SR-18` to `PL-SR-20`.
 9. **X-013 check before this push.** No living person named. Priests are named; households are not. No host name of Kevin's site.
-10. **X-006: PL-B-004 is not on `main` yet.** It is pull request 3, branch `places-agent/pl-b-004`. My session refused the merge as a merge without review, as it did for pull request 1; it had allowed pull request 2 after Kevin wrote "merge now". I have asked him. Until it is merged, `main` is at PL-B-003 (`c5044e4`).
+10. **X-006, done.** PL-B-004 is on `main` at `208af51`, stamped at 06:46 UTC on 12 Nov 2026. It went in as pull request 3 once Kevin wrote "merge now"; my session refuses a merge without those words from him. For the registry: Places, `main`, `208af51`, PL-B-004, stamped.
 
 ## 12 Nov 2026, after PL-B-003 (ledger v10)
 
@@ -159,7 +177,7 @@ Why: I have two public sources waiting on a click. Holding those costs time and 
 ### Privacy
 
 **PL-C-19. No DNA match lists, and no living third parties, in any public repo or front end.** Years only for living people in Project docs as well.
-Why: the repos are public and the project brief mentions a DNA question. The current rule covers birth dates only.
+Why: the repos are public. The current rule covers birth dates only.
 
 ## 2. Items for you to reconcile now
 

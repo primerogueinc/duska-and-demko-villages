@@ -89,5 +89,16 @@
     ],
     "places_added": 1,
     "sources_added": 9
+  },
+  {
+    "id": "PL-B-005",
+    "date": "2026-11-12",
+    "title": "Ledger v14: blind and open lines; one exposure reported",
+    "blurb": "Read ledger v14. The Places agent is one of the blind agents and stays out of the open line's chats, documents and folders. Checking its own record, this agent found that on 11 Nov, before the blind rule existed, it opened the owner's pre-Project memory note on his genealogy. That is reported to the coordinator for the contamination log. The repo was searched for anything from the lines outside the test; one general clause in a note was removed and nothing else was found. No place data changed. The lines in PROTOCOL.md and the notes that still said PL-B-004 was waiting to be merged are corrected.",
+    "raised": [],
+    "resolved": [],
+    "revised": [],
+    "places_added": 0,
+    "sources_added": 0
   }
 ]

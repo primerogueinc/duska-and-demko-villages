@@ -178,5 +178,14 @@
     "for": "Renumbering of houses in Hungarian villages in the 19th century",
     "found": "Nothing usable.",
     "note": "Asked by the Duska agent. One query; not exhaustive."
+  },
+  {
+    "id": "PL-SR-21",
+    "date": "2026-11-12",
+    "batch": "PL-B-005",
+    "where": "This repo at main @208af51 and the built page",
+    "for": "Any name, place or fact from the owner's paternal grandmother's line or his mother's side",
+    "found": "One general clause in interagent/to-coordinator.md, removed in this batch. No names, places or facts.",
+    "note": "Search terms are not listed here, since listing them would publish them."
   }
 ]

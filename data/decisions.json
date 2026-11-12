@@ -140,7 +140,25 @@
   {
     "id": "PL-DEC-024",
     "date": "2026-11-12",
-    "decided": "Opened pull request 3 for PL-B-004 and tried to merge it. This agent's session refused the merge as a merge without review, so it was not merged by this agent and main was not pushed to by another route. The owner is asked to merge pull request 3 or to say 'merge' in this agent's chat.",
+    "decided": "Opened pull request 3 for PL-B-004. This agent's session refused the first merge attempt as a merge without review; the owner then wrote 'merge now' and it was merged. Standing practice from here: a batch is pushed to a branch and merged when the owner says so in this agent's chat.",
     "why": "X-006 and X-005 item on permissions. The same check let PL-B-003 through when the owner had written 'merge now'; 'do whatever you want' and 'act on it' were not enough for it."
+  },
+  {
+    "id": "PL-DEC-025",
+    "date": "2026-11-12",
+    "decided": "Read ledger v14. Under X-021 this agent is blind: it does not read the McGee or Sorter chats, Project docs named for them, the private repo, or memory notes about the lines outside the test.",
+    "why": "X-021 item 4."
+  },
+  {
+    "id": "PL-DEC-026",
+    "date": "2026-11-12",
+    "decided": "Checked this agent's own chat for exposures and reported one to the coordinator: on 11 Nov, before any blind rule, it opened the owner's pre-Project memory note on his genealogy, the same note as contamination entry C-08. What the note returned is no longer in this agent's context. A one-line description of that note is still shown to this agent by the system on every turn.",
+    "why": "X-021 item 4 asks for exposures to be reported. The check was made from the chat's own record of tool calls."
+  },
+  {
+    "id": "PL-DEC-027",
+    "date": "2026-11-12",
+    "decided": "Searched the repo and the built page for anything from the lines outside the test. Found one clause, in the reason given for rule proposal PL-C-19 in the note to the coordinator, and removed it. Nothing else. Git history is not rewritten.",
+    "why": "X-020 item 4: nothing about those lines goes into a public repo. X-015 item 5 on history."
   }
 ]

@@ -11,7 +11,7 @@ Read at DM `main` @5661373. I read the Prešov archive's catalogue of church reg
 3. **Enyiczke is Haniska by Košice** (PL-S-113), in the same county as Belža, Gyňov and Seňa. Not put on my map; note `PL-N-025`. The Barca epidemic cemetery of March 1915 is `PL-E-012`. I found nothing more about it.
 4. **A correction to what I told you.** I said burials were not in the index seen for the Iňačovce Greek Catholic book. They are in the archive: nos. 380 (1811-1831), 381 (1831-1859), 382 (deaths 1861-1874) and 383 (deaths 1860-1898), film 88. Those are the volumes for your fifteen-year searches at Solymos, Jesztreb and Szenna. `PL-R-003`.
 5. **Your Kocsis houses and Jesztreb houses** are noted. I have not named households in my place entries. One caution from the Duska agent's strips: a single Jesztreb cottar household appears at seven house numbers between 1864 and 1885, so a house number alone does not identify a household there.
-6. **The mother's side at Viszoka, tightened.** The Pavlovce Roman Catholic volumes at Prešov hold births only from 1869 and deaths only from 1878 (nos. 795 to 798). A Roman Catholic of Viszoka born before 1869 is not in them. `PL-R-052`.
+6. **The Roman Catholic side of the Viszoka 132 household, tightened.** The Pavlovce Roman Catholic volumes at Prešov hold births only from 1869 and deaths only from 1878 (nos. 795 to 798). A Roman Catholic of Viszoka born before 1869 is not in them. `PL-R-052`.
 7. **Still open:** the Iňačovce Greek Catholic volumes after 1898. The catalogue ends at no. 383. One new fact: the Duska agent reports a note dated 1934 written into the 1870-1898 volume, so that book outlived the fire of 1930. `PL-Q-006`.
 
 ## 12 Nov 2026, after PL-B-003 (answering your note DM→PL-002)

@@ -50,5 +50,27 @@
     "revised": [],
     "places_added": 4,
     "sources_added": 2
+  },
+  {
+    "id": "PL-B-003",
+    "date": "2026-11-12",
+    "title": "The line agents' villages: which parish, which book, which archive",
+    "blurb": "Read ledger v10 and the method note on epidemics. A second research pass, on the open web only, went through Vysoká nad Uhom, Čičarovce, Belža, Gyňov, Seňa and Iňačovce; nothing of the owner's was met. The main result settles the coordinator's question X-Q-02 as far as places can. Vysoká nad Uhom is the Viszoka of the records: it had 142 houses in 1880, and its Greek Catholics were a filial of Čičarovce from 1806, where Ján Csurgovics became parish priest in 1882. The 1882 strip is from the Čičarovce Greek Catholic register, volume no. 182 at the Prešov state archive, and the burials needed for the reused-name check are in that volume and the next. PL-H-008 is refuted and PL-H-009 raised in its place. PL-H-001 is solved: the Demko agent holds an 1861 entry from the Iňačovce book with the residence Szenna. The Belža folder is rightly labelled: Gyňov and Seňa were Greek Catholic filials of Belža from the 1770s and the register for 1791 to 1896 is in the Košice state archive. The '-falva' village is narrowed to three candidates inside today's Valaliky. Belža, Gyňov, Seňa and Čičarovce all went to Hungary in November 1938; Vysoká, on this agent's second look at the 1940 list, did not. A first epidemic timeline is added. It is mostly a list of what has not been found: the regional waves are dated, but no burial has yet been counted for any of the three villages.",
+    "raised": [
+      "PL-H-009",
+      "PL-H-010",
+      "PL-H-011",
+      "PL-H-012"
+    ],
+    "resolved": [
+      "PL-H-001",
+      "PL-H-008"
+    ],
+    "revised": [
+      "PL-H-005",
+      "PL-H-006"
+    ],
+    "places_added": 1,
+    "sources_added": 38
   }
 ]

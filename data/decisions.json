@@ -76,5 +76,41 @@
     "date": "2026-11-12",
     "decided": "Tried the merge to main a second time after the owner said to act on ledger v3. It was refused again by this session's safety check. Did not push to main directly. Asked the owner to press the merge button on pull request 1.",
     "why": "X-006 says merge now; the session does not permit this agent to merge without a review. Going round the refusal would defeat its purpose."
+  },
+  {
+    "id": "PL-DEC-014",
+    "date": "2026-11-12",
+    "decided": "The coordinator fast-forwarded this repo's main on the owner's instruction. From this batch on, work is pushed to the branch and merged to main when the owner says so in this agent's chat.",
+    "why": "X-006, and the owner's message 'Places agent: merge now'."
+  },
+  {
+    "id": "PL-DEC-015",
+    "date": "2026-11-12",
+    "decided": "The second research pass was told to use the open web only and to touch no mailbox, drive or chat. It reports that none was queried or returned, and that nothing written by the owner appeared in its results.",
+    "why": "X-011 item 6, after the exposure logged as C-10."
+  },
+  {
+    "id": "PL-DEC-016",
+    "date": "2026-11-12",
+    "decided": "Re-read the Slovak state's 1940 list for Vysoká before repeating either of the two things this agent had said about the village in 1939.",
+    "why": "The second research pass contradicted the first. The list has Vysoká and lacks the ceded villages, so the earlier correction stands; raised as PL-H-012 with the evidence against it shown."
+  },
+  {
+    "id": "PL-DEC-017",
+    "date": "2026-11-12",
+    "decided": "Ruled PL-H-001 solved on a record held by the Demko agent, and PL-H-009 only supported.",
+    "why": "For PL-H-001 the named test was met by an entry in hand. For PL-H-009 the page header has not been seen, so it stops short of solved."
+  },
+  {
+    "id": "PL-DEC-018",
+    "date": "2026-11-12",
+    "decided": "Added data/epidemics.json, with each year claimed given a PL-E number and a plain status. Most entries say 'not found for the villages'.",
+    "why": "Assigned by the coordinator under X-017. An honest list of regional dates and missing village evidence is more use to the line agents than a timeline that looks complete."
+  },
+  {
+    "id": "PL-DEC-019",
+    "date": "2026-11-12",
+    "decided": "Parish priests are named in place facts. People on the line are named only where a note quotes a line agent's hypothesis, as before; no place fact names a household.",
+    "why": "Priests date a register entry and identify its book, and they are office-holders in published lists. Everyone quoted from the line agents' hypotheses was born before 1900."
   }
 ]

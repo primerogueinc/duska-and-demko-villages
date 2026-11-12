@@ -248,6 +248,12 @@
           "PL-S-037",
           "PL-S-035"
         ]
+      },
+      {
+        "text": "An entry of December 1861 in the Iňačovce Greek Catholic book gives the residence as Szenna. That is the direct evidence that Senné's Greek Catholics were entered there (PL-H-001).",
+        "src": [
+          "PL-S-104"
+        ]
       }
     ],
     "links": [
@@ -369,24 +375,34 @@
     ],
     "names": [
       {
+        "form": "Solymos",
+        "when": "1302, by the Beliana encyclopedia; the Hungarian official form to 1918",
+        "src": "PL-S-080"
+      },
+      {
         "form": "Solmus, Solmos",
-        "when": "1417",
+        "when": "1417, 1427",
         "src": "PL-S-006"
       },
       {
-        "form": "Solymos",
-        "when": "Hungarian official form",
-        "src": "PL-S-004"
+        "form": "Scholyomosch, Scholymosch",
+        "when": "1720, 1786",
+        "src": "PL-S-080"
       },
       {
-        "form": "Jeňaššowce",
+        "form": "Jeňaššowce, Jeňassowce",
         "when": "1808",
         "src": "PL-S-004"
       },
       {
-        "form": "Iňačovce",
-        "when": "from 1920",
-        "src": "PL-S-004"
+        "form": "Sólymós",
+        "when": "1863",
+        "src": "PL-S-080"
+      },
+      {
+        "form": "Iňačovce, Jaňačovce",
+        "when": "1920; Iňačovce alone from 1927",
+        "src": "PL-S-080"
       }
     ],
     "role": "The other family village. Seat of the Greek Catholic parish, with a Reformed congregation beside it.",
@@ -483,6 +499,39 @@
         "src": [
           "PL-S-036"
         ]
+      },
+      {
+        "text": "Sources disagree on the first mention: 1302 in the Beliana encyclopedia, 1417 on the municipal site and elsewhere.",
+        "src": [
+          "PL-S-080",
+          "PL-S-006"
+        ]
+      },
+      {
+        "text": "The Greek Catholic church of the Dormition was built about 1800 on the site of the mid-18th-century wooden one. Beliana dates the Reformed church to 1921; the village plan says 1912.",
+        "src": [
+          "PL-S-080",
+          "PL-S-006"
+        ]
+      },
+      {
+        "text": "The Greek Catholic register is at the Prešov state archive from 1811. No volume later than 1898 is listed there.",
+        "src": [
+          "PL-S-093",
+          "PL-S-047"
+        ]
+      },
+      {
+        "text": "A state birth registration of August 1906 for a child born at Solymos is headed as done at Alsókánya, which is Jastrabie pri Michalovciach. So the civil registrar for Solymos sat at Jastrabie then. The heading is a probable reading by the Demko agent.",
+        "src": [
+          "PL-S-104"
+        ]
+      },
+      {
+        "text": "Entries cut from the parish book give residences as 'Solymos', 'Szenna' and 'Jesztreb' with house numbers, and name the officiant in 1889 as György Lescsisin, Greek Catholic pastor of Solymos.",
+        "src": [
+          "PL-S-104"
+        ]
       }
     ],
     "links": [
@@ -520,6 +569,16 @@
         "label": "e-obce.sk: Iňačovce",
         "url": "https://www.e-obce.sk/obec/inacovce/2-historia.html",
         "kind": "gazetteer"
+      },
+      {
+        "label": "Encyclopaedia Beliana: Iňačovce",
+        "url": "https://beliana.sav.sk/heslo/inacovce",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "Obec Iňačovce: history",
+        "url": "https://obecinacovce.sk/podstranka?stranka=1116",
+        "kind": "municipal"
       }
     ]
   },
@@ -707,6 +766,11 @@
         "form": "Alsókánya",
         "when": "Hungarian, as in the 1939 protocol and the parish list for 1917",
         "src": "PL-S-036"
+      },
+      {
+        "form": "Jesztreb",
+        "when": "as written in Iňačovce Greek Catholic entries of the 1860s to 1891",
+        "src": "PL-S-104"
       }
     ],
     "role": "Filial of the Senné Roman Catholic parish in 1733 and 1734.",
@@ -719,6 +783,12 @@
         "text": "On the Slovak side of the April 1939 line, which ran along its boundary with Blatné Remety.",
         "src": [
           "PL-S-036"
+        ]
+      },
+      {
+        "text": "The civil registrar who recorded a Solymos birth in August 1906 signed at Alsókánya, that is here.",
+        "src": [
+          "PL-S-104"
         ]
       }
     ]
@@ -769,7 +839,7 @@
         "src": "training"
       }
     ],
-    "role": "Seat of the estate Senné belonged to, and a separate Roman Catholic parish.",
+    "role": "Seat of the estate Senné belonged to, and the Roman Catholic parish for Vysoká nad Uhom.",
     "facts": [
       {
         "text": "Senné was part of the Pavlovce estate.",
@@ -787,6 +857,20 @@
         "text": "On the Slovak side of the April 1939 line, which ran along its boundary with Bežovce.",
         "src": [
           "PL-S-036"
+        ]
+      },
+      {
+        "text": "The Roman Catholics of Vysoká nad Uhom belong to this parish. Its register for 1818-1907 is reported filmed, and earlier volumes are placed in the archdiocesan archive at Košice.",
+        "src": [
+          "PL-S-086",
+          "PL-S-087",
+          "PL-S-088"
+        ]
+      },
+      {
+        "text": "Its Greek Catholics were a filial of Čičarovce in 1825.",
+        "src": [
+          "PL-S-072"
         ]
       }
     ]
@@ -1151,6 +1235,14 @@
         "src": [
           "PL-S-036"
         ]
+      },
+      {
+        "text": "Seat of the Greek Catholic deanery that the Čičarovce parish belonged to, and from 1771 to 1806 the Greek Catholic parish for Vysoká nad Uhom. Not in the Slovak state's list for 1940.",
+        "src": [
+          "PL-S-073",
+          "PL-S-071",
+          "PL-S-015"
+        ]
       }
     ]
   },
@@ -1167,30 +1259,167 @@
     ],
     "names": [
       {
+        "form": "Vyzaka",
+        "when": "1214",
+        "src": "PL-S-070"
+      },
+      {
+        "form": "Wyzoka, Wiszoka, Wysoká",
+        "when": "13th to 18th centuries",
+        "src": "PL-S-070"
+      },
+      {
         "form": "Viszoka",
-        "when": "as written in the 1882 baptism held by the line agents",
-        "src": "PL-S-031"
+        "when": "1782 military map; and as written in the baptisms of 1875 to 1883 held by the line agents",
+        "src": "PL-S-070"
+      },
+      {
+        "form": "Magasrév",
+        "when": "Hungarian official name from 1904 by the place-name dictionary; Hungarian Wikipedia says the old name ran to 1899",
+        "src": "PL-S-057"
+      },
+      {
+        "form": "Vysoká",
+        "when": "1920 to 1948",
+        "src": "PL-S-070"
+      },
+      {
+        "form": "Vysoká nad Uhom",
+        "when": "from 1948",
+        "src": "PL-S-070"
       }
     ],
-    "role": "Named as Viszoka in an 1882 baptism held by the Duska and Demko agents. On the Slovak side of the April 1939 line.",
+    "role": "The Viszoka of the baptisms of 1875 to 1883 held by the Duska and Demko agents, house numbers 120, 121 and 132. Its Greek Catholics were registered at Čičarovce, its Roman Catholics at Pavlovce nad Uhom.",
     "facts": [
       {
-        "text": "A Latin-rite filial of Pavlovce in 1733.",
+        "text": "First recorded in 1214, in a royal charter confirming a grant to the Premonstratensian provostry of Lelesz, which owned the village for centuries.",
         "src": [
-          "PL-S-010"
+          "PL-S-070"
         ]
       },
       {
-        "text": "The protocol of 4 April 1939 ran the border along its boundaries with Lekárovce and Bežovce, which leaves the village in Slovakia, as the research pass read it.",
+        "text": "After the plague of 1709-1710 the tax list of 1715 found 7 peasant households and 1 cottar household.",
         "src": [
-          "PL-S-036"
+          "PL-S-070"
         ]
       },
       {
-        "text": "The Senné municipal history names it among the villages Hungarian troops took in the fighting of March 1939. Both can be true: taken in the fighting, then left outside the strip that was ceded. Not yet checked against the 1940 list of Slovak municipalities.",
+        "text": "By Fényes's gazetteer of 1851: a Hungarian, Rusyn and Slovak village with 331 Roman Catholics, 275 Greek Catholics, 182 Reformed and 6 Jews. Landlord: the provost of Lelesz.",
         "src": [
-          "PL-S-003"
+          "PL-S-083",
+          "PL-S-082"
         ]
+      },
+      {
+        "text": "In the Nagykapos district of Ung county until 1920, like Senné.",
+        "src": [
+          "PL-S-082",
+          "PL-S-074"
+        ]
+      },
+      {
+        "text": "Census counts: 142 houses and 1,106 people in 1880; 1,187 people in 1890; 209 houses and 1,203 people in 1900, with 110 more counted as abroad; 1,175 in 1910; 1,162 in 1921; 1,100 in 1930.",
+        "src": [
+          "PL-S-074"
+        ]
+      },
+      {
+        "text": "With 142 houses in 1880, a house numbered 132 in 1882 is in range. Ung county had only this one Viszoka.",
+        "src": [
+          "PL-S-074",
+          "PL-S-057"
+        ]
+      },
+      {
+        "text": "Greek Catholics: in the early 18th century a handful attended the church at Lekárovce. From 1771 the village was a filial of Bežovce, and from 1806 until the 1940s a filial of Čičarovce.",
+        "src": [
+          "PL-S-071"
+        ]
+      },
+      {
+        "text": "It became a Greek Catholic parish of its own only in the 1940s: provisionally from 1 March 1945 and formally on 26 September 1948 by the parish history; another local page says 1944. The church of the Nativity of the Mother of God is dated 1892 by the parish and earlier in the century elsewhere.",
+        "src": [
+          "PL-S-071",
+          "PL-S-086"
+        ]
+      },
+      {
+        "text": "Roman Catholics: a filial of the Pavlovce nad Uhom parish, in 1733 and still today. No source makes it a Roman Catholic filial of Čičarovce.",
+        "src": [
+          "PL-S-010",
+          "PL-S-086",
+          "PL-S-072"
+        ]
+      },
+      {
+        "text": "Reformed: a filial of Pavlovce until 1721, with a wooden church about 1780 and the present one of 1912; a filial of Stretava since 1931.",
+        "src": [
+          "PL-S-085"
+        ]
+      },
+      {
+        "text": "1939: the border protocol of 4 April runs the line along its boundaries with Lekárovce and Bežovce, and the Slovak state's list for 1940 has 'Vysoká' in the Michalovce district with 230 houses. So it stayed in Slovakia. The same list shows its population as 0, which looks like a fault in the published table.",
+        "src": [
+          "PL-S-036",
+          "PL-S-015"
+        ]
+      },
+      {
+        "text": "Against that: the Senné and Vysoká municipal histories speak of Hungarian troops entering in March 1939, and a census database labels the village as Hungarian-administered in 1941. Read here as an occupation during the fighting that the protocol did not make permanent (PL-H-012).",
+        "src": [
+          "PL-S-003",
+          "PL-S-070",
+          "PL-S-074"
+        ]
+      },
+      {
+        "text": "Liberated on 23 November 1944. Emigration is noted in the 1930s.",
+        "src": [
+          "PL-S-070"
+        ]
+      }
+    ],
+    "today": "Michalovce district, Košice Region",
+    "links": [
+      {
+        "label": "Wikipedia (English)",
+        "url": "https://en.wikipedia.org/wiki/Vysok%C3%A1_nad_Uhom",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "Wikipedia (Hungarian): Magasrév",
+        "url": "https://hu.wikipedia.org/wiki/Magasr%C3%A9v",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "Obec Vysoká nad Uhom: history",
+        "url": "https://obecvysokanaduhom.sk/obec/historia-obce/",
+        "kind": "municipal"
+      },
+      {
+        "label": "Greek Catholic parish: history",
+        "url": "https://grkatvysokanaduhom.webnode.sk/historia-farnosti/",
+        "kind": "church"
+      },
+      {
+        "label": "Greek Catholic eparchy of Košice: the parish",
+        "url": "https://www.grkatke.sk/farnost/farnost-vysoka-nad-uhom/",
+        "kind": "church"
+      },
+      {
+        "label": "Reformed seniorate of Michalovce: the congregation",
+        "url": "https://mi-seniorat.sk/index.php/zbory/vysoka-nad-uhom",
+        "kind": "church"
+      },
+      {
+        "label": "Settlement database: Magasrév",
+        "url": "https://telepulesek.adatbank.sk/telepules/magasrev-vysoka-nad-uhom/",
+        "kind": "statistics"
+      },
+      {
+        "label": "velemjaro.sk: Magasrév",
+        "url": "https://velemjaro.sk/telepulestar/magasrev",
+        "kind": "gazetteer"
       }
     ]
   },
@@ -1207,24 +1436,115 @@
     ],
     "names": [
       {
+        "form": "Checher",
+        "when": "1263",
+        "src": "PL-S-073"
+      },
+      {
+        "form": "Csicser, Csitsovtze",
+        "when": "1796, Vályi's gazetteer",
+        "src": "PL-S-091"
+      },
+      {
         "form": "Csicser",
-        "when": "Hungarian, as given by the Duska agent",
-        "src": "PL-S-067"
+        "when": "Hungarian; 'csicseri g.k. lelkész' in the officiant's title on strips of 1875 and 1879",
+        "src": "PL-S-104"
       },
       {
         "form": "Cicarovce",
-        "when": "as in the owner's folder label for the 1882 strip, which is a prior and not evidence",
+        "when": "the owner's folder label",
         "src": "PL-S-068"
       }
     ],
-    "role": "The owner's folder label for the 1882 baptism strip. Whether the strip comes from a Čičarovce book is the coordinator's question X-Q-02.",
+    "role": "Seat of the Greek Catholic parish that served Vysoká nad Uhom from 1806 to the 1940s. The 1882 baptism strip comes from its book (PL-H-009).",
     "facts": [
       {
-        "text": "The 1882 strip held by both line agents was filed by the owner under this village's name, while the entry itself gives the residence as Viszoka. Which parish book it was cut from is not established.",
+        "text": "A village of three mother churches: Roman Catholic, Greek Catholic and Reformed. In 1851 Fényes counted 545 Reformed, 251 Roman Catholics, 175 Greek Catholics and 53 Jews, and called it Hungarian.",
         "src": [
-          "PL-S-068",
-          "PL-S-067"
+          "PL-S-091"
         ]
+      },
+      {
+        "text": "155 houses and 1,243 people in 1828. In 1910: 1,203 people, of whom 460 Reformed, 331 Greek Catholic, 327 Roman Catholic and 82 Jewish.",
+        "src": [
+          "PL-S-090",
+          "PL-S-073"
+        ]
+      },
+      {
+        "text": "The Greek Catholic parish existed by 1771, under the Mukachevo eparchy, in the Bežovce deanery, with a church of the Protection of the Mother of God. In 1751 the village had still been a filial of Maťovce.",
+        "src": [
+          "PL-S-073",
+          "PL-S-072"
+        ]
+      },
+      {
+        "text": "In 1825 the Greek Catholic parish had 12 filials, among them Vysoká nad Uhom, Pavlovce nad Uhom and Vojany, and over 1,500 faithful.",
+        "src": [
+          "PL-S-072"
+        ]
+      },
+      {
+        "text": "Greek Catholic parish priests: Jozef Kubek 1847-1881, Ján Csurgovics 1882-1886, Andrej Azary 1886-1901, Štefan Dubay 1901-1905, Július Bellovics 1905-1913, Mikuláš Barna 1914-1917, Eugen Kiss from 1918. The Vysoká parish history gives the same sequence.",
+        "src": [
+          "PL-S-072",
+          "PL-S-071"
+        ]
+      },
+      {
+        "text": "That list matches the records in hand: strips of 1875 and 1879 are signed by József Kubek as Greek Catholic pastor of Csicser, and a strip of January 1883 by János Csurgovich.",
+        "src": [
+          "PL-S-104"
+        ]
+      },
+      {
+        "text": "The Roman Catholic parish of St Ladislaus was refounded in 1780, in the Lower Ung deanery of the Szatmár diocese from 1804. Its filials never included Vysoká. Its priest from 1868 to 1890 was András Polányi.",
+        "src": [
+          "PL-S-073",
+          "PL-S-072"
+        ]
+      },
+      {
+        "text": "In the Nagykapos district of Ung county until 1920. Ceded to Hungary in November 1938 with Veľké Kapušany and 23 villages of its district, and under Hungary until 1945.",
+        "src": [
+          "PL-S-089",
+          "PL-S-090"
+        ]
+      },
+      {
+        "text": "Not in the Slovak state's list of Michalovce district municipalities for 1940.",
+        "src": [
+          "PL-S-015"
+        ]
+      }
+    ],
+    "today": "Michalovce district, Košice Region",
+    "flag": "hu-1938",
+    "links": [
+      {
+        "label": "Wikipedia (Hungarian): Csicser",
+        "url": "https://hu.wikipedia.org/wiki/Csicser",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "Obec Čičarovce: the churches",
+        "url": "https://www.obeccicarovce.sk/cirkev.html",
+        "kind": "municipal"
+      },
+      {
+        "label": "Magyar Katolikus Lexikon: Csicser",
+        "url": "https://lexikon.katolikus.hu/C/Csicser.html",
+        "kind": "reference"
+      },
+      {
+        "label": "Greek Catholic eparchy of Košice: the parish",
+        "url": "https://www.grkatke.sk/farnost/farnost-cicarovce/",
+        "kind": "church"
+      },
+      {
+        "label": "Prešov state archive: catalogue of church registers",
+        "url": "https://www.minv.sk/swift_data/source/verejna_sprava/statny_archiv_v_presove/dokumenty/ap/Cirkevne%20matriky%202026.pdf",
+        "kind": "records"
       }
     ]
   },
@@ -1233,31 +1553,100 @@
     "name": "Belža",
     "kind": "residence",
     "country": "Slovakia",
-    "lat": 48.583,
-    "lon": 21.267,
-    "coord": "approximate",
+    "lat": 48.581,
+    "lon": 21.271,
+    "coord": "church directory",
     "maps": [
       "regional"
     ],
     "names": [
       {
-        "form": "Bölzse",
-        "when": "Hungarian, as given by the Duska agent",
-        "src": "PL-S-067"
+        "form": "Kapolnas Belse, Siget Belse, Sándor Belse",
+        "when": "15th century; three neighbouring villages",
+        "src": "PL-S-099"
+      },
+      {
+        "form": "Bölzse, Három-Bölzse, Sziget-Bölzse",
+        "when": "Hungarian; Három-Bölzse until 1899",
+        "src": "PL-S-084"
       },
       {
         "form": "Belza (Kosice)",
-        "when": "as in the owner's folder label, which is a prior and not evidence",
+        "when": "the owner's folder label",
         "src": "PL-S-067"
       }
     ],
-    "role": "The owner's folder label for two Greek Catholic baptism copies of 1894 and 1895. South of Košice, in old Abaúj-Torna county, a different county from Senné and Iňačovce.",
+    "role": "Seat of the Greek Catholic parish that served Gyňov and Seňa. The baptism copies of 1894 and 1895 belong to its register.",
     "facts": [
       {
-        "text": "The Duska agent reads its Folder 3 as the Greek Catholic parish of Belža, with Gyňov and Seňa in its district. Whether Belža was a Greek Catholic parish in 1894 and 1895, and which villages it covered, has not been checked here yet.",
+        "text": "A Greek Catholic mother church stood at Sziget-Bölzse by the parish survey of 1774-1782, with Kápolna-Bölzse, Sándor-Bölzse, Gönyű and Szina among its filials. The lists of 1792 and 1806 say the same.",
         "src": [
-          "PL-S-067"
+          "PL-S-076"
         ]
+      },
+      {
+        "text": "The parish passed from the Mukachevo eparchy to the new eparchy of Prešov about 1818. In the 1890s it was in the Kassa district of that eparchy; the district for 1894 exactly is inferred, not read.",
+        "src": [
+          "PL-S-084",
+          "PL-S-069"
+        ]
+      },
+      {
+        "text": "Fényes in 1851: three Rusyn and Slovak villages with 318 Greek Catholics, 139 Roman Catholics, 10 Jews and 5 Reformed. Greek Catholics were 56.9 per cent of the people in 1880.",
+        "src": [
+          "PL-S-096",
+          "PL-S-095"
+        ]
+      },
+      {
+        "text": "Borovszky, in the 1890s: 46 houses and 279 Hungarian- and Slovak-speaking inhabitants. He dates the church to 1818; another source says 1808.",
+        "src": [
+          "PL-S-084",
+          "PL-S-095"
+        ]
+      },
+      {
+        "text": "Resettled after the plague of the early 18th century with Greek Catholic Rusyns and Roman Catholic Slovaks.",
+        "src": [
+          "PL-S-095"
+        ]
+      },
+      {
+        "text": "In the Kassa district of Abaúj-Torna county until 1920. Ceded to Hungary in November 1938.",
+        "src": [
+          "PL-S-095",
+          "PL-S-102"
+        ]
+      },
+      {
+        "text": "Today the parish has Gyňov and Kechnec as active filials; Seňa and Valaliky are among the inactive ones.",
+        "src": [
+          "PL-S-077"
+        ]
+      }
+    ],
+    "today": "Košice-okolie district, Košice Region",
+    "flag": "hu-1938",
+    "links": [
+      {
+        "label": "Wikipedia (Hungarian): Bölzse",
+        "url": "https://hu.wikipedia.org/wiki/B%C3%B6lzse",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "Greek Catholic eparchy of Košice: Belža parish",
+        "url": "https://www.grkatke.sk/farnost/farnost-belza/",
+        "kind": "church"
+      },
+      {
+        "label": "WorldCat: Belža Greek Catholic register, 1791-1896 (microfilm)",
+        "url": "https://search.worldcat.org/title/Cirkevna-matrika-1791-1896/oclc/866194408",
+        "kind": "records"
+      },
+      {
+        "label": "Borovszky: Greek Catholic parishes of the Kassa district",
+        "url": "https://www.arcanum.com/en/online-kiadvanyok/Borovszky-borovszky-samu-magyarorszag-varmegyei-es-varosai-1/abauj-torna-varmegye-es-kassa-2/a-gorog-kath-egyhaz-606/kassai-kerulet-egyhazkozsegei-613/",
+        "kind": "reference"
       }
     ]
   },
@@ -1272,18 +1661,74 @@
     "maps": [],
     "names": [
       {
-        "form": "Gönyü",
-        "when": "1895 and about 1894, as written in two baptism copies read by the Duska agent",
+        "form": "Gunupotoka, Gvnv, Gewnew",
+        "when": "1255, 1268, 1427",
+        "src": "PL-S-097"
+      },
+      {
+        "form": "Gönyű, Gönyő",
+        "when": "Hungarian to 1905; 'Gönyü' in the baptism copies of 1894 and 1895",
         "src": "PL-S-067"
+      },
+      {
+        "form": "Hernádgönyű",
+        "when": "Hungarian official name from 1905",
+        "src": "PL-S-090"
+      },
+      {
+        "form": "Gyňov",
+        "when": "from 1920",
+        "src": "PL-S-097"
       }
     ],
-    "role": "Named as a residence, with house numbers 24 and 2, in the Belža folder of the Duska agent. Near Košice.",
+    "role": "Named as a residence, houses 24 and 2, in the Belža baptism copies. A Greek Catholic filial of Belža.",
     "facts": [
       {
-        "text": "The identification of 'Gönyü' with Gyňov is the Duska agent's. There is another Gönyű in Hungary, on the Danube, so the reading needs the parish to confirm it.",
+        "text": "A Greek Catholic filial of the Bölzse mother church in the surveys of 1774-1782, 1792 and 1806, and an active filial of Belža today. That confirms the Duska agent's reading of 'Gönyü' as Gyňov and not the Gönyű on the Danube.",
         "src": [
-          "PL-S-067"
+          "PL-S-076",
+          "PL-S-077"
         ]
+      },
+      {
+        "text": "Fényes in 1851: a Slovak and Hungarian village with 170 Roman Catholics, 130 Greek Catholics, 40 Reformed and 15 Jews.",
+        "src": [
+          "PL-S-097"
+        ]
+      },
+      {
+        "text": "55 houses and 361 people in 1828. Borovszky, in the 1890s: 43 houses and 286 Slovak-speaking inhabitants. House numbers 2 and 24 are in range.",
+        "src": [
+          "PL-S-090",
+          "PL-S-084"
+        ]
+      },
+      {
+        "text": "Roman Catholics belonged to the Kassamindszent parish in 1915.",
+        "src": [
+          "PL-S-096"
+        ]
+      },
+      {
+        "text": "In the Kassa district of Abaúj-Torna county, moved to the Füzér district in 1908. Under Hungary again from 1938 to 1945, by its Hungarian official name in those years.",
+        "src": [
+          "PL-S-090",
+          "PL-S-069"
+        ]
+      }
+    ],
+    "today": "Košice-okolie district, Košice Region",
+    "flag": "hu-1938",
+    "links": [
+      {
+        "label": "Wikipedia (English)",
+        "url": "https://en.wikipedia.org/wiki/Gy%C5%88ov",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "Wikipedia (Hungarian): Hernádgönyű",
+        "url": "https://hu.wikipedia.org/wiki/Hern%C3%A1dg%C3%B6ny%C5%B1",
+        "kind": "encyclopedia"
       }
     ]
   },
@@ -1298,17 +1743,125 @@
     "maps": [],
     "names": [
       {
-        "form": "Szina",
-        "when": "about 1894, as written in a baptism copy read by the Duska agent",
+        "form": "Szina, Abaújszina",
+        "when": "Hungarian; 'Szina' in a baptism copy of about 1894",
         "src": "PL-S-067"
+      },
+      {
+        "form": "Szinna (Senya)",
+        "when": "1851, Fényes's spelling",
+        "src": "PL-S-098"
+      },
+      {
+        "form": "Schenna, Schena, Scheina",
+        "when": "German",
+        "src": "PL-S-099"
       }
     ],
-    "role": "Named as a residence, with house number 182, in the Belža folder of the Duska agent. Near Košice. Not to be confused with Senné.",
+    "role": "Named as a residence, house 182, in the Belža baptism copies. A Greek Catholic filial of Belža. Not to be confused with Senné.",
     "facts": [
       {
-        "text": "The identification of 'Szina' with Seňa is the Duska agent's. The Hungarian names of Seňa (Szina), Senné (Szenna) and Snina (Szinna) are close enough to be mixed up in an index.",
+        "text": "A Greek Catholic filial of the Bölzse mother church from the 1770s, and still listed under Belža today.",
         "src": [
-          "PL-S-067"
+          "PL-S-076",
+          "PL-S-077"
+        ]
+      },
+      {
+        "text": "Fényes in 1851: a Hungarian, Slovak and Rusyn village on the Pest high road, with 762 Roman Catholics, 397 Reformed, 240 Greek Catholics, 159 Jews and 27 Lutherans.",
+        "src": [
+          "PL-S-098"
+        ]
+      },
+      {
+        "text": "190 houses and 1,413 people in 1880; 224 houses and 1,546 people in 1900. A house numbered 182 in 1894 is in range.",
+        "src": [
+          "PL-S-069",
+          "PL-S-084"
+        ]
+      },
+      {
+        "text": "Sources disagree on the Roman Catholics: a parish restored in 1782 by one account, a filial of Kechnec until 2008 by the Kechnec parish.",
+        "src": [
+          "PL-S-098",
+          "PL-S-100"
+        ]
+      },
+      {
+        "text": "Fényes spells this village 'Szinna', one letter from Szenna (Senné) and the same as Szinna (Snina). An index entry under any of the three needs its county checked.",
+        "src": [
+          "PL-S-098"
+        ]
+      },
+      {
+        "text": "In the Kassa district of Abaúj-Torna county. Ceded to Hungary in November 1938.",
+        "src": [
+          "PL-S-101"
+        ]
+      }
+    ],
+    "today": "Košice-okolie district, Košice Region",
+    "flag": "hu-1938",
+    "links": [
+      {
+        "label": "Wikipedia (Hungarian): Abaújszina",
+        "url": "https://www.wikiwand.com/hu/articles/Aba%C3%BAjszina",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "JewishGen, Pinkas Slovakia: Sena",
+        "url": "https://www.jewishgen.org/yizkor/pinkas_slovakia/slo392.html",
+        "kind": "reference"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-054",
+    "name": "Valaliky",
+    "kind": "residence",
+    "country": "Slovakia",
+    "today": "Košice-okolie district, Košice Region",
+    "lat": 48.63,
+    "lon": 21.3,
+    "coord": "approximate",
+    "maps": [],
+    "names": [
+      {
+        "form": "Bernátfalva",
+        "when": "Hungarian name of Bernátovce, one of the villages merged into Valaliky in 1961",
+        "src": "PL-S-069"
+      },
+      {
+        "form": "Búzafalva",
+        "when": "Hungarian name of Buzice, another",
+        "src": "PL-S-069"
+      },
+      {
+        "form": "Csontosfalva",
+        "when": "Hungarian name of Košťany, the third",
+        "src": "PL-S-069"
+      }
+    ],
+    "role": "Three candidates for the unidentified '-falva' village of the Belža baptism copies. Not yet decided between them (PL-H-011).",
+    "facts": [
+      {
+        "text": "Valaliky was formed in 1961 from Všechsvätých, Bernátovce, Buzice and Košťany. It is the only filial of the Belža Greek Catholic parish today that contains villages with Hungarian names ending in -falva.",
+        "src": [
+          "PL-S-069",
+          "PL-S-077"
+        ]
+      },
+      {
+        "text": "All three lay in the Kassa district of Abaúj-Torna county and were Roman Catholic filials of Kassamindszent in 1915. Each was small enough, at 33 to 55 houses, to have a house numbered 5.",
+        "src": [
+          "PL-S-096",
+          "PL-S-069"
+        ]
+      },
+      {
+        "text": "Not confirmed: that any of the three was a Greek Catholic filial of Bölzse in 1894 and 1895 and not of the Greek Catholic parish in Kassa town.",
+        "src": [
+          "PL-S-069"
         ]
       }
     ]

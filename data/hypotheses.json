@@ -2,26 +2,32 @@
   {
     "id": "PL-H-001",
     "statement": "Greek Catholics who lived in Senné were baptised, married and buried in the Iňačovce (Solymos) parish, so they are in the Iňačovce Greek Catholic register and not in the Senné book.",
-    "confidence": 90,
+    "confidence": 96,
     "basis": "The 1734 visitation counted about 40 adults of the Greek rite inside the Senné Roman Catholic parish and found a separate Greek Catholic parish at Iňačovce, under 4 km away. Senné never had a Greek Catholic church or school.",
     "test": "The Solymos entry in the 1782-1787 parish reorganisation papers (PL-R-031), or any Mukachevo eparchy directory: do they list Szenna as a daughter village? Failing that, a residence of Szenna in the Iňačovce register.",
-    "status": "supported",
+    "status": "solved",
     "raised": "PL-B-000",
-    "resolved": null,
-    "resolution": null,
+    "resolved": "PL-B-003",
+    "resolution": "A record in hand shows it. The Demko agent holds an entry of 10 December 1861 from the Iňačovce Greek Catholic book whose residence column reads Szenna (DM-D-037 @538d6b5), beside entries for Jesztreb and Solymos in the same book. The parish chronicle, a register index and the eparchy's present listing all agree. The strip's page header is not visible; the book is identified by the officiant's title on a sister entry of 1889.",
     "src": [
       "PL-S-009",
       "PL-S-011",
       "PL-S-046",
       "PL-S-047",
       "PL-S-048",
-      "PL-S-004"
+      "PL-S-004",
+      "PL-S-104"
     ],
     "log": [
       {
         "batch": "PL-B-001",
         "effect": "70 to 90, open to supported",
         "note": "The Iňačovce chronicle counts 245 Greek Catholics in Senné within its parish district; a register index gives the district of the 1811-1898 book as Iňačovce, Jastrabie, Senné and Stretava; the eparchy lists Senné as a filial today. Not yet seen: a Mukachevo directory, or an entry in the book itself with a Senné residence. That is what would solve it."
+      },
+      {
+        "batch": "PL-B-003",
+        "effect": "90 to 96, supported to solved",
+        "note": "The named test was a Senné residence in the Iňačovce register. DM-D-037 is that."
       }
     ]
   },
@@ -119,6 +125,11 @@
         "batch": "PL-B-001",
         "effect": "no change, 55",
         "note": "Tagged X-Q-01. New and relevant: the Iňačovce church archive was damaged by lightning in 1929 and fire in 1930, which is one more reason a later baptism might survive only as a copy held elsewhere."
+      },
+      {
+        "batch": "PL-B-003",
+        "effect": "no change, 55",
+        "note": "The second research pass could not open FamilySearch catalogue 1411329 either. Still open. New in X-Q-01: no Greek Catholic volume for Iňačovce later than 1898 is in the Prešov state archive (PL-R-003)."
       }
     ],
     "question": "X-Q-01"
@@ -143,6 +154,11 @@
         "batch": "PL-B-001",
         "effect": "55 to 60, still open",
         "note": "A survey of archive holdings reports sheets for 214 Ung settlements at Berehove, fond 7/2, marked as to be checked. Another source says the Ung records have not been filmed. Szenna is not named in either."
+      },
+      {
+        "batch": "PL-B-003",
+        "effect": "no change, 60",
+        "note": "Not researched in the second pass."
       }
     ]
   },
@@ -172,22 +188,127 @@
     "id": "PL-H-008",
     "question": "X-Q-02",
     "statement": "The 'Viszoka' of the 1882 baptism strip is not Vysoká nad Uhom.",
-    "confidence": 20,
+    "confidence": 3,
     "basis": "Raised as promised to the coordinator. The owner's file label says Čičarovce, which is a different village; that label is a prior, not evidence (X-004). Vysoká nad Uhom has its own Greek Catholic parish church today. The entry gives house number 132, so the village had at least that many houses in 1882.",
     "test": "The number of houses in Viszoka in the 1880 census or the 1877 gazetteer; which parish served its Greek Catholics and its Roman Catholics in 1882; the page header of the strip.",
-    "status": "open",
+    "status": "refuted",
     "raised": "PL-B-001",
-    "resolved": null,
-    "resolution": null,
+    "resolved": "PL-B-003",
+    "resolution": "Viszoka had 142 houses in 1880, so house 132 fits. Ung county had one Viszoka. Its Greek Catholic parish was Čičarovce, whose priest from 1882 was Ján Csurgovics, the name read on the strips. And the Demko agent holds a 1906 record giving the same man's birthplace as Magasrév, the later Hungarian name of this village. The Viszoka of 1882 is Vysoká nad Uhom.",
     "src": [
-      "PL-S-031",
-      "PL-S-010"
+      "PL-S-074",
+      "PL-S-057",
+      "PL-S-071",
+      "PL-S-072",
+      "PL-S-104"
     ],
     "log": [
       {
         "batch": "PL-B-001",
         "effect": "raised at 20",
         "note": "To be tested in the next research pass, on Vysoká nad Uhom and Čičarovce."
+      },
+      {
+        "batch": "PL-B-003",
+        "effect": "20 to 3, open to refuted",
+        "note": "House count, parish and priest all fit Vysoká nad Uhom. Retired, as the Demko agent suggested."
+      }
+    ]
+  },
+  {
+    "id": "PL-H-009",
+    "question": "X-Q-02",
+    "statement": "The 1882 baptism strip is cut from the Greek Catholic register of Čičarovce (Csicser): Prešov state archive, church registers catalogue no. 182, births 1857-1886.",
+    "confidence": 93,
+    "basis": "Vysoká nad Uhom was a Greek Catholic filial of Čičarovce from 1806 to the 1940s. The parish priest from 1882 to 1886 was Ján Csurgovics. The Prešov catalogue lists Vysoká in the district of that parish and gives volume no. 182 for the years. Strips of 1875, 1879 and 1883 in the Demko repo are signed by the Csicser Greek Catholic pastors of those years. The Roman Catholics of Viszoka belonged to Pavlovce, never to Čičarovce.",
+    "test": "The page header or volume label of the strip, or the entry found at no. 36 of 1882 in volume no. 182.",
+    "status": "supported",
+    "raised": "PL-B-003",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-071",
+      "PL-S-072",
+      "PL-S-075",
+      "PL-S-104"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-003",
+        "effect": "raised at 93, supported",
+        "note": "This is the Places ruling on X-Q-02: a Greek Catholic register, and specifically that of Čičarovce. The owner's folder label named the right parish. It stays short of solved until the header or the entry in the volume is seen."
+      }
+    ]
+  },
+  {
+    "id": "PL-H-010",
+    "statement": "The baptism copies of 1894 and 1895 naming Gönyű and Szina are from the Greek Catholic register of Belža, whose original for those years is in the Košice state archive.",
+    "confidence": 85,
+    "basis": "Gönyű and Szina were filials of the Greek Catholic mother church of Bölzse in 1774-1782, 1792 and 1806 and are under Belža today. The Belža register is catalogued for 1791-1896. No source puts either village under another Greek Catholic parish.",
+    "test": "The entries themselves in the Belža volume for 1894 and 1895, or a directory of the Prešov eparchy for the 1890s.",
+    "status": "supported",
+    "raised": "PL-B-003",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-076",
+      "PL-S-077",
+      "PL-S-092",
+      "PL-S-094"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-003",
+        "effect": "raised at 85, supported",
+        "note": "Answers the Duska agent's first question. The owner's folder label named the right parish here too. The key source was seen only as an extract."
+      }
+    ]
+  },
+  {
+    "id": "PL-H-011",
+    "statement": "The unidentified '-falva' village of the Belža copies is Bernátfalva, Búzafalva or Csontosfalva, the three villages now inside Valaliky.",
+    "confidence": 50,
+    "basis": "Valaliky is the only present filial of the Belža parish that contains villages with Hungarian names in -falva. All three were small and close by.",
+    "test": "The surviving letters of the name on the copy, against the three; a Prešov eparchy directory of the 1890s listing Bölzse's filials.",
+    "status": "open",
+    "raised": "PL-B-003",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-069",
+      "PL-S-077",
+      "PL-S-067"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-003",
+        "effect": "raised at 50",
+        "note": "Nothing shows that any of the three was under Bölzse and not under Kassa town in 1894."
+      }
+    ]
+  },
+  {
+    "id": "PL-H-012",
+    "statement": "Vysoká nad Uhom was inside Slovakia from April 1939 to 1944: taken by Hungarian troops in the fighting of March 1939, but not ceded.",
+    "confidence": 80,
+    "basis": "The border protocol of 4 April 1939 runs the line along its boundaries with Lekárovce and Bežovce. The Slovak state's list for 1940 has Vysoká in the Michalovce district with 230 houses, while Bežovce, Blatná Polianka, Blatné Remety, Lekárovce and Čičarovce are absent from it. Against: two municipal histories speak of Hungarian occupation, and a census database labels the village Hungarian in 1941; the 1940 list also shows its population as 0.",
+    "test": "The Hungarian gazetteer of 1941 or 1944: is Magasrév in it? Or the printed Lexikón obcí of 1942 for the population figure.",
+    "status": "supported",
+    "raised": "PL-B-003",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-036",
+      "PL-S-015",
+      "PL-S-003",
+      "PL-S-070",
+      "PL-S-074"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-003",
+        "effect": "raised at 80, supported",
+        "note": "Raised because this agent has now said both things about this village. The 1940 list was re-read for it on 12 Nov."
       }
     ]
   }

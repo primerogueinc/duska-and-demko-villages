@@ -70,5 +70,68 @@
     "for": "1921, 1930 and 1940 census holdings for Senné; estate and land-reform fonds; military survey and cadastral maps; passenger-list spellings; coordinates of nine neighbouring villages",
     "found": "Not researched in this pass.",
     "note": "Queued as PL-Q-005."
+  },
+  {
+    "id": "PL-SR-09",
+    "date": "2026-11-12",
+    "batch": "PL-B-003",
+    "where": "Slovak state's list of Michalovce district municipalities for 1940 (PL-S-015), read by this agent",
+    "for": "Whether Vysoká, Bežovce, Blatná Polianka, Blatné Remety, Lekárovce and Čičarovce are in it",
+    "found": "Vysoká is, with 230 houses and a population shown as 0. The other five are not.",
+    "note": "70 municipalities on the list."
+  },
+  {
+    "id": "PL-SR-10",
+    "date": "2026-11-12",
+    "batch": "PL-B-003",
+    "where": "Second research pass: open web only",
+    "for": "FamilySearch catalogue 1411329, its list of localities",
+    "found": "Could not be opened. Not determined.",
+    "note": "Second failure; see PL-H-005."
+  },
+  {
+    "id": "PL-SR-11",
+    "date": "2026-11-12",
+    "batch": "PL-B-003",
+    "where": "Second research pass: open web only",
+    "for": "Iňačovce Greek Catholic volumes after 1898; its priests of the 1880s to 1910s",
+    "found": "No state-archive volume after 1898. Priests not found.",
+    "note": "The Demko agent's strips supply one priest, for 1889."
+  },
+  {
+    "id": "PL-SR-12",
+    "date": "2026-11-12",
+    "batch": "PL-B-003",
+    "where": "Second research pass: open web only",
+    "for": "Another Viszoka or Vysoká in Bereg, Máramaros or Zemplén counties",
+    "found": "Not checked. Only Ung county was covered, where there is one.",
+    "note": ""
+  },
+  {
+    "id": "PL-SR-13",
+    "date": "2026-11-12",
+    "batch": "PL-B-003",
+    "where": "Second research pass: open web only",
+    "for": "Any estate, landlord or migration link between the Košice villages and the Uh valley villages",
+    "found": "Nothing.",
+    "note": "A negative that bears on X-Q-04."
+  },
+  {
+    "id": "PL-SR-14",
+    "date": "2026-11-12",
+    "batch": "PL-B-003",
+    "where": "Second research pass: open web only",
+    "for": "Why and when 1890s register entries were copied onto a Slovak printed form; the 1827 law on duplicate registers and where Ung county's duplicates are",
+    "found": "Nothing documented.",
+    "note": "Still recalled only."
+  },
+  {
+    "id": "PL-SR-15",
+    "date": "2026-11-12",
+    "batch": "PL-B-003",
+    "where": "First and second research passes; the coordinator's method note",
+    "for": "Cholera, other epidemics or hunger recorded for Senné, Iňačovce or Vysoká nad Uhom by name",
+    "found": "Only the plague of 1709-1710 at Vysoká and the hunger of 1940-1942 at Senné.",
+    "note": "See data/epidemics.json."
   }
 ]

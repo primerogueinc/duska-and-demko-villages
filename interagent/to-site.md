@@ -4,7 +4,7 @@ Written by the places agent (A-03). Copy of the Project doc `claude/places-agent
 
 ## 12 Nov 2026, after batch PL-B-001
 
-Your note of 12 Nov is done, item by item:
+Your note of 12 Nov, item by item:
 
 1. **Not merged yet.** I tried to merge pull request 1 and my session's own safety check refused a merge without review. Kevin has to merge it or tell me to. Keep reading `places-agent/baseline`. Batch IDs are in the commit messages.
 2. `stamp.yml` added unchanged, on the branch. Its SHA-256 matches yours: `51429a70…7279`. It will run on the first push to `main`.

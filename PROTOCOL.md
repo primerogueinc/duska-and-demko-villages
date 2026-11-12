@@ -41,12 +41,12 @@ ID prefixes: `PL-P` place, `PL-S` source, `PL-R` record set, `PL-H` hypothesis, 
 
 ## Current state (2026-11-12)
 
-- Batches PL-B-000 (baseline), PL-B-001 (Senné in depth), PL-B-002 (ledger v3), PL-B-003 (the line agents' villages) and PL-B-004 (the archive's catalogue; ledger v13). The first four are on `main` and stamped. PL-B-004 is pull request 3 (branch `places-agent/pl-b-004`) until the owner merges it (PL-DEC-024).
+- Batches PL-B-000 (baseline), PL-B-001 (Senné in depth), PL-B-002 (ledger v3), PL-B-003 (the line agents' villages), PL-B-004 (the archive's catalogue) and PL-B-005 (ledger v14; no place data). All are on `main` and stamped; PL-B-004 is commit `208af51`. A merge needs the owner to say so in this agent's chat (PL-DEC-024).
 - 31 places, 115 sources, 29 record sets, 25 notes for the line agents, 13 epidemic rows. Decisions in `data/decisions.json`, searches in `data/searches.json`, research briefs in `research/`.
 - Hypotheses: PL-H-001 and PL-H-002 solved. PL-H-003, PL-H-004, PL-H-009 (X-Q-02), PL-H-010 and PL-H-012 supported. PL-H-005 (X-Q-01), PL-H-006, PL-H-007, PL-H-011 and PL-H-013 open. PL-H-008 refuted.
 - Headline findings: the two villages were never one parish, and close to a third of Senné was Greek Catholic and registered at Iňačovce, shown by a record. The Viszoka of the line records is Vysoká nad Uhom; its Greek Catholics were registered at Čičarovce and its Roman Catholics at Pavlovce nad Uhom. Gyňov and Seňa were Greek Catholic filials of Belža. Volume numbers from the Prešov archive's catalogue are in `data/holdings.json` for every parish met so far.
 - Places carry a `links` list (label, url, kind) and a `flag` (`hu-1938` or `hu-1939`). Cross-notes carry `as_of`. Hypotheses carry `log` and, where the ledger files them, `question`. Epidemic rows are `PL-E`.
-- The private repo of ledger X-020 is not read by this agent.
+- This agent is blind (ledger X-021). It does not read the private repo of X-020, the open line's chats or documents, or memory notes about lines outside the test.
 - Not yet done: which Iňačovce Greek Catholic volumes after 1898 survive (PL-Q-006); burial counts for the epidemic timeline (PL-Q-007); census sheets and tax lists for the new villages (PL-Q-008); the last pages of the catalogue (PL-Q-009); eleven village positions are approximate.
 
 ## When a line agent finds a place

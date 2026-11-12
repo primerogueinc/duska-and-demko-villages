@@ -41,8 +41,8 @@ ID prefixes: `PL-P` place, `PL-S` source, `PL-R` record set, `PL-H` hypothesis, 
 
 ## Current state (2026-11-12)
 
-- Batches PL-B-000 (baseline) and PL-B-001 (Senné in depth). Work is on the branch `places-agent/baseline`, with pull request 1 open against `main`; this agent's session is not allowed to merge it without the owner (PL-DEC-008). Ledger v2 read.
-- 25 places, 66 sources, 20 record sets, 16 notes for the line agents. Decisions in `data/decisions.json`, searches in `data/searches.json`, research briefs in `research/`.
+- Batches PL-B-000 (baseline), PL-B-001 (Senné in depth) and PL-B-002 (ledger v3: the line agents' villages added). Work is on the branch `places-agent/baseline`, with pull request 1 open against `main`; this agent's session is not allowed to merge it without the owner (PL-DEC-008). Ledger v3 read.
+- 29 places, 68 sources, 20 record sets, 16 notes for the line agents. Decisions in `data/decisions.json`, searches in `data/searches.json`, research briefs in `research/`.
 - Hypotheses: PL-H-002 solved. PL-H-001, PL-H-003 and PL-H-004 supported. PL-H-005 (X-Q-01), PL-H-006, PL-H-007 and PL-H-008 (X-Q-02) open.
 - Headline findings: the two villages were never one parish, and close to a third of Senné was Greek Catholic and registered at Iňačovce. Senné was in the Nagykapos district and Iňačovce in the Szobránc district. Both stayed in Slovakia in 1938-1945. The catalogued Senné register begins baptisms only in 1866.
 - Places carry a `links` list (label, url, kind). Cross-notes carry `as_of`. Hypotheses carry `log` and, where the ledger files them, `question`.

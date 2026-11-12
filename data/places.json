@@ -1157,7 +1157,7 @@
   {
     "id": "PL-P-037",
     "name": "Vysoká nad Uhom",
-    "kind": "border",
+    "kind": "residence",
     "country": "Slovakia",
     "lat": 48.62609,
     "lon": 22.09133,
@@ -1190,6 +1190,125 @@
         "text": "The Senné municipal history names it among the villages Hungarian troops took in the fighting of March 1939. Both can be true: taken in the fighting, then left outside the strip that was ceded. Not yet checked against the 1940 list of Slovak municipalities.",
         "src": [
           "PL-S-003"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PL-P-050",
+    "name": "Čičarovce",
+    "kind": "residence",
+    "country": "Slovakia",
+    "lat": 48.55,
+    "lon": 22.02,
+    "coord": "approximate",
+    "maps": [
+      "local"
+    ],
+    "names": [
+      {
+        "form": "Csicser",
+        "when": "Hungarian, as given by the Duska agent",
+        "src": "PL-S-067"
+      },
+      {
+        "form": "Cicarovce",
+        "when": "as in the owner's folder label for the 1882 strip, which is a prior and not evidence",
+        "src": "PL-S-068"
+      }
+    ],
+    "role": "The owner's folder label for the 1882 baptism strip. Whether the strip comes from a Čičarovce book is the coordinator's question X-Q-02.",
+    "facts": [
+      {
+        "text": "The 1882 strip held by both line agents was filed by the owner under this village's name, while the entry itself gives the residence as Viszoka. Which parish book it was cut from is not established.",
+        "src": [
+          "PL-S-068",
+          "PL-S-067"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PL-P-051",
+    "name": "Belža",
+    "kind": "residence",
+    "country": "Slovakia",
+    "lat": 48.583,
+    "lon": 21.267,
+    "coord": "approximate",
+    "maps": [
+      "regional"
+    ],
+    "names": [
+      {
+        "form": "Bölzse",
+        "when": "Hungarian, as given by the Duska agent",
+        "src": "PL-S-067"
+      },
+      {
+        "form": "Belza (Kosice)",
+        "when": "as in the owner's folder label, which is a prior and not evidence",
+        "src": "PL-S-067"
+      }
+    ],
+    "role": "The owner's folder label for two Greek Catholic baptism copies of 1894 and 1895. South of Košice, in old Abaúj-Torna county, a different county from Senné and Iňačovce.",
+    "facts": [
+      {
+        "text": "The Duska agent reads its Folder 3 as the Greek Catholic parish of Belža, with Gyňov and Seňa in its district. Whether Belža was a Greek Catholic parish in 1894 and 1895, and which villages it covered, has not been checked here yet.",
+        "src": [
+          "PL-S-067"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PL-P-052",
+    "name": "Gyňov",
+    "kind": "residence",
+    "country": "Slovakia",
+    "lat": 48.58,
+    "lon": 21.3,
+    "coord": "approximate",
+    "maps": [],
+    "names": [
+      {
+        "form": "Gönyü",
+        "when": "1895 and about 1894, as written in two baptism copies read by the Duska agent",
+        "src": "PL-S-067"
+      }
+    ],
+    "role": "Named as a residence, with house numbers 24 and 2, in the Belža folder of the Duska agent. Near Košice.",
+    "facts": [
+      {
+        "text": "The identification of 'Gönyü' with Gyňov is the Duska agent's. There is another Gönyű in Hungary, on the Danube, so the reading needs the parish to confirm it.",
+        "src": [
+          "PL-S-067"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PL-P-053",
+    "name": "Seňa",
+    "kind": "residence",
+    "country": "Slovakia",
+    "lat": 48.567,
+    "lon": 21.25,
+    "coord": "approximate",
+    "maps": [],
+    "names": [
+      {
+        "form": "Szina",
+        "when": "about 1894, as written in a baptism copy read by the Duska agent",
+        "src": "PL-S-067"
+      }
+    ],
+    "role": "Named as a residence, with house number 182, in the Belža folder of the Duska agent. Near Košice. Not to be confused with Senné.",
+    "facts": [
+      {
+        "text": "The identification of 'Szina' with Seňa is the Duska agent's. The Hungarian names of Seňa (Szina), Senné (Szenna) and Snina (Szinna) are close enough to be mixed up in an index.",
+        "src": [
+          "PL-S-067"
         ]
       }
     ]

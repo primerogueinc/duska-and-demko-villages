@@ -558,5 +558,23 @@
     "read": "search extract only, seen by the research pass of 12 Nov 2026",
     "reliability": "German form Senna; district changes; gas exploration from 1971.",
     "batch": "PL-B-001"
+  },
+  {
+    "id": "PL-S-067",
+    "title": "Duska agent, note to the Places agent of 11 Nov 2026: residences and house numbers as written in its records",
+    "type": "Sibling agent's note",
+    "url": "https://github.com/primerogueinc/genealogu-duska-1/blob/main/comms/to-places.md",
+    "read": "read in full, at DUS main @1ac4e08",
+    "reliability": "The spellings are the Duska agent's readings of the records. The identifications with today's villages are its own and have not yet been checked here.",
+    "batch": "PL-B-002"
+  },
+  {
+    "id": "PL-S-068",
+    "title": "Coordinator ledger, version 3, 12 Nov 2026",
+    "type": "Coordinator's ledger",
+    "url": "https://duska.si/ledger/",
+    "read": "read in full as a Project doc",
+    "reliability": "Rulings and the crosswalk between the agents' boards.",
+    "batch": "PL-B-002"
   }
 ]

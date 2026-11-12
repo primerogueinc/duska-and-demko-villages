@@ -205,9 +205,9 @@ const NS = "http://www.w3.org/2000/svg";
 const LBL = {
   local: {"PL-P-001":[12,5,"start"],"PL-P-002":[12,5,"start"],"PL-P-010":[-9,4,"end"],"PL-P-011":[9,4,"start"],"PL-P-012":[-9,4,"end"],"PL-P-013":[-9,4,"end"],
           "PL-P-014":[10,4,"start"],"PL-P-015":[11,4,"start"],"PL-P-020":[0,20,"middle"],"PL-P-021":[11,4,"start"],"PL-P-022":[12,4,"start"],"PL-P-023":[11,4,"start"],
-          "PL-P-024":[0,22,"middle"],"PL-P-036":[11,4,"start"],"PL-P-037":[0,-12,"middle"]},
+          "PL-P-024":[0,22,"middle"],"PL-P-036":[11,4,"start"],"PL-P-037":[0,-12,"middle"],"PL-P-050":[-10,4,"end"]},
   regional: {"HOME":[0,22,"middle"],"PL-P-021":[-9,4,"end"],"PL-P-022":[10,-3,"start"],"PL-P-023":[-9,4,"end"],"PL-P-024":[10,8,"start"],"PL-P-030":[10,4,"start"],
-             "PL-P-031":[-10,4,"end"],"PL-P-032":[10,4,"start"],"PL-P-033":[-10,4,"end"],"PL-P-034":[-10,4,"end"],"PL-P-035":[10,4,"start"]}
+             "PL-P-031":[-10,4,"end"],"PL-P-032":[10,4,"start"],"PL-P-033":[-10,4,"end"],"PL-P-034":[-10,4,"end"],"PL-P-035":[10,4,"start"],"PL-P-051":[10,14,"start"]}
 };
 const ALT = {"PL-P-021":"Nagykapos","PL-P-022":"Szobránc","PL-P-023":"Nagymihály","PL-P-024":"Ungvár","PL-P-030":"Eperjes","PL-P-031":"Beregszász","PL-P-032":"Kassa","PL-P-033":"Szatmár","PL-P-034":"Munkács","PL-P-012":"Kisszeretva"};
 
@@ -220,6 +220,7 @@ function mark(kind, x, y, approx, big) {
   if (kind === "admin") return `<rect x="${x - r}" y="${y - r}" width="${2 * r}" height="${2 * r}" ${a}/>`;
   if (kind === "seat") return `<path d="M${x} ${y - r - 2.2}L${x + r + 2.2} ${y}L${x} ${y + r + 2.2}L${x - r - 2.2} ${y}Z" ${a}/>`;
   if (kind === "archive") return `<path d="M${x} ${y - r - 1.8}L${x + r + 1.6} ${y + r}L${x - r - 1.6} ${y + r}Z" ${a}/>`;
+  if (kind === "residence") return `<circle cx="${x}" cy="${y}" r="${r + 1.2}" fill="var(--surface)" stroke="var(--home)" stroke-width="2.2"/>` + (approx ? "" : `<circle cx="${x}" cy="${y}" r="1.8" fill="var(--home)"/>`);
   if (kind === "origin") return `<circle cx="${x}" cy="${y}" r="${r}" fill="var(--surface)" stroke="var(--ink)" stroke-width="1.6" stroke-dasharray="2.2 2"/>`;
   return `<circle cx="${x}" cy="${y}" r="${r - 0.4}" ${a}/>`;
 }
@@ -293,6 +294,7 @@ $("key").innerHTML = [
   kitem(mark("seat", 15, 8, false), "County town or bishop's seat"),
   kitem(mark("archive", 15, 8, false), "Archive holding records of the villages"),
   kitem(mark("origin", 15, 8, false), "Named origin of settlers after 1720"),
+  kitem(mark("residence", 15, 8, false), "Home named in a line agent's record"),
   kitem(`<circle cx="15" cy="8" r="6.5" fill="none" stroke="var(--open)" stroke-width="1.6" stroke-dasharray="3 2.4"/>`, "Taken by Hungary in 1939"),
   kitem(`<line x1="2" y1="8" x2="28" y2="8" stroke="var(--accent)" stroke-width="1.2" opacity=".6"/>`, "Tie to the Senné parish"),
   kitem(`<line x1="2" y1="8" x2="28" y2="8" stroke="var(--frontier)" stroke-width="1.5" stroke-dasharray="7 4 1.5 4"/>`, "State border today")
@@ -333,7 +335,7 @@ $("hyp-body").innerHTML = H.map(h => row(h.id,
    ${h.resolution ? `<p><b>Ruling.</b> ${esc(h.resolution)}</p>` : ""}${(h.log || []).length ? `<ul class="hlog">${h.log.map(l => `<li><b>${esc(l.batch)}: ${esc(l.effect)}.</b> ${esc(l.note)}</li>`).join("")}</ul>` : ""}<div class="meta">${refs(h.src)}</div>`)).join("");
 
 /* ---------- gazetteer ---------- */
-const KIND = {"parish-ring": "Senné parish, 1734", admin: "district or estate seat", seat: "county town or bishop's seat", archive: "archive", origin: "settler origin", border: "1939 border"};
+const KIND = {"parish-ring": "Senné parish, 1734", admin: "district or estate seat", seat: "county town or bishop's seat", archive: "archive", origin: "settler origin", border: "1939 border", residence: "home named in a line record"};
 $("gaz-body").innerHTML = P.filter(p => p.kind !== "home").map(p => { const d = DATA.distances.find(x => x.id === p.id); return row(p.id,
   `<div class="head"><h3>${esc(p.name)}</h3><span class="meta">${esc(p.country)} &middot; ${esc(KIND[p.kind] || p.kind)}${d ? ` &middot; ${d.approx ? "about " : ""}${d.senne} km from Senné` : ""}${p.coord === "approximate" ? " &middot; position approximate" : ""}</span></div>
    ${p.names.length ? `<div class="meta">Also ${p.names.map(n => `<b>${esc(n.form)}</b> (${esc(n.when)}) ${ref1(n.src)}`).join("; ")}</div>` : ""}

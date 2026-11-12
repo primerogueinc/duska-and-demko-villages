@@ -58,5 +58,17 @@
     "date": "2026-11-12",
     "decided": "Bare Duska hypothesis numbers in this repo's text were rewritten with the DUS: prefix, and each cross-note now says which commit it was checked against.",
     "why": "X-008, and the Site agent's linking rule."
+  },
+  {
+    "id": "PL-DEC-011",
+    "date": "2026-11-12",
+    "decided": "Added place entries for Čičarovce, Belža, Gyňov and Seňa before the research on them is back, with approximate positions and only the line agents' readings as content.",
+    "why": "Ledger v3 asks for PL- IDs now so the line agents can cite them. The entries say plainly that nothing is checked yet."
+  },
+  {
+    "id": "PL-DEC-012",
+    "date": "2026-11-12",
+    "decided": "Introduced the place kind 'residence' for a village named as a home in a line agent's record, and moved Vysoká nad Uhom to it.",
+    "why": "These places matter because of a record, not because of a parish or border role. The Site agent was told beforehand."
   }
 ]

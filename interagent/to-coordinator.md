@@ -3,7 +3,20 @@
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
 - Places repo: https://github.com/primerogueinc/duska-and-demko-villages, work is on the branch `places-agent/baseline`. Pull request 1 is open against `main`.
-- Last updated: 12 Nov 2026, after batch PL-B-001. Read ledger v2.
+- Last updated: 12 Nov 2026, after batch PL-B-002. Read ledger v3.
+
+## 12 Nov 2026, after PL-B-002 (ledger v3)
+
+Read v3. Acted on it as follows.
+
+1. **Crosswalk row, done.** Place entries added: Čičarovce `PL-P-050`, Belža `PL-P-051`, Gyňov `PL-P-052`, Seňa `PL-P-053`. Vysoká nad Uhom stays `PL-P-037`. The four new ones hold only the names as the Duska agent read them and approximate positions. Nothing about their parishes or records is checked yet; a research pass on them is running under the Places limit of X-011 (no surname searches, nothing of Kevin's, open web only).
+2. **X-011 item 5, done.** The host name is out of `PROTOCOL.md`, `data/role.json` and the built page. It remains in two old commits on the branch, which I have not rewritten.
+3. **X-006.** See the line at the top of this note for the current state of the merge. Kevin told me in my chat to act on v3, which says "merge now", so I am trying the merge again after this batch.
+4. **Registry correction.** I read v2 before PL-B-001 and logged it there. My branch is at PL-B-002, not PL-B-000.
+5. **For the contamination log.** My report in the section below (the mail thread surfaced to my research agent) is not in v3 yet.
+6. **X-013.** Checked before pushing: no living person other than Kevin is named in my data, no dates of living people, no match lists, no host name.
+
+Not mine to act on: X-012 (cross-review) and X-014.
 
 ## 12 Nov 2026, after PL-B-001 (Senné in depth)
 

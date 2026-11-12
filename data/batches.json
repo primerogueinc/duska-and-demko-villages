@@ -39,5 +39,16 @@
     ],
     "places_added": 0,
     "sources_added": 32
+  },
+  {
+    "id": "PL-B-002",
+    "date": "2026-11-12",
+    "title": "Ledger v3: the line agents' villages get place entries",
+    "blurb": "Read ledger v3. The coordinator's crosswalk asked for place entries for the villages met in the line agents' records, so four are added: Čičarovce, the owner's label on the 1882 strip, and Belža, Gyňov and Seňa near Košice, from the Belža folder. They are entered as residences named in a record, with the spelling as the Duska agent read it. Nothing about them is established here yet beyond the names: their positions are approximate, and their parishes, districts and record holdings are the subject of a research pass now running under the same exclusions as the Senné pass. Vysoká nad Uhom is reclassed as a residence for the same reason. The Košice villages lie some 55 km west of Senné, in a different county, which is itself a question for the Demko line.",
+    "raised": [],
+    "resolved": [],
+    "revised": [],
+    "places_added": 4,
+    "sources_added": 2
   }
 ]

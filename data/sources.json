@@ -188,7 +188,7 @@
     "title": "FamilySearch catalogue 1411329: Greek Catholic records of the Mukachevo eparchy, Ungvár and Ung district, 1826-1938",
     "type": "Archive catalogue",
     "url": "https://www.familysearch.org/search/catalog/1411329",
-    "read": "search extract; also in both agents' ledgers",
+    "read": "search extract only, seen again by this agent 12 Nov 2026; also in both agents' ledgers",
     "reliability": "Catalogue description only. Which villages are inside the series has not been checked."
   },
   {
@@ -570,7 +570,7 @@
   },
   {
     "id": "PL-S-068",
-    "title": "Coordinator ledger, versions 3 to 14, 12 Nov 2026",
+    "title": "Coordinator ledger, versions 3 to 16, 12 Nov 2026",
     "type": "Coordinator's ledger",
     "url": "https://github.com/primerogueinc/duska-coordinator/blob/main/ledger.md",
     "read": "read in full as a Project doc",
@@ -924,7 +924,7 @@
     "title": "Duska agent, folder F-005 (58 strips from the Iňačovce Greek Catholic book), document D-004-05, and its notes to the Places agent after batches B-010 to B-013",
     "type": "Sibling agent's transcriptions of records in hand",
     "url": "https://github.com/primerogueinc/genealogu-duska-1/blob/main/comms/to-places.md",
-    "read": "notes read in full at DUS main @66f89b1; the documents behind them were not opened by this agent",
+    "read": "notes read in full at DUS main @66f89b1 and @2e5f111; the documents behind them were not opened by this agent",
     "reliability": "Transcriptions of register entries in the owner's archive. The readings are the Duska agent's. Years in brackets come from the owner's file names.",
     "batch": "PL-B-004"
   },
@@ -933,7 +933,7 @@
     "title": "Demko agent, documents DM-D-040, DM-D-041 and DM-D-043 to DM-D-053, and its notes to the Places agent DM→PL-003 and DM→PL-004",
     "type": "Sibling agent's transcriptions of records in hand",
     "url": "https://github.com/primerogueinc/genealogy-demko-1/blob/main/interagent/to-places.md",
-    "read": "notes read in full at DM main @5661373; three document entries opened",
+    "read": "notes read in full at DM main @5661373 and @b2bdf12; three document entries opened",
     "reliability": "As above. The identifications of place names in the notes were the Demko agent's recollections until checked here.",
     "batch": "PL-B-004"
   },
@@ -999,5 +999,41 @@
     "read": "search extract only, seen by this agent 12 Nov 2026",
     "reliability": "Scholarly, but about western Slovakia. Shows only that a 'name of the house' is a recognised part of unofficial naming in Slovak villages.",
     "batch": "PL-B-004"
+  },
+  {
+    "id": "PL-S-116",
+    "title": "Magyar Nemzeti Levéltár, guide page: Felekezeti anyakönyvek másodpéldányai (IV. 482.)",
+    "type": "Archive guide",
+    "url": "https://mnl.gov.hu/print/7059",
+    "read": "search extract only, seen by this agent 12 Nov 2026",
+    "reliability": "The national archive's own statement of the 1827 law on second copies of church registers. About a Hungarian county's holdings, cited here for the law.",
+    "batch": "PL-B-006"
+  },
+  {
+    "id": "PL-S-117",
+    "title": "Magyar Nemzeti Levéltár, guide page: Állami anyakönyvek másodpéldányai (XXXIII. 1.)",
+    "type": "Archive guide",
+    "url": "https://mnl.gov.hu/print/7060",
+    "read": "search extract only, seen by this agent 12 Nov 2026",
+    "reliability": "Shows that second copies of the state civil registers are a standing series in county archives. About Pest county; cited for the practice.",
+    "batch": "PL-B-006"
+  },
+  {
+    "id": "PL-S-118",
+    "title": "Budapest government office: 130 éves a magyar állami anyakönyvezés",
+    "type": "Official news page",
+    "url": "https://kormanyhivatalok.hu/kormanyhivatalok/budapest/megye/hirek/hir/130-eves-magyar-allami-anyakonyvezes",
+    "read": "search extract only, seen by this agent 12 Nov 2026",
+    "reliability": "A plain summary: state registration from 1 October 1895; second copies of church registers ordered in 1827 and lodged in the archive.",
+    "batch": "PL-B-006"
+  },
+  {
+    "id": "PL-S-119",
+    "title": "Ung County (English Wikipedia)",
+    "type": "Encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Ung_County",
+    "read": "search extract only, seen by this agent 12 Nov 2026",
+    "reliability": "County capital and districts.",
+    "batch": "PL-B-006"
   }
 ]

@@ -112,9 +112,9 @@
   },
   {
     "id": "PL-H-005",
-    "statement": "A Greek Catholic baptism at Iňačovce can sit in an Uzhhorod archive without the child being born in what is now Ukraine: Uzhhorod was both the bishop's seat and the county town, and the Mukachevo eparchy series for the Ung district, 1826-1938, includes Solymos.",
-    "confidence": 55,
-    "basis": "Iňačovce belonged to the Mukachevo eparchy, whose bishop sat at Uzhhorod. The Prešov run for the parish ends in 1898 and the catalogued Uzhhorod series runs to 1938. From training and unchecked: from 1827 a second copy of every parish register was owed to the county archive, which for Ung is in Uzhhorod; the series starting in 1826 fits that.",
+    "statement": "The Mukachevo eparchy series for the Ung district, 1826-1938, held at Uzhhorod, includes entries for Solymos (Iňačovce). This is a statement about a record set. It is not this agent's odds on why any one record is in Uzhhorod; for that see PL-H-015 and PL-H-016.",
+    "confidence": 60,
+    "basis": "Iňačovce belonged to the Mukachevo eparchy, whose bishop sat at Uzhhorod. The series begins in 1826, the year before the law of 1827 that ordered second copies of church registers to be lodged with the county, and its catalogue description says it covers many places of the eparchy in Ungvár and the Ung district. The Prešov catalogue lists second-copy volumes for Zemplén parishes but none for the Ung parishes read so far, so Ung's second copies are somewhere else.",
     "test": "The locality list inside FamilySearch catalogue 1411329, or the fond inventory at the Zakarpattia archive: is Solymos there, and for which years?",
     "status": "open",
     "raised": "PL-B-000",
@@ -123,7 +123,9 @@
     "src": [
       "PL-S-024",
       "PL-S-007",
-      "PL-S-032"
+      "PL-S-032",
+      "PL-S-116",
+      "PL-S-075"
     ],
     "log": [
       {
@@ -140,9 +142,13 @@
         "batch": "PL-B-004",
         "effect": "no change, 55",
         "note": "New for X-Q-01: a note dated 1934 in the Iňačovce volume for 1870-1898 shows that volume outlived the fire of 1930. That removes one reason to think the parish's books were lost, but says nothing about the volumes begun in 1899."
+      },
+      {
+        "batch": "PL-B-006",
+        "effect": "55 to 60; reworded; no longer filed under X-Q-01",
+        "note": "The coordinator asked whether this entry is a possibility or an explanation. It is a statement about what a series contains. The 1827 law is now sourced and no longer recalled. The locality list has still not been opened."
       }
-    ],
-    "question": "X-Q-01"
+    ]
   },
   {
     "id": "PL-H-006",
@@ -346,6 +352,79 @@
         "batch": "PL-B-004",
         "effect": "raised at 65",
         "note": "Answers the Demko agent's question DM→PL-003. 'Sztrajnyán' is itself a doubtful reading, and Šamudovce is a second candidate for Lastomír."
+      }
+    ]
+  },
+  {
+    "id": "PL-H-014",
+    "statement": "The Senné copy-book pages of 1837 to 1840 in the Duska agent's Folder 1 are the bishop's notes written from the back of the Senné Roman Catholic marriage volume for 1863-1886: Prešov state archive, church registers catalogue no. 1090, microfilm 287.",
+    "confidence": 80,
+    "basis": "The archive's catalogue describes volume no. 1090 as holding, from its reverse side, notes by the bishop of Szatmár for 1837-1840. The Duska agent's ten pages are dated entries of 1837 to 1840, countersigned as revised, and one cites a district meeting at Nagykapos, the district Senné lay in. Štefan Rácz was parish priest of Senné in those years.",
+    "test": "On FamilySearch film 1793682, the item that holds Senné marriages 1863-1886: the copy-book pages should be at its end, upside down or reversed. Or the owner's film and image numbers (RQ-4).",
+    "status": "supported",
+    "raised": "PL-B-006",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-075",
+      "PL-S-031",
+      "PL-S-038",
+      "PL-S-025"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-006",
+        "effect": "raised at 80, supported",
+        "note": "Found while answering the Duska agent's question about volume no. 1089. It names the volume and film for DUS:H-010 and RQ-4. Held under solved because this agent has the catalogue's description, not the pages."
+      }
+    ]
+  },
+  {
+    "id": "PL-H-015",
+    "question": "X-Q-01",
+    "statement": "For a birth of 1906 at Solymos, the record in Uzhhorod is the county's second copy of the state civil register made at Alsókánya.",
+    "confidence": 55,
+    "basis": "State registration began on 1 October 1895 and its books were kept in two copies; county archives hold the second copies as a series. The county seat of Ung was Ungvár. A civil entry of August 1906 for Solymos is in hand, headed at Alsókánya. So a second copy of that very entry was owed to Uzhhorod. Not shown for Ung by any source read here: that the second copies went to the county and survive in the Zakarpattia archive. That step rests on the practice in other counties.",
+    "test": "The fond and series title of the Uzhhorod record (RQ-6). A second copy of a civil register will be a printed Hungarian state form with a registrar's signature, not a priest's.",
+    "status": "open",
+    "raised": "PL-B-006",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-117",
+      "PL-S-118",
+      "PL-S-119",
+      "PL-S-104"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-006",
+        "effect": "raised at 55",
+        "note": "This agent's odds on the explanation, as the coordinator asked. Place evidence cannot separate this from PL-H-016: both kinds of copy would have been sent to the same town."
+      }
+    ]
+  },
+  {
+    "id": "PL-H-016",
+    "question": "X-Q-01",
+    "statement": "The record in Uzhhorod is a Greek Catholic entry held by the eparchy: a second copy or the bishop's own series.",
+    "confidence": 30,
+    "basis": "The eparchy's series at Uzhhorod runs to 1938 (PL-R-004), and no Iňačovce Greek Catholic volume after 1898 is in the Prešov archive, so a baptism of 1906 has no other known home. Against: whether Solymos is in that series is not checked, and the second-copy volumes seen in the Prešov catalogue stop in 1895, when state registration began.",
+    "test": "As PL-H-015. A church copy will name the officiating priest and the godparents.",
+    "status": "open",
+    "raised": "PL-B-006",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-024",
+      "PL-S-075",
+      "PL-S-116"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-006",
+        "effect": "raised at 30",
+        "note": "The rival to PL-H-015 on this board. The two sum to 85; the rest is for a record of some other kind or a birthplace now in Ukraine."
       }
     ]
   }

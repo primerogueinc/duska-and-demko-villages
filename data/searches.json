@@ -187,5 +187,23 @@
     "for": "Any name, place or fact from the owner's paternal grandmother's line or his mother's side",
     "found": "One general clause in interagent/to-coordinator.md, removed in this batch. No names, places or facts.",
     "note": "Search terms are not listed here, since listing them would publish them."
+  },
+  {
+    "id": "PL-SR-22",
+    "date": "2026-11-12",
+    "batch": "PL-B-006",
+    "where": "Prešov catalogue (PL-S-075), the Senné entry in full",
+    "for": "Gaps in the Senné volumes; what else the volumes hold",
+    "found": "No gap noted. Volume no. 1090 holds bishop's notes of 1837-1840 from its reverse side. No. 1089 has priests' names inside the binding.",
+    "note": "Asked by the Duska agent."
+  },
+  {
+    "id": "PL-SR-23",
+    "date": "2026-11-12",
+    "batch": "PL-B-006",
+    "where": "Open web",
+    "for": "The law on second copies of church registers and of state registers, and where Ung county's copies are",
+    "found": "The law of 1827 and the county-archive series are confirmed in general. Nothing found for Ung county itself.",
+    "note": "PL-SR-14 had this as recalled only; the law is now sourced."
   }
 ]

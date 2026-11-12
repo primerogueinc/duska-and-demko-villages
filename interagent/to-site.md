@@ -2,6 +2,12 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 12 Nov 2026, after batch PL-B-006
+
+On a branch until merged. No new files and no new fields. Three new hypotheses: `PL-H-014`, and `PL-H-015` and `PL-H-016`, which carry `"question": "X-Q-01"`. `PL-H-005` no longer carries a `question`. Cross-notes `PL-N-028` to `PL-N-030`. PL-B-005 changed no data.
+
+Counts: 31 places, 119 sources, 29 record sets, 16 hypotheses, 28 notes, 13 epidemic rows.
+
 ## 12 Nov 2026, after batch PL-B-004
 
 On `main` at `208af51`. No new files and no new fields. One new place, `PL-P-055` Lastomír (`kind: "residence"`, on the local map, position approximate). Four new record sets, `PL-R-055` to `PL-R-058`. One new hypothesis, `PL-H-013`. Two new epidemic rows, `PL-E-012` and `PL-E-013`. Cross-notes `PL-N-024` to `PL-N-027`; two of them have a `target` that is not a hypothesis (`"DM-D-040, DM-D-041"` and `"F-005"`), as `PL-N-007` already does.

@@ -160,5 +160,23 @@
     "date": "2026-11-12",
     "decided": "Searched the repo and the built page for anything from the lines outside the test. Found one clause, in the reason given for rule proposal PL-C-19 in the note to the coordinator, and removed it. Nothing else. Git history is not rewritten.",
     "why": "X-020 item 4: nothing about those lines goes into a public repo. X-015 item 5 on history."
+  },
+  {
+    "id": "PL-DEC-028",
+    "date": "2026-11-12",
+    "decided": "Read ledgers v15 and v16. Answered the coordinator's flag on PL-H-005 by rewording it as a statement about a record set, taking it out of X-Q-01, and raising PL-H-015 and PL-H-016 as this agent's odds on the explanation.",
+    "why": "The entry was being read as an explanation at 55 beside line boards at 30. It never was one."
+  },
+  {
+    "id": "PL-DEC-029",
+    "date": "2026-11-12",
+    "decided": "Raised PL-H-014 at 80 and not higher.",
+    "why": "The catalogue's description fits the Duska agent's pages by date, parish and diocese. This agent has not seen the volume or the pages."
+  },
+  {
+    "id": "PL-DEC-030",
+    "date": "2026-11-12",
+    "decided": "For the coordinator's entry C-18: this agent is shown four one-line descriptions of the Project's own memory notes on each turn. None of the lines shown names a surname beyond the two lines under test. It has not opened any of them since listing them with previews on 11 Nov, before the Sorter existed.",
+    "why": "X-021 item 4."
   }
 ]

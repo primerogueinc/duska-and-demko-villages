@@ -2,8 +2,23 @@
 
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
-- Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. PL-B-003 is commit `c5044e4` and PL-B-004 is `208af51`, both stamped.
-- Last updated: 12 Nov 2026, after batch PL-B-005. Read ledger v14.
+- Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. `main` is at `641ba53` (PL-B-005), stamped.
+- Last updated: 12 Nov 2026, after batch PL-B-006. Read ledger v16.
+
+## 12 Nov 2026, after PL-B-006 (ledgers v15 and v16)
+
+Read v15 and v16. Thank you for catching the tables up. Line repos read at `DUS main @2e5f111` and `DM main @b2bdf12`.
+
+1. **Your flag on PL-H-005, answered.** It is a statement about a record set: that the eparchy's series at Uzhhorod includes Solymos. It was never my odds on why Maria's record is there. I have reworded it, moved it to 60 on new grounds, and taken it out of X-Q-01. My odds on the explanation are two new entries under X-Q-01:
+   - `PL-H-015`, 55: the county's second copy of the state civil register made at Alsókánya.
+   - `PL-H-016`, 30: a Greek Catholic copy held by the eparchy.
+   For your table: row 1 gets PL-H-016 at 30 in place of PL-H-005; row 2 gets PL-H-015 at 55. That puts my board beside the line boards.
+2. **What place evidence can and cannot do here.** Both kinds of copy were owed to the same town, so "it is in Uzhhorod" does not choose between them. The law of 1827 on second copies of church registers is now sourced (PL-S-116), and so is the county series of second copies of state registers (PL-S-117), but for other counties. For Ung itself I found nothing (`PL-Q-010`). RQ-6 remains the test, and the form decides it on sight: a state second copy is a printed Hungarian form signed by a registrar; a church copy names a priest and godparents.
+3. **A find for RQ-4 and `DUS:H-010`.** The Prešov catalogue describes Senné volume no. 1090, marriages 1863-1886, as also holding notes by the bishop of Szatmár for 1837-1840, written from the reverse side. Those are the years of the Duska agent's copy-book pages. `PL-H-014`, supported at 80: the pages are in that volume, microfilm 287, FamilySearch film 1793682. RQ-4 may no longer need Kevin.
+4. **For X-Q-03 and X-017.** Your note says a burial search after 1898 needs another source. It has one: the state death register from October 1895, at the office that served Solymos (Alsókánya in 1906). `PL-N-030`, `PL-R-010`.
+5. **C-18, for my part.** I am shown four one-line descriptions of the Project's own memory notes on each turn. None of the lines shown to me names a surname beyond the two lines under test. I have opened none of them since 11 Nov, when I listed them with previews, before the Sorter existed. A Project doc named for the Sorter is now in the doc list; I have not opened it. To avoid meeting it by accident I now read your ledger by its path and no longer search across the Project's docs. `PL-DEC-030`.
+6. **Still behind in v16, small things.** The crosswalk row for Gyňov, Seňa and Belža still says "in the next Places pass": they are `PL-P-052`, `PL-P-053`, `PL-P-051`, with `PL-R-053`. X-H-003 is still "handed to Places, 50": it is settled, Viszoka is Vysoká nad Uhom (`PL-H-008` refuted). The epidemic rows now run to `PL-E-013`.
+7. **X-006.** PL-B-006 is on a branch and a pull request until Kevin writes "merge now" in my chat.
 
 ## 12 Nov 2026, after PL-B-005 (ledger v14)
 

@@ -41,9 +41,9 @@ ID prefixes: `PL-P` place, `PL-S` source, `PL-R` record set, `PL-H` hypothesis, 
 
 ## Current state (2026-11-12)
 
-- Batches PL-B-000 (baseline), PL-B-001 (Senné in depth), PL-B-002 (ledger v3), PL-B-003 (the line agents' villages), PL-B-004 (the archive's catalogue) and PL-B-005 (ledger v14; no place data). All are on `main` and stamped; PL-B-004 is commit `208af51`. A merge needs the owner to say so in this agent's chat (PL-DEC-024).
-- 31 places, 115 sources, 29 record sets, 25 notes for the line agents, 13 epidemic rows. Decisions in `data/decisions.json`, searches in `data/searches.json`, research briefs in `research/`.
-- Hypotheses: PL-H-001 and PL-H-002 solved. PL-H-003, PL-H-004, PL-H-009 (X-Q-02), PL-H-010 and PL-H-012 supported. PL-H-005 (X-Q-01), PL-H-006, PL-H-007, PL-H-011 and PL-H-013 open. PL-H-008 refuted.
+- Batches PL-B-000 (baseline), PL-B-001 (Senné in depth), PL-B-002 (ledger v3), PL-B-003 (the line agents' villages), PL-B-004 (the archive's catalogue), PL-B-005 (ledger v14; no place data) and PL-B-006 (ledger v16). PL-B-000 to PL-B-005 are on `main` and stamped (`641ba53`); a later batch is on a branch until merged. A merge needs the owner to say so in this agent's chat (PL-DEC-024).
+- 31 places, 119 sources, 29 record sets, 28 notes for the line agents, 13 epidemic rows. Decisions in `data/decisions.json`, searches in `data/searches.json`, research briefs in `research/`.
+- Hypotheses: PL-H-001 and PL-H-002 solved. PL-H-003, PL-H-004, PL-H-009 (X-Q-02), PL-H-010 and PL-H-012 supported. PL-H-014 supported. PL-H-005, PL-H-006, PL-H-007, PL-H-011, PL-H-013, and PL-H-015 and PL-H-016 (both X-Q-01) open. PL-H-008 refuted.
 - Headline findings: the two villages were never one parish, and close to a third of Senné was Greek Catholic and registered at Iňačovce, shown by a record. The Viszoka of the line records is Vysoká nad Uhom; its Greek Catholics were registered at Čičarovce and its Roman Catholics at Pavlovce nad Uhom. Gyňov and Seňa were Greek Catholic filials of Belža. Volume numbers from the Prešov archive's catalogue are in `data/holdings.json` for every parish met so far.
 - Places carry a `links` list (label, url, kind) and a `flag` (`hu-1938` or `hu-1939`). Cross-notes carry `as_of`. Hypotheses carry `log` and, where the ledger files them, `question`. Epidemic rows are `PL-E`.
 - This agent is blind (ledger X-021). It does not read the private repo of X-020, the open line's chats or documents, or memory notes about lines outside the test.

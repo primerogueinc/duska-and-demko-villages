@@ -12,7 +12,7 @@ import pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent
 NAMES = ["places", "jurisdictions", "holdings", "hypotheses", "crossnotes", "timeline",
-         "batches", "requests", "sources", "role", "basemap", "decisions", "searches"]
+         "batches", "requests", "sources", "role", "basemap", "decisions", "searches", "epidemics"]
 SENNE, INACOVCE = "PL-P-001", "PL-P-002"
 
 
@@ -52,7 +52,7 @@ def main():
     for c in data["jurisdictions"]["church"]:
         for s in c["steps"]:
             check(c["rite"] + " " + s["when"], s["src"])
-    for group in ("holdings", "hypotheses", "crossnotes", "timeline"):
+    for group in ("holdings", "hypotheses", "crossnotes", "timeline", "epidemics"):
         for x in data[group]:
             check(x.get("id", x.get("year")), x["src"])
     for b in data["batches"]:

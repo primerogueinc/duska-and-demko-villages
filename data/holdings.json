@@ -47,11 +47,12 @@
     "held": "State archive, Prešov",
     "online": "not checked",
     "status": "reported",
-    "note": "The parish's own book, kept from 1811. Births and marriages 1811-1898 are indexed. The run at Prešov stops in 1898. The church archive was badly damaged by lightning in 1929 and fire in 1930, so later volumes kept in the parish may not survive. See PL-H-005 for why a copy may sit in Uzhhorod.",
+    "note": "The parish's own book, kept from 1811 and held at Prešov, reportedly complete to 1898. No later volume is in the state archive. The church archive was badly damaged by lightning in 1929 and fire in 1930, so whether the volumes of 1899 onward survive, with the parish or at a registry office, is not known. Burials are not in the index seen, only births and marriages.",
     "src": [
       "PL-S-007",
       "PL-S-047",
-      "PL-S-046"
+      "PL-S-046",
+      "PL-S-093"
     ],
     "bears_on": [
       "DUS:H-005",
@@ -84,15 +85,16 @@
     "id": "PL-R-005",
     "group": "Church registers",
     "record": "Iňačovce Reformed register",
-    "years": "1747-1940",
+    "years": "1747-1940 by one list; 1819-1927 for births by another",
     "covers": "The Reformed of Iňačovce",
     "held": "State archive, Prešov. Kept at the Reformed mother church of Lúčky.",
     "online": "not checked",
     "status": "reported",
-    "note": "The Reformed of Iňačovce were a filial of Lúčky from 1747. If a Demko of Iňačovce was Reformed, this is the book, and Uzhhorod would hold nothing.",
+    "note": "The Reformed of Iňačovce were a filial of Lúčky and are entered in the Lúčky book. An index gives births 1819-1927 and marriages 1820-1926 and two film groups, 4406775 and 4406804, which are probably this book. The start year 1747 is not confirmed.",
     "src": [
       "PL-S-007",
-      "PL-S-046"
+      "PL-S-046",
+      "PL-S-047"
     ],
     "bears_on": [
       "DM-H-002"
@@ -119,19 +121,115 @@
     ]
   },
   {
+    "id": "PL-R-050",
+    "group": "Church registers",
+    "record": "Čičarovce (Csicser) Greek Catholic register",
+    "years": "1789-1907",
+    "covers": "Greek Catholics of Čičarovce and its filials: Vysoká nad Uhom, Pavlovce nad Uhom, Vojany, Beša, Ižkovce, Križany, Liesková",
+    "held": "State archive, Prešov, church registers catalogue: no. 180 (1789-1829), no. 181 (1830-1856), no. 182 (births and marriages 1857-1886, deaths 1851-1886; film 40-41), no. 182/1 (births 1887-1904, marriages 1887-1906, deaths 1887-1907; microfilm 432)",
+    "online": "two FamilySearch image groups reported, 4406715 and 4406819; not checked",
+    "status": "confirmed",
+    "note": "This is the book for a Viszoka baptism of 1882: volume no. 182. Burials for the fifteen years after it are in no. 182 to 1886 and in no. 182/1 from 1887. No. 180 contains a list of the parish's priests from 1781 to 1941.",
+    "src": [
+      "PL-S-075",
+      "PL-S-047"
+    ],
+    "bears_on": [
+      "DUS:H-015",
+      "DM-H-011",
+      "DM-H-010",
+      "DUS:H-012"
+    ]
+  },
+  {
+    "id": "PL-R-051",
+    "group": "Church registers",
+    "record": "Čičarovce Roman Catholic and Reformed registers",
+    "years": "Roman Catholic 1781-1936; Reformed 1771-1951",
+    "covers": "Roman Catholics of Čičarovce and its filials, which did not include Vysoká; the Reformed of Čičarovce",
+    "held": "State archive, Prešov: Roman Catholic nos. 174 to 179/1 (films 39-40, microfilm 430); Reformed nos. 183 and 183/1 (film 41, microfilm 432)",
+    "online": "not checked",
+    "status": "confirmed",
+    "note": "Listed so nobody searches them for a Viszoka Catholic: those are at Pavlovce (PL-R-052).",
+    "src": [
+      "PL-S-075",
+      "PL-S-072"
+    ],
+    "bears_on": [
+      "DUS:H-015"
+    ]
+  },
+  {
+    "id": "PL-R-052",
+    "group": "Church registers",
+    "record": "Pavlovce nad Uhom Roman Catholic register",
+    "years": "1818-1907 filmed; births 1795-1827 reported elsewhere",
+    "covers": "Roman Catholics of Pavlovce and its filials, Vysoká nad Uhom among them",
+    "held": "State archive, Prešov, volumes 795 to 798; FamilySearch catalogue 706219, three reels. Earlier births reported at the archdiocesan archive, Košice.",
+    "online": "FamilySearch catalogue; film numbers not obtained",
+    "status": "reported",
+    "note": "The other rite's book for a mixed couple of Viszoka. By one index the Prešov volumes hold births 1869-1896, marriages 1818-1897 and deaths 1878-1907, which leaves births of 1828 to 1868 unaccounted for.",
+    "src": [
+      "PL-S-087",
+      "PL-S-088",
+      "PL-S-086"
+    ],
+    "bears_on": [
+      "DM-H-009",
+      "DUS:H-013"
+    ]
+  },
+  {
+    "id": "PL-R-053",
+    "group": "Church registers",
+    "record": "Belža (Bölzse) Greek Catholic register",
+    "years": "1791-1896",
+    "covers": "Greek Catholics of Belža and its filials, Gyňov and Seňa among them",
+    "held": "State archive, Košice, collection of church registers; filmed in 1994",
+    "online": "film numbers not obtained",
+    "status": "reported",
+    "note": "By one index: births 1791-1896, marriages 1830-1890, deaths 1833-1896. The copies of 1894 and 1895 held by the Duska agent fall inside the run, so the originals should be here.",
+    "src": [
+      "PL-S-092",
+      "PL-S-094",
+      "PL-S-088"
+    ],
+    "bears_on": [
+      "DUS:H-016",
+      "DM-H-013"
+    ]
+  },
+  {
+    "id": "PL-R-054",
+    "group": "Church registers",
+    "record": "Kechnec Roman Catholic register; Seňa Reformed register",
+    "years": "Kechnec 1843-1895; Seňa Reformed 1794-1854",
+    "covers": "Roman Catholics of Kechnec, Milhosť and Seňa; the Reformed of Seňa",
+    "held": "Seňa Reformed: State archive, Košice, inventory volume II, item 741. Kechnec: by a register index.",
+    "online": "not checked",
+    "status": "lead",
+    "note": "For the non-Greek-Catholic side of a Seňa household.",
+    "src": [
+      "PL-S-047",
+      "PL-S-094"
+    ],
+    "bears_on": []
+  },
+  {
     "id": "PL-R-010",
     "group": "Civil registration",
     "record": "State registers of births, marriages and deaths",
     "years": "from 1 October 1895",
     "covers": "Everyone, whatever the church",
-    "held": "Registry office for the village; books pass to the state archive 100 years after their last entry",
+    "held": "Registry office for the village; books pass to the state archive 100 years after their last entry. For Solymos in 1906 the registrar sat at Alsókánya (Jastrabie).",
     "online": "not checked",
     "status": "confirmed in principle",
-    "note": "Start date confirmed: Law XXXIII of 1894, in force 1 October 1895. Three birth volumes of the Senné state register, 1895-1898, 1898-1900 and 1901-1906, appear in an index of FamilySearch image groups (5847168 to 5847170); not yet opened. The registry district and today's registry office are still to be found.",
+    "note": "Start date confirmed: Law XXXIII of 1894, in force 1 October 1895. Three birth volumes of the Senné state register, 1895-1898, 1898-1900 and 1901-1906, appear in an index of FamilySearch image groups (5847168 to 5847170); not yet opened. The registry district and today's registry office are still to be found. A state birth entry of 23 August 1906 for Solymos is headed as done at Alsókánya (a probable reading, DM-D-008). Whether Szenna used the same office is not known.",
     "src": [
       "PL-S-019",
       "PL-S-020",
-      "PL-S-047"
+      "PL-S-047",
+      "PL-S-104"
     ],
     "bears_on": [
       "DM-H-006",

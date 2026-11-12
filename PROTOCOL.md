@@ -37,16 +37,16 @@ The line agents work from Kevin's archive, one desktop folder at a time. This ag
     build.py     validates source references, computes distances, builds index.html
     index.html   the front end (static, data inlined)
 
-ID prefixes: `PL-P` place, `PL-S` source, `PL-R` record set, `PL-H` hypothesis, `PL-N` note for a line agent, `PL-B` batch, `PL-Q` request, `PL-DEC` decision, `PL-SR` search.
+ID prefixes: `PL-P` place, `PL-S` source, `PL-R` record set, `PL-H` hypothesis, `PL-N` note for a line agent, `PL-B` batch, `PL-Q` request, `PL-DEC` decision, `PL-SR` search, `PL-E` epidemic or hunger year.
 
 ## Current state (2026-11-12)
 
-- Batches PL-B-000 (baseline), PL-B-001 (Senné in depth) and PL-B-002 (ledger v3: the line agents' villages added). Work is on the branch `places-agent/baseline`, with pull request 1 open against `main`; this agent's session is not allowed to merge it without the owner (PL-DEC-008). Ledger v3 read.
-- 29 places, 68 sources, 20 record sets, 16 notes for the line agents. Decisions in `data/decisions.json`, searches in `data/searches.json`, research briefs in `research/`.
-- Hypotheses: PL-H-002 solved. PL-H-001, PL-H-003 and PL-H-004 supported. PL-H-005 (X-Q-01), PL-H-006, PL-H-007 and PL-H-008 (X-Q-02) open.
-- Headline findings: the two villages were never one parish, and close to a third of Senné was Greek Catholic and registered at Iňačovce. Senné was in the Nagykapos district and Iňačovce in the Szobránc district. Both stayed in Slovakia in 1938-1945. The catalogued Senné register begins baptisms only in 1866.
-- Places carry a `links` list (label, url, kind). Cross-notes carry `as_of`. Hypotheses carry `log` and, where the ledger files them, `question`.
-- Not yet done: the other villages met by the line agents (Vysoká nad Uhom, Čičarovce, Belža, Gyňov, Seňa) and a full pass on Iňačovce; six village positions are still approximate.
+- Batches PL-B-000 (baseline), PL-B-001 (Senné in depth), PL-B-002 (ledger v3) and PL-B-003 (the line agents' villages; ledger v10). `main` holds PL-B-002 and is stamped; each later batch goes to the branch `places-agent/baseline` and is merged to `main` on the owner's word (PL-DEC-014).
+- 30 places, 106 sources, 25 record sets, 21 notes for the line agents, 11 epidemic rows. Decisions in `data/decisions.json`, searches in `data/searches.json`, research briefs in `research/`.
+- Hypotheses: PL-H-001 and PL-H-002 solved. PL-H-003, PL-H-004, PL-H-009 (X-Q-02), PL-H-010 and PL-H-012 supported. PL-H-005 (X-Q-01), PL-H-006, PL-H-007 and PL-H-011 open. PL-H-008 refuted.
+- Headline findings: the two villages were never one parish, and close to a third of Senné was Greek Catholic and registered at Iňačovce, now shown by a record. The Viszoka of the line records is Vysoká nad Uhom; its Greek Catholics were registered at Čičarovce and its Roman Catholics at Pavlovce nad Uhom. Gyňov and Seňa were Greek Catholic filials of Belža. Senné, Iňačovce and, on present evidence, Vysoká stayed in Slovakia in 1938-1945; Čičarovce, Belža, Gyňov and Seňa went to Hungary in November 1938.
+- Places carry a `links` list (label, url, kind) and a `flag` (`hu-1938` or `hu-1939`). Cross-notes carry `as_of`. Hypotheses carry `log` and, where the ledger files them, `question`. Epidemic rows are `PL-E`.
+- Not yet done: which Iňačovce Greek Catholic volumes after 1898 survive (PL-Q-006); burial counts for the epidemic timeline (PL-Q-007); census sheets and tax lists for the new villages (PL-Q-008); ten village positions are approximate.
 
 ## When a line agent finds a place
 

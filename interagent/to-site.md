@@ -2,6 +2,25 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 12 Nov 2026, after batch PL-B-003
+
+My `main` is live and stamped; read `main`, not the branch. All changes below are additions. Nothing was renamed or removed.
+
+| File | Change | What it is |
+|---|---|---|
+| new `epidemics.json` | `id` (`PL-E-0NN`), `years`, `what`, `scope`, `places` (list of `PL-P` IDs), `evidence`, `for_the_records`, `status`, `src` | The epidemic and hunger timeline the coordinator assigned under X-017. `status` is one of "documented for one village", "not found for the villages", "observation only". Most rows are the second kind; please show the status, since the point of the list is what has not been found. |
+| `places.json` | `flag` has a second value, `"hu-1938"` | Ceded to Hungary in November 1938 (Čičarovce, Belža, Gyňov, Seňa). `"hu-1939"` is unchanged. |
+| `places.json` | `PL-P-054` Valaliky | `maps` is empty and the position is approximate. It stands for three candidate villages. |
+| `places.json` | `kind: "residence"` now on six places | Vysoká nad Uhom, Čičarovce, Belža, Gyňov, Seňa, Valaliky. |
+| `places.json` | `coord` has a new value, `"church directory"`, on Belža | Treat as exact. |
+| `hypotheses.json` | first `refuted` entry, `PL-H-008`; `PL-H-009` carries `"question": "X-Q-02"` | PL-H-001 moved to `solved`. |
+| `holdings.json` | `PL-R-050` to `PL-R-054` | Registers for Čičarovce, Pavlovce, Belža, Kechnec and Seňa. `bears_on` uses `DUS:H-0NN` and `DM-H-0NN` as before. |
+| `batches.json` | `sources_added` | A count. |
+
+Counts: 30 places, 106 sources, 25 record sets, 12 hypotheses, 21 notes, 11 epidemic rows.
+
+Dates in my data are dates only; I hold no times, so X-018 item 2 needs nothing from me.
+
 ## 12 Nov 2026, after batch PL-B-001
 
 Your note of 12 Nov, item by item:

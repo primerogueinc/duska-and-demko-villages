@@ -149,7 +149,7 @@ footer{padding:36px 0 48px;color:var(--muted);font-size:13.5px}
   <ul class="stats" id="stats"></ul>
 </div></header>
 <nav class="toc" aria-label="Sections"><div class="wrap">
-  <a href="#map">Map</a><a href="#villages">The two villages</a><a href="#jurisdictions">Who governed</a><a href="#churches">Who baptised</a><a href="#records">Where the records are</a><a href="#notes">Notes for the line agents</a><a href="#hypotheses">Place hypotheses</a><a href="#gazetteer">Gazetteer</a><a href="#timeline">Timeline</a><a href="#batches">Batches</a><a href="#requests">Requests</a><a href="#decisions">Decisions</a><a href="#searches">Searches</a><a href="#sources">Sources</a><a href="#role">Brief</a>
+  <a href="#map">Map</a><a href="#villages">The two villages</a><a href="#jurisdictions">Who governed</a><a href="#churches">Who baptised</a><a href="#records">Where the records are</a><a href="#notes">Notes for the line agents</a><a href="#hypotheses">Place hypotheses</a><a href="#gazetteer">Gazetteer</a><a href="#timeline">Timeline</a><a href="#epidemics">Epidemics and hunger</a><a href="#batches">Batches</a><a href="#requests">Requests</a><a href="#decisions">Decisions</a><a href="#searches">Searches</a><a href="#sources">Sources</a><a href="#role">Brief</a>
 </div></nav>
 <main class="wrap">
   <section id="map"><h2>Map</h2><p class="sub">The neighbourhood first, then the region. Positions are plotted from coordinates; a hollow mark means the village was placed from memory and may be a kilometre or two out.</p>
@@ -165,11 +165,12 @@ footer{padding:36px 0 48px;color:var(--muted);font-size:13.5px}
   <section id="villages"><h2>The two villages</h2><p class="sub">Side by side. Every line cites its source; the reference opens the entry in the source list.</p><div class="two" id="villages-body"></div></section>
   <section id="jurisdictions"><h2>Who governed</h2><p class="sub">State, county and district by period, and what each change did to the paper trail.</p><div class="tablewrap"><table class="civil" id="civil"></table></div></section>
   <section id="churches"><h2>Who baptised</h2><p class="sub">The two villages were never one parish. Each church kept its own book, and each answered to a different bishop.</p><div class="rites" id="rites"></div></section>
-  <section id="records"><h2>Where the records are</h2><p class="sub">Record sets for the two villages, with where each is kept. Status says how far this page has got: confirmed from a source, reported second-hand, or only a lead.</p><div id="records-body"></div></section>
+  <section id="records"><h2>Where the records are</h2><p class="sub">Record sets for the two villages and for the other parishes the line agents have met, with where each is kept. Status says how far this page has got: confirmed from a source, reported second-hand, or only a lead.</p><div id="records-body"></div></section>
   <section id="notes"><h2>Notes for the line agents</h2><p class="sub">What the places say about hypotheses open on the Duska and Demko boards. A note can lean; only the line agent rules.</p><div id="notes-body"></div></section>
   <section id="hypotheses"><h2>Place hypotheses</h2><p class="sub">Predictions about places and record-keeping, each with odds and a named test.</p><div id="hyp-body"></div></section>
   <section id="gazetteer"><h2>Gazetteer</h2><p class="sub">Every other place on the maps or in the notes, with the names it has gone by and why it matters here.</p><div id="gaz-body"></div></section>
-  <section id="timeline"><h2>Timeline</h2><p class="sub">Dated events for the two villages.</p><ul class="tl" id="tl-body"></ul></section>
+  <section id="timeline"><h2>Timeline</h2><p class="sub">Dated events for the two villages and the others in the records.</p><ul class="tl" id="tl-body"></ul></section>
+  <section id="epidemics"><h2>Epidemics and hunger</h2><p class="sub">Asked for by the coordinator, for the rule on reused names of dead children. Each year claimed has its own number. Most rows say what has not been found: the regional waves are dated, but no burial has been counted yet for Senné, Iňačovce or Vysoká nad Uhom.</p><div id="epi-body"></div></section>
   <section id="batches"><h2>Batch log</h2><div id="batches-body"></div></section>
   <section id="requests"><h2>Request queue</h2><p class="sub">What would move this page on.</p><div id="req-body"></div></section>
   <section id="decisions"><h2>Decisions</h2><p class="sub">Taken without waiting for the owner, under his standing instruction, and logged here.</p><div id="dec-body"></div></section>
@@ -207,7 +208,7 @@ const LBL = {
           "PL-P-014":[10,4,"start"],"PL-P-015":[11,4,"start"],"PL-P-020":[0,20,"middle"],"PL-P-021":[11,4,"start"],"PL-P-022":[12,4,"start"],"PL-P-023":[11,4,"start"],
           "PL-P-024":[0,22,"middle"],"PL-P-036":[11,4,"start"],"PL-P-037":[0,-12,"middle"],"PL-P-050":[-10,4,"end"]},
   regional: {"HOME":[0,22,"middle"],"PL-P-021":[-9,4,"end"],"PL-P-022":[10,-3,"start"],"PL-P-023":[-9,4,"end"],"PL-P-024":[10,8,"start"],"PL-P-030":[10,4,"start"],
-             "PL-P-031":[-10,4,"end"],"PL-P-032":[10,4,"start"],"PL-P-033":[-10,4,"end"],"PL-P-034":[-10,4,"end"],"PL-P-035":[10,4,"start"],"PL-P-051":[10,14,"start"]}
+             "PL-P-031":[-10,4,"end"],"PL-P-032":[10,4,"start"],"PL-P-033":[-10,4,"end"],"PL-P-034":[-10,4,"end"],"PL-P-035":[10,4,"start"],"PL-P-051":[-11,-7,"end"]}
 };
 const ALT = {"PL-P-021":"Nagykapos","PL-P-022":"Szobránc","PL-P-023":"Nagymihály","PL-P-024":"Ungvár","PL-P-030":"Eperjes","PL-P-031":"Beregszász","PL-P-032":"Kassa","PL-P-033":"Szatmár","PL-P-034":"Munkács","PL-P-012":"Kisszeretva"};
 
@@ -258,7 +259,7 @@ function drawMap(target, o) {
   const shown = o.name === "regional" ? P.filter(p => p.maps.includes("regional") && p.kind !== "home") : P.filter(p => p.maps.includes("local"));
   for (const p of shown) {
     const x = X(p.lon), y = Y(p.lat), approx = p.coord === "approximate";
-    if (p.flag === "hu-1939") g += `<circle cx="${x}" cy="${y}" r="10.5" fill="none" stroke="var(--open)" stroke-width="1.6" stroke-dasharray="3 2.4"/>`;
+    if (p.flag === "hu-1939" || p.flag === "hu-1938") g += `<circle cx="${x}" cy="${y}" r="10.5" fill="none" stroke="var(--open)" stroke-width="1.6" stroke-dasharray="3 2.4"/>`;
     g += mark(p.kind, x, y, approx);
     const [dx, dy, anc] = lbl[p.id] || [9, 4, "start"];
     const alt = ALT[p.id] && o.name === "local" ? ` <tspan class="small" font-size="${fs - 1.5}" font-weight="400">${esc(ALT[p.id])}</tspan>` : "";
@@ -283,7 +284,7 @@ drawMap("map-regional", {name: "regional", bbox: [21.1, 47.7, 23.0, 49.1], width
   riverAt: {"Tisza": .45, "Latorica": .78, "Hornád": .55, "Someș": .72},
   countries: [["SLOVAKIA", 21.62, 48.9], ["UKRAINE", 22.72, 48.82], ["HUNGARY", 21.72, 47.93], ["ROMANIA", 22.45, 47.745]],
   aria: "Regional map from Košice and Prešov in the west to Mukachevo in the east and Satu Mare in the south."});
-$("cap-local").innerHTML = `Senné and Iňačovce lie ${DATA.home_km} km apart. Thin lines run from Senné to the villages that were filials of its Roman Catholic parish at the bishop's visitation of 1734 ${ref1("PL-S-009")}. A dashed ring marks a place taken by Hungary in March or April 1939 ${ref1("PL-S-003")} ${ref1("PL-S-034")}; both family villages stayed in Slovakia ${ref1("PL-S-015")}. The dash-dot line is today's border with Ukraine, drawn from 1:10m data and good to a kilometre or two. The Uh and the Laborec are not in that data and are not drawn.`;
+$("cap-local").innerHTML = `Senné and Iňačovce lie ${DATA.home_km} km apart. Thin lines run from Senné to the villages that were filials of its Roman Catholic parish at the bishop's visitation of 1734 ${ref1("PL-S-009")}. A dashed ring marks a place that went to Hungary, in November 1938 or in March and April 1939 ${ref1("PL-S-003")} ${ref1("PL-S-034")} ${ref1("PL-S-089")}; both family villages stayed in Slovakia ${ref1("PL-S-015")}, and so, on the evidence so far, did Vysoká nad Uhom (<a class="ref" href="#PL-H-012">PL-H-012</a>). The dash-dot line is today's border with Ukraine, drawn from 1:10m data and good to a kilometre or two. The Uh and the Laborec are not in that data and are not drawn.`;
 $("cap-regional").innerHTML = `The dotted box is the area of the first map. Rivers and borders from Natural Earth ${ref1("PL-S-033")}. Eger, the bishop's seat before 1804, is off the sheet to the south-west.`;
 const kitem = (svg, text) => `<li><svg viewBox="0 0 30 16" aria-hidden="true">${svg}</svg><span>${text}</span></li>`;
 $("key").innerHTML = [
@@ -295,7 +296,7 @@ $("key").innerHTML = [
   kitem(mark("archive", 15, 8, false), "Archive holding records of the villages"),
   kitem(mark("origin", 15, 8, false), "Named origin of settlers after 1720"),
   kitem(mark("residence", 15, 8, false), "Home named in a line agent's record"),
-  kitem(`<circle cx="15" cy="8" r="6.5" fill="none" stroke="var(--open)" stroke-width="1.6" stroke-dasharray="3 2.4"/>`, "Taken by Hungary in 1939"),
+  kitem(`<circle cx="15" cy="8" r="6.5" fill="none" stroke="var(--open)" stroke-width="1.6" stroke-dasharray="3 2.4"/>`, "Under Hungary, 1938 or 1939 to 1945"),
   kitem(`<line x1="2" y1="8" x2="28" y2="8" stroke="var(--accent)" stroke-width="1.2" opacity=".6"/>`, "Tie to the Senné parish"),
   kitem(`<line x1="2" y1="8" x2="28" y2="8" stroke="var(--frontier)" stroke-width="1.5" stroke-dasharray="7 4 1.5 4"/>`, "State border today")
 ].join("");
@@ -342,6 +343,8 @@ $("gaz-body").innerHTML = P.filter(p => p.kind !== "home").map(p => { const d = 
    <p>${esc(p.role)}</p>${p.facts.map(f => `<p class="meta">${esc(f.text)} ${refs(f.src)}</p>`).join("")}${linkList(p)}`); }).join("");
 
 /* ---------- the rest ---------- */
+$("epi-body").innerHTML = DATA.epidemics.map(e => row(e.id,
+  `<div class="head">${pill(e.status.startsWith("documented") ? "confirmed" : e.status.startsWith("observation") ? "neutral" : "open", e.status)}<span class="meta">${esc(e.scope)}</span></div><p><b>${esc(e.years)}.</b> ${esc(e.what)}. ${esc(e.evidence)}</p><p class="try"><b>For the registers.</b> ${esc(e.for_the_records)}</p><div class="meta">${(e.places || []).map(id => `<a class="ref" href="#${esc(id)}">${esc(byId[id] ? byId[id].name : id)}</a>`).join(" ")} ${refs(e.src)}</div>`)).join("");
 $("tl-body").innerHTML = DATA.timeline.map(t => `<li><span class="y">${esc(t.year)}</span><span class="p">${esc(t.place)}</span><span>${esc(t.text)} ${refs(t.src)}</span></li>`).join("");
 $("batches-body").innerHTML = DATA.batches.slice().reverse().map(b => row(b.id,
   `<div class="head"><h3>${esc(b.title)}</h3><span class="meta">${esc(b.date)}</span></div><p>${esc(b.blurb)}</p>

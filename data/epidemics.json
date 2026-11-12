@@ -1,0 +1,169 @@
+[
+  {
+    "id": "PL-E-001",
+    "years": "1709-1710",
+    "what": "Plague",
+    "scope": "documented for Vysoká nad Uhom; regional",
+    "places": [
+      "PL-P-037",
+      "PL-P-051"
+    ],
+    "evidence": "The Vysoká municipal history ties the tax list of 1715, 8 households, to the plague of 1709-1710. Belža was resettled after the same plague. Senné had 5 households in 1715 and Iňačovce 8; their sources blame the wars and do not name the plague.",
+    "for_the_records": "Before any parish register that survives for these villages. It explains why most families of the 19th century arrived after 1720.",
+    "status": "documented for one village",
+    "src": [
+      "PL-S-070",
+      "PL-S-095",
+      "PL-S-002",
+      "PL-S-005"
+    ]
+  },
+  {
+    "id": "PL-E-002",
+    "years": "1831-1832",
+    "what": "Cholera, first wave",
+    "scope": "regional only",
+    "places": [
+      "PL-P-001",
+      "PL-P-002",
+      "PL-P-037"
+    ],
+    "evidence": "About 100,000 deaths in Hungary. Zemplén, next door, was among the first counties struck; Ung is not on that list. Nothing found for the three villages.",
+    "for_the_records": "The surviving Senné Roman Catholic burial volume begins in 1831. Counting its burials by month for 1831 and 1832 is the test.",
+    "status": "not found for the villages",
+    "src": [
+      "PL-S-105",
+      "PL-S-025"
+    ]
+  },
+  {
+    "id": "PL-E-003",
+    "years": "1845-1847",
+    "what": "Hunger: the potato failure",
+    "scope": "regional only",
+    "places": [],
+    "evidence": "A European failure. Nothing village-level found.",
+    "for_the_records": "Look for a rise in burials of the old and the very young in 1846 and 1847.",
+    "status": "not found for the villages",
+    "src": [
+      "PL-S-105"
+    ]
+  },
+  {
+    "id": "PL-E-004",
+    "years": "1848-1849",
+    "what": "Cholera, second wave, in wartime",
+    "scope": "regional only",
+    "places": [],
+    "evidence": "Nothing village-level found.",
+    "for_the_records": "Senné and Čičarovce burial volumes cover these years.",
+    "status": "not found for the villages",
+    "src": [
+      "PL-S-105"
+    ]
+  },
+  {
+    "id": "PL-E-005",
+    "years": "1854-1855",
+    "what": "Cholera, third wave",
+    "scope": "regional only",
+    "places": [],
+    "evidence": "Nothing village-level found.",
+    "for_the_records": "The Čičarovce Greek Catholic burial volume no. 182 begins in 1851 and covers Viszoka.",
+    "status": "not found for the villages",
+    "src": [
+      "PL-S-105",
+      "PL-S-075"
+    ]
+  },
+  {
+    "id": "PL-E-006",
+    "years": "1866-1867",
+    "what": "Cholera, fourth wave",
+    "scope": "regional only",
+    "places": [],
+    "evidence": "Nothing village-level found.",
+    "for_the_records": "As above.",
+    "status": "not found for the villages",
+    "src": [
+      "PL-S-105"
+    ]
+  },
+  {
+    "id": "PL-E-007",
+    "years": "1872-1873",
+    "what": "Cholera, fifth wave; diphtheria established in Hungary in 1873",
+    "scope": "regional; one observation in the records in hand",
+    "places": [],
+    "evidence": "In one Greek Catholic parish of Zemplén nearly every death entry of summer 1873 gives cholera as the cause. In the records in hand: twins born in May 1873 are both marked dead, with no cause written and a residence that is not one of the three villages.",
+    "for_the_records": "The first wave for which all three villages have a burial volume in an archive. Causes of death should be written in.",
+    "status": "not found for the villages",
+    "src": [
+      "PL-S-105",
+      "PL-S-104"
+    ]
+  },
+  {
+    "id": "PL-E-008",
+    "years": "1879-1880",
+    "what": "Hunger after cold wet years",
+    "scope": "regional only (Zemplén and Borsod)",
+    "places": [
+      "PL-P-037"
+    ],
+    "evidence": "A penury is documented for the two counties to the west. In the records in hand: a child of Viszoka no. 120 dead at twelve days in March 1879, no cause written.",
+    "for_the_records": "One infant death is not a pattern. Count the Viszoka burials for 1879 and 1880 in volume no. 182.",
+    "status": "not found for the villages",
+    "src": [
+      "PL-S-105",
+      "PL-S-104"
+    ]
+  },
+  {
+    "id": "PL-E-009",
+    "years": "1892-1893",
+    "what": "Cholera, a later wave",
+    "scope": "regional only",
+    "places": [],
+    "evidence": "Nothing village-level found. In the records in hand: a child of Jesztreb no. 71 dead at sixteen months in March 1891, the year before, no cause written.",
+    "for_the_records": "The Iňačovce Greek Catholic index seen has no burials at all, only births and marriages. Whether a burial volume exists for these years is open.",
+    "status": "not found for the villages",
+    "src": [
+      "PL-S-105",
+      "PL-S-104",
+      "PL-S-047"
+    ]
+  },
+  {
+    "id": "PL-E-010",
+    "years": "1940-1942",
+    "what": "Cattle deaths, failed harvests and hunger",
+    "scope": "documented for Senné",
+    "places": [
+      "PL-P-001"
+    ],
+    "evidence": "About 600 cows died in Senné in 1940 and the harvests failed until 1942. The church chronicle records hunger in 1941.",
+    "for_the_records": "Inside living memory and after the filmed registers end.",
+    "status": "documented for one village",
+    "src": [
+      "PL-S-003"
+    ]
+  },
+  {
+    "id": "PL-E-011",
+    "years": "1857 and 1870",
+    "what": "Single infant deaths outside the known waves",
+    "scope": "observations in the records in hand",
+    "places": [
+      "PL-P-037",
+      "PL-P-001"
+    ],
+    "evidence": "A first child of Viszoka no. 79 dead at six weeks in February 1857; a newborn of Szenna dead in February 1870. No cause written on either.",
+    "for_the_records": "Ordinary infant mortality, at about three in ten, produces these without any epidemic. Listed so they are not later mistaken for evidence of one.",
+    "status": "observation only",
+    "src": [
+      "PL-S-104",
+      "PL-S-105"
+    ]
+  }
+]

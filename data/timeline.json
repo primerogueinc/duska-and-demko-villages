@@ -1,5 +1,11 @@
 [
   {
+    "year": "1214",
+    "place": "Vysoká nad Uhom",
+    "text": "First written record, as Vyzaka, in a royal charter for the provostry of Lelesz.",
+    "src": "PL-S-070"
+  },
+  {
     "year": "1263",
     "place": "Senné",
     "text": "First written record, as Scinna: the king gives the village to Jakov, county head of Uzhhorod.",
@@ -46,6 +52,12 @@
     "place": "both",
     "text": "Rákóczi's rising. The Latin parishes of the county have to be rebuilt afterwards, Senné among them.",
     "src": "PL-S-011"
+  },
+  {
+    "year": "1709-1710",
+    "place": "Vysoká nad Uhom",
+    "text": "Plague. The tax list of 1715 finds 8 households (PL-E-001).",
+    "src": "PL-S-070"
   },
   {
     "year": "1715",
@@ -100,6 +112,12 @@
     "src": "PL-S-032"
   },
   {
+    "year": "1774-1782",
+    "place": "Belža",
+    "text": "The parish survey lists a Greek Catholic mother church at Bölzse with Gönyű and Szina among its filials.",
+    "src": "PL-S-076"
+  },
+  {
     "year": "1778",
     "place": "Senné",
     "text": "A water mill on an arm of the Uh is first recorded.",
@@ -116,6 +134,12 @@
     "place": "Senné",
     "text": "The Roman Catholic parishes of Ung county pass from Eger to the new diocese of Szatmár.",
     "src": "PL-S-011"
+  },
+  {
+    "year": "1806",
+    "place": "Vysoká nad Uhom",
+    "text": "Its Greek Catholics move from the Bežovce parish to the Čičarovce parish, where they stay until the 1940s.",
+    "src": "PL-S-071"
   },
   {
     "year": "1807",
@@ -190,6 +214,12 @@
     "src": "PL-S-001"
   },
   {
+    "year": "1882",
+    "place": "Čičarovce",
+    "text": "Ján Csurgovics becomes Greek Catholic parish priest, after Jozef Kubek (1847-1881). He serves to 1886.",
+    "src": "PL-S-072"
+  },
+  {
     "year": "1895",
     "place": "both",
     "text": "State civil registration begins on 1 October.",
@@ -203,6 +233,18 @@
       "PL-S-042",
       "PL-S-039"
     ]
+  },
+  {
+    "year": "1904",
+    "place": "Vysoká nad Uhom",
+    "text": "Renamed Magasrév by the Hungarian place-name law; another source says the old name ran to 1899.",
+    "src": "PL-S-057"
+  },
+  {
+    "year": "1906",
+    "place": "Iňačovce",
+    "text": "A birth at Solymos is entered by the state registrar at Alsókánya (Jastrabie).",
+    "src": "PL-S-104"
   },
   {
     "year": "1909",
@@ -271,6 +313,12 @@
     ]
   },
   {
+    "year": "1938",
+    "place": "Čičarovce",
+    "text": "Ceded to Hungary in November with the Veľké Kapušany district. Belža, Gyňov and Seňa, south of Košice, go the same month.",
+    "src": "PL-S-089"
+  },
+  {
     "year": "1939",
     "place": "both",
     "text": "Little War, 23 to 31 March. Slovak volunteers hold Senné; an air fight is seen over the village. The new border runs about 2 km away.",
@@ -323,6 +371,12 @@
     "place": "Senné",
     "text": "The manor is nationalised by decree of 27 November; from 1946 it is the school.",
     "src": "PL-S-041"
+  },
+  {
+    "year": "1948",
+    "place": "Vysoká nad Uhom",
+    "text": "Becomes a Greek Catholic parish of its own on 26 September, after provisional status from 1945.",
+    "src": "PL-S-071"
   },
   {
     "year": "1955",

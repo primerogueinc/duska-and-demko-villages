@@ -2,8 +2,34 @@
 
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
-- Places repo: https://github.com/primerogueinc/duska-and-demko-villages, work is on the branch `places-agent/baseline`. Pull request 1 is open against `main`.
-- Last updated: 12 Nov 2026, after batch PL-B-002. Read ledger v3.
+- Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`.
+- Last updated: 12 Nov 2026, after batch PL-B-003. Read ledger v10.
+
+## 12 Nov 2026, after PL-B-003 (ledger v10)
+
+Read ledger v10 and method note 1. Line repos read at `DUS main @9e5061e` and `DM main @538d6b5`.
+
+### Rulings and answers
+
+1. **X-Q-02, ruled as owner.** `PL-H-009`, supported at 93: the 1882 strip is from the Greek Catholic register of Čičarovce, Prešov state archive, church registers catalogue no. 182. `PL-H-008` is refuted (3). Grounds: Vysoká nad Uhom had 142 houses in 1880 and was the only Viszoka in Ung county (PL-S-074, PL-S-057); its Greek Catholics were a filial of Čičarovce from 1806 to the 1940s (PL-S-071); Ján Csurgovics was Greek Catholic parish priest there from 1882 to 1886, after Jozef Kubek (PL-S-072); the archive's catalogue lists Vysoká in that parish's district (PL-S-075); and `DM-D-014`, `DM-D-018`, `DM-D-019 @538d6b5` carry those two priests' signatures in that order. Against `DUS:H-015`: the Roman Catholics of Viszoka belonged to Pavlovce nad Uhom, and the Roman Catholic priest of Čičarovce was another man. Suggested table for X-Q-02: Greek Catholic register of Čičarovce 93; Roman Catholic register of Čičarovce 5; not Vysoká 3. It is not `solved`: no header and no archive image is in hand, and X-009 is the right standard for a book as for a person. RQ-2 remains the closing test. Your "Coordinator's view" can drop the question mark on the priest; the surname claim no longer rests on recall.
+2. **`PL-H-001` solved at 96**, on `DM-D-037 @538d6b5`: an 1861 entry in the Iňačovce Greek Catholic book with the residence Szenna. In "Relayed findings", "supported, 90" can become "solved, 96".
+3. **Relayed findings, third bullet (Vysoká in 1939).** It stands, but I owe you the doubt. My second research pass said the opposite, from two municipal histories and a census database. I re-read the Slovak state's 1940 list: Vysoká is in the Michalovce district with 230 houses; Bežovce, Blatná Polianka, Blatné Remety, Lekárovce and Čičarovce are absent. Raised as `PL-H-012`, supported at 80, with the test named. Please add "PL-H-012, 80" to that bullet. New and certain: Čičarovce, the Greek Catholic parish seat for Vysoká, went to Hungary in November 1938, so a Viszoka Greek Catholic's parish office was abroad from 1938 to 1945.
+4. **X-Q-01, the assignment: not answered.** No Iňačovce Greek Catholic volume later than 1898 is in the Prešov state archive (PL-S-093, PL-S-047). Where the later books are, or whether they burned, is unknown. `PL-Q-006`. `PL-H-005` unchanged at 55: the locality list of FamilySearch catalogue 1411329 could not be opened a second time.
+5. **Epidemic timeline, delivered as assigned.** `data/epidemics.json`, `PL-E-001` to `PL-E-011`. Two rows are documented for a village: plague of 1709-1710 at Vysoká, and cattle deaths and hunger at Senné in 1940-1942. Every cholera wave in your X-017 item 4 is a row marked "not found for the villages". The Demko agent's infant deaths are entered as observations. The honest summary is that the timeline is regional until someone counts burials (`PL-Q-007`).
+6. **Crosswalk.** Gyňov `PL-P-052`, Seňa `PL-P-053`, Belža `PL-P-051`, with the Belža Greek Catholic register as `PL-R-053` (Košice state archive, 1791-1896). Čičarovce is `PL-P-050` and its Greek Catholic register `PL-R-050`. The Duska agent's Folder 3 reading is supported (`PL-H-010`, 85). A new place, `PL-P-054` Valaliky, holds the three candidates for the "-falva" village (`PL-H-011`, 50).
+7. **X-Q-04.** Context only: about 60 km, two counties, two eparchies, no estate or migration link found (`PL-N-022`, `PL-N-023`). It leans to "different families" and cannot decide it.
+8. **A record-keeping fact for X-A-001.** The Solymos civil registrar sat at Alsókánya (Jastrabie) in 1906, from `DM-D-008`. Recorded at `PL-R-010`.
+
+### Blind test and publication
+
+9. **Second research pass, report for the contamination log.** Open web only. It reports that no personal connector was queried or returned anything, and that nothing written by Kevin appeared in its results. Self-reported, not verifiable. `PL-DEC-015`.
+10. **X-013 check before this push.** No living person is named. Priests and the people quoted from line hypotheses were all born before 1900. No dates of living people, no match lists, no host name of Kevin's site.
+11. **X-006.** Kevin told me in my chat to merge. See the top of this note for where `main` stands.
+12. **New ID prefix:** `PL-E` for epidemic rows.
+
+### Not done
+
+Burial counts; the 1869, 1921, 1930 and 1941 census sheets for the new villages; the tax lists of 1715, 1720 and 1828 for them; the reason for the Slovak-form copies. Listed as `PL-Q-007` and `PL-Q-008`.
 
 ## 12 Nov 2026, after PL-B-002 (ledger v3)
 

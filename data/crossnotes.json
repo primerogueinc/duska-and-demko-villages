@@ -15,7 +15,7 @@
       "PL-S-025",
       "PL-S-047"
     ],
-    "as_of": "DUS main @1ac4e08, 12 Nov 2026"
+    "as_of": "DUS main @9e5061e, 12 Nov 2026"
   },
   {
     "id": "PL-N-002",
@@ -33,7 +33,7 @@
       "PL-S-039",
       "PL-S-046"
     ],
-    "as_of": "DUS main @1ac4e08, 12 Nov 2026"
+    "as_of": "DUS main @9e5061e, 12 Nov 2026"
   },
   {
     "id": "PL-N-003",
@@ -49,7 +49,7 @@
       "PL-S-053",
       "PL-S-054"
     ],
-    "as_of": "DUS main @1ac4e08, 12 Nov 2026"
+    "as_of": "DUS main @9e5061e, 12 Nov 2026"
   },
   {
     "id": "PL-N-004",
@@ -63,7 +63,7 @@
       "PL-S-028",
       "PL-S-015"
     ],
-    "as_of": "DUS main @1ac4e08, 12 Nov 2026"
+    "as_of": "DUS main @9e5061e, 12 Nov 2026"
   },
   {
     "id": "PL-N-005",
@@ -81,7 +81,7 @@
       "PL-S-050",
       "PL-S-052"
     ],
-    "as_of": "DUS main @1ac4e08, 12 Nov 2026"
+    "as_of": "DUS main @9e5061e, 12 Nov 2026"
   },
   {
     "id": "PL-N-006",
@@ -96,7 +96,7 @@
       "PL-S-003",
       "PL-S-014"
     ],
-    "as_of": "DUS main @1ac4e08, 12 Nov 2026"
+    "as_of": "DUS main @9e5061e, 12 Nov 2026"
   },
   {
     "id": "PL-N-007",
@@ -109,7 +109,7 @@
     "src": [
       "PL-S-012"
     ],
-    "as_of": "DUS main @1ac4e08, 12 Nov 2026"
+    "as_of": "DUS main @9e5061e, 12 Nov 2026"
   },
   {
     "id": "PL-N-010",
@@ -124,7 +124,7 @@
       "PL-S-011",
       "PL-S-007"
     ],
-    "as_of": "DM main @035aef0, 12 Nov 2026"
+    "as_of": "DM main @538d6b5, 12 Nov 2026"
   },
   {
     "id": "PL-N-011",
@@ -139,7 +139,7 @@
       "PL-S-032",
       "PL-S-023"
     ],
-    "as_of": "DM main @035aef0, 12 Nov 2026"
+    "as_of": "DM main @538d6b5, 12 Nov 2026"
   },
   {
     "id": "PL-N-012",
@@ -153,7 +153,7 @@
       "PL-S-024",
       "PL-S-007"
     ],
-    "as_of": "DM main @035aef0, 12 Nov 2026"
+    "as_of": "DM main @538d6b5, 12 Nov 2026"
   },
   {
     "id": "PL-N-013",
@@ -167,7 +167,7 @@
       "PL-S-019",
       "PL-S-020"
     ],
-    "as_of": "DM main @035aef0, 12 Nov 2026"
+    "as_of": "DM main @538d6b5, 12 Nov 2026"
   },
   {
     "id": "PL-N-014",
@@ -182,7 +182,7 @@
       "PL-S-006",
       "PL-S-005"
     ],
-    "as_of": "DM main @035aef0, 12 Nov 2026"
+    "as_of": "DM main @538d6b5, 12 Nov 2026"
   },
   {
     "id": "PL-N-015",
@@ -195,7 +195,7 @@
     "src": [
       "PL-S-009"
     ],
-    "as_of": "DM main @035aef0, 12 Nov 2026"
+    "as_of": "DM main @538d6b5, 12 Nov 2026"
   },
   {
     "id": "PL-N-016",
@@ -208,7 +208,7 @@
     "src": [
       "PL-S-019"
     ],
-    "as_of": "DM main @035aef0, 12 Nov 2026"
+    "as_of": "DM main @538d6b5, 12 Nov 2026"
   },
   {
     "id": "PL-N-017",
@@ -224,7 +224,7 @@
       "PL-S-046",
       "PL-S-047"
     ],
-    "as_of": "DM main @035aef0, 12 Nov 2026"
+    "as_of": "DM main @538d6b5, 12 Nov 2026"
   },
   {
     "id": "PL-N-018",
@@ -239,6 +239,81 @@
       "PL-S-047",
       "PL-S-007"
     ],
-    "as_of": "DM main @035aef0, 12 Nov 2026"
+    "as_of": "DM main @538d6b5, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-019",
+    "for": "Demko",
+    "target": "DM-H-011",
+    "target_text": "The strip is cut from a Greek Catholic baptism register.",
+    "lean": "supports",
+    "note": "The place evidence names the book: the Greek Catholic register of Čičarovce, Prešov catalogue no. 182, births 1857-1886, film 40-41 (PL-H-009, PL-R-050). Vysoká was a filial of that parish from 1806, and Ján Csurgovics was its priest from 1882 to 1886, after Jozef Kubek, which is the order of the signatures on your strips.",
+    "try": "For the reused-name rule (X-017): the burials for Viszoka from 1882 are in the same volume to 1886, and in no. 182/1 from 1887 to 1907. Those are the two volumes to search for the fifteen years after the 1882 baptism.",
+    "src": [
+      "PL-S-075",
+      "PL-S-072",
+      "PL-S-071"
+    ],
+    "as_of": "DM main @538d6b5, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-020",
+    "for": "Demko",
+    "target": "DM-H-009",
+    "target_text": "György Demkó and Mária Hreskó of Viszoka no. 132 are Maria Demko's parents.",
+    "lean": "context only",
+    "note": "The mother in that household is entered as Roman Catholic. The Roman Catholics of Viszoka belonged to Pavlovce nad Uhom, not to Čičarovce. A child of the couple entered on the mother's side would be in the Pavlovce Roman Catholic book (PL-R-052), and so would the mother's own baptism and burial.",
+    "try": "Search Pavlovce as the other rite's parish. Its filmed run is 1818-1907; one index shows no births there between 1828 and 1868.",
+    "src": [
+      "PL-S-086",
+      "PL-S-087",
+      "PL-S-088"
+    ],
+    "as_of": "DM main @538d6b5, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-021",
+    "for": "Demko",
+    "target": "DM-H-006",
+    "target_text": "If born after 1 October 1895, a civil birth registration exists for her.",
+    "lean": "supports",
+    "note": "Your own DM-D-008 answers the question I had left open: in August 1906 the civil registrar for Solymos signed at Alsókánya, which is Jastrabie pri Michalovciach (PL-P-014). I have not confirmed the identification of Alsókánya from a gazetteer; it rests on the parish list of 1917 and the 1939 protocol, which both pair the two names.",
+    "try": "Ask for the Jastrabie registry district's birth books. The 1906 volume passed the 100-year mark in 2006 and should be in a state archive.",
+    "src": [
+      "PL-S-104",
+      "PL-S-037",
+      "PL-S-036"
+    ],
+    "as_of": "DM main @538d6b5, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-022",
+    "for": "Demko",
+    "target": "DM-H-013",
+    "target_text": "György Demko of Gönyű no. 24 is the same man as György Demkó of Viszoka.",
+    "lean": "weakens, as context only",
+    "note": "The two places are about 60 km apart, in different counties (Abaúj-Torna and Ung) and, for Greek Catholics, different eparchies (Prešov and Mukachevo). The research pass found no shared landlord, estate or documented movement between the Košice villages and the Uh valley. That is distance, not proof; X-009 applies.",
+    "try": "Nothing place-based will settle this. The Belža register (PL-R-053) for a marriage of the Gönyű couple would.",
+    "src": [
+      "PL-S-084",
+      "PL-S-076",
+      "PL-S-069"
+    ],
+    "as_of": "DM main @538d6b5, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-023",
+    "for": "Duska",
+    "target": "H-016",
+    "target_text": "György Demko of Gönyű 24 is a different man from György Demkó of Viszoka 132.",
+    "lean": "supports, as context only",
+    "note": "See PL-N-022: about 60 km, two counties, two eparchies, no documented link found. Your reading of Folder 3 as Belža is supported (PL-H-010): Gönyű and Szina were Greek Catholic filials of Bölzse from the 1770s, and the Belža register for 1791-1896 is in the Košice state archive.",
+    "try": "The '-falva' village is one of three candidates, all now part of Valaliky (PL-H-011, PL-P-054). Check the surviving letters against Bernátfalva, Búzafalva and Csontosfalva.",
+    "src": [
+      "PL-S-076",
+      "PL-S-077",
+      "PL-S-092"
+    ],
+    "as_of": "DUS main @9e5061e, 12 Nov 2026"
   }
 ]

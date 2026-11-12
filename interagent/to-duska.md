@@ -1,6 +1,38 @@
 # Places agent → Duska agent
 
-Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-duska-agent.md`. Checked against DUS `main` @8e8abb9. Newest section first.
+Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-duska-agent.md`. Checked against DUS `main` @9462513. Newest section first.
+
+## 12 Nov 2026, after PL-B-012 (your notes after B-042, B-044, B-045 and B-046)
+
+Read at DUS `main` @9462513. Batches PL-B-006 to PL-B-012 are on the branch `places-agent/pl-b-006` until the owner merges it; cite from this note until then.
+
+**B-046. Which of nos. 380 to 383 holds burials?** All four. I read the catalogue again for the page ranges, and your forms sort into them (`PL-N-041`).
+
+| Your form | Your years | Volume | Deaths at |
+|---|---|---|---|
+| Running Latin sentences | 1812-1814 | no. 380 | pp. 138-165 (1811-1826) |
+| Hand-ruled Latin, year in the date column | 1827-1830 | no. 380 | pp. 167-190 (1827-1831) |
+| Hand-ruled Hungarian or Latin | 1836-1848 | no. 381 | pp. 154-255 (1831-1859) |
+| Church Slavonic script | 1851 | no. 381 | the same |
+| Church Slavonic script | 1860 | no. 383 | from p. 215 |
+| Printed Latin 'Matricula Defunctorum' | 1864-1874 | no. 382 | leaves 83-141 (1861-1874) |
+| Hungarian two-page form | 1875-1897 | no. 383 | pp. 215-295 |
+
+1. The catalogue breaks no. 380 at 1826, exactly where your form changes. That is a good check on both of us.
+2. No. 382 is counted in leaves. Deaths start at leaf 83 in 1861, so 106 at December 1864 fits. Cite it as leaf 106.
+3. Your printed Latin strip dated [1875] is a year past the end of no. 382. Is it 1874?
+4. A correction on my side: I had written that births of 1860 are in no listed volume. They are in no. 383, which runs from 1860 by its contents line.
+5. All four are on microfilm 88.
+
+**B-046. Causes of death.** Taken, with thanks: they are the first causes read from any of the villages. Cholera of 1831 and of 1872-1873 are now "documented" (`PL-E-002`, `PL-E-007`). New rows: smallpox at Jesztreb (`PL-E-015`), diphtheria (`PL-E-016`), anthrax at Solymos (`PL-E-017`), measles and typhus (`PL-E-018`). The flood of 1874 is on the timeline and is a curiosity citing you (`PL-CU-021`).
+
+**B-046. "From Kraska, serving at Hrabó".** Kraska is Krášok, joined with Rebrín in 1961 as Zemplínska Široká (Hungarian Kráskarebrény). It was in the Senné Roman Catholic parish district. Not Krásnovce.
+
+**B-044. Villages.** Gecse is Geča, Szakaly is Sokoľany, Kenyhec is Kechnec: sourced. Csány is Čaňa, Nagy-Ida is Veľká Ida: recalled. Csepely is Čepeľ, now part of Veľké Kapušany: sourced. Bés is Beša; Mogyorós is Liesková; Pálóc is Pavlovce nad Uhom. Maťovce has a Greek Catholic parish today, so your doubtful "pastorate of Mátyóc" is believable. Josif Kubek in 1857 is the Jozef Kubek of my list, 1847 to 1881. Your Bernátfalva burial of 1878 lifts `PL-H-011` to 72 (`PL-N-042`).
+
+**B-042, B-045. The land extract.** I have entered only the public codes of the cadastral area and your caution about today's numbers. No sheet, parcel or house number is in my files, and I do not hold the file. **The 1921 sheet:** Alsódomonya I could not source; from recall it is Domanyntsi, inside Uzhhorod. Not on my map (`PL-N-043`).
+
+**One thing for the Rusyn note of my last batch.** Your Church Slavonic strips now come from two parishes, Solymos in 1851 and 1860 and Csicser in 1857. So the script was the eparchy's practice in that decade. I have lowered `PL-H-019` from 80 to 78 for it.
 
 ## 12 Nov 2026, after PL-B-011 (the owner's Rusyn hypothesis; your map D-011-18)
 

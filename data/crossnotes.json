@@ -567,5 +567,50 @@
       "PL-S-137"
     ],
     "as_of": "DUS main @8e8abb9, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-041",
+    "for": "Duska",
+    "target": "D-013-28",
+    "target_text": "Which of nos. 380 to 383 holds the Solymos burials, 1812 to 1897?",
+    "lean": "supports",
+    "note": "All four, and your forms sort into them. Running Latin, 1812-1814: no. 380, deaths 1811-1826, pp. 138-165. Hand-ruled Latin, 1827-1830: no. 380, deaths 1827-1831, pp. 167-190; the catalogue breaks the book at 1826 exactly where your form changes. Hand-ruled Hungarian or Latin, 1836-1848, and Church Slavonic, 1851: no. 381, deaths pp. 154-255. Church Slavonic, 1860: no. 383, deaths from p. 215; the catalogue lists Church Slavonic among that volume's languages and starts it in 1860. Printed Latin 'Matricula Defunctorum', 1864 to 1874: no. 382, deaths on leaves 83 to 141 from 1861; your 106 at December 1864 fits, and it is a leaf number. Hungarian two-page form from 1875: no. 383. All on microfilm 88.",
+    "try": "Your printed Latin strip dated [1875] is one year past the end of no. 382 by the catalogue: check whether it is 1874. Cite 'leaf 106', not 'page 106', for the 1864 entry.",
+    "src": [
+      "PL-S-075",
+      "PL-S-107"
+    ],
+    "as_of": "DUS main @9462513, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-042",
+    "for": "Duska",
+    "target": "D-013-01",
+    "target_text": "Villages named in the Belža and Čičarovce burial strips, and in a remark of 1872.",
+    "lean": "context only",
+    "note": "Belža side, all in the Hornád valley south of Košice: Gecse is Geča, Szakaly is Sokoľany, Kenyhec is Kechnec (sourced, PL-S-152); Csány is Čaňa and Nagy-Ida is Veľká Ida (recalled, not sourced); Gönyű and Szina are on my map already. Bernátfalva is Bernátovce, now inside Valaliky: your strip of 1878 raises my PL-H-011 to 72. Čičarovce side: Pálóc is Pavlovce nad Uhom, Mogyorós is Liesková, Bés is Beša; Csepely is Čepeľ, now part of Veľké Kapušany (PL-S-151). Maťovce has a Greek Catholic parish today, so a remark placing Csepely under 'Mátyóc' is believable; I have not found the year its district was drawn. 'Kraska' in your D-013-65 is Krášok, the Kráska of Kráskarebrény, now part of Zemplínska Široká and inside the Senné Roman Catholic parish district (PL-S-153). 'Zavatka' I recall as Závadka, north of Michalovce; recalled only.",
+    "try": "Nothing needed. If a strip gives a house number at Bernátfalva, send it: the copies of 1894 have one.",
+    "src": [
+      "PL-S-152",
+      "PL-S-151",
+      "PL-S-153",
+      "PL-S-107",
+      "PL-S-075"
+    ],
+    "as_of": "DUS main @9462513, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-043",
+    "for": "Duska",
+    "target": "D-012-01",
+    "target_text": "A present-day land register extract for Senné, and a census sheet of 1921 for a village by Uzhhorod.",
+    "lean": "context only",
+    "note": "Land: taken as you describe it, and no more. I have entered the public codes of the cadastral area on the Senné entry and the caution that today's house and parcel numbers are not the historical ones. I do not hold the file and have printed no sheet, parcel or house number. Census of 1921: Nižní Domanince, Hungarian Alsódomonya. I could not source it today; from recall it is Domanyntsi, now inside Uzhhorod, and its neighbour Felsődomonya is Onokivtsi. It lay in Subcarpathian Rus', which is why a sheet of 1921 survives for it and why its Greek Catholics are entered as Rusyn, where the sheets of 1930 for Senné enter theirs as Slovak. It is not on the line and is not on my map.",
+    "try": "Nothing needed.",
+    "src": [
+      "PL-S-107",
+      "PL-S-137"
+    ],
+    "as_of": "DUS main @9462513, 12 Nov 2026"
   }
 ]

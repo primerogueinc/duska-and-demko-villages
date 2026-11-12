@@ -22,15 +22,15 @@
     "id": "PL-E-002",
     "years": "1831-1832",
     "what": "Cholera, first wave",
-    "scope": "regional; one burial count from Solymos",
+    "scope": "regional; named as a cause of death at Senné; one burial count from Solymos",
     "places": [
       "PL-P-001",
       "PL-P-002",
       "PL-P-037"
     ],
-    "evidence": "About 100,000 deaths in Hungary. Zemplén, next door, was among the first counties struck; Ung is not on that list. Nothing found for the three villages. In the records in hand: an entry of about 1831 has a Greek Catholic's son of Viszoka baptised by the Latin-rite priest of Pavlovce with the local priest's consent. That fits a parish without its priest in a cholera year, and proves nothing more. The first count from a village: the Reformed burial book of Solymos has 13 burials in 1831, about six of them in August, against one to eight in each of the following ten years. The illness column has not been read to this agent.",
-    "for_the_records": "The Senné Roman Catholic burial volume no. 1091 and the Iňačovce Greek Catholic volume no. 381 both cover 1831. The same count there would confirm it.",
-    "status": "counted in one village",
+    "evidence": "About 100,000 deaths in Hungary. Zemplén, next door, was among the first counties struck; Ung is not on that list. Nothing found for the three villages. In the records in hand: an entry of about 1831 has a Greek Catholic's son of Viszoka baptised by the Latin-rite priest of Pavlovce with the local priest's consent. That fits a parish without its priest in a cholera year, and proves nothing more. The first count from a village: the Reformed burial book of Solymos has 13 burials in 1831, about six of them in August, against one to eight in each of the following ten years. The illness column has not been read to this agent. Now named in a register: the Greek Catholic burial book of the Iňačovce parish has a widow of Szenna dead on 17 August 1831 'in cholera'. August is also the month of the Reformed burials at Solymos.",
+    "for_the_records": "The Greek Catholic entries are in no. 381, pp. 154 onward. The Senné Roman Catholic burial volume no. 1091 also covers 1831. A count of the August entries in each would give the toll.",
+    "status": "documented for the villages",
     "src": [
       "PL-S-105",
       "PL-S-025",
@@ -41,13 +41,16 @@
     "id": "PL-E-003",
     "years": "1845-1847",
     "what": "Hunger: the potato failure",
-    "scope": "regional only",
-    "places": [],
-    "evidence": "A European failure. Nothing village-level found.",
+    "scope": "regional; disease deaths at Jastrabie in the same years",
+    "places": [
+      "PL-P-014"
+    ],
+    "evidence": "A European failure. No source found speaks of hunger in these villages. In the records in hand, the Greek Catholic burial book has at Jesztreb a child dead of measles in January 1846, a child of smallpox in April 1847 with smallpox or measles in the rows on either side, and a child of dysentery in August 1847. Dysentery in a hungry summer is what the rule would predict; three strips are not a count.",
     "for_the_records": "Look for a rise in burials of the old and the very young in 1846 and 1847.",
-    "status": "not found for the villages",
+    "status": "observation only",
     "src": [
-      "PL-S-105"
+      "PL-S-105",
+      "PL-S-107"
     ]
   },
   {
@@ -94,14 +97,20 @@
     "id": "PL-E-007",
     "years": "1872-1873",
     "what": "Cholera, fifth wave; diphtheria established in Hungary in 1873",
-    "scope": "regional; one observation in the records in hand",
-    "places": [],
-    "evidence": "In one Greek Catholic parish of Zemplén nearly every death entry of summer 1873 gives cholera as the cause. In the records in hand: twins born in May 1873 are both marked dead, with no cause written and a residence that is not one of the three villages.",
-    "for_the_records": "The first wave for which all three villages have a burial volume in an archive. Causes of death should be written in.",
-    "status": "not found for the villages",
+    "scope": "regional; named as a cause of death at Jastrabie, Vysoká, Čepeľ and Beša",
+    "places": [
+      "PL-P-014",
+      "PL-P-037",
+      "PL-P-050"
+    ],
+    "evidence": "In one Greek Catholic parish of Zemplén nearly every death entry of summer 1873 gives cholera as the cause. In the records in hand: twins born in May 1873 are both marked dead, with no cause written and a residence that is not one of the three villages. Now named in two registers. In the Čičarovce Greek Catholic book: a man of 30 at Viszoka in December 1872; a youth of 17 at Csepely on 7 August 1873 and a boy of 14 at Bés in the next entry. In the Iňačovce Greek Catholic book: three entries in a row at Jesztreb in August 1873, children of 2 and 14 among them. So the wave reached the Uh villages in the winter of 1872 and came back in August 1873.",
+    "for_the_records": "Iňačovce no. 382, leaves 83 to 141, and Čičarovce no. 182. Every cholera entry of August and September 1873 can be counted.",
+    "status": "documented for the villages",
     "src": [
       "PL-S-105",
-      "PL-S-104"
+      "PL-S-104",
+      "PL-S-107",
+      "PL-S-075"
     ]
   },
   {
@@ -190,9 +199,9 @@
       "PL-P-014",
       "PL-P-002"
     ],
-    "evidence": "Deaths are written against baptisms at Jesztreb in 1876 (two), 1885, 1891 and 1894, and at Solymos in 1892. None gives a cause. The 1892 death falls in a cholera year; one death is not a pattern.",
+    "evidence": "Deaths are written against baptisms at Jesztreb in 1876 (two), 1885, 1891 and 1894, and at Solymos in 1892. None gives a cause. The 1892 death falls in a cholera year; one death is not a pattern. The burial book now gives causes for four of them, all at Jesztreb: measles in April 1876, smallpox in February 1885, diphtheria in January 1891, measles in February 1894. None is cholera.",
     "for_the_records": "The burials are in volume no. 383 (deaths 1860-1898). Counting them by year is now possible in principle.",
-    "status": "observation only",
+    "status": "documented for one village",
     "src": [
       "PL-S-107",
       "PL-S-075"
@@ -212,6 +221,70 @@
     "src": [
       "PL-S-107",
       "PL-S-075"
+    ]
+  },
+  {
+    "id": "PL-E-015",
+    "years": "1836, 1847, 1871, 1879, 1885",
+    "what": "Smallpox at Jastrabie",
+    "scope": "one village, from burial entries",
+    "places": [
+      "PL-P-014"
+    ],
+    "evidence": "The Iňačovce Greek Catholic burial book gives smallpox as the cause of a child's death at Jesztreb in March 1836, with smallpox in the rows above and below; in April 1847, again with neighbours; in March of 1870 or 1871; on 1 June 1879; and on 11 February 1885. Five returns in fifty years, each time among small children.",
+    "for_the_records": "Count the smallpox entries in each of those springs: nos. 381, 382 and 383.",
+    "status": "documented for one village",
+    "src": [
+      "PL-S-107",
+      "PL-S-075"
+    ]
+  },
+  {
+    "id": "PL-E-016",
+    "years": "1891-1892",
+    "what": "Diphtheria",
+    "scope": "two parishes, from burial entries",
+    "places": [
+      "PL-P-014",
+      "PL-P-052"
+    ],
+    "evidence": "At Gönyű one couple buried two sons in 1892, in March and in October, both of diphtheria (Belža Greek Catholic book). At Jesztreb a child died of it in January 1891 (Iňačovce book). Diphtheria had been established in Hungary since 1873.",
+    "for_the_records": "The Belža book at Košice for 1892; Iňačovce no. 383 for 1891.",
+    "status": "documented for the villages",
+    "src": [
+      "PL-S-107",
+      "PL-S-105"
+    ]
+  },
+  {
+    "id": "PL-E-017",
+    "years": "1870, 1876",
+    "what": "Anthrax ('carbunculus') at Iňačovce",
+    "scope": "one village, from burial entries",
+    "places": [
+      "PL-P-002"
+    ],
+    "evidence": "Two children of Solymos are entered as dead of 'carbunculus': a boy of a year and a half on 11 December 1870, and a cottar's daughter at house 13 on 3 January 1876. The Duska agent reads the word as anthrax, a disease of cattle and sheep that passes to people. From recall, not sourced: it was common where stock grazed wet meadows, and Iňačovce was a village of wide meadows.",
+    "for_the_records": "Other entries with the same word in Iňačovce nos. 382 and 383; any note of cattle deaths in the same winters.",
+    "status": "documented for one village",
+    "src": [
+      "PL-S-107",
+      "PL-S-004"
+    ]
+  },
+  {
+    "id": "PL-E-018",
+    "years": "1846, 1864, 1867, 1876, 1894",
+    "what": "Measles and typhus at Jastrabie",
+    "scope": "one village, from burial entries",
+    "places": [
+      "PL-P-014"
+    ],
+    "evidence": "Measles ('red pox') is the cause of a child's death at Jesztreb in January 1846, February 1867, April 1876 and February 1894. A youth of 19 died of 'nervous fever', typhus, in December 1864.",
+    "for_the_records": "Iňačovce nos. 381 to 383.",
+    "status": "documented for one village",
+    "src": [
+      "PL-S-107"
     ]
   }
 ]

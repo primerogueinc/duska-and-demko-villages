@@ -51,7 +51,7 @@
     "held": "State archive, Prešov, church registers catalogue nos. 380 to 383, film 88",
     "online": "not checked",
     "status": "confirmed",
-    "note": "No. 380: births, marriages, deaths 1811-1831. No. 381: the same, 1831-1859. No. 382: births 1861-1870, marriages and deaths 1861-1874. No. 383: births 1870-1898, marriages and deaths 1860-1898. Burials are there throughout; an earlier version of this entry said they were not in the index seen. Births of 1860 are in no listed volume. Nothing after 1898 is in the state archive. A note of 1934 written into the 1870-1898 volume shows it was in use after the fire of 1930, so the fire did not take that book; what became of the volumes begun in 1899 is still not known (PL-Q-006). A habit of this book, seen by both line agents on the strips and not taken from a guide: from at least 1875 to 1894 a child's death is noted in the remarks column of its baptism entry.",
+    "note": "Read again from the catalogue at PL-B-012, with page ranges. No. 380, 190 pages, Latin: births 1811-1831 (pp. 1-89), marriages 1811-1826 and 1827-1831 (pp. 102-132), deaths 1811-1826 (pp. 138-165) and 1827-1831 (pp. 167-190). No. 381, 255 pages, Church Slavonic, Latin and Hungarian: births 1831-1859 (pp. 1-109), marriages 1831-1859 (pp. 111-153), deaths 1831-1859 (pp. 154-255), with a note on the last page about the keeping of the death register for 1855-1859. No. 382, 141 leaves, Latin: births 1861-1870 (leaves 1-60), marriages 1861-1874 (61-82), deaths 1861-1874 (83-141). No. 383, 295 pages, Church Slavonic, Latin and Hungarian: births (pp. 1-170), marriages (pp. 171-214) and deaths (pp. 215-295), each given as 1860-1898 in the description, though the heading has births from 1870. A correction: this entry used to say that births of 1860 are in no listed volume. By the catalogue's description they are in no. 383. Checked against the Duska agent's 46 burial strips: its running Latin entries of 1812-1814 and its hand-ruled Latin pages of 1827-1830 fall on the two sides of the catalogue's break at 1826; its Church Slavonic entry of 1851 is in no. 381 and that of 1860 in no. 383; its printed Latin form 'Matricula Defunctorum', with 106 at December 1864, is no. 382, where deaths begin at leaf 83 in 1861; its Hungarian two-page form from 1875 is no. 383. Nothing after 1898 is in the state archive. A note of 1934 written into the 1870-1898 volume shows it was in use after the fire of 1930; what became of the volumes begun in 1899 is still not known (PL-Q-006). A habit of this book: from at least 1875 to 1894 a child's death is noted in the remarks column of its baptism entry.",
     "src": [
       "PL-S-007",
       "PL-S-046",
@@ -143,10 +143,11 @@
     "held": "State archive, Prešov, church registers catalogue: no. 180 (1789-1829), no. 181 (1830-1856), no. 182 (births and marriages 1857-1886, deaths 1851-1886; film 40-41), no. 182/1 (births 1887-1904, marriages 1887-1906, deaths 1887-1907; microfilm 432)",
     "online": "two FamilySearch image groups reported, 4406715 and 4406819; not checked",
     "status": "confirmed",
-    "note": "This is the book for a Viszoka baptism of 1882: volume no. 182. Burials for the fifteen years after it are in no. 182 to 1886 and in no. 182/1 from 1887. No. 180 contains a list of the parish's priests from 1781 to 1941.",
+    "note": "This is the book for a Viszoka baptism of 1882: volume no. 182. Burials for the fifteen years after it are in no. 182 to 1886 and in no. 182/1 from 1887. No. 180 contains a list of the parish's priests from 1781 to 1941. Burial strips held by the Duska agent bear the volumes out: Latin in 1831 and Hungarian in 1836-1842 (no. 181), Church Slavonic script on a printed form in 1857 with 'Josif Kubek, parish priest of Csicser' burying (no. 182), Hungarian on a two-page form from 1872. Villages on the strips: Viszoka, Pálóc, Mogyorós, Csepely, Bés, Csicser.",
     "src": [
       "PL-S-075",
-      "PL-S-047"
+      "PL-S-047",
+      "PL-S-107"
     ],
     "bears_on": [
       "DUS:H-015",
@@ -203,11 +204,12 @@
     "held": "State archive, Košice, collection of church registers; filmed in 1994",
     "online": "film numbers not obtained",
     "status": "reported",
-    "note": "By one index: births 1791-1896, marriages 1830-1890, deaths 1833-1896. The copies of 1894 and 1895 held by the Duska agent fall inside the run, so the originals should be here.",
+    "note": "By one index: births 1791-1896, marriages 1830-1890, deaths 1833-1896. The copies of 1894 and 1895 held by the Duska agent fall inside the run, so the originals should be here. Burial strips held by the Duska agent, 1849 to 1892, name Gönyű, Szina, Bernátfalva, Szakaly, Kenyhec, Csány and Gecse: the parish district reached down the Hornád valley south of Košice.",
     "src": [
       "PL-S-092",
       "PL-S-094",
-      "PL-S-088"
+      "PL-S-088",
+      "PL-S-107"
     ],
     "bears_on": [
       "DUS:H-016",

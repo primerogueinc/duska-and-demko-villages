@@ -196,5 +196,20 @@
     "places_added": 0,
     "sources_added": 14,
     "curiosities": 2
+  },
+  {
+    "id": "PL-B-012",
+    "date": "2026-11-12",
+    "title": "The burial books: which volume, which villages, and what people died of",
+    "blurb": "The owner's folder of deaths has begun to reach the Duska agent, and four of its notes were waiting here. Line repos read at DUS main @9462513 and DM main @51a25e8. First, the Duska agent asked which archive volume holds the Greek Catholic burials of Solymos. The catalogue was read again with its page ranges: all four volumes hold burials, and the agent's forms sort into them cleanly, the printed Latin sheets of the 1860s being no. 382, where its number 106 at December 1864 is a leaf. That reading also corrects an old error here: the entries of 1860 are in the last volume, not lost. Second, causes of death. Until now every epidemic row on this board said nothing was found for the villages. The strips name cholera at Senné in August 1831, cholera at Vysoká in December 1872 and at Jastrabie, Čepeľ and Beša in August 1873, smallpox at Jastrabie five times in fifty years, diphtheria, measles, typhus, and anthrax twice at Iňačovce. Third, villages: the Belža strips run down the Hornád valley and put Bernátfalva in that parish in 1878, which lifts one hypothesis; 'Kraska' is Krášok. A script used in two parishes in the 1850s turns out to be the eparchy's habit, so the Rusyn entry of the last batch drops two points. Curiosities: 3",
+    "raised": [],
+    "resolved": [],
+    "revised": [
+      "PL-H-011",
+      "PL-H-019"
+    ],
+    "places_added": 0,
+    "sources_added": 3,
+    "curiosities": 3
   }
 ]

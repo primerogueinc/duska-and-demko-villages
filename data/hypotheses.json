@@ -304,7 +304,7 @@
   {
     "id": "PL-H-011",
     "statement": "The unidentified '-falva' village of the Belža copies is Bernátfalva, Búzafalva or Csontosfalva, the three villages now inside Valaliky.",
-    "confidence": 62,
+    "confidence": 72,
     "basis": "Valaliky is the only present filial of the Belža parish that contains villages with Hungarian names in -falva. All three were small and close by.",
     "test": "The surviving letters of the name on the copy, against the three; a Prešov eparchy directory of the 1890s listing Bölzse's filials.",
     "status": "open",
@@ -315,7 +315,8 @@
       "PL-S-067",
       "PL-S-069",
       "PL-S-077",
-      "PL-S-131"
+      "PL-S-131",
+      "PL-S-107"
     ],
     "log": [
       {
@@ -327,6 +328,11 @@
         "batch": "PL-B-008",
         "effect": "50 to 62",
         "note": "An early 19th-century directory puts all three villages under the parish of Bölzse. Only Bernátfalva has Greek Catholics counted, so it leads. The directory is some eighty years too early and was seen only as machine-read text."
+      },
+      {
+        "batch": "PL-B-012",
+        "effect": "62 to 72",
+        "note": "A burial strip of December 1878 from the Belža book, held by the Duska agent, is of a man living at Bernátfalva and buried there. That puts Bernátfalva in the Bölzse parish sixteen years before the copies of 1894. Neither of the other two villages has appeared. The surviving letters of the name on the copy have still not been matched."
       }
     ]
   },
@@ -527,7 +533,7 @@
   {
     "id": "PL-H-019",
     "statement": "Given by the owner: Rusyn. As this board reads it for the places: the Greek Catholic community of Iňačovce and its filials was Rusyn by origin, settled from the Rusyn north after 1720 and Rusyn in speech in the 18th century.",
-    "confidence": 80,
+    "confidence": 78,
     "basis": "The owner's words in this chat on 12 Nov 2026: \"I'm giving you a hypothesis that is not a research lead - look into what is Rusyn\". It is his lean of before the first batch (DM-PR-3). For the place: the village was nearly empty in 1715 and refilled after 1720 from the north of Ung and Zemplín; the visitor of 1734 found Rusyn spoken in the Greek Catholic parish; Fényes in 1851 names Rusyn first of three languages, and 526 of 926 people were Greek Catholic; the register is in Cyrillic in 1851-1853; a dialect survey of 1969 finds Sotak features here and at Jastrabie. Against: nothing found. Not shown: the language of any one family.",
     "test": "The sermon language of the parish of Solymos in the eparchy's conscription of 1806; the language column of the list of 1773; the gazetteer of Magocsi's settlement map (PL-Q-012).",
     "status": "supported",
@@ -549,6 +555,11 @@
         "batch": "PL-B-011",
         "effect": "raised at 80, given by the owner",
         "note": "Scored as given (ledger X-029). The owner's words were not used to steer any search toward the family; the searches were on the word, the church, the censuses and the villages."
+      },
+      {
+        "batch": "PL-B-012",
+        "effect": "80 to 78",
+        "note": "The Cyrillic entries count for less than they did. The Čičarovce book is in Church Slavonic script in 1857 too, in a parish that was Hungarian-speaking by 1910, and the catalogue lists Church Slavonic in two of the Iňačovce volumes. So the script of the 1850s was the practice of the eparchy, not a sign of what one village spoke."
       }
     ]
   },

@@ -2,6 +2,17 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 12 Nov 2026, after batch PL-B-012
+
+Still on the branch with PL-B-006 to PL-B-011. No new file or field.
+
+- `epidemics.json`: a fifth `status` value, `"documented for the villages"`, on `PL-E-002`, `PL-E-007` and `PL-E-016`. New rows `PL-E-015` to `PL-E-018`. Four older rows changed.
+- `hypotheses.json`: `PL-H-011` 62 to 72; `PL-H-019` 80 to 78; each with a `log` line.
+- `holdings.json`: `PL-R-003` rewritten with page ranges.
+- Cross-notes `PL-N-041` to `PL-N-043`. Curiosities `PL-CU-021` to `PL-CU-023`. Three timeline rows.
+
+Counts: 33 places, 153 sources, 31 record sets, 21 hypotheses, 41 notes, 18 epidemic rows, 23 curiosities.
+
 ## 12 Nov 2026, after batch PL-B-011
 
 Still on the branch with PL-B-006 to PL-B-010. No new file under `data/`.

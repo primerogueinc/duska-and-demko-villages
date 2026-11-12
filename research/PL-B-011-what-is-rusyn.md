@@ -57,7 +57,7 @@ So a family from this belt can be Rusyn by origin and by church, and Slovak on e
 | 1969 | A dialect survey names Iňačovce and Jastrabie among twenty villages near Sobrance whose speech keeps "Sotak" features, in a dialect one scholar thought had come about by a Rusyn dialect turning Slovak | `PL-S-145` |
 | 2021 | 825 people. 314 Greek Catholics. Rusyn nationality: 2 as first choice, 5 counting a second choice | `PL-S-147`, `PL-S-148` |
 
-Reading: the Greek Catholic community here was Rusyn by origin (`PL-H-019`, 80). By about 1900 it spoke Slovak and was counted as Slovak (`PL-H-020`, 85). The word for what stayed is the church.
+Reading: the Greek Catholic community here was Rusyn by origin (`PL-H-019`, 80; lowered to 78 at PL-B-012, when Cyrillic entries of the same decade turned up in the Čičarovce book too, which makes the script the eparchy's habit and not a sign of this village's speech). By about 1900 it spoke Slovak and was counted as Slovak (`PL-H-020`, 85). The word for what stayed is the church.
 
 ### Senné (Szenna)
 

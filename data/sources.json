@@ -636,7 +636,7 @@
     "title": "Štátny archív v Prešove, Zbierka cirkevných matrík 1586-1952: Katalóg (2026)",
     "type": "Archive catalogue",
     "url": "https://www.minv.sk/swift_data/source/verejna_sprava/statny_archiv_v_presove/dokumenty/ap/Cirkevne%20matriky%202026.pdf",
-    "read": "read in part by the research pass of 12 Nov 2026, and by this agent on 12 Nov 2026 through a page-reading tool, in seven portions that cover all but the last pages. What this agent holds is the tool's extract of each portion, not the pages themselves",
+    "read": "read in part by the research pass of 12 Nov 2026, and by this agent on 12 Nov 2026 through a page-reading tool, in seven portions that cover all but the last pages. What this agent holds is the tool's extract of each portion, not the pages themselves; the Iňačovce entries, nos. 380 to 383 read again at PL-B-012",
     "reliability": "The archive's own catalogue of church registers: volume numbers, years, film numbers and the villages each parish covered. The primary finding aid.",
     "batch": "PL-B-003"
   },
@@ -921,7 +921,7 @@
   },
   {
     "id": "PL-S-107",
-    "title": "Duska agent, folders F-005 (Iňačovce Greek Catholic), F-007 (Solymos Reformed), F-009 (Senné Roman Catholic), census captures and pile files, and its notes to the Places agent after batches B-010 to B-033; documents D-006-03, D-005-33, D-011-04, D-011-06 and D-011-18 at DUS main @8e8abb9",
+    "title": "Duska agent, folders F-005 (Iňačovce Greek Catholic), F-007 (Solymos Reformed), F-009 (Senné Roman Catholic), census captures and pile files, and its notes to the Places agent after batches B-010 to B-033; documents D-006-03, D-005-33, D-011-04, D-011-06 and D-011-18 at DUS main @8e8abb9; burial strips D-013-01 to D-013-73, D-011-113, D-012-01 and its notes after B-042 to B-046 at DUS main @9462513",
     "type": "Sibling agent's transcriptions of records in hand",
     "url": "https://github.com/primerogueinc/genealogu-duska-1/blob/main/comms/to-places.md",
     "read": "notes to the Places agent read at DUS main @66f89b1, @2e5f111, @4d7a299 @c1c3be2 and @4649eac; the documents behind them were not opened by this agent",
@@ -1314,5 +1314,32 @@
     "read": "search extract only, 12 Nov 2026",
     "reliability": "Used for one point: the Rusyn villages of Sáros, Szepes and Ung were given their urbarial papers in Slovak, so the language of an urbarial table says nothing of the village's own.",
     "batch": "PL-B-011"
+  },
+  {
+    "id": "PL-S-151",
+    "title": "Central public-administration portal, Veľké Kapušany: history",
+    "type": "Town profile, official portal",
+    "url": "https://www.slovensko.sk/sk/institucie/o-institucii/informacie-o-obci/_0a1d8110-3301-4b7e-afe5-a057a2578b83",
+    "read": "search extract only, 12 Nov 2026",
+    "reliability": "Used for one point: the village of Čepeľ, east of the town, was joined to Veľké Kapušany early in the 20th century.",
+    "batch": "PL-B-012"
+  },
+  {
+    "id": "PL-S-152",
+    "title": "English Wikipedia: Geča, Sokoľany, Kechnec",
+    "type": "Encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Ge%C4%8Da",
+    "read": "search extracts only, 12 Nov 2026",
+    "reliability": "Hungarian names: Hernádgecse, Abaújszakaly, Kenyhec. One copy of the Geča page lists Greek Catholic records for 1791-1896, the years of the Belža book.",
+    "batch": "PL-B-012"
+  },
+  {
+    "id": "PL-S-153",
+    "title": "e-obce.sk, Zemplínska Široká: História; and Wikipedia on the village's Hungarian name",
+    "type": "Village profile, secondary",
+    "url": "https://www.e-obce.sk/obec/zemplinskasiroka/2-historia.html",
+    "read": "search extracts only, 12 Nov 2026",
+    "reliability": "The village was formed on 1 January 1961 from Rebrín and Krášok; its Hungarian name is Kráskarebrény. So 'Kraska' in a register of 1872 is Krášok.",
+    "batch": "PL-B-012"
   }
 ]

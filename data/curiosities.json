@@ -244,5 +244,43 @@
     "translation": "Iňačovce in the census of 2021: 314 Greek Catholics; 2 people of Rusyn nationality, 5 if a second nationality is counted.",
     "why": "The church the Rusyn settlers brought is still the largest in the village. The name they were known by is declared by almost nobody. That is the whole question of this batch in one line of a table.",
     "tone": "history"
+  },
+  {
+    "id": "PL-CU-021",
+    "batch": "PL-B-012",
+    "src": [
+      "PL-S-107"
+    ],
+    "place": "PL-P-002",
+    "original": "suffocata ... 1874 évi víz áradás",
+    "translation": "Drowned ... the flood of the year 1874.",
+    "why": "A priest keeping a Latin burial book breaks into Hungarian to explain one death: a girl of Solymos, drowned in May 1874. It is the only flood named in any record of the villages so far, and the remark is what dates the page. The words are as the Duska agent read them.",
+    "tone": "sad"
+  },
+  {
+    "id": "PL-CU-022",
+    "batch": "PL-B-012",
+    "src": [
+      "PL-S-107",
+      "PL-S-004"
+    ],
+    "place": "PL-P-002",
+    "original": "Carbunc[ulus]",
+    "translation": "A carbuncle: anthrax.",
+    "why": "Twice in five years a small child of Solymos is buried with this one word for a cause, in December 1870 and January 1876. It is a disease of grazing animals. The village lived by its meadows, and the registers of people turn out to hold a trace of what was killing the cattle.",
+    "tone": "history"
+  },
+  {
+    "id": "PL-CU-023",
+    "batch": "PL-B-012",
+    "src": [
+      "PL-S-107",
+      "PL-S-137"
+    ],
+    "place": "PL-P-024",
+    "original": "[nationality column, census of 1921, a village beside Uzhhorod: Rusyn; census of 1930, Senné: slovenská]",
+    "translation": "Greek Catholic farm people thirty kilometres apart: Rusyn on one census sheet, Slovak on the other.",
+    "why": "The Duska agent holds a sheet of 1921 for a household beside Uzhhorod, all entered as Greek Catholic Rusyns, and sheets of 1930 for Senné where a Greek Catholic is entered as Slovak. Between them ran the line drawn in 1919 between Slovakia and Subcarpathian Rus'. The original wording of the 1921 column is not in my hands, so the first half is the Duska agent's abstract.",
+    "tone": "history"
   }
 ]

@@ -1,0 +1,12 @@
+# duska.si proof manifest, version 1
+repo: primerogueinc/duska-and-demko-villages
+commit: ece204cdfadb879dea627c686998f6d9d84e7f17
+parent: none
+commit_time: 2026-11-12T00:53:33Z
+subject: Initial commit
+tree: 6f9564fa697d7e41892bc5820ca44979480ac21e
+files: 2
+hash: SHA-256 of each file's content as git stores it, sorted by path (byte order)
+---
+50b561a1f23714a5d03210c5f09cd6331af24f0b8f1d430a62ef382a3398dfcb  LICENSE
+9abce5dc3a9c78a2c56eced01155e947ebff1583c69da69b5b4858f7615de25e  README.md

@@ -28,6 +28,11 @@
         "batch": "PL-B-003",
         "effect": "90 to 96, supported to solved",
         "note": "The named test was a Senné residence in the Iňačovce register. DM-D-037 is that."
+      },
+      {
+        "batch": "PL-B-004",
+        "effect": "no change, solved",
+        "note": "The archive's catalogue, read by this agent, gives the parish district of the Iňačovce Greek Catholic register as Iňačovce, Jastrabie, Senné and Stretava. The Duska agent's 58 strips from the book show the same residences."
       }
     ]
   },
@@ -130,6 +135,11 @@
         "batch": "PL-B-003",
         "effect": "no change, 55",
         "note": "The second research pass could not open FamilySearch catalogue 1411329 either. Still open. New in X-Q-01: no Greek Catholic volume for Iňačovce later than 1898 is in the Prešov state archive (PL-R-003)."
+      },
+      {
+        "batch": "PL-B-004",
+        "effect": "no change, 55",
+        "note": "New for X-Q-01: a note dated 1934 in the Iňačovce volume for 1870-1898 shows that volume outlived the fire of 1930. That removes one reason to think the parish's books were lost, but says nothing about the volumes begun in 1899."
       }
     ],
     "question": "X-Q-01"
@@ -237,6 +247,11 @@
         "batch": "PL-B-003",
         "effect": "raised at 93, supported",
         "note": "This is the Places ruling on X-Q-02: a Greek Catholic register, and specifically that of Čičarovce. The owner's folder label named the right parish. It stays short of solved until the header or the entry in the volume is seen."
+      },
+      {
+        "batch": "PL-B-004",
+        "effect": "no change, 93",
+        "note": "The catalogue, read by this agent, confirms that Vysoká nad Uhom is in the Roman Catholic district of Pavlovce nad Uhom, not of Čičarovce."
       }
     ]
   },
@@ -309,6 +324,28 @@
         "batch": "PL-B-003",
         "effect": "raised at 80, supported",
         "note": "Raised because this agent has now said both things about this village. The 1940 list was re-read for it on 12 Nov."
+      }
+    ]
+  },
+  {
+    "id": "PL-H-013",
+    "statement": "The two baptism strips of about 1887 with residences at Sztrajnyán and Lasztomér come from the Michalovce and Lastomír registers: Sztrajnyán from a Michalovce book (Greek Catholic no. 673 or Roman Catholic no. 667), Lasztomér from the Lastomír Greek Catholic book (no. 531).",
+    "confidence": 65,
+    "basis": "The archive's catalogue puts Stráňany in both Michalovce parish districts and gives Lastomír a Greek Catholic register of its own from 1860. The Demko agent reads the two strips as being from two different books, and the Sztrajnyán entry as one made by mistake that belongs in another book.",
+    "test": "The rite of the parents on each strip; the page header; or the entries found in the volumes named.",
+    "status": "open",
+    "raised": "PL-B-004",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-075",
+      "PL-S-108"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-004",
+        "effect": "raised at 65",
+        "note": "Answers the Demko agent's question DM→PL-003. 'Sztrajnyán' is itself a doubtful reading, and Šamudovce is a second candidate for Lastomír."
       }
     ]
   }

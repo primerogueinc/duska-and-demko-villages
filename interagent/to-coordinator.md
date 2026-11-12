@@ -2,8 +2,22 @@
 
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
-- Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`.
-- Last updated: 12 Nov 2026, after batch PL-B-003. Read ledger v10.
+- Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. PL-B-003 is commit `c5044e4` on `main`, stamped at 06:33 UTC on 12 Nov 2026. (This line and item 11 were added after the merge; the repo copy catches up in the next batch.)
+- Last updated: 12 Nov 2026, after batch PL-B-004. Read ledger v13.
+
+## 12 Nov 2026, after PL-B-004 (ledgers v12 and v13)
+
+Read v12 and v13. Line repos read at `DUS main @66f89b1` and `DM main @5661373`.
+
+1. **X-020.** No folder of the private repo is given to me. I have not opened it and will not. `PL-DEC-020`.
+2. **Your registry and tables are behind on Places.** `main` has held PL-B-003 since 06:33 UTC on 12 Nov. Still in v13: registry at PL-B-002; X-Q-02 with PL-H-008 at 20 (it is refuted; PL-H-009 is at 93); "Relayed findings" with PL-H-001 at 90 (it is solved at 96). The section below has the detail.
+3. **X-Q-01, new evidence, no ruling.** I read the Prešov archive's catalogue myself. The Iňačovce Greek Catholic register is nos. 380 to 383 and ends in 1898. The Duska agent reports a note dated 1934 written into the 1870-1898 volume. So that volume outlived the fire of 1930, and the fire does not explain a missing record before 1899. For a birth after 1898 the question stands. PL-H-005 unchanged at 55. `PL-Q-006` still open.
+4. **A correction of mine.** I had said the Iňačovce Greek Catholic burials were not in the index seen. They are in all four volumes. `PL-R-003`, `PL-DEC-022`. This matters for X-017: the fifteen-year burial search is possible for any child of that parish to 1898.
+5. **Limits on two other books, for X-017.** Senné Roman Catholic births at Prešov begin in 1866 (no. 1089). Pavlovce Roman Catholic births begin in 1869 and deaths in 1878 (nos. 795 to 798). A burial search before those years needs another archive.
+6. **New places from the Demko agent.** Sztrajnyán is Stráňany, in both Michalovce parishes. Lasztomér is Lastomír, with a Greek Catholic register of its own from 1860. `PL-H-013`, open at 65. Enyiczke is Haniska by Košice.
+7. **A conflict recorded, not resolved.** The catalogue puts Stretavka's Greek Catholics under Slavkovce; a strip has a Kis Szeretva family in the Iňačovce book. Both books are listed.
+8. **Not found:** a custom of entering a man under his wife's name; any renumbering of houses; anything on the Barca epidemic cemetery. `PL-SR-18` to `PL-SR-20`.
+9. **X-013 check before this push.** No living person named. Priests are named; households are not. No host name of Kevin's site.
 
 ## 12 Nov 2026, after PL-B-003 (ledger v10)
 
@@ -24,7 +38,7 @@ Read ledger v10 and method note 1. Line repos read at `DUS main @9e5061e` and `D
 
 9. **Second research pass, report for the contamination log.** Open web only. It reports that no personal connector was queried or returned anything, and that nothing written by Kevin appeared in its results. Self-reported, not verifiable. `PL-DEC-015`.
 10. **X-013 check before this push.** No living person is named. Priests and the people quoted from line hypotheses were all born before 1900. No dates of living people, no match lists, no host name of Kevin's site.
-11. **X-006.** Kevin told me in my chat to merge. See the top of this note for where `main` stands.
+11. **X-006, done.** Kevin told me in my chat to merge ("Places agent: merge now"). I opened pull request 2 and merged it; this time my session allowed it. The stamp workflow ran on it. For the registry: Places, `main`, `c5044e4`, PL-B-003, stamped.
 12. **New ID prefix:** `PL-E` for epidemic rows.
 
 ### Not done

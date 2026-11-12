@@ -570,7 +570,7 @@
   },
   {
     "id": "PL-S-068",
-    "title": "Coordinator ledger, versions 3 to 10, 12 Nov 2026",
+    "title": "Coordinator ledger, versions 3 to 13, 12 Nov 2026",
     "type": "Coordinator's ledger",
     "url": "https://github.com/primerogueinc/duska-coordinator/blob/main/ledger.md",
     "read": "read in full as a Project doc",
@@ -636,7 +636,7 @@
     "title": "Štátny archív v Prešove, Zbierka cirkevných matrík 1586-1952: Katalóg (2026)",
     "type": "Archive catalogue",
     "url": "https://www.minv.sk/swift_data/source/verejna_sprava/statny_archiv_v_presove/dokumenty/ap/Cirkevne%20matriky%202026.pdf",
-    "read": "read in part by the research pass of 12 Nov 2026 (second pass), not by this agent",
+    "read": "read in part by the research pass of 12 Nov 2026, and by this agent on 12 Nov 2026 through a page-reading tool, in seven portions that cover all but the last pages. What this agent holds is the tool's extract of each portion, not the pages themselves",
     "reliability": "The archive's own catalogue of church registers: volume numbers, years, film numbers and the villages each parish covered. The primary finding aid.",
     "batch": "PL-B-003"
   },
@@ -918,5 +918,86 @@
     "read": "search extract only, seen by the research pass of 12 Nov 2026 (second pass)",
     "reliability": "Coordinates rounded to minutes for Gyňov; the Belža parish position from a church directory.",
     "batch": "PL-B-003"
+  },
+  {
+    "id": "PL-S-107",
+    "title": "Duska agent, folder F-005 (58 strips from the Iňačovce Greek Catholic book), document D-004-05, and its notes to the Places agent after batches B-010 to B-013",
+    "type": "Sibling agent's transcriptions of records in hand",
+    "url": "https://github.com/primerogueinc/genealogu-duska-1/blob/main/comms/to-places.md",
+    "read": "notes read in full at DUS main @66f89b1; the documents behind them were not opened by this agent",
+    "reliability": "Transcriptions of register entries in the owner's archive. The readings are the Duska agent's. Years in brackets come from the owner's file names.",
+    "batch": "PL-B-004"
+  },
+  {
+    "id": "PL-S-108",
+    "title": "Demko agent, documents DM-D-040, DM-D-041 and DM-D-043 to DM-D-053, and its notes to the Places agent DM→PL-003 and DM→PL-004",
+    "type": "Sibling agent's transcriptions of records in hand",
+    "url": "https://github.com/primerogueinc/genealogy-demko-1/blob/main/interagent/to-places.md",
+    "read": "notes read in full at DM main @5661373; three document entries opened",
+    "reliability": "As above. The identifications of place names in the notes were the Demko agent's recollections until checked here.",
+    "batch": "PL-B-004"
+  },
+  {
+    "id": "PL-S-109",
+    "title": "e-obce.sk, Lastomír: História",
+    "type": "Local history, aggregator",
+    "url": "https://www.e-obce.sk/obec/lastomir/2-historia.html",
+    "read": "read by this agent through a page-reading tool, 12 Nov 2026",
+    "reliability": "Name forms, landlords and early house counts. Says nothing of the churches.",
+    "batch": "PL-B-004"
+  },
+  {
+    "id": "PL-S-110",
+    "title": "Lastomír (English Wikipedia)",
+    "type": "Encyclopedia",
+    "url": "https://en.wikipedia.org/wiki/Lastom%C3%ADr",
+    "read": "search extract only, seen by this agent 12 Nov 2026",
+    "reliability": "Coordinates to the minute, the Hungarian name, and the county before 1918.",
+    "batch": "PL-B-004"
+  },
+  {
+    "id": "PL-S-111",
+    "title": "DigiHung place database (University of Vienna): Stráňany",
+    "type": "Gazetteer, scholarly",
+    "url": "https://digihung.univie.ac.at/foswikineu/bin/view.cgi/DigiHung_old/OrtStranany",
+    "read": "search extract only, seen by this agent 12 Nov 2026",
+    "reliability": "Name forms for Stráňany and its standing as a part of Michalovce.",
+    "batch": "PL-B-004"
+  },
+  {
+    "id": "PL-S-112",
+    "title": "ESJF survey: Michalovce Jewish cemetery in Stráňany",
+    "type": "Heritage survey",
+    "url": "https://www.esjf-cemeteries.org/survey/michalovce-jewish-cemetery-in-straniany/",
+    "read": "search extract only, seen by this agent 12 Nov 2026",
+    "reliability": "Gives 1925 as the year Stráňany was joined to Michalovce. A side remark in a survey, not an administrative source.",
+    "batch": "PL-B-004"
+  },
+  {
+    "id": "PL-S-113",
+    "title": "Haniska, Košice-okolie District (English Wikipedia)",
+    "type": "Encyclopedia",
+    "url": "https://www.wikipedia.org/wiki/Haniska,_Kosice-okolie_District",
+    "read": "search extract only, seen by this agent 12 Nov 2026",
+    "reliability": "Identifies Enyiczke with Haniska by Košice.",
+    "batch": "PL-B-004"
+  },
+  {
+    "id": "PL-S-114",
+    "title": "Košice Region Tourism: the Greek Catholic basilica at Michalovce",
+    "type": "Tourism page",
+    "url": "https://www.kosiceregion.com/en/poi/parish-basilica-of-birth-of-holiest-god-mother",
+    "read": "search extract only, seen by this agent 12 Nov 2026",
+    "reliability": "Says a cleric from Topoľany served the Greek Catholics of Michalovce in the mid-18th century. Not a strong source.",
+    "batch": "PL-B-004"
+  },
+  {
+    "id": "PL-S-115",
+    "title": "M. Kazík, 'Živé osobné mená slobodných osôb v kopaničiarskej obci Prašník', Onomastica LXIX (2025); and a related study in Słowo (Rzeszów)",
+    "type": "Journal articles (onomastics)",
+    "url": "https://doi.org/10.17651/ONOMAST.69.5",
+    "read": "search extract only, seen by this agent 12 Nov 2026",
+    "reliability": "Scholarly, but about western Slovakia. Shows only that a 'name of the house' is a recognised part of unofficial naming in Slovak villages.",
+    "batch": "PL-B-004"
   }
 ]

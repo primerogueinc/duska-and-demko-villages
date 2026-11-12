@@ -202,6 +202,12 @@
     "src": "PL-S-011"
   },
   {
+    "year": "1865",
+    "place": "Senné",
+    "text": "A fire on 28 October, set 'by a malicious man' by the parish's own record. The surviving baptism book begins the next year.",
+    "src": "PL-S-107"
+  },
+  {
     "year": "1869",
     "place": "both",
     "text": "First full census of Hungary. The Ung county sheets are now at Berehove.",
@@ -224,6 +230,12 @@
     "place": "both",
     "text": "State civil registration begins on 1 October.",
     "src": "PL-S-019"
+  },
+  {
+    "year": "1895",
+    "place": "Pavlovce nad Uhom",
+    "text": "A state registry office opens and has sat in the village ever since. Its district takes in Vysoká nad Uhom.",
+    "src": "PL-S-129"
   },
   {
     "year": "1904",
@@ -263,6 +275,12 @@
     "place": "Iňačovce",
     "text": "The Reformed build their own church.",
     "src": "PL-S-006"
+  },
+  {
+    "year": "1913",
+    "place": "Iňačovce",
+    "text": "Solymos, with 885 people, is in the notary district of Alsókánya (Jastrabie).",
+    "src": "PL-S-130"
   },
   {
     "year": "1920",
@@ -308,6 +326,12 @@
     "place": "both",
     "text": "Czechoslovak census, by household and house number.",
     "src": "PL-S-028"
+  },
+  {
+    "year": "1930",
+    "place": "Senné",
+    "text": "Census of 1 December: 161 houses, 169 households, 754 people. The summary is signed at Palín.",
+    "src": "PL-S-107"
   },
   {
     "year": "1934",

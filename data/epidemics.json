@@ -22,15 +22,15 @@
     "id": "PL-E-002",
     "years": "1831-1832",
     "what": "Cholera, first wave",
-    "scope": "regional; one observation in the records in hand",
+    "scope": "regional; one burial count from Solymos",
     "places": [
       "PL-P-001",
       "PL-P-002",
       "PL-P-037"
     ],
-    "evidence": "About 100,000 deaths in Hungary. Zemplén, next door, was among the first counties struck; Ung is not on that list. Nothing found for the three villages. In the records in hand: an entry of about 1831 has a Greek Catholic's son of Viszoka baptised by the Latin-rite priest of Pavlovce with the local priest's consent. That fits a parish without its priest in a cholera year, and proves nothing more.",
-    "for_the_records": "The surviving Senné Roman Catholic burial volume begins in 1831. Counting its burials by month for 1831 and 1832 is the test.",
-    "status": "not found for the villages",
+    "evidence": "About 100,000 deaths in Hungary. Zemplén, next door, was among the first counties struck; Ung is not on that list. Nothing found for the three villages. In the records in hand: an entry of about 1831 has a Greek Catholic's son of Viszoka baptised by the Latin-rite priest of Pavlovce with the local priest's consent. That fits a parish without its priest in a cholera year, and proves nothing more. The first count from a village: the Reformed burial book of Solymos has 13 burials in 1831, about six of them in August, against one to eight in each of the following ten years. The illness column has not been read to this agent.",
+    "for_the_records": "The Senné Roman Catholic burial volume no. 1091 and the Iňačovce Greek Catholic volume no. 381 both cover 1831. The same count there would confirm it.",
+    "status": "counted in one village",
     "src": [
       "PL-S-105",
       "PL-S-025",
@@ -173,11 +173,12 @@
     "what": "Epidemic hospital and epidemic cemetery at Košice-Barca, wartime",
     "scope": "outside the three villages; one record in hand",
     "places": [],
-    "evidence": "A soldier's card held by the Demko agent records a death on 9 March 1915 in the epidemic hospital at Košice and burial in the epidemic cemetery at Barca. The card names no illness. A web search for the cemetery found nothing.",
+    "evidence": "A soldier's card held by the Demko agent records a death on 9 March 1915 in the epidemic hospital at Košice and burial in the epidemic cemetery at Barca. The card names no illness. A web search for the cemetery found nothing. In July 1915 the military epidemic observation station at Košice had 3,900 beds. Whether it or its cemetery stood at Barca was not found.",
     "for_the_records": "Men of these villages who served in 1914-1915 may have died of disease far from home and be absent from the parish burial book.",
     "status": "observation only",
     "src": [
-      "PL-S-108"
+      "PL-S-108",
+      "PL-S-125"
     ]
   },
   {
@@ -191,6 +192,22 @@
     ],
     "evidence": "Deaths are written against baptisms at Jesztreb in 1876 (two), 1885, 1891 and 1894, and at Solymos in 1892. None gives a cause. The 1892 death falls in a cholera year; one death is not a pattern.",
     "for_the_records": "The burials are in volume no. 383 (deaths 1860-1898). Counting them by year is now possible in principle.",
+    "status": "observation only",
+    "src": [
+      "PL-S-107",
+      "PL-S-075"
+    ]
+  },
+  {
+    "id": "PL-E-014",
+    "years": "1868 to 1925",
+    "what": "Child deaths noted on baptism entries of the Senné Roman Catholic book",
+    "scope": "observations in the records in hand",
+    "places": [
+      "PL-P-001"
+    ],
+    "evidence": "Deaths are written against baptisms in 1868, 1870, 1875, 1879 (two, on 14 and 15 April), 1886, 1887, 1888 (two), 1893, 1894, 1898 (three), 1902, 1906, 1907, 1908 (four), 1909, 1913, 1918 (29 October) and 1925. No cause is given. They are the deaths in the families whose strips were kept, not a count for the village.",
+    "for_the_records": "Three in 1898 and four in 1908 are worth checking against the burial volumes nos. 1091 and 1093. The death of 29 October 1918 falls in the weeks of the influenza.",
     "status": "observation only",
     "src": [
       "PL-S-107",

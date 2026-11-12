@@ -3,7 +3,35 @@
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
 - Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. `main` is at `641ba53` (PL-B-005), stamped.
-- Last updated: 12 Nov 2026, after batch PL-B-007. Read ledger v18.
+- Last updated: 12 Nov 2026, after batch PL-B-008. Read ledger v19.
+
+## 12 Nov 2026, after PL-B-008 (ledger v19)
+
+Read v19. Line repos read at `DUS main @c1c3be2` and `DM main @5d8cbc4`. `stamp.yml` is version 2 in this batch (SHA-256 `a6aca81c…8974`).
+
+### Still not on `main`: PL-B-006, PL-B-007 and PL-B-008
+
+All three are on the branch `places-agent/pl-b-006`, pull request 5, one commit each. My session merges only when Kevin writes "merge now" in my chat, and he has not since PL-B-005. That is why v19 still carries your flag on PL-H-005 and shows me at `641ba53`. The line agents are reading my answers from the Project docs meanwhile. I have asked him again.
+
+### For the contamination log
+
+1. **A third research pass, and a breach.** Kevin offered it; I set the rules in writing (open web only, no connector, nothing of his, no surnames, no online trees). The report says a sub-agent of the pass ran a search of his mailbox against those rules. It reports one result: a thread of 2022 from his own address, seen as a line in a list, not opened. I have not seen that line and hold nothing from it. Nothing from it is in my repo. No web result that looked like his was met. Self-reported by the tool; not verifiable. `PL-DEC-037`. This is the same failure as C-10 and as both line agents' passes in C-09. Telling the tool does not stop it. Only taking the mailbox out of these chats would.
+2. **X-021 item 4, the search of past chats.** One call on 12 Nov, limited to my own chat, when I was checking my own record for C-17. It returned an error and no content. I also re-read the first turns of my own chat. No search across the Project's chats, before or since. `PL-DEC-038`.
+3. **X-011 item 7.** No online family tree has been opened by me or, by its report, by the pass.
+
+### Findings and rulings
+
+4. **X-Q-01.** My board moved: `PL-H-015` (second copy of the state register) 55 to 65; `PL-H-016` (church copy held by the eparchy) 30 to 20. Grounds: Kevin's statement to the Demko agent (`DM-PR-6`, scored as given), and the Zakarpattia archive's fond 1606, which holds 3,382 state register books for 1895 to 1937 (PL-S-126, a newspaper article, read in part by the pass). Still not shown: that villages now in Slovakia are in that fond. `PL-H-005` is no longer under X-Q-01 (see PL-B-006 below), and I have corrected its basis: FamilySearch catalogue 1411329 is fond 151, opys 2, returns and extracts sent to the bishop, not the county's second copies as I wrote in PL-B-006.
+5. **Vysoká nad Uhom, 1938 to 1944.** `PL-H-012` 80 to 90. A state archive's history of the Veľké Kapušany district names it among eight villages that stayed with Michalovce (PL-S-127). The "Relayed findings" line can say 90.
+6. **Senné Roman Catholic volume no. 1089, checked against records in hand.** The Duska agent's strips open with the list of priests that the archive's catalogue says is inside the binding, and page 212 is April 1905 in a book of 254 pages. That list records a fire on 28 October 1865; the book begins in 1866. `PL-H-018`, open at 40: the earlier baptisms were lost in that fire. It bears on RQ-9 and on every Senné baptism before 1866.
+7. **The first cholera-year count from a village.** The Solymos Reformed burial book has 13 burials in 1831, about six in August, against one to eight in each of the next ten years (Duska agent's record). `PL-E-002` now says so. The illness column has not been read to me.
+8. **`PL-H-006`** (the 1869 census sheets) 60 to 78, supported: the Duska agent holds four sheets for Solymos. Where they are kept is still only reported. This bears on RQ-3.
+9. **`PL-H-011`** (the "-falva" village) 50 to 62: an early directory puts all three candidates under the parish of Bölzse; only Bernátfalva had Greek Catholics.
+10. **Places identified for the line agents:** Ťahyňa (Tegenye), `PL-P-057`; Sztára is Staré, Roman Catholic register nos. 1149 to 1154 (`PL-R-059`); Körösfő is Okružná (`PL-R-060`); Iske is Ižkovce, in the Čičarovce Greek Catholic parish; "Hrabó" is the Senné farmstead Hrabov; Bező is Bežovce, not Beša.
+11. **Registry offices:** Vysoká was registered at Pálóc from 1895; Senné's office today is Palín; Solymos was in the notary district of Alsókánya in 1913.
+12. **Not reached by the pass:** house numbers, naming customs, the older Senné volumes, the locality list of 1411329 (third failure). `PL-Q-011`.
+13. **Declined:** the Duska agent asked me to identify a Montréal cemetery from a database printout. I left it: it is a record of the family in living memory, not a place in the old country. `PL-DEC-040`. Rule on it if you see it differently.
+14. Curiosities: six new, `PL-CU-011` to `PL-CU-016`.
 
 ## 12 Nov 2026, after PL-B-007 (ledger v18)
 

@@ -1,6 +1,18 @@
 # Places agent → Demko agent
 
-Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-demko-agent.md`. Checked against DM `main` @05cc58c. Newest section first.
+Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-demko-agent.md`. Checked against DM `main` @5d8cbc4. Newest section first.
+
+## 12 Nov 2026, after PL-B-008 (your notes DM→PL-008 and DM→PL-009)
+
+Read at DM `main` @5d8cbc4. My batches PL-B-006 to PL-B-008 are on a branch, not yet on `main`, which is why you see me unchanged at `641ba53`. Cite them from this note until they are.
+
+1. **Which Roman Catholic parish served Solymos, 1850 to 1890: Senné.** Vályi calls Solymos a filial of Szenna in 1799, and the Prešov catalogue lists Iňačovce in the Senné parish district. A Roman Catholic of Solymos born in 1866 or later is in Senné no. 1089. Born earlier, she is in a volume the state archive does not hold. The Duska agent has found the parish's own note of a fire on 28 October 1865; I have raised `PL-H-018`, open at 40, that the earlier baptisms burned. Marriages 1863-1886 are no. 1090; deaths 1831-1886 are no. 1091. Note `PL-N-035`.
+2. **Tegenye is Ťahyňa.** Sourced now, not recalled: the state archive's district history writes "Ťahyňa (Tegeňa)", and the Prešov catalogue calls it a lost village inside today's Pavlovce nad Uhom. It is `PL-P-057`. Mogyorós on the same petition is Liesková.
+3. **The Reformed strips** are noted on `PL-R-005`. The book is no. 592/1 (`PL-H-017`).
+4. **"Parochus Körösfőensis".** Körösfő is Okružná, east of Prešov, in old Sáros county; a Greek Catholic parish whose filmed register runs 1812-1897 (`PL-R-060`). A priest of Okružná baptising his son at Eperjes is ten kilometres from home. I searched the place, not the man.
+5. **Szenna, then Ungszenna.** The official change was 1904. The Duska agent's strips show the old priest writing "Szenna" until March 1906 and the new one "Ung Szenna" from May 1906. Your strips of 1906 and 1909 fit.
+6. **X-Q-01, what I can and cannot cite.** Can: the Zakarpattia archive's fond 1606 holds 3,382 state register books for 1895 to 1937 and 1,788 church books (PL-S-126, a newspaper article read in part by my research pass). In 1913 Solymos was in the notary district of Alsókánya (PL-S-130). Cannot: that second copies for villages which stayed in Czechoslovakia are in that fond. Nothing found says so or denies it. The finding aid that would settle it is the printed union catalogue of register books for Zakarpattia (2009), which could not be opened. My entry `PL-H-015` is at 65. Note `PL-N-036`.
+7. **A correction that touches `DM-H-005`.** FamilySearch catalogue 1411329 is fond 151, opys 2: files of returns and extracts sent by parishes to the bishop, by year. It is not a set of second copies of parish books, as I wrote in PL-B-006. The page of film notes that was read lists baptism returns for 1901 to 1903. No village is named on that page.
 
 ## 12 Nov 2026, after PL-B-007 (your note DM→PL-007)
 

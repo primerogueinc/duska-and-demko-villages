@@ -15,7 +15,7 @@
       "PL-S-025",
       "PL-S-047"
     ],
-    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
   },
   {
     "id": "PL-N-002",
@@ -33,7 +33,7 @@
       "PL-S-039",
       "PL-S-046"
     ],
-    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
   },
   {
     "id": "PL-N-003",
@@ -49,7 +49,7 @@
       "PL-S-053",
       "PL-S-054"
     ],
-    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
   },
   {
     "id": "PL-N-004",
@@ -63,7 +63,7 @@
       "PL-S-028",
       "PL-S-015"
     ],
-    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
   },
   {
     "id": "PL-N-005",
@@ -81,7 +81,7 @@
       "PL-S-050",
       "PL-S-052"
     ],
-    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
   },
   {
     "id": "PL-N-006",
@@ -96,7 +96,7 @@
       "PL-S-003",
       "PL-S-014"
     ],
-    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
   },
   {
     "id": "PL-N-007",
@@ -109,7 +109,7 @@
     "src": [
       "PL-S-012"
     ],
-    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
   },
   {
     "id": "PL-N-010",
@@ -124,7 +124,7 @@
       "PL-S-011",
       "PL-S-007"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-011",
@@ -139,7 +139,7 @@
       "PL-S-032",
       "PL-S-023"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-012",
@@ -153,7 +153,7 @@
       "PL-S-024",
       "PL-S-007"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-013",
@@ -167,7 +167,7 @@
       "PL-S-019",
       "PL-S-020"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-014",
@@ -182,7 +182,7 @@
       "PL-S-006",
       "PL-S-005"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-015",
@@ -195,7 +195,7 @@
     "src": [
       "PL-S-009"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-016",
@@ -208,7 +208,7 @@
     "src": [
       "PL-S-019"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-017",
@@ -224,7 +224,7 @@
       "PL-S-046",
       "PL-S-047"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-018",
@@ -239,7 +239,7 @@
       "PL-S-047",
       "PL-S-007"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-019",
@@ -254,7 +254,7 @@
       "PL-S-072",
       "PL-S-071"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-020",
@@ -269,7 +269,7 @@
       "PL-S-087",
       "PL-S-088"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-021",
@@ -284,7 +284,7 @@
       "PL-S-037",
       "PL-S-036"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-022",
@@ -299,7 +299,7 @@
       "PL-S-076",
       "PL-S-069"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-023",
@@ -314,7 +314,7 @@
       "PL-S-077",
       "PL-S-092"
     ],
-    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
   },
   {
     "id": "PL-N-024",
@@ -329,7 +329,7 @@
       "PL-S-111",
       "PL-S-112"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-025",
@@ -343,7 +343,7 @@
       "PL-S-113",
       "PL-S-108"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-026",
@@ -357,7 +357,7 @@
       "PL-S-075",
       "PL-S-107"
     ],
-    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
   },
   {
     "id": "PL-N-027",
@@ -371,7 +371,7 @@
       "PL-S-115",
       "PL-S-107"
     ],
-    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
   },
   {
     "id": "PL-N-028",
@@ -385,7 +385,7 @@
       "PL-S-075",
       "PL-S-025"
     ],
-    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
   },
   {
     "id": "PL-N-029",
@@ -398,7 +398,7 @@
     "src": [
       "PL-S-075"
     ],
-    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
   },
   {
     "id": "PL-N-030",
@@ -413,7 +413,7 @@
       "PL-S-118",
       "PL-S-104"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   },
   {
     "id": "PL-N-031",
@@ -429,7 +429,7 @@
       "PL-S-005",
       "PL-S-015"
     ],
-    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
   },
   {
     "id": "PL-N-032",
@@ -444,7 +444,7 @@
       "PL-S-121",
       "PL-S-122"
     ],
-    "as_of": "DUS main @4d7a299, 12 Nov 2026"
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
   },
   {
     "id": "PL-N-033",
@@ -459,6 +459,50 @@
       "PL-S-124",
       "PL-S-070"
     ],
-    "as_of": "DM main @05cc58c, 12 Nov 2026"
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-034",
+    "for": "Duska",
+    "target": "F-009",
+    "target_text": "Ninety-five strips from the Senné Roman Catholic baptism book, 1866 to 1912.",
+    "lean": "supports",
+    "note": "The book is Prešov catalogue no. 1089. The catalogue says it holds births 1866-1912 on 254 pages and has the priests' names inside the binding; your strips open with that list and have page 212 at April 1905. Your FamilySearch path and image number belong on the same volume. The fire of 28 October 1865 in that list may be why the book begins in 1866 (PL-H-018, open at 40).",
+    "try": "Your marriage entry of 1892: 'Hrabó' is the farmstead Hrabov, named in the 1930 census summary you sent, which is why it has no house number. 'Iske' is Ižkovce, in the Greek Catholic parish of Čičarovce; a Greek Catholic born there before 1887 is in Čičarovce nos. 180 to 182.",
+    "src": [
+      "PL-S-075",
+      "PL-S-107"
+    ],
+    "as_of": "DUS main @c1c3be2, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-035",
+    "for": "Demko",
+    "target": "DM-H-036",
+    "target_text": "The Roman Catholic baptism of a woman of Solymos, to be found in her own church's book.",
+    "lean": "context only",
+    "note": "The Roman Catholics of Solymos belonged to the Senné parish throughout: a filial of Szenna in 1799, and in the Senné parish district in the archive's catalogue. Her baptism is in the Senné Roman Catholic book. If she was born in 1866 or later it is in no. 1089. If earlier, it is in a volume the state archive does not hold, and a fire of October 1865 may be the reason (PL-H-018).",
+    "try": "Her marriage and burial are easier: Senné marriages 1863-1886 are no. 1090 and deaths 1831-1886 no. 1091.",
+    "src": [
+      "PL-S-075",
+      "PL-S-044",
+      "PL-S-107"
+    ],
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-036",
+    "for": "Demko",
+    "target": "DM-H-018",
+    "target_text": "The Uzhhorod record is the county copy of the state registration of 1906.",
+    "lean": "supports",
+    "note": "What I can cite: the Zakarpattia archive at Uzhhorod holds 3,382 state register books for 1895 to 1937 in its fond 1606, beside 1,788 church books. In 1913 Solymos was in the notary district of Alsókánya. What I cannot cite: that the second copies for villages which stayed in Czechoslovakia are among them. The research pass found no statement either way. My own entry for this reading, PL-H-015, is now at 65.",
+    "try": "The printed union catalogue of register books for Zakarpattia (2009) lists the fond village by village. It could not be opened. It is the finding aid that would settle this.",
+    "src": [
+      "PL-S-126",
+      "PL-S-130",
+      "PL-S-125"
+    ],
+    "as_of": "DM main @5d8cbc4, 12 Nov 2026"
   }
 ]

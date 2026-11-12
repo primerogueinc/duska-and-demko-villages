@@ -114,7 +114,7 @@
     "id": "PL-H-005",
     "statement": "The Mukachevo eparchy series for the Ung district, 1826-1938, held at Uzhhorod, includes entries for Solymos (Iňačovce). This is a statement about a record set. It is not this agent's odds on why any one record is in Uzhhorod; for that see PL-H-015 and PL-H-016.",
     "confidence": 60,
-    "basis": "Iňačovce belonged to the Mukachevo eparchy, whose bishop sat at Uzhhorod. The series begins in 1826, the year before the law of 1827 that ordered second copies of church registers to be lodged with the county, and its catalogue description says it covers many places of the eparchy in Ungvár and the Ung district. The Prešov catalogue lists second-copy volumes for Zemplén parishes but none for the Ung parishes read so far, so Ung's second copies are somewhere else.",
+    "basis": "Iňačovce belonged to the Mukachevo eparchy, whose bishop sat at Uzhhorod. The series is the eparchy's own: fond 151, opys 2, files of register extracts and of parish returns of baptisms and marriages, by year. A parish of the eparchy would be expected among the returns. An earlier version of this entry took the series for the county's second copies; that was wrong.",
     "test": "The locality list inside FamilySearch catalogue 1411329, or the fond inventory at the Zakarpattia archive: is Solymos there, and for which years?",
     "status": "open",
     "raised": "PL-B-000",
@@ -147,23 +147,29 @@
         "batch": "PL-B-006",
         "effect": "55 to 60; reworded; no longer filed under X-Q-01",
         "note": "The coordinator asked whether this entry is a possibility or an explanation. It is a statement about what a series contains. The 1827 law is now sourced and no longer recalled. The locality list has still not been opened."
+      },
+      {
+        "batch": "PL-B-008",
+        "effect": "no change, 60; basis corrected",
+        "note": "The first page of the film notes was read by the third research pass. It names kinds of file and years, not villages."
       }
     ]
   },
   {
     "id": "PL-H-006",
     "statement": "The 1869 household sheets for Szenna and Solymos survive in the Ung county collection at Berehove.",
-    "confidence": 60,
+    "confidence": 78,
     "basis": "A researcher reports that the Ung county questionnaires are held there. No village list was given, and survival is usually patchy.",
     "test": "The collection's inventory, or a written query to the Zakarpattia state archive naming both villages.",
-    "status": "open",
+    "status": "supported",
     "raised": "PL-B-000",
     "resolved": null,
     "resolution": null,
     "src": [
       "PL-S-016",
       "PL-S-053",
-      "PL-S-054"
+      "PL-S-054",
+      "PL-S-107"
     ],
     "log": [
       {
@@ -175,6 +181,11 @@
         "batch": "PL-B-003",
         "effect": "no change, 60",
         "note": "Not researched in the second pass."
+      },
+      {
+        "batch": "PL-B-008",
+        "effect": "60 to 78, open to supported",
+        "note": "The Duska agent holds four household sheets of the 1869 census for Solymos. Sheets for that village therefore survive. Where they are kept is still only reported, and none for Senné is in hand."
       }
     ]
   },
@@ -288,7 +299,7 @@
   {
     "id": "PL-H-011",
     "statement": "The unidentified '-falva' village of the Belža copies is Bernátfalva, Búzafalva or Csontosfalva, the three villages now inside Valaliky.",
-    "confidence": 50,
+    "confidence": 62,
     "basis": "Valaliky is the only present filial of the Belža parish that contains villages with Hungarian names in -falva. All three were small and close by.",
     "test": "The surviving letters of the name on the copy, against the three; a Prešov eparchy directory of the 1890s listing Bölzse's filials.",
     "status": "open",
@@ -296,22 +307,28 @@
     "resolved": null,
     "resolution": null,
     "src": [
+      "PL-S-067",
       "PL-S-069",
       "PL-S-077",
-      "PL-S-067"
+      "PL-S-131"
     ],
     "log": [
       {
         "batch": "PL-B-003",
         "effect": "raised at 50",
         "note": "Nothing shows that any of the three was under Bölzse and not under Kassa town in 1894."
+      },
+      {
+        "batch": "PL-B-008",
+        "effect": "50 to 62",
+        "note": "An early 19th-century directory puts all three villages under the parish of Bölzse. Only Bernátfalva has Greek Catholics counted, so it leads. The directory is some eighty years too early and was seen only as machine-read text."
       }
     ]
   },
   {
     "id": "PL-H-012",
     "statement": "Vysoká nad Uhom was inside Slovakia from April 1939 to 1944: taken by Hungarian troops in the fighting of March 1939, but not ceded.",
-    "confidence": 80,
+    "confidence": 90,
     "basis": "The border protocol of 4 April 1939 runs the line along its boundaries with Lekárovce and Bežovce. The Slovak state's list for 1940 has Vysoká in the Michalovce district with 230 houses, while Bežovce, Blatná Polianka, Blatné Remety, Lekárovce and Čičarovce are absent from it. Against: two municipal histories speak of Hungarian occupation, and a census database labels the village Hungarian in 1941; the 1940 list also shows its population as 0.",
     "test": "The Hungarian gazetteer of 1941 or 1944: is Magasrév in it? Or the printed Lexikón obcí of 1942 for the population figure.",
     "status": "supported",
@@ -319,17 +336,23 @@
     "resolved": null,
     "resolution": null,
     "src": [
-      "PL-S-036",
-      "PL-S-015",
       "PL-S-003",
+      "PL-S-015",
+      "PL-S-036",
       "PL-S-070",
-      "PL-S-074"
+      "PL-S-074",
+      "PL-S-127"
     ],
     "log": [
       {
         "batch": "PL-B-003",
         "effect": "raised at 80, supported",
         "note": "Raised because this agent has now said both things about this village. The 1940 list was re-read for it on 12 Nov."
+      },
+      {
+        "batch": "PL-B-008",
+        "effect": "80 to 90, supported",
+        "note": "A state archive's history of the district names Vysoká nad Uhom among the villages that stayed with Michalovce after November 1938. The municipal histories speak of troops entering, not of annexation. Still wanted: the Hungarian gazetteer of 1941 or 1944."
       }
     ]
   },
@@ -376,6 +399,11 @@
         "batch": "PL-B-006",
         "effect": "raised at 80, supported",
         "note": "Found while answering the Duska agent's question about volume no. 1089. It names the volume and film for DUS:H-010 and RQ-4. Held under solved because this agent has the catalogue's description, not the pages."
+      },
+      {
+        "batch": "PL-B-008",
+        "effect": "no change, 80",
+        "note": "The Duska agent's new strips match the catalogue's description of the neighbouring volume, no. 1089, which shows the catalogue describes these books accurately. The copy-book itself has not been looked for on the film."
       }
     ]
   },
@@ -383,7 +411,7 @@
     "id": "PL-H-015",
     "question": "X-Q-01",
     "statement": "For a birth of 1906 at Solymos, the record in Uzhhorod is the county's second copy of the state civil register made at Alsókánya.",
-    "confidence": 55,
+    "confidence": 65,
     "basis": "State registration began on 1 October 1895 and its books were kept in two copies; county archives hold the second copies as a series. The county seat of Ung was Ungvár. A civil entry of August 1906 for Solymos is in hand, headed at Alsókánya. So a second copy of that very entry was owed to Uzhhorod. Not shown for Ung by any source read here: that the second copies went to the county and survive in the Zakarpattia archive. That step rests on the practice in other counties.",
     "test": "The fond and series title of the Uzhhorod record (RQ-6). A second copy of a civil register will be a printed Hungarian state form with a registrar's signature, not a priest's.",
     "status": "open",
@@ -391,16 +419,23 @@
     "resolved": null,
     "resolution": null,
     "src": [
+      "PL-S-104",
+      "PL-S-108",
       "PL-S-117",
       "PL-S-118",
       "PL-S-119",
-      "PL-S-104"
+      "PL-S-126"
     ],
     "log": [
       {
         "batch": "PL-B-006",
         "effect": "raised at 55",
         "note": "This agent's odds on the explanation, as the coordinator asked. Place evidence cannot separate this from PL-H-016: both kinds of copy would have been sent to the same town."
+      },
+      {
+        "batch": "PL-B-008",
+        "effect": "55 to 65",
+        "note": "The owner told the Demko agent that the 1906 state registration in hand is 'ostensibly from Uzhhorod' (DM-PR-6, scored as given). The Zakarpattia archive holds 3,382 state register books for 1895-1937. Not shown: that its holdings include villages now in Slovakia."
       }
     ]
   },
@@ -408,7 +443,7 @@
     "id": "PL-H-016",
     "question": "X-Q-01",
     "statement": "The record in Uzhhorod is a Greek Catholic entry held by the eparchy: a second copy or the bishop's own series.",
-    "confidence": 30,
+    "confidence": 20,
     "basis": "The eparchy's series at Uzhhorod runs to 1938 (PL-R-004), and no Iňačovce Greek Catholic volume after 1898 is in the Prešov archive, so a baptism of 1906 has no other known home. Against: whether Solymos is in that series is not checked, and the second-copy volumes seen in the Prešov catalogue stop in 1895, when state registration began.",
     "test": "As PL-H-015. A church copy will name the officiating priest and the godparents.",
     "status": "open",
@@ -425,6 +460,11 @@
         "batch": "PL-B-006",
         "effect": "raised at 30",
         "note": "The rival to PL-H-015 on this board. The two sum to 85; the rest is for a record of some other kind or a birthplace now in Ukraine."
+      },
+      {
+        "batch": "PL-B-008",
+        "effect": "30 to 20",
+        "note": "Lowered with PL-H-015 raised. One thing in its favour is new: the eparchy's series does hold parish returns of baptisms for the years around 1901 to 1903."
       }
     ]
   },
@@ -448,6 +488,34 @@
         "batch": "PL-B-007",
         "effect": "raised at 85, supported",
         "note": "The Duska agent asked this agent to rule on which book (DUS:H-043, at 70). The match is on years, residence and denomination. Short of solved: no header and no archive image in hand."
+      },
+      {
+        "batch": "PL-B-008",
+        "effect": "no change, 85",
+        "note": "A page of burials for 1831-1841 from the same book is now in hand, and the Demko agent holds thirteen more strips."
+      }
+    ]
+  },
+  {
+    "id": "PL-H-018",
+    "statement": "The Senné Roman Catholic baptism register for the years before 1866 was lost in the fire of 28 October 1865.",
+    "confidence": 40,
+    "basis": "The parish's own list of priests, on the opening page of the surviving baptism volume, records a fire on that date. The volume begins in 1866, and the state archive holds no earlier baptisms for the parish. Against: the marriage volume begins in 1863 and the burial volume in 1831, so not everything burned; and an index has reported older volumes for 1793-1878 that this agent has not traced.",
+    "test": "The wording of the fire note in full; the first page of volume no. 1089 for any remark on why it begins in 1866; the holdings of the archdiocesan archive at Košice.",
+    "status": "open",
+    "raised": "PL-B-008",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-107",
+      "PL-S-075",
+      "PL-S-047"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-008",
+        "effect": "raised at 40",
+        "note": "A coincidence of dates that would explain a gap this repo has carried since PL-B-001. This agent has the fire note at second hand."
       }
     ]
   }

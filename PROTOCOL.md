@@ -41,12 +41,13 @@ ID prefixes: `PL-P` place, `PL-S` source, `PL-R` record set, `PL-H` hypothesis, 
 
 ## Current state (2026-11-12)
 
-- Batches PL-B-000 (baseline), PL-B-001 (Senné in depth), PL-B-002 (ledger v3), PL-B-003 (the line agents' villages), PL-B-004 (the archive's catalogue), PL-B-005 (ledger v14; no place data), PL-B-006 (ledger v16) and PL-B-007 (ledger v18). PL-B-000 to PL-B-005 are on `main` and stamped (`641ba53`); a later batch is on a branch until merged. A merge needs the owner to say so in this agent's chat (PL-DEC-024).
-- 32 places, 124 sources, 29 record sets, 31 notes for the line agents, 13 epidemic rows, 10 curiosities. Decisions in `data/decisions.json`, searches in `data/searches.json`, research briefs in `research/`.
-- Hypotheses: PL-H-001 and PL-H-002 solved. PL-H-003, PL-H-004, PL-H-009 (X-Q-02), PL-H-010 and PL-H-012 supported. PL-H-014 and PL-H-017 supported. PL-H-005, PL-H-006, PL-H-007, PL-H-011, PL-H-013, and PL-H-015 and PL-H-016 (both X-Q-01) open. PL-H-008 refuted.
+- Batches PL-B-000 (baseline), PL-B-001 (Senné in depth), PL-B-002 (ledger v3), PL-B-003 (the line agents' villages), PL-B-004 (the archive's catalogue), PL-B-005 (ledger v14; no place data), PL-B-006 (ledger v16), PL-B-007 (ledger v18) and PL-B-008 (ledger v19; third research pass). PL-B-000 to PL-B-005 are on `main` and stamped (`641ba53`); a later batch is on a branch until merged. A merge needs the owner to say so in this agent's chat (PL-DEC-024).
+- 33 places, 135 sources, 31 record sets, 34 notes for the line agents, 14 epidemic rows, 16 curiosities. Decisions in `data/decisions.json`, searches in `data/searches.json`, research briefs in `research/`.
+- Hypotheses: PL-H-001 and PL-H-002 solved. PL-H-003, PL-H-004, PL-H-009 (X-Q-02), PL-H-010 and PL-H-012 supported. PL-H-014 and PL-H-017 supported. PL-H-006 supported. PL-H-005, PL-H-007, PL-H-011, PL-H-013, PL-H-018, and PL-H-015 and PL-H-016 (both X-Q-01) open. PL-H-008 refuted.
 - Headline findings: the two villages were never one parish, and close to a third of Senné was Greek Catholic and registered at Iňačovce, shown by a record. The Viszoka of the line records is Vysoká nad Uhom; its Greek Catholics were registered at Čičarovce and its Roman Catholics at Pavlovce nad Uhom. Gyňov and Seňa were Greek Catholic filials of Belža. Volume numbers from the Prešov archive's catalogue are in `data/holdings.json` for every parish met so far.
 - Places carry a `links` list (label, url, kind) and a `flag` (`hu-1938` or `hu-1939`). Cross-notes carry `as_of`. Hypotheses carry `log` and, where the ledger files them, `question`. Epidemic rows are `PL-E`.
 - The coordinator's ledger is read at the start of every batch (X-025). Every batch blurb ends with a count of curiosities (X-024). DNA material is not opened (X-023).
+- No online family trees are opened and the search of past chats is not used (X-011 item 7, X-021 item 4).
 - This agent is blind (ledger X-021). It does not read the private repo of X-020, the open line's chats or documents, or memory notes about lines outside the test.
 - Not yet done: which Iňačovce Greek Catholic volumes after 1898 survive (PL-Q-006); burial counts for the epidemic timeline (PL-Q-007); census sheets and tax lists for the new villages (PL-Q-008); the last pages of the catalogue (PL-Q-009); eleven village positions are approximate.
 

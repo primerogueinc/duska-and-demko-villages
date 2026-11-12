@@ -119,5 +119,79 @@
     "translation": "About 600 cows died in Senné in 1940, and the harvests failed for two years after.",
     "why": "A village of 171 houses losing 600 cows is most of its wealth gone in a season.",
     "tone": "sad"
+  },
+  {
+    "id": "PL-CU-011",
+    "batch": "PL-B-008",
+    "src": [
+      "PL-S-129"
+    ],
+    "place": "PL-P-020",
+    "original": "Od roku 1895 dodnes – bez prerušenia – sídli v obci matričný úrad.",
+    "translation": "From 1895 to this day, without a break, a registry office has sat in the village.",
+    "why": "The same office at Pavlovce has registered births under the Kingdom of Hungary, Czechoslovakia, the wartime Slovak state, Czechoslovakia again and Slovakia.",
+    "tone": "history"
+  },
+  {
+    "id": "PL-CU-012",
+    "batch": "PL-B-008",
+    "src": [
+      "PL-S-107",
+      "PL-S-075"
+    ],
+    "place": "PL-P-001",
+    "original": "per malignum hominem",
+    "translation": "by a malicious man",
+    "why": "How the parish of Senné recorded the fire of 28 October 1865. The baptism book that survives starts the next year.",
+    "tone": "sad"
+  },
+  {
+    "id": "PL-CU-013",
+    "batch": "PL-B-008",
+    "src": [
+      "PL-S-107",
+      "PL-S-042"
+    ],
+    "place": "PL-P-001",
+    "original": "Szenna (1 March 1906); Ung Szenna (19 May 1906)",
+    "translation": "The village's name as two successive parish priests wrote it, ten weeks apart.",
+    "why": "The government renamed the village in 1904. The old priest went on writing the old name for two years; it took a new priest to make the change.",
+    "tone": "funny"
+  },
+  {
+    "id": "PL-CU-014",
+    "batch": "PL-B-008",
+    "src": [
+      "PL-S-131"
+    ],
+    "place": "PL-P-054",
+    "original": "Búzafalva —; Bernáthfalva 25; Csontosfalva —",
+    "translation": "Three villages listed under the Greek Catholic parish of Bölzse, with their numbers of faithful.",
+    "why": "Two of the parish's villages are counted with no parishioners at all. The directory lists the ground a priest was answerable for, not the people on it.",
+    "tone": "odd"
+  },
+  {
+    "id": "PL-CU-015",
+    "batch": "PL-B-008",
+    "src": [
+      "PL-S-127"
+    ],
+    "place": "PL-P-037",
+    "original": "Not quoted; from a state archive's district history.",
+    "translation": "From November 1938 to 1944 Vysoká nad Uhom was in Slovakia and its Greek Catholic mother church at Čičarovce was in Hungary.",
+    "why": "For six years a Greek Catholic of the village had a state border between the house and the baptism book.",
+    "tone": "history"
+  },
+  {
+    "id": "PL-CU-016",
+    "batch": "PL-B-008",
+    "src": [
+      "PL-S-107"
+    ],
+    "place": "PL-P-002",
+    "original": "Énekszóval; Tanítással",
+    "translation": "With singing; with a sermon.",
+    "why": "The Reformed burial book of Solymos in the 1830s has a column for how each person was buried. Not everyone got the sermon.",
+    "tone": "odd"
   }
 ]

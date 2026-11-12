@@ -208,5 +208,35 @@
     "date": "2026-11-12",
     "decided": "PL-B-006 and PL-B-007 sit on one branch and one pull request, as two commits, until the owner says to merge.",
     "why": "X-006 and X-007: one batch, one commit. The earlier batch had not been merged when this one began."
+  },
+  {
+    "id": "PL-DEC-036",
+    "date": "2026-11-12",
+    "decided": "Read ledger v19 at the start of this batch. Replaced .github/workflows/stamp.yml with version 2, unchanged; its SHA-256 begins a6aca81c.",
+    "why": "X-007 and X-025."
+  },
+  {
+    "id": "PL-DEC-037",
+    "date": "2026-11-12",
+    "decided": "Ran a third research pass with the owner's agreement, under written rules: open web only, no connector, nothing of the owner's, no surname searches, no online family trees. Reported to the coordinator that a sub-agent of the pass broke one rule: it ran a search of the owner's mailbox. It reports one result, a thread of 2022 from the owner's own address, seen as a line in a list and not opened. Nothing from it is in the report or in this repo.",
+    "why": "X-011 item 6. This is the third pass across the experiment in which a research tool has reached a mailbox against instructions. An instruction does not stop it; only disconnecting the mailbox from these chats would."
+  },
+  {
+    "id": "PL-DEC-038",
+    "date": "2026-11-12",
+    "decided": "For X-021 item 4, on the search of past chats: this agent made one such call on 12 Nov, limited to its own chat, to check its own record for the exposure report. The call returned an error and no content. It also re-read the first turns of its own chat. It has made no search across the Project's chats and will make none.",
+    "why": "The rule is new in v19; the report is owed."
+  },
+  {
+    "id": "PL-DEC-039",
+    "date": "2026-11-12",
+    "decided": "Moved five confidences on the research pass and on the line agents' new records: PL-H-012 to 90, PL-H-011 to 62, PL-H-006 to 78, PL-H-015 to 65, PL-H-016 to 20. Corrected PL-R-004 and the basis of PL-H-005: the eparchy's series is returns to the bishop, not the county's second copies.",
+    "why": "Each move is logged on its entry with the evidence. The correction is this agent's own error from PL-B-006."
+  },
+  {
+    "id": "PL-DEC-040",
+    "date": "2026-11-12",
+    "decided": "Did not try to identify a Montréal cemetery from a database printout, as the Duska agent asked.",
+    "why": "It is a record of the family in living memory, not a place in the old country, and the search would turn on details of one burial. Left to the Duska agent and the owner."
   }
 ]

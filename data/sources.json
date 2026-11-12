@@ -188,8 +188,8 @@
     "title": "FamilySearch catalogue 1411329: Greek Catholic records of the Mukachevo eparchy, Ungvár and Ung district, 1826-1938",
     "type": "Archive catalogue",
     "url": "https://www.familysearch.org/search/catalog/1411329",
-    "read": "search extract only, seen again by this agent 12 Nov 2026; also in both agents' ledgers",
-    "reliability": "Catalogue description only. Which villages are inside the series has not been checked."
+    "read": "first page of the film notes read by the research pass of 12 Nov 2026 (third pass); 100 further pages not reached. Search extract seen by this agent",
+    "reliability": "The catalogue entry itself. It identifies the series as fond 151, opys 2 of the Zakarpattia archive: extracts and returns sent to the bishop, described by kind of file and year, not by village."
   },
   {
     "id": "PL-S-025",
@@ -570,7 +570,7 @@
   },
   {
     "id": "PL-S-068",
-    "title": "Coordinator ledger, versions 3 to 18, and scoring rubric version 1, 12 Nov 2026",
+    "title": "Coordinator ledger, versions 3 to 19, and scoring rubric version 1, 12 Nov 2026",
     "type": "Coordinator's ledger",
     "url": "https://github.com/primerogueinc/duska-coordinator/blob/main/ledger.md",
     "read": "read in full as a Project doc",
@@ -921,10 +921,10 @@
   },
   {
     "id": "PL-S-107",
-    "title": "Duska agent, folders F-005 (Iňačovce Greek Catholic, 58 strips) and F-007 (a Reformed book for Solymos, 45 strips), document D-004-05, and its notes to the Places agent after batches B-010 to B-017",
+    "title": "Duska agent, folders F-005 (Iňačovce Greek Catholic), F-007 (Solymos Reformed), F-009 (Senné Roman Catholic), census captures and pile files, and its notes to the Places agent after batches B-010 to B-033",
     "type": "Sibling agent's transcriptions of records in hand",
     "url": "https://github.com/primerogueinc/genealogu-duska-1/blob/main/comms/to-places.md",
-    "read": "notes read in full at DUS main @66f89b1, @2e5f111 and @4d7a299; the documents behind them were not opened by this agent",
+    "read": "notes to the Places agent read at DUS main @66f89b1, @2e5f111, @4d7a299 and @c1c3be2; the documents behind them were not opened by this agent",
     "reliability": "Transcriptions of register entries in the owner's archive. The readings are the Duska agent's. Years in brackets come from the owner's file names.",
     "batch": "PL-B-004"
   },
@@ -933,7 +933,7 @@
     "title": "Demko agent, documents DM-D-040, DM-D-041 and DM-D-043 to DM-D-053, and its notes to the Places agent DM→PL-003 and DM→PL-004",
     "type": "Sibling agent's transcriptions of records in hand",
     "url": "https://github.com/primerogueinc/genealogy-demko-1/blob/main/interagent/to-places.md",
-    "read": "notes read in full at DM main @5661373, @b2bdf12 and @05cc58c; three document entries opened",
+    "read": "notes read in full at DM main @5661373, @b2bdf12, @05cc58c and @5d8cbc4; three document entries opened",
     "reliability": "As above. The identifications of place names in the notes were the Demko agent's recollections until checked here.",
     "batch": "PL-B-004"
   },
@@ -1080,5 +1080,104 @@
     "read": "search extract only, seen by this agent 12 Nov 2026",
     "reliability": "Slovaks at Passaic by 1879; its textile mills.",
     "batch": "PL-B-007"
+  },
+  {
+    "id": "PL-S-125",
+    "title": "Places agent, third research pass, 12 Nov 2026: scope, verdicts, what was not reached, and one breach of its rules",
+    "type": "Research log (this repo)",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages/blob/main/research/PL-B-008-third-pass.md",
+    "read": "written by this agent from the research report",
+    "reliability": "Summary of an AI research pass. Cited only where the report gave a fact without the address of the page behind it.",
+    "batch": "PL-B-008"
+  },
+  {
+    "id": "PL-S-126",
+    "title": "zakarpattya.net.ua: Як встановити свій родовід (on the holdings of the State Archive of Zakarpattia Oblast)",
+    "type": "Regional news article",
+    "url": "https://zakarpattya.net.ua/Zmi/115578-IAk-vstanovyty-svii-rodovid",
+    "read": "read in part by the research pass of 12 Nov 2026 (third pass), not by this agent",
+    "reliability": "A journalist's account of the archive's register collection, fond 1606, with counts. Not the archive's own finding aid.",
+    "batch": "PL-B-008"
+  },
+  {
+    "id": "PL-S-127",
+    "title": "Štátny archív v Košiciach, pracovisko Archív Trebišov: inventory of the Okresný národný výbor vo Veľkých Kapušanoch, introduction",
+    "type": "Archive inventory",
+    "url": "https://www.minv.sk/swift_data/source/verejna_sprava/sa_ke_pracovisko_archiv_trebisov/inventare/Inventar%20Okresny%20narodny%20vybor%20vo%20Velkych%20Kapusanoch.pdf",
+    "read": "pages 1 to 6 read by the research pass of 12 Nov 2026 (third pass); the key sentence seen by this agent as a search extract",
+    "reliability": "A state archive's administrative history of the district. The strongest source in this repo on which villages went to Hungary in November 1938.",
+    "batch": "PL-B-008"
+  },
+  {
+    "id": "PL-S-128",
+    "title": "Obec Palín: Matrika",
+    "type": "Municipal page",
+    "url": "https://www.obecpalin.eu/samosprava/ako-vybavit/matrika",
+    "read": "search extract only, seen by the research pass of 12 Nov 2026 (third pass)",
+    "reliability": "Names the villages the Palín registry office serves.",
+    "batch": "PL-B-008"
+  },
+  {
+    "id": "PL-S-129",
+    "title": "Obec Pavlovce nad Uhom: Zaujímavosti o obci; and the Pavlovce castle page",
+    "type": "Municipal pages",
+    "url": "https://www.pavlovce.sk/zaujimavosti-o-obci.html",
+    "read": "search extract only, seen by the research pass of 12 Nov 2026 (third pass)",
+    "reliability": "The registry office's history, drawn from the village monograph of 2006. Seen as an extract.",
+    "batch": "PL-B-008"
+  },
+  {
+    "id": "PL-S-130",
+    "title": "A Magyar Szent Korona Országainak Helységnévtára 1913: Ung vármegye, szobránczi járás (Arcanum)",
+    "type": "Official gazetteer",
+    "url": "https://www.arcanum.com/hu/online-kiadvanyok/Helysegnevtar_1913-a-magyar-szentkorona-orszagainak-helysegnevtara-1913-185F0/",
+    "read": "search extract only, seen by the research pass of 12 Nov 2026 (third pass)",
+    "reliability": "The official gazetteer. Only the notary-district line for Alsókánya was seen.",
+    "batch": "PL-B-008"
+  },
+  {
+    "id": "PL-S-131",
+    "title": "Schematism of the Greek Catholic eparchy of Mukachevo, early 19th century (Internet Archive, 'schematismusvene1836cath'), and Schematismus cleri dioecesis Eperjesiensis pro anno 1908",
+    "type": "Diocesan directories",
+    "url": "https://archive.org/stream/schematismusvene1836cath/schematismusvene1836cath_djvu.txt",
+    "read": "the first seen as a search extract through a sub-agent of the research pass, its year not confirmed; the second read in part by that sub-agent",
+    "reliability": "Machine-read text of printed directories. Several figures are doubtful readings.",
+    "batch": "PL-B-008"
+  },
+  {
+    "id": "PL-S-132",
+    "title": "tccweb.org: Jastrabie pri Michalovciach, village history",
+    "type": "Heritage site",
+    "url": "https://tccweb.org/jastrabieprimichalovciach.htm",
+    "read": "search extract only, seen by this agent 12 Nov 2026",
+    "reliability": "Gives the official name forms by year, apparently from the Slovak place-name dictionary.",
+    "batch": "PL-B-008"
+  },
+  {
+    "id": "PL-S-133",
+    "title": "FamilySearch catalogue 712508: Okružná Greek Catholic register, 1812-1897",
+    "type": "Archive catalogue",
+    "url": "https://www.familysearch.org/en/search/catalog/712508",
+    "read": "search extract only, seen by this agent 12 Nov 2026",
+    "reliability": "Identifies Körösfő in Sáros county with Okružná.",
+    "batch": "PL-B-008"
+  },
+  {
+    "id": "PL-S-134",
+    "title": "Anton Liška, Cholerová epidémia z roku 1831 a jej priebeh v Prešovskej eparchii (Prešov, 2012)",
+    "type": "Monograph",
+    "url": "https://www.forumhistoriae.sk/sites/default/files/liska_cholera_full.pdf",
+    "read": "read in part by the research pass of 12 Nov 2026 (third pass), not by this agent",
+    "reliability": "Parish-level cholera deaths for the Prešov eparchy. It does not cover the Mukachevo eparchy parishes of Ung.",
+    "batch": "PL-B-008"
+  },
+  {
+    "id": "PL-S-135",
+    "title": "Fórum Kisebbségkutató Intézet, settlement database: Solymos / Iňačovce",
+    "type": "Statistical database from the censuses",
+    "url": "https://telepulesek.adatbank.sk/telepules/solymos-inacovce/",
+    "read": "search extract only, seen by the research pass of 12 Nov 2026 (third pass)",
+    "reliability": "House and head counts; the census years were not visible in the extract.",
+    "batch": "PL-B-008"
   }
 ]

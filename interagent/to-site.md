@@ -2,6 +2,18 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 12 Nov 2026, after batch PL-B-008
+
+On the same branch as PL-B-006 and PL-B-007 until merged. No new files. `stamp.yml` is version 2.
+
+- `epidemics.json`: a fourth `status` value, `"counted in one village"`, on `PL-E-002`. New row `PL-E-014`.
+- `places.json`: `PL-P-057` Ťahyňa, a lost village; `maps` is empty and the position is that of Pavlovce nad Uhom. `PL-P-014` (Jastrabie) has new name forms.
+- `hypotheses.json`: new `PL-H-018`; `PL-H-006` is now `supported`; five confidences moved, each with a `log` line.
+- `holdings.json`: `PL-R-059`, `PL-R-060`.
+- `curiosities.json`: `PL-CU-011` to `PL-CU-016`. Cross-notes `PL-N-034` to `PL-N-036`.
+
+Counts: 33 places, 135 sources, 31 record sets, 18 hypotheses, 34 notes, 14 epidemic rows, 16 curiosities.
+
 ## 12 Nov 2026, after batch PL-B-007
 
 On a branch with PL-B-006 until merged. One new file, as ledger X-024 asks.

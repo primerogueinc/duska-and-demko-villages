@@ -8,11 +8,12 @@
     "held": "State archive, Prešov, church registers catalogue nos. 1089 to 1093, microfilm 287-288. Filmed in 1993: FamilySearch catalogue 710997, films 1793682 and 1793683 (image groups 4407158 and 4407159).",
     "online": "FamilySearch images, where open",
     "status": "confirmed",
-    "note": "The catalogue page was read in the research pass. The span 1831-1926 hides a gap: baptisms in this title begin only in 1866. Earlier baptisms are in the older set, PL-R-006. The archive's own catalogue agrees volume by volume and lists no births before 1866. Volume details from the catalogue: no. 1089, births 1866-1912, 254 leaves, Latin and Hungarian, priests' names inside the binding, no gap noted. No. 1090, marriages 1863-1886, 47 pages, with notes by the bishop of Szatmár from 1837-1840 written from the reverse side. No. 1091, deaths 1831-1886, 229 pages. No. 1092, marriages 1887-1926. No. 1093, deaths 1887-1925. Births after 1912, marriages after 1926 and deaths after 1925 are not at Prešov.",
+    "note": "The catalogue page was read in the research pass. The span 1831-1926 hides a gap: baptisms in this title begin only in 1866. Earlier baptisms are in the older set, PL-R-006. The archive's own catalogue agrees volume by volume and lists no births before 1866. Volume details from the catalogue: no. 1089, births 1866-1912, 254 leaves, Latin and Hungarian, priests' names inside the binding, no gap noted. No. 1090, marriages 1863-1886, 47 pages, with notes by the bishop of Szatmár from 1837-1840 written from the reverse side. No. 1091, deaths 1831-1886, 229 pages. No. 1092, marriages 1887-1926. No. 1093, deaths 1887-1925. Births after 1912, marriages after 1926 and deaths after 1925 are not at Prešov. Checked against records in hand at PL-B-008: the Duska agent's strips open with the list of priests the catalogue describes, page 212 is April 1905, and the owner's screenshot gives the FamilySearch path 'Slovakia Church and Synagogue Books, Roman Catholic, Veľké Kapušany, Senné', image 34 of 337 for August 1872. Later notes run to 1950.",
     "src": [
-      "PL-S-025",
       "PL-S-009",
-      "PL-S-075"
+      "PL-S-025",
+      "PL-S-075",
+      "PL-S-107"
     ],
     "bears_on": [
       "DM-H-007",
@@ -77,11 +78,10 @@
     "held": "Zakarpattia state archive, Uzhhorod and Berehove. Filmed: FamilySearch catalogue 1411329.",
     "online": "FamilySearch catalogue",
     "status": "lead",
-    "note": "A series that begins in 1826, the year before the law of 1827 ordered a second copy of every church register to be lodged with the county, and that is described as covering many places of the eparchy in Ungvár and the Ung district. That fits a run of second copies. No second-copy volume for an Ung county parish is listed at Prešov, while Zemplén parishes there have them for 1882-1895. Whether Solymos is in the series is still not checked (PL-H-005).",
+    "note": "Corrected at PL-B-008. This is fond 151, opys 2 of the Zakarpattia archive: the eparchy's own papers. The first page of the film notes lists files of extracts from registers and of parish returns of baptisms and marriages for 1901 to 1903, on film 2376464. They are returns sent to the bishop, not parish books and not the county's second copies. The files are described by kind and year; no village is named on the page read, and 100 pages of notes were not reached. Whether Solymos is in them is still not checked (PL-H-005).",
     "src": [
       "PL-S-024",
-      "PL-S-116",
-      "PL-S-075"
+      "PL-S-125"
     ],
     "bears_on": [
       "DUS:H-006",
@@ -98,13 +98,14 @@
     "held": "State archive, Prešov: Lúčky Reformed nos. 590 to 592 (microfilm 134); Iňačovce filial no. 592/1 (microfilm 88-89)",
     "online": "not checked",
     "status": "confirmed",
-    "note": "No. 592/1 is a register kept for the Iňačovce filial alone: births 1819-1927, marriages 1820-1926, deaths 1819-1936. The Lúčky volumes begin in 1747, which confirms the start year. The Lúčky district also takes in Čečehov, Hažín, Komárovce, Zalužice, Nižná Rybnica, Tibava and Závadka. The Duska agent holds 45 strips from this book, 1825 to 1921 (PL-H-017). One entry of about 1903 was made from an extract of a birth certificate for a child born in America, so the book also took in births abroad.",
+    "note": "No. 592/1 is a register kept for the Iňačovce filial alone: births 1819-1927, marriages 1820-1926, deaths 1819-1936. The Lúčky volumes begin in 1747, which confirms the start year. The Lúčky district also takes in Čečehov, Hažín, Komárovce, Zalužice, Nižná Rybnica, Tibava and Závadka. The Duska agent holds 45 strips from this book, 1825 to 1921 (PL-H-017). One entry of about 1903 was made from an extract of a birth certificate for a child born in America, so the book also took in births abroad. A page of burials for 1831 to 1841 is in the Duska agent's hands, and the Demko agent holds thirteen more baptism strips, 1825 to 1921. The entry of 1921 is still on the Hungarian form.",
     "src": [
       "PL-S-007",
       "PL-S-046",
       "PL-S-047",
       "PL-S-075",
-      "PL-S-107"
+      "PL-S-107",
+      "PL-S-108"
     ],
     "bears_on": [
       "DM-H-002",
@@ -121,11 +122,12 @@
     "held": "Not yet traced to a catalogue entry. Image groups 4948283 and 4948284 in an index of FamilySearch holdings.",
     "online": "FamilySearch images, if the groups are open",
     "status": "lead",
-    "note": "The municipal history says the oldest known registers date from 1778 and that books from 1718 are mentioned in older writing but unknown today. One list gives the filmed span as 1787-1943. An index page also showed image groups with entries from 1709 near the Senné heading, which may belong to another parish.",
+    "note": "The municipal history says the oldest known registers date from 1778 and that books from 1718 are mentioned in older writing but unknown today. One list gives the filmed span as 1787-1943. An index page also showed image groups with entries from 1709 near the Senné heading, which may belong to another parish. A lead from the book itself: the parish's list of priests records a fire on 28 October 1865, and the surviving baptism volume begins in 1866 (PL-H-018). The search for the older volumes was not reached by the third research pass.",
     "src": [
-      "PL-S-047",
       "PL-S-039",
-      "PL-S-049"
+      "PL-S-047",
+      "PL-S-049",
+      "PL-S-107"
     ],
     "bears_on": [
       "DUS:H-004",
@@ -290,6 +292,38 @@
     "bears_on": []
   },
   {
+    "id": "PL-R-059",
+    "group": "Church registers",
+    "record": "Staré (Sztára) Roman Catholic register",
+    "years": "1722-1911, with duplicates for 1882-1895",
+    "covers": "Roman Catholics of Staré, Krivošťany, Oreské, Nacina Ves, Stankovce and Voľa",
+    "held": "State archive, Prešov, nos. 1149 to 1154, films 307-309",
+    "online": "not checked",
+    "status": "confirmed",
+    "note": "A baptism of January 1848 is in no. 1151 (1844-1871, in Hungarian). No Greek Catholic or Reformed register for Staré is in the part of the catalogue read, so an entry marked 'R.K.' at Sztára is from this book.",
+    "src": [
+      "PL-S-075"
+    ],
+    "bears_on": [
+      "DUS:H-055"
+    ]
+  },
+  {
+    "id": "PL-R-060",
+    "group": "Church registers",
+    "record": "Okružná (Körösfő) Greek Catholic register",
+    "years": "1812-1897",
+    "covers": "Greek Catholics of Okružná, Sáros county",
+    "held": "FamilySearch catalogue 712508, two reels",
+    "online": "FamilySearch catalogue",
+    "status": "reported",
+    "note": "Listed to place the 'Parochus Körösfőensis' of a baptism of about 1809 held by the Demko agent. Körösfő is Okružná, east of Prešov. The filmed register begins after that date.",
+    "src": [
+      "PL-S-133"
+    ],
+    "bears_on": []
+  },
+  {
     "id": "PL-R-010",
     "group": "Civil registration",
     "record": "State registers of births, marriages and deaths",
@@ -298,7 +332,7 @@
     "held": "Registry office for the village; books pass to the state archive 100 years after their last entry. For Solymos in 1906 the registrar sat at Alsókánya (Jastrabie).",
     "online": "not checked",
     "status": "confirmed in principle",
-    "note": "Start date confirmed: Law XXXIII of 1894, in force 1 October 1895. Three birth volumes of the Senné state register, 1895-1898, 1898-1900 and 1901-1906, appear in an index of FamilySearch image groups (5847168 to 5847170); not yet opened. The registry district and today's registry office are still to be found. A state birth entry of 23 August 1906 for Solymos is headed as done at Alsókánya (a probable reading, DM-D-008). Whether Szenna used the same office is not known. The state registers were kept in two copies, and county archives hold the second copies as a series of their own. For Ung the county seat was Ungvár, so the second copy of a 1906 entry made at Alsókánya would have gone to Uzhhorod (PL-H-015). Deaths from October 1895 are in the state death register of the same office, which covers the years after the Iňačovce church volumes end in 1898.",
+    "note": "Start date confirmed: Law XXXIII of 1894, in force 1 October 1895. Three birth volumes of the Senné state register, 1895-1898, 1898-1900 and 1901-1906, appear in an index of FamilySearch image groups (5847168 to 5847170); not yet opened. The registry district and today's registry office are still to be found. A state birth entry of 23 August 1906 for Solymos is headed as done at Alsókánya (a probable reading, DM-D-008). Whether Szenna used the same office is not known. The state registers were kept in two copies, and county archives hold the second copies as a series of their own. For Ung the county seat was Ungvár, so the second copy of a 1906 entry made at Alsókánya would have gone to Uzhhorod (PL-H-015). Deaths from October 1895 are in the state death register of the same office, which covers the years after the Iňačovce church volumes end in 1898. Offices, as far as found: Solymos was in the notary district of Alsókánya in 1913; Vysoká nad Uhom was registered at Pálóc from 1895, and Pavlovce is still its office; Senné's office today is Palín, where the 1930 census summary for Senné was also signed. The office for Iňačovce and Jastrabie today was not found. At Uzhhorod the Zakarpattia archive's fond 1606 holds 3,382 state register books for 1895 to 1937 for its region. Whether that includes second copies for villages now in Slovakia is not established.",
     "src": [
       "PL-S-019",
       "PL-S-020",
@@ -306,7 +340,11 @@
       "PL-S-104",
       "PL-S-117",
       "PL-S-118",
-      "PL-S-119"
+      "PL-S-119",
+      "PL-S-126",
+      "PL-S-128",
+      "PL-S-129",
+      "PL-S-130"
     ],
     "bears_on": [
       "DM-H-006",
@@ -400,12 +438,13 @@
     "held": "State Archive of Zakarpattia Oblast, Berehove branch; reported as fond 7/2, sheets for 214 Ung settlements",
     "online": "no",
     "status": "confirmed for the county",
-    "note": "Three independent reports now agree that the Ung county sheets are in the Zakarpattia archive and have not been filmed by FamilySearch. The fond number comes from a survey whose authors marked it as to be checked. Not confirmed for Szenna by name.",
+    "note": "Three independent reports now agree that the Ung county sheets are in the Zakarpattia archive and have not been filmed by FamilySearch. The fond number comes from a survey whose authors marked it as to be checked. Not confirmed for Szenna by name. Four household sheets for Solymos, dated to 1869 by the owner's label, are in the Duska agent's hands as photographs of a screen, with no archive mark. So sheets for Solymos exist and have been put online somewhere; where is not known.",
     "src": [
       "PL-S-016",
       "PL-S-017",
       "PL-S-053",
-      "PL-S-054"
+      "PL-S-054",
+      "PL-S-107"
     ],
     "bears_on": [
       "DUS:H-007"
@@ -420,9 +459,10 @@
     "held": "Slovak National Archives, Bratislava",
     "online": "slovakiana.sk",
     "status": "reported",
-    "note": "Coverage for the two villages not yet checked. This is where a Senné house number can be tested directly.",
+    "note": "Coverage for the two villages not yet checked. This is where a Senné house number can be tested directly. The Duska agent holds captures with references: Slovak National Archives, on the Slovakiana portal under census forms; Senné household sheets in box 0311, the house lists and commune summary in box 1261.",
     "src": [
-      "PL-S-028"
+      "PL-S-028",
+      "PL-S-107"
     ],
     "bears_on": [
       "DUS:H-008",

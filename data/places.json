@@ -273,6 +273,50 @@
           "PL-S-075",
           "PL-S-108"
         ]
+      },
+      {
+        "text": "The strips of this book held by the Duska agent open with a list of the parish's priests since the church was taken back in 1718, which is what the archive's catalogue says is written inside the binding of volume no. 1089. Page 212 of the book is April 1905. The owner's screenshot places a page of 1872 at image 34 of 337 in the FamilySearch collection for Senné.",
+        "src": [
+          "PL-S-107",
+          "PL-S-075"
+        ]
+      },
+      {
+        "text": "That list records a fire on 28 October 1865, set 'by a malicious man', and a bell blessed on 20 July 1871 together with one for Solymos. The surviving baptism volume begins in 1866 (PL-H-018).",
+        "src": [
+          "PL-S-107"
+        ]
+      },
+      {
+        "text": "Later hands wrote deaths of 1940, 1949 and 1950 and marriages of 1937 and 1947 into the baptism entries. The book was at the parish and in use until 1950, the year the state took over the church registers.",
+        "src": [
+          "PL-S-107"
+        ]
+      },
+      {
+        "text": "The parish priest Buzinkay still wrote 'Szenna' on 1 March 1906; his successor Barna wrote 'Ung Szenna' on 19 May 1906. The official name had changed two years earlier.",
+        "src": [
+          "PL-S-107",
+          "PL-S-042"
+        ]
+      },
+      {
+        "text": "On 1 December 1930: 161 houses, 152 of them lived in, 169 households and 754 people, with the farmsteads Hrabov and Malá. The summary was signed at Palín. A marriage entry of 1892 gives a residence read as 'Hrabó' with no house number, which fits the farmstead.",
+        "src": [
+          "PL-S-107"
+        ]
+      },
+      {
+        "text": "The registry office for Senné today is at Palín, which also serves Stretava and Stretavka.",
+        "src": [
+          "PL-S-128"
+        ]
+      },
+      {
+        "text": "After November 1938 Senné, Palín, Stretava, Stretavka, Pavlovce nad Uhom, Čierne Pole, Ťahyňa and Vysoká nad Uhom carried on as part of the Michalovce district, by the state archive's history of the Veľké Kapušany district.",
+        "src": [
+          "PL-S-127"
+        ]
       }
     ],
     "links": [
@@ -605,6 +649,37 @@
           "PL-S-005",
           "PL-S-015"
         ]
+      },
+      {
+        "text": "In 1913 Solymos, with 885 people, belonged to the notary district of Alsókánya, with Kisverbócz and Zuhogó. That fits the state birth entry of 1906 headed at Alsókánya.",
+        "src": [
+          "PL-S-130"
+        ]
+      },
+      {
+        "text": "Census counts give the village 156 houses in one year and 175 in another, so the doubtful house number 152 of about 1898 is possible.",
+        "src": [
+          "PL-S-135"
+        ]
+      },
+      {
+        "text": "Roman Catholics of Solymos belonged to the Senné parish: Vályi called the village a filial of Szenna in 1799, and the archive's catalogue lists Iňačovce in the Senné parish district. Fényes in 1851 counted 182 Roman Catholics, 526 Greek Catholics, 192 Reformed and 26 Jews.",
+        "src": [
+          "PL-S-044",
+          "PL-S-075"
+        ]
+      },
+      {
+        "text": "The Reformed burial book has 13 burials for 1831, about six of them in August, against one to eight in each of the next ten years. It has columns for the illness and for the manner of burial.",
+        "src": [
+          "PL-S-107"
+        ]
+      },
+      {
+        "text": "Four household sheets of the census of 1869 for Solymos are in the Duska agent's hands. They show Reformed, Greek Catholic and Roman Catholic people of one surname in one village.",
+        "src": [
+          "PL-S-107"
+        ]
       }
     ],
     "links": [
@@ -863,14 +938,19 @@
     ],
     "names": [
       {
-        "form": "Alsókánya",
-        "when": "Hungarian, as in the 1939 protocol and the parish list for 1917",
-        "src": "PL-S-036"
-      },
-      {
         "form": "Jesztreb",
         "when": "as written in Iňačovce Greek Catholic entries of the 1860s to 1891",
         "src": "PL-S-104"
+      },
+      {
+        "form": "Jesztreb",
+        "when": "1773 to 1902 in official use; Magyarjesztreb 1873-1882",
+        "src": "PL-S-132"
+      },
+      {
+        "form": "Alsókánya",
+        "when": "official 1907-1913",
+        "src": "PL-S-132"
       }
     ],
     "role": "Filial of the Senné Roman Catholic parish in 1733 and 1734.",
@@ -895,6 +975,12 @@
         "text": "House numbers do not stay put. One cottar household of Jesztreb is entered in the Iňačovce book at seven different numbers between 1864 and 1885. Whether the village was renumbered or cottars moved from house to house is not established; a house number alone does not identify a household here.",
         "src": [
           "PL-S-107"
+        ]
+      },
+      {
+        "text": "Seat of a notary district in 1913 that took in Kisverbócz, Solymos and Zuhogó; 528 people.",
+        "src": [
+          "PL-S-130"
         ]
       }
     ]
@@ -983,6 +1069,19 @@
         "text": "The catalogue lists its Roman Catholic register as nos. 795 to 798: marriages 1818-1897, births 1869-1896, deaths 1878-1907. Parish district: Pavlovce nad Uhom, Bajany, Čierne Pole, Ťahyňa and Vysoká nad Uhom. Births before 1869 and deaths before 1878 are not in that collection.",
         "src": [
           "PL-S-075"
+        ]
+      },
+      {
+        "text": "A registry office has sat here without a break since 1895. Its district once took in Vysoká nad Uhom, Bajany, Maťovské Vojkovce, Čierne Pole, Križany and Liesková; since 1950 it is Pavlovce, Vysoká and Bajany.",
+        "src": [
+          "PL-S-129"
+        ]
+      },
+      {
+        "text": "Hungarian troops occupied the village for a time in March 1939, and a Slovak soldier born here died defending it. The village stayed in Slovakia.",
+        "src": [
+          "PL-S-129",
+          "PL-S-127"
         ]
       }
     ]
@@ -1533,6 +1632,18 @@
           "PL-S-123",
           "PL-S-124"
         ]
+      },
+      {
+        "text": "State registration from 1895 was done at Pálóc (Pavlovce nad Uhom), whose registry district took in Vysoká. Pavlovce is still its registry office.",
+        "src": [
+          "PL-S-129"
+        ]
+      },
+      {
+        "text": "The state archive's history of the Veľké Kapušany district names Vysoká nad Uhom among eight villages that stayed with the Michalovce district after November 1938, until November 1944. This is the strongest source yet that the village was not ceded (PL-H-012).",
+        "src": [
+          "PL-S-127"
+        ]
       }
     ],
     "today": "Michalovce district, Košice Region",
@@ -1672,6 +1783,19 @@
         "src": [
           "PL-S-015"
         ]
+      },
+      {
+        "text": "One of 24 villages of the Veľké Kapušany district given to Hungary by the award of 2 November 1938, with Bajany, Beša, Ižkovce, Liesková (Mogyorós), Maťovce, Vojany and Veľké Kapušany itself.",
+        "src": [
+          "PL-S-127"
+        ]
+      },
+      {
+        "text": "Ižkovce, the 'Iske' of a Senné marriage entry of 1892, was in this Greek Catholic parish's district. So were Beša and Liesková. Beša is not the 'Bező' of the old maps; that is Bežovce.",
+        "src": [
+          "PL-S-075",
+          "PL-S-107"
+        ]
       }
     ],
     "today": "Michalovce district, Košice Region",
@@ -1778,6 +1902,18 @@
         "text": "Today the parish has Gyňov and Kechnec as active filials; Seňa and Valaliky are among the inactive ones.",
         "src": [
           "PL-S-077"
+        ]
+      },
+      {
+        "text": "An early 19th-century directory of the Mukachevo eparchy lists some thirty places under the mother church of Bölzse-Szigeth, in the Kassa district, among them Gönyű with 98 faithful, Szina with 126, Enyiczke, Búzafalva, Bernátfalva and Csontosfalva. The year of the directory is not confirmed and some figures are doubtful readings.",
+        "src": [
+          "PL-S-131"
+        ]
+      },
+      {
+        "text": "In 1908 the parish priest of Bölzse was Petrus Habina, who was also vice-archdeacon of the Kassa district. Who held the parish in 1894 and 1895 was not found.",
+        "src": [
+          "PL-S-131"
         ]
       }
     ],
@@ -2019,6 +2155,12 @@
         "src": [
           "PL-S-069"
         ]
+      },
+      {
+        "text": "An early 19th-century directory lists all three under the parish of Bölzse and none under Kassa town. Only Bernátfalva has a number of Greek Catholics against it, 25; the other two have a dash. Whether this still held in the 1890s is not shown.",
+        "src": [
+          "PL-S-131"
+        ]
       }
     ]
   },
@@ -2089,6 +2231,56 @@
         "label": "e-obce.sk: history",
         "url": "https://www.e-obce.sk/obec/lastomir/2-historia.html",
         "kind": "municipal"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-057",
+    "name": "Ťahyňa",
+    "kind": "residence",
+    "country": "Slovakia",
+    "today": "A lost village in the fields of Pavlovce nad Uhom, Michalovce district",
+    "lat": 48.61,
+    "lon": 22.07,
+    "coord": "approximate",
+    "maps": [],
+    "names": [
+      {
+        "form": "Tegenye",
+        "when": "Hungarian; as read by the Demko agent on a petition of 1803",
+        "src": "PL-S-108"
+      },
+      {
+        "form": "Tegeňa",
+        "when": "Slovak, in the state archive's district history",
+        "src": "PL-S-127"
+      },
+      {
+        "form": "Ťahyňa",
+        "when": "the form used by the Prešov archive's catalogue",
+        "src": "PL-S-075"
+      }
+    ],
+    "role": "Named with Pálóc, Viszoka and Mogyorós on a petition of 1803 held by the Demko agent.",
+    "facts": [
+      {
+        "text": "The archive's catalogue calls it a village that no longer exists, within today's Pavlovce nad Uhom. It is in the Roman Catholic parish district of Pavlovce and in the Reformed district of Vysoká nad Uhom. The position shown is that of Pavlovce.",
+        "src": [
+          "PL-S-075"
+        ]
+      },
+      {
+        "text": "Stayed with the Michalovce district after November 1938. After the war it was in the Pavlovce local district with Čierne Pole and Vysoká.",
+        "src": [
+          "PL-S-127"
+        ]
+      },
+      {
+        "text": "Mogyorós, named beside it in 1803, is Liesková, which went to Hungary in 1938 and was in the Greek Catholic parish of Čičarovce.",
+        "src": [
+          "PL-S-127",
+          "PL-S-075"
+        ]
       }
     ]
   },

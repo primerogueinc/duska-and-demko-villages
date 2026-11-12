@@ -131,5 +131,28 @@
     "places_added": 1,
     "sources_added": 5,
     "curiosities": 10
+  },
+  {
+    "id": "PL-B-008",
+    "date": "2026-11-12",
+    "title": "Ledger v19: a third research pass; the Senné book checked against the strips; Vysoká stayed Slovak",
+    "blurb": "Read ledger v19. Line repos read at DUS main @c1c3be2 and DM main @5d8cbc4. stamp.yml replaced with version 2. A third research pass answered part of what was asked. The register collection at Uzhhorod is fond 1606 of the Zakarpattia archive, with 3,382 state register books for 1895 to 1937; nothing found says whether villages now in Slovakia are in it. The eparchy's series there is returns sent to the bishop, not second copies, which corrects an entry of this agent's. A state archive's district history names Vysoká nad Uhom among the villages that stayed with Michalovce after 1938 (PL-H-012 to 90). An early directory puts all three candidates for the '-falva' village under the parish of Bölzse, with Bernátfalva the only one that had Greek Catholics. The pass broke one rule: a sub-agent searched the owner's mailbox and saw one list entry, unopened; this is reported to the coordinator. From the line agents' new records: the Senné baptism strips match the archive's description of volume no. 1089 down to the list of priests inside its cover; that list records a fire in October 1865, the year before the book begins (PL-H-018, open at 40); the Solymos Reformed burial book has 13 burials in 1831 against one to eight in other years, the first cholera-year count from any of the villages; and four 1869 census sheets for Solymos are in hand. Ťahyňa, Staré and Okružná are identified for the line agents. Not reached: house numbers, naming customs, the older Senné volumes. Curiosities: 6",
+    "raised": [
+      "PL-H-018"
+    ],
+    "resolved": [],
+    "revised": [
+      "PL-H-005",
+      "PL-H-006",
+      "PL-H-011",
+      "PL-H-012",
+      "PL-H-014",
+      "PL-H-015",
+      "PL-H-016",
+      "PL-H-017"
+    ],
+    "places_added": 1,
+    "sources_added": 11,
+    "curiosities": 6
   }
 ]

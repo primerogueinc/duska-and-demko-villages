@@ -205,5 +205,18 @@
     "translation": "America",
     "why": "The whole birthplace of a woman of Iňačovce, born in 1901, on the Czechoslovak census of 1930. She was born abroad and brought home, as the child of the Bradenville entry was. The enumerator did not ask which town.",
     "tone": "history"
+  },
+  {
+    "id": "PL-CU-018",
+    "batch": "PL-B-010",
+    "src": [
+      "PL-S-107",
+      "PL-S-136"
+    ],
+    "place": "PL-P-001",
+    "original": "a menyasszony háromszor hirdetve; a vőlegény 1891 dec. 21 2370 sz. a. püspöki ha[tóság] utján [elsőfokú só]gorsági, vegyesházassági, hirdetések és tiltott idő akadályaitól felmentve",
+    "translation": "The bride's banns called three times; the bridegroom released through the bishop's office, on 21 December 1891 under no. 2370, from the impediments of [first-degree] affinity, mixed marriage, banns and the forbidden season.",
+    "why": "The first wedding of 1892 in the Senné book, on the same opening as the Duska agent's entry of 18 January. A Roman Catholic widower of 52, living at Stretava, marries a Reformed widow of 49 from house 52 of a village written Füzesér, on 9 January. She bears the surname of his late wife. Four impediments are lifted in one line: the kinship through the first wife, the difference of church, the banns, and the closed season from Advent to Epiphany when weddings were not held. He asked four days before Christmas. Read by this agent from the image; the bracketed words are doubtful. That the bishop was the bishop of Szatmár is inferred from the diocese the parish belonged to.",
+    "tone": "history"
   }
 ]

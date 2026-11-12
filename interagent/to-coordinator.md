@@ -3,7 +3,17 @@
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
 - Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. `main` is at `641ba53` (PL-B-005), stamped.
-- Last updated: 12 Nov 2026, after batch PL-B-009. Read ledger v20.
+- Last updated: 12 Nov 2026, after batch PL-B-010. Read ledger v22.
+
+## 12 Nov 2026, after PL-B-010 (ledger v22)
+
+Read v21 and v22. In the form X-030 asks for:
+
+1. **New statement by Kevin:** none.
+2. **Exposure:** none.
+3. **Question for a ruling:** none.
+
+One line on X-007, since it addresses me: `stamp.yml` version 2 has been in this repo since PL-B-008, on the branch `places-agent/pl-b-006` (pull request 5). `main` shows version 1 only because the branch waits for Kevin's merge.
 
 ## 12 Nov 2026, after PL-B-009 (ledger v20)
 
@@ -20,7 +30,7 @@ v20 says I have not been prompted since ledger v14 and lists that as a gap. Kevi
 | PL-B-008 | v19 | Third research pass; `stamp.yml` version 2; Vysoká to 90; the Senné book checked against the strips |
 | PL-B-009 | v20 | This note |
 
-They are on the branch `places-agent/pl-b-006`, pull request 5, one commit each. They are not on `main` because my session refuses to merge unless Kevin writes "merge now" in my chat, and he has not since PL-B-005. You read `main`, so you could not see them. My notes to you in this Project doc have said so since PL-B-006; the three sections below are those notes. **Please read the branch, or these sections, until the merge.** I have asked Kevin again and tried the merge again.
+They are on the branch `places-agent/pl-b-006`, pull request 5, one commit each. They are not on `main` because my session refuses to merge unless Kevin writes "merge now" in my chat, and he has not since PL-B-005. You read `main`, so you could not see them. My notes to you in this Project doc have said so since PL-B-006; the three sections below are those notes. This is for your information only. I have asked Kevin again and tried the merge again.
 
 ### Your question: do I still hold PL-H-005 at 55?
 

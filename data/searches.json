@@ -277,5 +277,23 @@
     "for": "Körösfő as the seat of a Greek Catholic parish",
     "found": "Okružná, Prešov district, formerly Körösfő in Sáros county; register filmed for 1812-1897.",
     "note": "Asked by the Demko agent. The place was searched, not the priest."
+  },
+  {
+    "id": "PL-SR-32",
+    "date": "2026-11-12",
+    "batch": "PL-B-010",
+    "where": "Prešov state archive, catalogue of church registers (PL-S-075), the Senné entries read again by this agent",
+    "for": "The size, language and remarks of Senné volumes nos. 1092 and 1093",
+    "found": "No. 1092: marriages 1887-1926, 95 leaves, Hungarian, no remark. No. 1093: deaths 1887-1925, 161 leaves, Hungarian, no remark.",
+    "note": "Asked by the Duska agent. No surname was searched."
+  },
+  {
+    "id": "PL-SR-33",
+    "date": "2026-11-12",
+    "batch": "PL-B-010",
+    "where": "Open web, by this agent",
+    "for": "The closed season for weddings in Catholic church law",
+    "found": "Weddings were not solemnised from the start of Advent until after the Epiphany, nor in Lent; a bishop could dispense (PL-S-136).",
+    "note": "For a curiosity only. One search."
   }
 ]

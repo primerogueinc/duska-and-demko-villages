@@ -570,7 +570,7 @@
   },
   {
     "id": "PL-S-068",
-    "title": "Coordinator ledger, versions 3 to 20, and scoring rubric version 1, 12 Nov 2026",
+    "title": "Coordinator ledger, versions 3 to 22, and scoring rubric version 1, 12 Nov 2026",
     "type": "Coordinator's ledger",
     "url": "https://github.com/primerogueinc/duska-coordinator/blob/main/ledger.md",
     "read": "read in full as a Project doc",
@@ -1179,5 +1179,14 @@
     "read": "search extract only, seen by the research pass of 12 Nov 2026 (third pass)",
     "reliability": "House and head counts; the census years were not visible in the extract.",
     "batch": "PL-B-008"
+  },
+  {
+    "id": "PL-S-136",
+    "title": "New Catholic Dictionary: 'Closed Times'",
+    "type": "Reference work, as reproduced online",
+    "url": "https://studylight.org/dictionaries/eng/ncd/c/closed-times.html",
+    "read": "search extract, 12 Nov 2026",
+    "reliability": "A general statement of church law. It says nothing of Senné or of the diocese of Szatmár. Other references give the end of the winter season as the Epiphany or as the end of its octave.",
+    "batch": "PL-B-010"
   }
 ]

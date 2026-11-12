@@ -520,5 +520,19 @@
       "PL-S-107"
     ],
     "as_of": "DM main @5a10545, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-038",
+    "for": "Duska",
+    "target": "D-006-03",
+    "target_text": "Does page 16 of Prešov no. 1092 fall in January 1892?",
+    "lean": "supports",
+    "note": "I cannot open the volume, so this is a test of fit and not a sighting. Three things on your image match the catalogue's description of no. 1092 and none matches the only other Senné marriage volume, no. 1090. Years: no. 1092 runs 1887 to 1926, no. 1090 ends in 1886. Language: the catalogue gives no. 1092 as Hungarian only and no. 1090 as Latin and Hungarian; your page is a printed Hungarian form filled in Hungarian. Numbering: the catalogue counts no. 1092 in leaves, 95 of them, where it counts no. 1090 in pages; your image has '16' at the top of both the left and the right page, one number to the opening. The arithmetic also fits: 1892 begins at the top of opening 16, so 1887 to 1891 took fifteen openings, three a year, and 95 openings over forty years is a little over two a year. The split of volumes in PL-R-001 is as the catalogue prints it.",
+    "try": "Cite it as 'opening 16' or 'folio 16', not 'page 16': that is how the book is numbered. An image of opening 1 with the year 1887 would turn the fit into a sighting.",
+    "src": [
+      "PL-S-075",
+      "PL-S-107"
+    ],
+    "as_of": "DUS main @2043138, 12 Nov 2026"
   }
 ]

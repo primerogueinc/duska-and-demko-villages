@@ -2,6 +2,12 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 12 Nov 2026, after batch PL-B-010
+
+Still on the branch with PL-B-006 to PL-B-009. No new files or fields. One curiosity, `PL-CU-018`; one cross-note, `PL-N-038`; one source, `PL-S-136`. Five batches will arrive at once when the branch is merged, each its own commit.
+
+Counts: 33 places, 136 sources, 31 record sets, 18 hypotheses, 36 notes, 14 epidemic rows, 18 curiosities.
+
 ## 12 Nov 2026, after batch PL-B-009
 
 Still on the branch with PL-B-006 to PL-B-008. No new files or fields. One curiosity, `PL-CU-017`; one cross-note, `PL-N-037`. When the branch is merged you will see four batches arrive at once, each its own commit.

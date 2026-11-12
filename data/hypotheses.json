@@ -2,18 +2,28 @@
   {
     "id": "PL-H-001",
     "statement": "Greek Catholics who lived in Senné were baptised, married and buried in the Iňačovce (Solymos) parish, so they are in the Iňačovce Greek Catholic register and not in the Senné book.",
-    "confidence": 70,
+    "confidence": 90,
     "basis": "The 1734 visitation counted about 40 adults of the Greek rite inside the Senné Roman Catholic parish and found a separate Greek Catholic parish at Iňačovce, under 4 km away. Senné never had a Greek Catholic church or school.",
     "test": "The Solymos entry in the 1782-1787 parish reorganisation papers (PL-R-031), or any Mukachevo eparchy directory: do they list Szenna as a daughter village? Failing that, a residence of Szenna in the Iňačovce register.",
-    "status": "open",
+    "status": "supported",
     "raised": "PL-B-000",
     "resolved": null,
     "resolution": null,
     "src": [
       "PL-S-009",
-      "PL-S-011"
+      "PL-S-011",
+      "PL-S-046",
+      "PL-S-047",
+      "PL-S-048",
+      "PL-S-004"
     ],
-    "log": []
+    "log": [
+      {
+        "batch": "PL-B-001",
+        "effect": "70 to 90, open to supported",
+        "note": "The Iňačovce chronicle counts 245 Greek Catholics in Senné within its parish district; a register index gives the district of the 1811-1898 book as Iňačovce, Jastrabie, Senné and Stretava; the eparchy lists Senné as a filial today. Not yet seen: a Mukachevo directory, or an entry in the book itself with a Senné residence. That is what would solve it."
+      }
+    ]
   },
   {
     "id": "PL-H-002",
@@ -24,45 +34,70 @@
     "status": "solved",
     "raised": "PL-B-000",
     "resolved": "PL-B-000",
-    "resolution": "Both villages are in the 1940 figures of the Slovak state's Lexikón obcí under the Michalovce district: Senné with 171 houses, Iňačovce with 190. The Senné municipal history adds that after March 1939 the Hungarian border lay about 2 km from the village, with Blatná Polianka, Bežovce and Vysoká nad Uhom on the far side.",
+    "resolution": "Both villages are in the 1940 figures of the Slovak state's Lexikón obcí under the Michalovce district: Senné with 171 houses, Iňačovce with 190. The Senné municipal history adds that after March 1939 the Hungarian border lay about 2 km from the village, with Blatná Polianka, Bežovce and Vysoká nad Uhom on the far side. The border protocol of 4 April 1939 confirms it from the other side: the line ran along the boundary between Senné and Bežovce and between Iňačovce and Blatná Polianka, with both family villages on the Slovak side.",
     "src": [
       "PL-S-015",
-      "PL-S-003"
+      "PL-S-003",
+      "PL-S-036"
     ],
-    "log": []
+    "log": [
+      {
+        "batch": "PL-B-001",
+        "effect": "no change, solved",
+        "note": "Protocol text added as a second, independent source."
+      }
+    ]
   },
   {
     "id": "PL-H-003",
     "statement": "The 'K. Sz.' in the 1838 gift note of the Duska agent's Folder 1 is Kis-Szeretva, today Stretavka, and the donor's village lay inside the Senné parish.",
-    "confidence": 60,
+    "confidence": 80,
     "basis": "The Duska agent read the place as 'K. Sz[eretva?]'. The 1734 visitation lists Stretavka among the filials of Senné, a few kilometres to the south-west. A local noblewoman giving a veil to her own parish church is the ordinary case.",
     "test": "A Szatmár diocese directory for the 1830s listing the filials of Szenna. Separately, whether a Kulin family held land at Kisszeretva.",
-    "status": "open",
+    "status": "supported",
     "raised": "PL-B-000",
     "resolved": null,
     "resolution": null,
     "src": [
       "PL-S-009",
-      "PL-S-031"
+      "PL-S-031",
+      "PL-S-050",
+      "PL-S-051",
+      "PL-S-052",
+      "PL-S-043",
+      "PL-S-037"
     ],
-    "log": []
+    "log": [
+      {
+        "batch": "PL-B-001",
+        "effect": "60 to 80, open to supported",
+        "note": "Two Kulin landlords are in the urbarial table for Kisszeretva, Fényes names Kulin among its landlords in 1851, and the family proved its nobility in Ung in 1807. Kisszeretva was a filial of Szenna about 1799 and in 1917. The abbreviation itself is still only read, not proved: the test is a Szatmár directory of the 1830s or a clearer image of the note."
+      }
+    ]
   },
   {
     "id": "PL-H-004",
     "statement": "Under Hungary the two villages sat in different districts of Ung county: Szenna under Nagykapos, Solymos under Szobránc. District-level papers for the two families would then be in two different series.",
-    "confidence": 50,
-    "basis": "Recalled from training and unchecked. In its favour: Senné was in the Veľké Kapušany district under Czechoslovakia. Against: Iňačovce went to the Michalovce district in 1921, not to Sobrance.",
+    "confidence": 85,
+    "basis": "First recalled from training. Now sourced: Hungarian reference pages place Ungszenna in the Nagykapos district and Solymos in the Szobránc district, and a study of the 1904 renaming lists Ungszenna among the Nagykapos district names.",
     "test": "The entries for Szenna and Solymos in the 1913 gazetteer of Hungary or the 1910 census volume.",
-    "status": "open",
+    "status": "supported",
     "raised": "PL-B-000",
     "resolved": null,
     "resolution": null,
     "src": [
-      "PL-S-001",
-      "PL-S-006",
-      "PL-S-023"
+      "PL-S-043",
+      "PL-S-044",
+      "PL-S-042",
+      "PL-S-061"
     ],
-    "log": []
+    "log": [
+      {
+        "batch": "PL-B-001",
+        "effect": "50 to 85, open to supported",
+        "note": "Three secondary sources agree for Szenna; one, seen as an extract, for Solymos. The 1913 gazetteer itself has still not been opened."
+      }
+    ]
   },
   {
     "id": "PL-H-005",
@@ -79,12 +114,19 @@
       "PL-S-007",
       "PL-S-032"
     ],
-    "log": []
+    "log": [
+      {
+        "batch": "PL-B-001",
+        "effect": "no change, 55",
+        "note": "Tagged X-Q-01. New and relevant: the Iňačovce church archive was damaged by lightning in 1929 and fire in 1930, which is one more reason a later baptism might survive only as a copy held elsewhere."
+      }
+    ],
+    "question": "X-Q-01"
   },
   {
     "id": "PL-H-006",
     "statement": "The 1869 household sheets for Szenna and Solymos survive in the Ung county collection at Berehove.",
-    "confidence": 55,
+    "confidence": 60,
     "basis": "A researcher reports that the Ung county questionnaires are held there. No village list was given, and survival is usually patchy.",
     "test": "The collection's inventory, or a written query to the Zakarpattia state archive naming both villages.",
     "status": "open",
@@ -92,9 +134,17 @@
     "resolved": null,
     "resolution": null,
     "src": [
-      "PL-S-016"
+      "PL-S-016",
+      "PL-S-053",
+      "PL-S-054"
     ],
-    "log": []
+    "log": [
+      {
+        "batch": "PL-B-001",
+        "effect": "55 to 60, still open",
+        "note": "A survey of archive holdings reports sheets for 214 Ung settlements at Berehove, fond 7/2, marked as to be checked. Another source says the Ung records have not been filmed. Szenna is not named in either."
+      }
+    ]
   },
   {
     "id": "PL-H-007",
@@ -110,6 +160,35 @@
       "PL-S-012",
       "PL-S-031"
     ],
-    "log": []
+    "log": [
+      {
+        "batch": "PL-B-001",
+        "effect": "no change, 45",
+        "note": "The research pass found no Ung county conscription for 1750-1760 and no fond number. Still open."
+      }
+    ]
+  },
+  {
+    "id": "PL-H-008",
+    "question": "X-Q-02",
+    "statement": "The 'Viszoka' of the 1882 baptism strip is not Vysoká nad Uhom.",
+    "confidence": 20,
+    "basis": "Raised as promised to the coordinator. The owner's file label says Čičarovce, which is a different village; that label is a prior, not evidence (X-004). Vysoká nad Uhom has its own Greek Catholic parish church today. The entry gives house number 132, so the village had at least that many houses in 1882.",
+    "test": "The number of houses in Viszoka in the 1880 census or the 1877 gazetteer; which parish served its Greek Catholics and its Roman Catholics in 1882; the page header of the strip.",
+    "status": "open",
+    "raised": "PL-B-001",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-031",
+      "PL-S-010"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-001",
+        "effect": "raised at 20",
+        "note": "To be tested in the next research pass, on Vysoká nad Uhom and Čičarovce."
+      }
+    ]
   }
 ]

@@ -1,6 +1,32 @@
 [
-  {"id": "PL-Q-001", "status": "needs approval", "raised": "PL-B-000", "text": "Permission to open the free PDF of the 1782-1787 Greek Catholic parish papers for Ung county (real.mtak.hu/63713). It should say outright whether Senné was a daughter village of the Iňačovce parish (PL-H-001)."},
-  {"id": "PL-Q-002", "status": "needs approval", "raised": "PL-B-000", "text": "Permission to open the Slovak Wikipedia pages for Senné and Iňačovce and the FamilySearch catalogue entries 710997 and 1411329. The second would show whether Solymos is in the Uzhhorod series (PL-H-005)."},
-  {"id": "PL-Q-003", "status": "held", "raised": "PL-B-000", "text": "From the line agents, when they have them: any house numbers, any place names written on register pages, and the archive reference on the 1869 and c. 1754 images. Each one is a test for a place hypothesis."},
-  {"id": "PL-Q-004", "status": "held", "raised": "PL-B-000", "text": "Exact coordinates for six small villages now placed from memory: Palín, Stretava, Stretavka, Jastrabie pri Michalovciach, Blatná Polianka, Belá nad Cirochou."}
+  {
+    "id": "PL-Q-001",
+    "status": "open",
+    "raised": "PL-B-000",
+    "text": "The 1782-1787 Greek Catholic parish papers for Ung county (real.mtak.hu/63713) and a Mukachevo eparchy directory were not reached in the research pass. Either would turn PL-H-001 from supported to solved."
+  },
+  {
+    "id": "PL-Q-002",
+    "status": "partly met",
+    "raised": "PL-B-000",
+    "text": "Catalogue 710997 was read in the research pass. Still wanted: the locality list inside FamilySearch catalogue 1411329, which would show whether Solymos is in the Uzhhorod series (PL-H-005), and the catalogue entry behind the older Senné volumes (PL-R-006)."
+  },
+  {
+    "id": "PL-Q-003",
+    "status": "held",
+    "raised": "PL-B-000",
+    "text": "From the line agents, when they have them: any house numbers, any place names written on register pages, and the archive reference on the 1869 and c. 1754 images. Each one is a test for a place hypothesis."
+  },
+  {
+    "id": "PL-Q-004",
+    "status": "held",
+    "raised": "PL-B-000",
+    "text": "Exact coordinates for six small villages now placed from memory: Palín, Stretava, Stretavka, Jastrabie pri Michalovciach, Blatná Polianka, Belá nad Cirochou."
+  },
+  {
+    "id": "PL-Q-005",
+    "status": "open",
+    "raised": "PL-B-001",
+    "text": "Still not found for Senné: the notarial and civil-registry districts, the 1913 gazetteer entry, the 1921 and 1930 census sheets online, the military survey and cadastral maps, and how the village name was spelled in passenger lists. Queued for a second pass."
+  }
 ]

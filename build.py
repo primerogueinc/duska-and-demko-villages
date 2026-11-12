@@ -12,7 +12,7 @@ import pathlib
 
 ROOT = pathlib.Path(__file__).resolve().parent
 NAMES = ["places", "jurisdictions", "holdings", "hypotheses", "crossnotes", "timeline",
-         "batches", "requests", "sources", "role", "basemap"]
+         "batches", "requests", "sources", "role", "basemap", "decisions", "searches"]
 SENNE, INACOVCE = "PL-P-001", "PL-P-002"
 
 

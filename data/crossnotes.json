@@ -6,13 +6,16 @@
     "target_text": "The Duska male line is from Senné; Iňačovce enters through a wife's family.",
     "lean": "neutral",
     "note": "The places do not pick a side yet. They do explain why the two villages pair up: both were Vécsey villages, under 4 km apart, and the Roman Catholics of Iňačovce belonged to the Senné parish. A marriage between the two was a short walk inside one estate, and would be entered at Senné if the couple were Latin-rite.",
-    "try": "Read the 1715 and 1720 tax lists for both villages first (PL-R-020). Senné had 5 and then 11 households, Iňačovce 8 and then 11, so a surname is either there or it arrived later.",
+    "try": "Read the 1715 and 1720 tax lists for both villages first (PL-R-020). Senné had 5 and then 11 households, Iňačovce 8 and then 11, so a surname is either there or it arrived later. For baptisms before 1866 use the older Senné volumes (PL-R-006): the catalogued title (PL-R-001) starts baptisms only in 1866.",
     "src": [
       "PL-S-009",
       "PL-S-012",
       "PL-S-013",
-      "PL-S-002"
-    ]
+      "PL-S-002",
+      "PL-S-025",
+      "PL-S-047"
+    ],
+    "as_of": "DUS main @1ac4e08, 12 Nov 2026"
   },
   {
     "id": "PL-N-002",
@@ -20,13 +23,17 @@
     "target": "H-005",
     "target_text": "The Duskas were Roman Catholic and the Demkos Greek Catholic.",
     "lean": "supports, with a caution",
-    "note": "This is the pattern the parish map predicts: Senné was the Latin parish with the only school a Roman Catholic one, Iňačovce the Greek Catholic parish. The caution is that Senné itself had about 40 Greek-rite adults in 1734, and Iňačovce had Roman Catholics and a Reformed congregation. A village does not fix a rite.",
-    "try": "Check both books for one event. A mixed couple can leave entries in the Senné register and in the Iňačovce one.",
+    "note": "This is the pattern the parish map predicts: Senné was the Latin parish with the only school a Roman Catholic one, Iňačovce the Greek Catholic parish. The caution is now a number. In 1851 Senné had 580 Roman Catholics and 238 Greek Catholics, and in 1904 it had 484 and 231. Close to a third of the village was Greek Catholic, and those families are in the Iňačovce book (PL-H-001). A village does not fix a rite.",
+    "try": "Check both books for one event. For a mixed couple see the coordinator's X-A-001: search the Senné register and the Iňačovce one.",
     "src": [
       "PL-S-009",
       "PL-S-011",
-      "PL-S-006"
-    ]
+      "PL-S-006",
+      "PL-S-043",
+      "PL-S-039",
+      "PL-S-046"
+    ],
+    "as_of": "DUS main @1ac4e08, 12 Nov 2026"
   },
   {
     "id": "PL-N-003",
@@ -34,12 +41,15 @@
     "target": "H-007",
     "target_text": "The record cited as the 1869 census does not come from the standard FamilySearch Slovakia collection.",
     "lean": "supports",
-    "note": "Ung county's 1869 sheets are reported at the Berehove branch of the Zakarpattia archive, offline. The FamilySearch collection is built from three archives in western and central Slovakia. An 1869 sheet for Senné would have to come from Berehove, directly or through a hired researcher.",
-    "try": "Ask the owner how the image reached him, once the line is processed. A Berehove call number would settle H-007 and PL-H-006 together.",
+    "note": "Three reports now place Ung county's 1869 sheets in the Zakarpattia archive, one of them giving the Berehove branch, fond 7/2, and one stating outright that FamilySearch has not filmed them. An 1869 sheet for Senné would have to come from there, directly or through a hired researcher.",
+    "try": "Ask the owner how the image reached him, once the line is processed. A Berehove call number would settle DUS:H-007 and PL-H-006 together.",
     "src": [
       "PL-S-016",
-      "PL-S-017"
-    ]
+      "PL-S-017",
+      "PL-S-053",
+      "PL-S-054"
+    ],
+    "as_of": "DUS main @1ac4e08, 12 Nov 2026"
   },
   {
     "id": "PL-N-004",
@@ -52,7 +62,8 @@
     "src": [
       "PL-S-028",
       "PL-S-015"
-    ]
+    ],
+    "as_of": "DUS main @1ac4e08, 12 Nov 2026"
   },
   {
     "id": "PL-N-005",
@@ -60,12 +71,17 @@
     "target": "H-010",
     "target_text": "The copy-book belongs to the Roman Catholic parish of Senné itself.",
     "lean": "supports",
-    "note": "Three place facts fit. Senné was a working parish of the Szatmár diocese from 1804, with its own priest. The one local entry names a donor 'de K. Sz.', and Stretavka (Kisszeretva) was a filial of Senné in 1734, so she would be a parishioner. Nagykapos, where the clergy met in 1839, is about 13 km from Senné, and Senné was later in that town's civil district. None of this rules out a neighbouring parish such as Pavlovce.",
-    "try": "The title board of the film item still decides it. A Szatmár directory listing the filials of Szenna in the 1830s would settle PL-H-003 on the way.",
+    "note": "The place evidence is stronger than at the first batch. Štefan Rácz was parish priest of Senné from 1831 to 1841, so a Senné copy-book for 1837 to 1840 would be his. The Kulin family were landlords at Kisszeretva, and Kisszeretva was a filial of Senné about 1799 and in 1917 (PL-H-003, now supported). The parish sat in the Middle Ung deanery district of the Szatmár diocese. None of this rules out a neighbouring parish.",
+    "try": "Look for the name Rácz, as copyist or signatory, on the ten pages. The title board of the film item still decides it.",
     "src": [
       "PL-S-009",
-      "PL-S-011"
-    ]
+      "PL-S-011",
+      "PL-S-038",
+      "PL-S-037",
+      "PL-S-050",
+      "PL-S-052"
+    ],
+    "as_of": "DUS main @1ac4e08, 12 Nov 2026"
   },
   {
     "id": "PL-N-006",
@@ -79,7 +95,8 @@
       "PL-S-001",
       "PL-S-003",
       "PL-S-014"
-    ]
+    ],
+    "as_of": "DUS main @1ac4e08, 12 Nov 2026"
   },
   {
     "id": "PL-N-007",
@@ -91,7 +108,8 @@
     "try": "Record the heading and call number when the image arrives.",
     "src": [
       "PL-S-012"
-    ]
+    ],
+    "as_of": "DUS main @1ac4e08, 12 Nov 2026"
   },
   {
     "id": "PL-N-010",
@@ -105,7 +123,8 @@
       "PL-S-006",
       "PL-S-011",
       "PL-S-007"
-    ]
+    ],
+    "as_of": "DM main @035aef0, 12 Nov 2026"
   },
   {
     "id": "PL-N-011",
@@ -119,7 +138,8 @@
       "PL-S-024",
       "PL-S-032",
       "PL-S-023"
-    ]
+    ],
+    "as_of": "DM main @035aef0, 12 Nov 2026"
   },
   {
     "id": "PL-N-012",
@@ -132,7 +152,8 @@
     "src": [
       "PL-S-024",
       "PL-S-007"
-    ]
+    ],
+    "as_of": "DM main @035aef0, 12 Nov 2026"
   },
   {
     "id": "PL-N-013",
@@ -145,7 +166,8 @@
     "src": [
       "PL-S-019",
       "PL-S-020"
-    ]
+    ],
+    "as_of": "DM main @035aef0, 12 Nov 2026"
   },
   {
     "id": "PL-N-014",
@@ -159,7 +181,8 @@
       "PL-S-009",
       "PL-S-006",
       "PL-S-005"
-    ]
+    ],
+    "as_of": "DM main @035aef0, 12 Nov 2026"
   },
   {
     "id": "PL-N-015",
@@ -171,7 +194,8 @@
     "try": "The 1715 and 1720 lists for both villages (PL-R-020) and the 1930 sheets for Iňačovce (PL-R-025).",
     "src": [
       "PL-S-009"
-    ]
+    ],
+    "as_of": "DM main @035aef0, 12 Nov 2026"
   },
   {
     "id": "PL-N-016",
@@ -183,6 +207,38 @@
     "try": "Search the civil marriage books first; they do not depend on guessing the rite.",
     "src": [
       "PL-S-019"
-    ]
+    ],
+    "as_of": "DM main @035aef0, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-017",
+    "for": "Demko",
+    "target": "DM-H-003",
+    "target_text": "The Demkos are the Iňačovce side of the family.",
+    "lean": "weakens, slightly",
+    "note": "A Greek Catholic family did not have to live in Iňačovce to be in the Iňačovce book. Senné itself had 238 Greek Catholics in 1851 and 231 in 1904, and the Iňačovce parish chronicle counts 245 in Senné. Jastrabie and Stretava belonged to the same parish district. So 'Senné and Iňačovce' in family memory can mean one household in Senné that went to church in Iňačovce.",
+    "try": "In any Iňačovce Greek Catholic entry, read the residence column before assuming the village.",
+    "src": [
+      "PL-S-043",
+      "PL-S-039",
+      "PL-S-046",
+      "PL-S-047"
+    ],
+    "as_of": "DM main @035aef0, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-018",
+    "for": "Demko",
+    "target": "DM-H-005",
+    "target_text": "The Uzhhorod record is a Greek Catholic register or register duplicate of the Mukachevo eparchy.",
+    "lean": "supports",
+    "note": "The Iňačovce Greek Catholic church archive was badly damaged by lightning on 6 July 1929 and by fire on 1 April 1930. The indexed register stops in 1898. If the parish's own later books were lost or spoiled, a copy held by the bishop or the county would be the surviving record, which fits a search ending in Uzhhorod. This is filed under X-Q-01.",
+    "try": "Ask the parish or the Košice eparchy archive which volumes after 1898 survive. That is a place question; this agent will take it if the coordinator agrees.",
+    "src": [
+      "PL-S-046",
+      "PL-S-047",
+      "PL-S-007"
+    ],
+    "as_of": "DM main @035aef0, 12 Nov 2026"
   }
 ]

@@ -18,5 +18,26 @@
     ],
     "places_added": 25,
     "sources_added": 34
+  },
+  {
+    "id": "PL-B-001",
+    "date": "2026-11-12",
+    "title": "Senné in depth: a research pass with the owner's writing excluded",
+    "blurb": "A research agent was sent to work through the public record on Senné alone, under two rules: open nothing written by the owner, and search no family surname. It read the 1939 border protocol, the Catholic lexicon, a directory of parishes, the municipal histories of Senné and Iňačovce and the FamilySearch catalogue page, and saw many more as extracts. Three place hypotheses moved from open to supported. The Greek Catholics of Senné were a filial of Iňačovce, and there were many of them: 238 against 580 Roman Catholics in 1851. Under Hungary Senné was in the Nagykapos district and Iňačovce in the Szobránc district. The Kulin family were landlords at Kisszeretva, which fits the 1838 gift note. Two corrections came out of it. The catalogued Senné register begins baptisms only in 1866, so earlier births need an older set of volumes that is indexed but not yet traced to a catalogue entry. And Vysoká nad Uhom, shown at the first batch as taken by Hungary, is on the Slovak side of the line in the protocol; the mark has been removed. One finding matters for the search for Maria Demko's baptism: the Iňačovce church archive was damaged by lightning in 1929 and by fire in 1930. PL-H-008 is raised under the coordinator's question X-Q-02. Every place now carries the links it was built from. Read ledger v2.",
+    "raised": [
+      "PL-H-008"
+    ],
+    "resolved": [],
+    "revised": [
+      "PL-H-001",
+      "PL-H-002",
+      "PL-H-003",
+      "PL-H-004",
+      "PL-H-005",
+      "PL-H-006",
+      "PL-H-007"
+    ],
+    "places_added": 0,
+    "sources_added": 32
   }
 ]

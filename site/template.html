@@ -101,6 +101,10 @@ svg .small{fill:var(--muted)}
 .names b{font-weight:600}
 .facts{margin:0;padding:0;list-style:none}
 .facts li{padding:9px 0;border-top:1px solid var(--rule);font-size:15px}
+.links{list-style:none;margin:6px 0 0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:4px 18px;font-size:14.5px}
+.hlog{margin:8px 0 0;padding:0;list-style:none;font-size:13.5px;color:var(--muted)}
+.hlog li{padding:5px 0;border-top:1px dashed var(--rule);max-width:68ch}
+.hlog b{color:var(--ink);font-weight:500}
 
 .tablewrap{overflow-x:auto}
 table{border-collapse:collapse;width:100%;font-size:14.5px}
@@ -145,7 +149,7 @@ footer{padding:36px 0 48px;color:var(--muted);font-size:13.5px}
   <ul class="stats" id="stats"></ul>
 </div></header>
 <nav class="toc" aria-label="Sections"><div class="wrap">
-  <a href="#map">Map</a><a href="#villages">The two villages</a><a href="#jurisdictions">Who governed</a><a href="#churches">Who baptised</a><a href="#records">Where the records are</a><a href="#notes">Notes for the line agents</a><a href="#hypotheses">Place hypotheses</a><a href="#gazetteer">Gazetteer</a><a href="#timeline">Timeline</a><a href="#batches">Batches</a><a href="#requests">Requests</a><a href="#sources">Sources</a><a href="#role">Brief</a>
+  <a href="#map">Map</a><a href="#villages">The two villages</a><a href="#jurisdictions">Who governed</a><a href="#churches">Who baptised</a><a href="#records">Where the records are</a><a href="#notes">Notes for the line agents</a><a href="#hypotheses">Place hypotheses</a><a href="#gazetteer">Gazetteer</a><a href="#timeline">Timeline</a><a href="#batches">Batches</a><a href="#requests">Requests</a><a href="#decisions">Decisions</a><a href="#searches">Searches</a><a href="#sources">Sources</a><a href="#role">Brief</a>
 </div></nav>
 <main class="wrap">
   <section id="map"><h2>Map</h2><p class="sub">The neighbourhood first, then the region. Positions are plotted from coordinates; a hollow mark means the village was placed from memory and may be a kilometre or two out.</p>
@@ -168,6 +172,8 @@ footer{padding:36px 0 48px;color:var(--muted);font-size:13.5px}
   <section id="timeline"><h2>Timeline</h2><p class="sub">Dated events for the two villages.</p><ul class="tl" id="tl-body"></ul></section>
   <section id="batches"><h2>Batch log</h2><div id="batches-body"></div></section>
   <section id="requests"><h2>Request queue</h2><p class="sub">What would move this page on.</p><div id="req-body"></div></section>
+  <section id="decisions"><h2>Decisions</h2><p class="sub">Taken without waiting for the owner, under his standing instruction, and logged here.</p><div id="dec-body"></div></section>
+  <section id="searches"><h2>Searches, including the ones that found nothing</h2><div id="sr-body"></div></section>
   <section id="sources"><h2>Sources</h2><p class="sub">How each was read is stated, because several were reached only as extracts.</p><div id="sources-body"></div></section>
   <section id="role"><h2>Brief</h2><div id="role-body"></div></section>
 </main>
@@ -189,6 +195,7 @@ $("stats").innerHTML = [
   [DATA.holdings.length, "record sets traced"],
   [DATA.crossnotes.length, "notes for the line agents"],
   [count("open"), "place hypotheses open"],
+  [count("supported"), "supported"],
   [count("solved"), "solved"],
   [DATA.sources.length, "sources"]
 ].map(([n, l]) => `<li><b>${esc(n)}</b><span>${esc(l)}</span></li>`).join("");
@@ -294,11 +301,12 @@ $("dist").innerHTML = `<thead><tr><th>Place</th><th class="num">from Senné</th>
   DATA.distances.map(d => `<tr><td><a href="#${esc(d.id)}">${esc(d.name)}</a></td><td class="num">${d.approx ? "about " : ""}${d.senne} km</td><td class="num">${d.approx ? "about " : ""}${d.inacovce} km</td></tr>`).join("") + `</tbody>`;
 
 /* ---------- villages ---------- */
+const linkList = p => (p.links || []).length ? `<h4>Links out</h4><ul class="links">${p.links.map(l => `<li><a href="${esc(l.url)}" rel="noopener">${esc(l.label)}</a> <span class="meta">${esc(l.kind)}</span></li>`).join("")}</ul>${p.coord_check ? `<p class="meta">${esc(p.coord_check)}</p>` : ""}` : "";
 $("villages-body").innerHTML = ["PL-P-001", "PL-P-002"].map(id => { const p = byId[id]; return `<div id="${esc(p.id)}">
   <div class="id">${esc(p.id)} &middot; ${p.lat.toFixed(3)}&deg; N, ${p.lon.toFixed(3)}&deg; E</div>
   <div class="vname">${esc(p.name)}</div><div class="meta">${esc(p.today)}</div><p>${esc(p.role)}</p>
   <h4>Names on record</h4><ul class="names">${p.names.map(n => `<li><b>${esc(n.form)}</b><span class="meta">${esc(n.when)} ${ref1(n.src)}</span></li>`).join("")}</ul>
-  <h4>What is known</h4><ul class="facts">${p.facts.map(f => `<li>${esc(f.text)} ${refs(f.src)}</li>`).join("")}</ul></div>`; }).join("");
+  <h4>What is known</h4><ul class="facts">${p.facts.map(f => `<li>${esc(f.text)} ${refs(f.src)}</li>`).join("")}</ul>${linkList(p)}</div>`; }).join("");
 
 /* ---------- jurisdictions ---------- */
 $("civil").innerHTML = `<thead><tr><th>Period</th><th>State</th><th>Senné</th><th>Iňačovce</th><th>For the records</th></tr></thead><tbody>` +
@@ -315,29 +323,31 @@ $("records-body").innerHTML = groups.map(g => `<div class="grp"><h3>${esc(g)}</h
 
 /* ---------- notes ---------- */
 $("notes-body").innerHTML = ["Duska", "Demko"].map(a => `<div class="agent"><h3>For the ${a} agent</h3>` + DATA.crossnotes.filter(n => n.for === a).map(n => row(n.id,
-  `<div class="head">${pill(n.lean)}</div><p class="tgt"><b>${esc(n.target)}</b> ${esc(n.target_text)}</p><p>${esc(n.note)}</p><p class="try"><b>Try next.</b> ${esc(n.try)}</p><div class="meta">${refs(n.src)}</div>`)).join("") + `</div>`).join("");
+  `<div class="head">${pill(n.lean)}</div><p class="tgt"><b>${esc(n.target)}</b> ${esc(n.target_text)}</p><p>${esc(n.note)}</p><p class="try"><b>Try next.</b> ${esc(n.try)}</p><div class="meta">${n.as_of ? "Checked against " + esc(n.as_of) + " &middot; " : ""}${refs(n.src)}</div>`)).join("") + `</div>`).join("");
 
 /* ---------- hypotheses ---------- */
 $("hyp-body").innerHTML = H.map(h => row(h.id,
-  `<div class="head">${pill(h.status)}<span class="conf"><span class="bar"><i style="width:${h.confidence}%"></i></span>${h.confidence}%</span><span class="meta">raised ${esc(h.raised)}${h.resolved ? ", resolved " + esc(h.resolved) : ""}</span></div>
+  `<div class="head">${pill(h.status)}<span class="conf"><span class="bar"><i style="width:${h.confidence}%"></i></span>${h.confidence}%</span><span class="meta">raised ${esc(h.raised)}${h.resolved ? ", resolved " + esc(h.resolved) : ""}${h.question ? " &middot; coordinator question " + esc(h.question) : ""}</span></div>
    <p><strong>${esc(h.statement)}</strong></p>
    <p class="meta"><b>Basis.</b> ${esc(h.basis)}</p><p class="meta"><b>Test.</b> ${esc(h.test)}</p>
-   ${h.resolution ? `<p><b>Ruling.</b> ${esc(h.resolution)}</p>` : ""}<div class="meta">${refs(h.src)}</div>`)).join("");
+   ${h.resolution ? `<p><b>Ruling.</b> ${esc(h.resolution)}</p>` : ""}${(h.log || []).length ? `<ul class="hlog">${h.log.map(l => `<li><b>${esc(l.batch)}: ${esc(l.effect)}.</b> ${esc(l.note)}</li>`).join("")}</ul>` : ""}<div class="meta">${refs(h.src)}</div>`)).join("");
 
 /* ---------- gazetteer ---------- */
 const KIND = {"parish-ring": "Senné parish, 1734", admin: "district or estate seat", seat: "county town or bishop's seat", archive: "archive", origin: "settler origin", border: "1939 border"};
 $("gaz-body").innerHTML = P.filter(p => p.kind !== "home").map(p => { const d = DATA.distances.find(x => x.id === p.id); return row(p.id,
   `<div class="head"><h3>${esc(p.name)}</h3><span class="meta">${esc(p.country)} &middot; ${esc(KIND[p.kind] || p.kind)}${d ? ` &middot; ${d.approx ? "about " : ""}${d.senne} km from Senné` : ""}${p.coord === "approximate" ? " &middot; position approximate" : ""}</span></div>
    ${p.names.length ? `<div class="meta">Also ${p.names.map(n => `<b>${esc(n.form)}</b> (${esc(n.when)}) ${ref1(n.src)}`).join("; ")}</div>` : ""}
-   <p>${esc(p.role)}</p>${p.facts.map(f => `<p class="meta">${esc(f.text)} ${refs(f.src)}</p>`).join("")}`); }).join("");
+   <p>${esc(p.role)}</p>${p.facts.map(f => `<p class="meta">${esc(f.text)} ${refs(f.src)}</p>`).join("")}${linkList(p)}`); }).join("");
 
 /* ---------- the rest ---------- */
 $("tl-body").innerHTML = DATA.timeline.map(t => `<li><span class="y">${esc(t.year)}</span><span class="p">${esc(t.place)}</span><span>${esc(t.text)} ${refs(t.src)}</span></li>`).join("");
 $("batches-body").innerHTML = DATA.batches.slice().reverse().map(b => row(b.id,
   `<div class="head"><h3>${esc(b.title)}</h3><span class="meta">${esc(b.date)}</span></div><p>${esc(b.blurb)}</p>
-   <div class="meta">Raised: <b>${b.raised.map(esc).join(", ") || "none"}</b> &middot; Resolved: <b>${b.resolved.map(esc).join(", ") || "none"}</b></div>`)).join("");
+   <div class="meta">Raised: <b>${b.raised.map(esc).join(", ") || "none"}</b> &middot; Revised: <b>${(b.revised || []).map(esc).join(", ") || "none"}</b> &middot; Resolved: <b>${b.resolved.map(esc).join(", ") || "none"}</b></div>`)).join("");
 $("req-body").innerHTML = DATA.requests.map(r => row(r.id, `<div class="head">${pill(r.status)}<span class="meta">raised ${esc(r.raised)}</span></div><p>${esc(r.text)}</p>`)).join("");
 $("sources-body").innerHTML = DATA.sources.map(s => row(s.id, `<p><b>${esc(s.title)}</b></p><div class="meta">${esc(s.type)} &middot; ${esc(s.read)} &middot; <a href="${esc(s.url)}">open</a></div><p class="meta"><b>Reliability.</b> ${esc(s.reliability)}</p>`)).join("");
+$("dec-body").innerHTML = DATA.decisions.map(d => row(d.id, `<div class="meta">${esc(d.date)}</div><p>${esc(d.decided)}</p><p class="meta"><b>Why.</b> ${esc(d.why)}</p>`)).join("");
+$("sr-body").innerHTML = DATA.searches.map(d => row(d.id, `<div class="meta">${esc(d.date)} &middot; ${esc(d.batch)} &middot; ${esc(d.where)}</div><p><b>Looked for.</b> ${esc(d.for)}</p><p class="meta"><b>Found.</b> ${esc(d.found)} ${esc(d.note)}</p>`)).join("");
 const R = DATA.role;
 $("role-body").innerHTML = row(R.agent_id, `<p>${esc(R.brief)}</p><ul class="rules">${R.rules.map(x => `<li>${esc(x)}</li>`).join("")}</ul><p class="meta">${esc(R.note)} Assigned ${esc(R.assigned)} &middot; ${esc(R.model)}</p>`);
 $("foot").textContent = `Built ${DATA.built} from data/*.json. Last batch ${DATA.batches[DATA.batches.length - 1].id}. Sibling repositories: genealogu-duska-1 (Duska line), genealogy-demko-1 (Demko line).`;

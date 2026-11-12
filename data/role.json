@@ -11,7 +11,8 @@
     "Place hypotheses are raised here with a confidence, a basis and a named test, and ruled on when the test is run.",
     "The owner's published tree and his one-name study site stay unread until the comparison phase, as on the line agents' boards.",
     "Positions on the maps are measured from coordinates. A village placed from memory is drawn hollow and labelled approximate.",
-    "After any data change run python3 build.py and commit index.html with the data."
+    "After any data change run python3 build.py and commit index.html with the data.",
+    "Research agents sent out by this agent work under the same exclusions, and their brief is kept in research/."
   ],
-  "note": "Same blind-test conditions as the two line repos. Nothing here was taken from duskagenealogy.primerogueinc.com."
+  "note": "Same blind-test conditions as the two line repos. Nothing here was taken from the owner's own tree or his one-name study site."
 }

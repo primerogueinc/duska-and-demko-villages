@@ -6,6 +6,12 @@
     "src": "PL-S-001"
   },
   {
+    "year": "1322",
+    "place": "Senné",
+    "text": "A parish is on record.",
+    "src": "PL-S-037"
+  },
+  {
     "year": "1417",
     "place": "Iňačovce",
     "text": "First written record, as Solmus, in a charter of King Sigismund.",
@@ -19,6 +25,12 @@
       "PL-S-002",
       "PL-S-005"
     ]
+  },
+  {
+    "year": "about 1588",
+    "place": "Senné",
+    "text": "23 serf households, and a curia of the Dobó family.",
+    "src": "PL-S-039"
   },
   {
     "year": "1599",
@@ -94,6 +106,12 @@
     "src": "PL-S-003"
   },
   {
+    "year": "about 1799",
+    "place": "both",
+    "text": "Vályi's gazetteer: Szenna has several lords and Catholic inhabitants; Solymos and both Szeretvas are its filials.",
+    "src": "PL-S-043"
+  },
+  {
     "year": "1804",
     "place": "Senné",
     "text": "The Roman Catholic parishes of Ung county pass from Eger to the new diocese of Szatmár.",
@@ -104,6 +122,15 @@
     "place": "Senné",
     "text": "Augustín Roškováni, later bishop of Vác and of Nitra, is born in the manor to an estate employee's family.",
     "src": "PL-S-003"
+  },
+  {
+    "year": "1808",
+    "place": "Senné",
+    "text": "489 Roman Catholics in the village and 903 in the filials. A church tower is begun and collapses.",
+    "src": [
+      "PL-S-039",
+      "PL-S-040"
+    ]
   },
   {
     "year": "1811",
@@ -139,6 +166,12 @@
     "src": "PL-S-003"
   },
   {
+    "year": "1851",
+    "place": "Senné",
+    "text": "Fényes's gazetteer: 580 Roman Catholics, 238 Greek Catholics, 22 Jews, 3 Reformed, 2 Lutherans.",
+    "src": "PL-S-043"
+  },
+  {
     "year": "1864",
     "place": "both",
     "text": "Schools: Roman Catholic in Senné, 61 pupils. Greek Catholic, 69 pupils, and Reformed, 14 pupils, in Iňačovce.",
@@ -161,6 +194,21 @@
     "place": "both",
     "text": "State civil registration begins on 1 October.",
     "src": "PL-S-019"
+  },
+  {
+    "year": "1904",
+    "place": "Senné",
+    "text": "Szenna becomes Ungszenna in the official renaming. 754 people: 484 Roman Catholic, 231 Greek Catholic.",
+    "src": [
+      "PL-S-042",
+      "PL-S-039"
+    ]
+  },
+  {
+    "year": "1909",
+    "place": "Senné",
+    "text": "Lightning burns the church roof. The church is then lengthened and vaulted.",
+    "src": "PL-S-040"
   },
   {
     "year": "1910-1930",
@@ -202,6 +250,12 @@
     "src": "PL-S-003"
   },
   {
+    "year": "1929-1930",
+    "place": "Iňačovce",
+    "text": "Lightning on 6 July 1929 and a fire on 1 April 1930 damage the Greek Catholic church archive.",
+    "src": "PL-S-046"
+  },
+  {
     "year": "1930",
     "place": "both",
     "text": "Czechoslovak census, by household and house number.",
@@ -221,6 +275,12 @@
     "place": "both",
     "text": "Little War, 23 to 31 March. Slovak volunteers hold Senné; an air fight is seen over the village. The new border runs about 2 km away.",
     "src": "PL-S-003"
+  },
+  {
+    "year": "1939",
+    "place": "both",
+    "text": "Protocol of 4 April: the border follows the boundary of Senné with Bežovce and of Iňačovce with Blatná Polianka and Blatné Remety. Handed over on 7 April.",
+    "src": "PL-S-036"
   },
   {
     "year": "1940",
@@ -257,6 +317,12 @@
     "place": "both",
     "text": "Czechoslovakia restored. Uzhhorod and the eastern part of old Ung county pass to the Soviet Union.",
     "src": "PL-S-023"
+  },
+  {
+    "year": "1945",
+    "place": "Senné",
+    "text": "The manor is nationalised by decree of 27 November; from 1946 it is the school.",
+    "src": "PL-S-041"
   },
   {
     "year": "1955",

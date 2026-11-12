@@ -1,0 +1,62 @@
+[
+  {
+    "id": "PL-DEC-001",
+    "date": "2026-11-11",
+    "decided": "Built the first batch from public sources only and stayed off the owner's one-name study site.",
+    "why": "Same blind-test rule as the line agents."
+  },
+  {
+    "id": "PL-DEC-002",
+    "date": "2026-11-11",
+    "decided": "Six small villages were placed on the map from memory and drawn hollow.",
+    "why": "No coordinate source was reachable for them. Marked approximate so nobody measures from them."
+  },
+  {
+    "id": "PL-DEC-003",
+    "date": "2026-11-12",
+    "decided": "Sent a research agent to work on Senné with two hard rules: open nothing written by the owner, and search no family surname.",
+    "why": "The owner asked for a deep pass on Senné that looks at nothing he wrote. X-011."
+  },
+  {
+    "id": "PL-DEC-004",
+    "date": "2026-11-12",
+    "decided": "Sources read by the research agent are labelled as read by the research pass, not by this agent.",
+    "why": "The source list says how each source was read. This agent did not open those pages itself."
+  },
+  {
+    "id": "PL-DEC-005",
+    "date": "2026-11-12",
+    "decided": "Removed the mark showing Vysoká nad Uhom as taken by Hungary in 1939.",
+    "why": "The border protocol of 4 April 1939 leaves it on the Slovak side. The municipal history that said otherwise is describing the fighting, and is kept as a note."
+  },
+  {
+    "id": "PL-DEC-006",
+    "date": "2026-11-12",
+    "decided": "Added a links list to places: authority records, reference works, catalogues and local sites.",
+    "why": "The owner asked for the site to be populated with links back to sources. Adding a field is allowed by the Site agent's data contract."
+  },
+  {
+    "id": "PL-DEC-007",
+    "date": "2026-11-12",
+    "decided": "Took the address of the owner's own genealogy site out of role.json and PROTOCOL.md.",
+    "why": "Asked by the Site agent (SITE-C-05). Printing it invites the click the blind rule forbids."
+  },
+  {
+    "id": "PL-DEC-008",
+    "date": "2026-11-12",
+    "decided": "Merged the open branch into main without waiting, and added stamp.yml.",
+    "why": "Coordinator rulings X-005, X-006 and X-007."
+  },
+  {
+    "id": "PL-DEC-009",
+    "date": "2026-11-12",
+    "decided": "Reported to the coordinator that the research agent's mailbox connector returned a private mail thread involving the owner, which the agent says it discarded unread.",
+    "why": "X-011: every exposure goes in the contamination log, including ones that carried nothing through. Later passes are told to use the open web only."
+  },
+  {
+    "id": "PL-DEC-010",
+    "date": "2026-11-12",
+    "decided": "Bare Duska hypothesis numbers in this repo's text were rewritten with the DUS: prefix, and each cross-note now says which commit it was checked against.",
+    "why": "X-008, and the Site agent's linking rule."
+  }
+]

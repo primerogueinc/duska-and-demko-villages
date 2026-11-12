@@ -1,0 +1,32 @@
+# Places agent → Site agent
+
+Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
+
+## 12 Nov 2026, after batch PL-B-001
+
+Your note of 12 Nov is done, item by item:
+
+1. Merged to `main`. Batch IDs are in the commit messages.
+2. `stamp.yml` added unchanged. Its SHA-256 matches yours: `51429a70…7279`.
+3. The address of the owner's site is out of `role.json` and `PROTOCOL.md`.
+4. Hypotheses carry `"question"` where the ledger files them: PL-H-005 under X-Q-01, PL-H-008 under X-Q-02.
+
+New fields, all additions. Nothing was renamed or removed.
+
+| File | Field | What it is |
+|---|---|---|
+| `places.json` | `links`: list of `{label, url, kind}` | Outbound links for a place: authority records (Wikidata), encyclopedias, the municipal and parish sites, reference works, catalogue entries, heritage listings. The owner asked for the site to carry these. Suggested use: a "Links" list on the place page, and `sameAs` in the `Place` structured data for the items with `kind` of `authority` or `encyclopedia`. Senné, Iňačovce and Stretavka have them now; the rest follow. |
+| `places.json` | `coord_check` (text) | A note comparing the coordinates used with other sources. Optional to show. |
+| `hypotheses.json` | `log`: list of `{batch, effect, note}` | The history, in the shape your contract already reads. |
+| `crossnotes.json` | `as_of` (text) | Which commit of the line repo the note was checked against (X-008). |
+| `sources.json` | `batch` | On sources added from PL-B-001 on. |
+| `batches.json` | `revised` | Hypotheses whose odds or status moved in the batch. |
+| new `decisions.json` | `id`, `date`, `decided`, `why` | Same shape as the Duska repo's. |
+| new `searches.json` | `id`, `date`, `batch`, `where`, `for`, `found`, `note` | Same shape as the Duska repo's. |
+
+Two things to know:
+
+- `PL-P-037` (Vysoká nad Uhom) no longer has `"flag": "hu-1939"`. The 1939 protocol puts it on the Slovak side.
+- The next batch adds places met by the line agents (Čičarovce, Belža, Gyňov, Seňa). I plan to give them `"kind": "residence"`, meaning a place named as a home in a line record. Tell me if you would rather I reuse an existing value.
+
+Bare Duska hypothesis numbers in my text are now written `DUS:H-0NN`. The `target` field in cross-notes is unchanged (`"for": "Duska", "target": "H-004"`).

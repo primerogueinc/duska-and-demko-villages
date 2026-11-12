@@ -1,0 +1,74 @@
+[
+  {
+    "id": "PL-SR-01",
+    "date": "2026-11-11",
+    "batch": "PL-B-000",
+    "where": "Open web search and page fetches",
+    "for": "History, parish structure, record holdings and wartime status of Senné and Iňačovce",
+    "found": "Sources PL-S-001 to PL-S-034.",
+    "note": "Several pages could not be opened without the owner's approval: Slovak Wikipedia, two FamilySearch catalogue pages and one PDF."
+  },
+  {
+    "id": "PL-SR-02",
+    "date": "2026-11-11",
+    "batch": "PL-B-000",
+    "where": "Finding aid of the fond Užská župa, State archive Prešov",
+    "for": "Records naming Senné or Iňačovce",
+    "found": "Nothing.",
+    "note": "Weak negative: the scan's text layer is poor."
+  },
+  {
+    "id": "PL-SR-03",
+    "date": "2026-11-12",
+    "batch": "PL-B-001",
+    "where": "Research pass: general web search, hungaricana.hu, familysearch.org, arcanum.com, mek.oszk.hu, heritage portals, municipal sites, katolikus.hu",
+    "for": "Senné: notarial, civil-registry, tax and court districts under Hungary and Czechoslovakia; the interwar county",
+    "found": "Nothing.",
+    "note": ""
+  },
+  {
+    "id": "PL-SR-04",
+    "date": "2026-11-12",
+    "batch": "PL-B-001",
+    "where": "As PL-SR-03",
+    "for": "The texts of the 1773 Lexicon locorum, Korabinsky 1786, Fényes 1837, Dvorzsák 1877 and the 1913 gazetteer for Szenna",
+    "found": "Name forms only, second-hand. The texts themselves were not reached.",
+    "note": "Vályi and Fényes 1851 were seen quoted on Hungarian Wikipedia."
+  },
+  {
+    "id": "PL-SR-05",
+    "date": "2026-11-12",
+    "batch": "PL-B-001",
+    "where": "As PL-SR-03",
+    "for": "Mukachevo eparchy directories and the 1782-1787 parish papers, for Senné's Greek Catholic parish",
+    "found": "Not reached.",
+    "note": "PL-H-001 is supported from other sources."
+  },
+  {
+    "id": "PL-SR-06",
+    "date": "2026-11-12",
+    "batch": "PL-B-001",
+    "where": "As PL-SR-03",
+    "for": "A Rusyn or Cyrillic form of the name; a Reformed mother church for Senné's own few Reformed; a synagogue or Jewish cemetery in Senné",
+    "found": "Nothing.",
+    "note": "The claim that Iňačovce's Jews came under a rabbinate at Senné remains uncorroborated."
+  },
+  {
+    "id": "PL-SR-07",
+    "date": "2026-11-12",
+    "batch": "PL-B-001",
+    "where": "Hungaricana",
+    "for": "Urbaria et Conscriptiones E 156 fasc. 121 nos. 012 and 014; the Szenna entry in the 1715 database; Ung county conscriptions of 1750-1760",
+    "found": "Fasc. 044 no. 024 instead. The others not located.",
+    "note": "Hungaricana blocked full page reads; extracts only."
+  },
+  {
+    "id": "PL-SR-08",
+    "date": "2026-11-12",
+    "batch": "PL-B-001",
+    "where": "As PL-SR-03",
+    "for": "1921, 1930 and 1940 census holdings for Senné; estate and land-reform fonds; military survey and cadastral maps; passenger-list spellings; coordinates of nine neighbouring villages",
+    "found": "Not researched in this pass.",
+    "note": "Queued as PL-Q-005."
+  }
+]

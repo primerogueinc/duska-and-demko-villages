@@ -34,14 +34,29 @@
         "src": "PL-S-001"
       },
       {
+        "form": "Scynna, Zinna, Szinna",
+        "when": "medieval forms listed by Csánki",
+        "src": "PL-S-056"
+      },
+      {
         "form": "Szenna",
-        "when": "Hungarian official form",
-        "src": "PL-S-001"
+        "when": "1773, and official 1863 to 1902",
+        "src": "PL-S-038"
+      },
+      {
+        "form": "Senna",
+        "when": "1786 (Korabinsky); also the German form",
+        "src": "PL-S-058"
+      },
+      {
+        "form": "Szénna, Synna",
+        "when": "1808",
+        "src": "PL-S-058"
       },
       {
         "form": "Ungszenna",
-        "when": "later Hungarian form, with the county prefix",
-        "src": "PL-S-008"
+        "when": "official from 1904; in printed gazetteers 1907 to 1913",
+        "src": "PL-S-042"
       },
       {
         "form": "Senné",
@@ -80,15 +95,19 @@
         "src": "PL-S-012"
       },
       {
-        "text": "Roman Catholic church of the Visitation of the Virgin Mary, built in 1718 on the foundations of a church thought to be older than the 14th century. In 1734 it was brick, newly repaired, with three altars.",
+        "text": "Roman Catholic church of the Visitation of the Virgin Mary, built in 1718 on the walls of the Gothic church recorded in the 14th century. In 1734 it was brick, newly repaired, with three altars.",
         "src": [
-          "PL-S-002",
+          "PL-S-040",
           "PL-S-009"
         ]
       },
       {
-        "text": "The manor house dates from the first half of the 17th century and later served the Vécsey and Sztáray families as a farm seat and hunting lodge.",
-        "src": "PL-S-027"
+        "text": "The manor house began as a curia of the Dobó family in the 16th century and took its present late-Renaissance form in the first half of the 17th. It later served the Vécsey and Sztáray families as a farm seat and hunting lodge.",
+        "src": [
+          "PL-S-060",
+          "PL-S-041",
+          "PL-S-027"
+        ]
       },
       {
         "text": "Roman Catholic school: a parish school with a teacher by 1774, 61 pupils in 1864, 54 in 1916. No Greek Catholic or Reformed school is recorded here.",
@@ -113,8 +132,227 @@
       {
         "text": "Four Jewish families were deported in 1942. Soviet troops entered on 27 November 1944.",
         "src": "PL-S-003"
+      },
+      {
+        "text": "The name comes from the Slavic word for hay. Matej Bel, in the first half of the 18th century, described the village where the marshy Čierna voda meets the Uh, with fertile fields, fish caught in flood hollows and pigs fed on acorns.",
+        "src": [
+          "PL-S-057",
+          "PL-S-039"
+        ]
+      },
+      {
+        "text": "In the Nagykapos district of Ung county until 1920, with the rank of small commune. Its neighbour Iňačovce was in the Szobránc district.",
+        "src": [
+          "PL-S-043",
+          "PL-S-061",
+          "PL-S-044"
+        ]
+      },
+      {
+        "text": "Renamed Ungszenna in 1904, when the law of 1898 gave every settlement in Hungary one unique official name. There were other Szennas in Nógrád and Somogy counties.",
+        "src": [
+          "PL-S-042",
+          "PL-S-065"
+        ]
+      },
+      {
+        "text": "About 1588: 23 serf households, of which 10 were peasant farms, 9 cottars and 4 craftsmen, besides the servants of the Dobó curia.",
+        "src": [
+          "PL-S-039"
+        ]
+      },
+      {
+        "text": "Owners in order, by the municipal history: the crown until 1263; Jakab of Pányok and his heirs to the mid-14th century; the lords of Pavlovce; the Dobó of Ruská in the 16th century; the Vécsey family from the 18th, with the Pethő family holding a part about 1740. Hungarian Wikipedia puts the Csápy family after the Vécseys, the municipal history before.",
+        "src": [
+          "PL-S-039",
+          "PL-S-043"
+        ]
+      },
+      {
+        "text": "A parish is recorded by 1322; the municipal history cites mentions of 1317 and 1319. The villagers turned Protestant after 1550. The church was handed back and the Roman Catholic parish refounded in 1718; until then Catholic services were held in the Vécsey manor.",
+        "src": [
+          "PL-S-037",
+          "PL-S-039"
+        ]
+      },
+      {
+        "text": "Later history of the church: a tower begun in 1808 collapsed and a new west tower was built with Baron Vécsey's help; lightning burned the roof in 1909, after which the building was lengthened and vaulted; reconsecrated on 15 September 1946 after war damage. State monument register no. 11 243/1.",
+        "src": [
+          "PL-S-040"
+        ]
+      },
+      {
+        "text": "Parish priests on the published list: Martin Majerčík 1782-1824, Martin Rehák 1824-27, Jozef Spiegel 1828-31, Štefan Rácz 1831-41, Jozef Harkel 1841-50, Juraj Balázs 1850-86, Štefan Rusnák 1886-92, Július Buzinkay 1892-1906, Ján Barna 1906-30, Jozef Biloveský (administrator) 1930-50.",
+        "src": [
+          "PL-S-038",
+          "PL-S-037"
+        ]
+      },
+      {
+        "text": "Filials of the Roman Catholic parish changed over time. About 1799: Solymos and both Szeretvas. 1804: Palín, Stretava, Stretavka, Iňačovce, Rebrín, Kráska, Jastrabie. 1917: Jastrabie, Stretavka, Kráska, Stretava, Palín, Rebrín, with Iňačovce missing from the list. Today: Iňačovce, Jastrabie, Palín, Zemplínska Široká.",
+        "src": [
+          "PL-S-043",
+          "PL-S-039",
+          "PL-S-037",
+          "PL-S-063"
+        ]
+      },
+      {
+        "text": "In 1808 the parish counted 489 Roman Catholics in Senné and 903 in its filials.",
+        "src": [
+          "PL-S-039"
+        ]
+      },
+      {
+        "text": "By Fényes's gazetteer of 1851: a Slovak, Rusyn and Hungarian village with 580 Roman Catholics, 238 Greek Catholics, 2 Lutherans, 3 Reformed and 22 Jews; a parish church, Baron Vécsey's manor, and a water mill.",
+        "src": [
+          "PL-S-043"
+        ]
+      },
+      {
+        "text": "In 1904: 484 Roman Catholics, 231 Greek Catholics, 2 Lutherans, 11 Reformed and 26 Jews, 754 people in all.",
+        "src": [
+          "PL-S-039",
+          "PL-S-037"
+        ]
+      },
+      {
+        "text": "The Greek Catholics of Senné belonged to the Iňačovce parish. Its chronicle counts 245 of them in Senné, in figures that look interwar. Senné is still a filial of Iňačovce today.",
+        "src": [
+          "PL-S-046",
+          "PL-S-048"
+        ]
+      },
+      {
+        "text": "A church school stood opposite the church until 1930, when a communal school replaced it. The manor housed the school after 1946.",
+        "src": [
+          "PL-S-039",
+          "PL-S-041"
+        ]
+      },
+      {
+        "text": "The border protocol of 4 April 1939 ran the new Slovak-Hungarian line along the boundary between the fields of Senné and those of Bežovce. Senné stayed on the Slovak side.",
+        "src": [
+          "PL-S-036"
+        ]
+      },
+      {
+        "text": "Fishing from dugout boats lasted into the 20th century, and geese were kept in flocks of thousands until 1975.",
+        "src": [
+          "PL-S-039"
+        ]
+      },
+      {
+        "text": "Bishop Ágoston Roskoványi was born here in December 1807. The Hungarian biographical lexicons give the 7th, the Catholic lexicon the 6th.",
+        "src": [
+          "PL-S-037",
+          "PL-S-035"
+        ]
       }
-    ]
+    ],
+    "links": [
+      {
+        "label": "Wikidata Q1187941",
+        "url": "https://www.wikidata.org/wiki/Q1187941",
+        "kind": "authority"
+      },
+      {
+        "label": "Wikipedia (English)",
+        "url": "https://en.wikipedia.org/wiki/Senn%C3%A9,_Michalovce_District",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "Wikipedia (Slovak)",
+        "url": "https://sk.wikipedia.org/wiki/Senn%C3%A9_(okres_Michalovce)",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "Wikipedia (Hungarian): Ungszenna",
+        "url": "https://hu.wikipedia.org/wiki/Ungszenna",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "Wikipedia (Czech)",
+        "url": "https://cs.wikipedia.org/wiki/Senn%C3%A9_(okres_Michalovce)",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "Wikipedia (German)",
+        "url": "https://de.wikipedia.org/wiki/Senn%C3%A9_(Michalovce)",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "Obec Senné, municipal history",
+        "url": "https://www.obecsenne.sk/zivot-v-obci/historia",
+        "kind": "municipal"
+      },
+      {
+        "label": "Roman Catholic parish of Senné",
+        "url": "https://rb-senne.webnode.sk/nasa-farnost/",
+        "kind": "church"
+      },
+      {
+        "label": "Magyar Katolikus Lexikon: Ungszenna",
+        "url": "https://lexikon.katolikus.hu/U/Ungszenna.html",
+        "kind": "reference"
+      },
+      {
+        "label": "Historical directory of parishes: Senné",
+        "url": "https://www.knihydominikani.sk/hlavna_nemethy_22?fpcmeno=senne",
+        "kind": "reference"
+      },
+      {
+        "label": "GCatholic: Church of the Visitation, Senné",
+        "url": "https://gcatholic.org/churches/europe-east/146700",
+        "kind": "church"
+      },
+      {
+        "label": "Monument portal: the church",
+        "url": "https://www.pamiatkynaslovensku.sk/senne-kostol-navstivenia-panny-marie",
+        "kind": "heritage"
+      },
+      {
+        "label": "Monument portal: the village and manor",
+        "url": "https://www.pamiatkynaslovensku.sk/senne",
+        "kind": "heritage"
+      },
+      {
+        "label": "FamilySearch catalogue 710997: Senné parish register",
+        "url": "https://www.familysearch.org/en/search/catalog/710997",
+        "kind": "records"
+      },
+      {
+        "label": "Hungaricana: urbarial table for Szenna",
+        "url": "https://archives.hungaricana.hu/en/urberi/ung-szenna",
+        "kind": "records"
+      },
+      {
+        "label": "Settlement database: Ungszenna / Senné",
+        "url": "https://telepulesek.adatbank.sk/telepules/ungszenna-senne/",
+        "kind": "statistics"
+      },
+      {
+        "label": "1939 border protocol (Lacko 2010, pp. 38-39)",
+        "url": "https://www.upn.gov.sk/publikacie_web/zrod-slovenskeho-statu-v-kronikach-slovenskej-armady.pdf",
+        "kind": "records"
+      },
+      {
+        "label": "e-obce.sk: Senné",
+        "url": "https://www.e-obce.sk/obec/senne-michalovce/2-historia.html",
+        "kind": "gazetteer"
+      },
+      {
+        "label": "velemjaro.sk: Ungszenna",
+        "url": "https://www.velemjaro.sk/telepulestar/ungszenna",
+        "kind": "gazetteer"
+      },
+      {
+        "label": "medziriekami.sk: Senné",
+        "url": "https://medziriekami.sk/senne/",
+        "kind": "gazetteer"
+      }
+    ],
+    "coord_check": "Wikidata gives 48°40′0″N 22°1′50″E; the church stands at 48.665114, 22.032098 (PL-S-062, PL-S-040). Both are within about 400 metres of the point used."
   },
   {
     "id": "PL-P-002",
@@ -208,6 +446,80 @@
       {
         "text": "The Senné fishponds reserve lies in its fields: declared in 1955, 213 hectares, a Ramsar wetland since 1990.",
         "src": "PL-S-006"
+      },
+      {
+        "text": "In the Szobránc district of Ung county under Hungary, while Senné was in the Nagykapos district.",
+        "src": [
+          "PL-S-044",
+          "PL-S-043"
+        ]
+      },
+      {
+        "text": "The Greek Catholic parish house was built in 1811 and the register has been kept since then. The parish district counted 305 faithful in Iňačovce, 254 in Jastrabie, 245 in Senné and 135 in Stretava, in figures that look interwar.",
+        "src": [
+          "PL-S-046"
+        ]
+      },
+      {
+        "text": "In the mid-18th century the Greek Catholic parish had Jastrabie, Rebrín, Senné, Stretava and Stretavka as filials.",
+        "src": [
+          "PL-S-004"
+        ]
+      },
+      {
+        "text": "Lightning on 6 July 1929 and a fire on 1 April 1930 badly damaged the Greek Catholic church archive.",
+        "src": [
+          "PL-S-046"
+        ]
+      },
+      {
+        "text": "The Reformed of Iňačovce were a filial of the mother church at Lúčky from 1747, and their register was kept there.",
+        "src": [
+          "PL-S-046"
+        ]
+      },
+      {
+        "text": "The protocol of 4 April 1939 ran the border along the boundaries between Iňačovce and Blatná Polianka and between Iňačovce and Blatné Remety. Iňačovce stayed on the Slovak side.",
+        "src": [
+          "PL-S-036"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "label": "Wikipedia (English)",
+        "url": "https://en.wikipedia.org/wiki/I%C5%88a%C4%8Dovce",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "Wikipedia (Hungarian): Solymos",
+        "url": "https://hu.wikipedia.org/wiki/Solymos_(Szlov%C3%A1kia)",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "Obec Iňačovce, village chronicle",
+        "url": "https://obecinacovce.sk/podstranka?stranka=1117",
+        "kind": "municipal"
+      },
+      {
+        "label": "Greek Catholic eparchy of Košice: Iňačovce parish",
+        "url": "https://grkatke.sk/farnost/farnost-inacovce",
+        "kind": "church"
+      },
+      {
+        "label": "GCatholic: Church of the Dormition, Iňačovce",
+        "url": "https://gcatholic.org/churches/europe-east/147066",
+        "kind": "church"
+      },
+      {
+        "label": "Hungaricana: urbarial table for Solymos",
+        "url": "https://archives.hungaricana.hu/en/urberi/ung-solymos",
+        "kind": "records"
+      },
+      {
+        "label": "e-obce.sk: Iňačovce",
+        "url": "https://www.e-obce.sk/obec/inacovce/2-historia.html",
+        "kind": "gazetteer"
       }
     ]
   },
@@ -222,7 +534,13 @@
     "maps": [
       "local"
     ],
-    "names": [],
+    "names": [
+      {
+        "form": "Pályin",
+        "when": "Hungarian, as on the parish list for 1917",
+        "src": "PL-S-037"
+      }
+    ],
     "role": "Filial of the Senné Roman Catholic parish in 1734.",
     "facts": [
       {
@@ -249,8 +567,8 @@
     "names": [
       {
         "form": "Nagyszeretva",
-        "when": "Hungarian",
-        "src": "training"
+        "when": "Hungarian, as on the parish list for 1917",
+        "src": "PL-S-037"
       }
     ],
     "role": "Reformed mother church next door to the Senné parish.",
@@ -278,12 +596,17 @@
     ],
     "names": [
       {
-        "form": "Kisszeretva",
+        "form": "Kisszeretva, Kis-Szeretva",
         "when": "Hungarian",
-        "src": "training"
+        "src": "PL-S-045"
+      },
+      {
+        "form": "Malá Střetawa",
+        "when": "1808",
+        "src": "PL-S-045"
       }
     ],
-    "role": "Filial of Senné in 1734. Candidate for the 'K. Sz.' of the 1838 gift note in the Duska agent's Folder 1.",
+    "role": "Filial of the Senné parish in 1734, about 1799 and in 1917. Home of the Kulin family, which makes it the likely 'K. Sz.' of the 1838 gift note in the Duska agent's Folder 1.",
     "facts": [
       {
         "text": "Filial of the Senné Roman Catholic parish in 1734.",
@@ -292,6 +615,39 @@
       {
         "text": "A Reformed filial of Stretava in the 1733 list.",
         "src": "PL-S-010"
+      },
+      {
+        "text": "In the Nagykapos district of Ung county, like Senné.",
+        "src": [
+          "PL-S-045"
+        ]
+      },
+      {
+        "text": "Vályi's gazetteer of about 1799 calls both Szeretvas filials of Szenna. Kisszeretva is still on the parish's list for 1917.",
+        "src": [
+          "PL-S-043",
+          "PL-S-037"
+        ]
+      },
+      {
+        "text": "The urbarial table lists two Kulin landlords here, Imre and Pál. Fényes names Kulin among the landlords in 1851. The Kulin family of Bánhegyes proved its nobility in Ung county in 1807.",
+        "src": [
+          "PL-S-050",
+          "PL-S-051",
+          "PL-S-052"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "label": "Wikipedia (Hungarian): Kisszeretva",
+        "url": "https://hu.wikipedia.org/wiki/Kisszeretva",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "Hungaricana: urbarial table for Kisszeretva",
+        "url": "https://archives.hungaricana.hu/hu/urberi/ung-kisszeretva/?list=eyJxdWVyeSI6ICJNRUdZPVVORyJ9",
+        "kind": "records"
       }
     ]
   },
@@ -316,6 +672,11 @@
         "form": "Kráška",
         "when": "the other",
         "src": "PL-S-009"
+      },
+      {
+        "form": "Rebrény, Kráska",
+        "when": "Hungarian, as on the parish list for 1917",
+        "src": "PL-S-037"
       }
     ],
     "role": "Rebrín and Kráška were both filials of Senné in 1734.",
@@ -341,12 +702,24 @@
     "maps": [
       "local"
     ],
-    "names": [],
+    "names": [
+      {
+        "form": "Alsókánya",
+        "when": "Hungarian, as in the 1939 protocol and the parish list for 1917",
+        "src": "PL-S-036"
+      }
+    ],
     "role": "Filial of the Senné Roman Catholic parish in 1733 and 1734.",
     "facts": [
       {
         "text": "Latin-rite filial of Senné.",
         "src": "PL-S-010"
+      },
+      {
+        "text": "On the Slovak side of the April 1939 line, which ran along its boundary with Blatné Remety.",
+        "src": [
+          "PL-S-036"
+        ]
       }
     ]
   },
@@ -370,8 +743,11 @@
         "src": "PL-S-009"
       },
       {
-        "text": "Came under Hungarian occupation in the Little War of March 1939, with Bežovce and Vysoká nad Uhom.",
-        "src": "PL-S-003"
+        "text": "Passed to Hungary under the protocol of 4 April 1939; the new border ran along its boundary with Iňačovce.",
+        "src": [
+          "PL-S-036",
+          "PL-S-003"
+        ]
       }
     ]
   },
@@ -406,6 +782,12 @@
       {
         "text": "Listed inside the Slovak Michalovce district in 1940.",
         "src": "PL-S-015"
+      },
+      {
+        "text": "On the Slovak side of the April 1939 line, which ran along its boundary with Bežovce.",
+        "src": [
+          "PL-S-036"
+        ]
       }
     ]
   },
@@ -482,6 +864,13 @@
       {
         "text": "The Senné parish is in the Sobrance deanery today.",
         "src": "PL-S-021"
+      },
+      {
+        "text": "The Senné parish moved from the Michalovce deanery to the Sobrance deanery in July 2012.",
+        "src": [
+          "PL-S-063",
+          "PL-S-039"
+        ]
       }
     ]
   },
@@ -755,11 +1144,13 @@
     ],
     "flag": "hu-1939",
     "names": [],
-    "role": "Taken by Hungary in March 1939.",
+    "role": "Passed to Hungary in April 1939. Its boundary with Senné became the state border.",
     "facts": [
       {
-        "text": "Named with Blatná Polianka and Vysoká nad Uhom as occupied in the Little War.",
-        "src": "PL-S-003"
+        "text": "The protocol of 4 April 1939 ran the border along the boundaries of Bežovce with Vysoká nad Uhom, Pavlovce nad Uhom and Senné, leaving Bežovce on the Hungarian side.",
+        "src": [
+          "PL-S-036"
+        ]
       }
     ]
   },
@@ -774,17 +1165,32 @@
     "maps": [
       "local"
     ],
-    "flag": "hu-1939",
-    "names": [],
-    "role": "Taken by Hungary in March 1939.",
+    "names": [
+      {
+        "form": "Viszoka",
+        "when": "as written in the 1882 baptism held by the line agents",
+        "src": "PL-S-031"
+      }
+    ],
+    "role": "Named as Viszoka in an 1882 baptism held by the Duska and Demko agents. On the Slovak side of the April 1939 line.",
     "facts": [
       {
-        "text": "Occupied in the Little War; afterwards the border ran about 2 kilometres from Senné.",
-        "src": "PL-S-003"
+        "text": "A Latin-rite filial of Pavlovce in 1733.",
+        "src": [
+          "PL-S-010"
+        ]
       },
       {
-        "text": "A Latin-rite filial of Pavlovce in 1733.",
-        "src": "PL-S-010"
+        "text": "The protocol of 4 April 1939 ran the border along its boundaries with Lekárovce and Bežovce, which leaves the village in Slovakia, as the research pass read it.",
+        "src": [
+          "PL-S-036"
+        ]
+      },
+      {
+        "text": "The Senné municipal history names it among the villages Hungarian troops took in the fighting of March 1939. Both can be true: taken in the fighting, then left outside the strip that was ceded. Not yet checked against the 1940 list of Slovak municipalities.",
+        "src": [
+          "PL-S-003"
+        ]
       }
     ]
   },

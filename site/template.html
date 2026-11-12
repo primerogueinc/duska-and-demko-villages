@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Duska and Demko Villages</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans+Condensed:wght@500;600&family=IBM+Plex+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<style>
+:root{
+  /* layout: a gazetteer in the same finding-aid dress as the two line repos. One reading column, mono IDs in a left gutter, ruled rows; the map sheet is the only framed object. */
+  --paper:#f2f4f2; --surface:#ffffff; --ink:#16211d; --muted:#5b6964; --rule:#cdd5d0;
+  --accent:#2b3f8f; --accent-soft:#e3e7f6;
+  --open:#8a5a00; --open-bg:#fbf0d4; --ok:#1f6b45; --ok-bg:#dcefe4; --bad:#a32f28; --bad-bg:#f6dedb;
+  --home:#b3263e; --water:#3d7fb0; --frontier:#6f7d77;
+  --display:"IBM Plex Sans Condensed","Arial Narrow",Arial,sans-serif;
+  --body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --paper:#111514; --surface:#191f1d; --ink:#e5ebe8; --muted:#98a6a0; --rule:#2d3632;
+    --accent:#9db0ff; --accent-soft:#222a47;
+    --open:#e8b95a; --open-bg:#3a2e12; --ok:#7fd0a3; --ok-bg:#17352a; --bad:#f09a92; --bad-bg:#3d1c19;
+    --home:#ff8f9f; --water:#7db6e0; --frontier:#8c9a94;
+    color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#111514; --surface:#191f1d; --ink:#e5ebe8; --muted:#98a6a0; --rule:#2d3632;
+  --accent:#9db0ff; --accent-soft:#222a47;
+  --open:#e8b95a; --open-bg:#3a2e12; --ok:#7fd0a3; --ok-bg:#17352a; --bad:#f09a92; --bad-bg:#3d1c19;
+  --home:#ff8f9f; --water:#7db6e0; --frontier:#8c9a94;
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion: reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:16px;line-height:1.55}
+a{color:var(--accent)}
+a:focus-visible,summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.wrap{max-width:1040px;margin:0 auto;padding:0 20px}
+header.top{padding:36px 0 20px;border-bottom:2px solid var(--ink)}
+.eyebrow{font-family:var(--mono);font-size:12.5px;color:var(--muted);letter-spacing:.02em}
+h1{font-family:var(--display);font-weight:600;font-size:clamp(30px,5vw,44px);line-height:1.08;margin:6px 0 10px;text-wrap:balance}
+.lede{max-width:66ch;margin:0;color:var(--muted)}
+.stats{display:flex;flex-wrap:wrap;gap:8px 28px;margin:22px 0 0;padding:0;list-style:none;font-variant-numeric:tabular-nums}
+.stats li{display:flex;align-items:baseline;gap:8px}
+.stats b{font-family:var(--display);font-size:26px;font-weight:600}
+.stats span{font-size:13.5px;color:var(--muted)}
+nav.toc{position:sticky;top:0;z-index:5;background:var(--paper);border-bottom:1px solid var(--rule)}
+nav.toc .wrap{display:flex;gap:4px 18px;flex-wrap:wrap;padding-top:10px;padding-bottom:10px}
+nav.toc a{font-size:14px;text-decoration:none;color:var(--ink);font-weight:500}
+nav.toc a:hover{color:var(--accent);text-decoration:underline}
+section{padding:34px 0 8px;scroll-margin-top:48px}
+h2{font-family:var(--display);font-weight:600;font-size:25px;margin:0 0 4px;text-wrap:balance}
+.sub{color:var(--muted);margin:0 0 16px;max-width:66ch;font-size:15px}
+h3{font-family:var(--display);font-weight:600;font-size:19px;margin:0 0 4px}
+h4{font-size:13.5px;font-weight:600;margin:16px 0 4px}
+.id{font-family:var(--mono);font-size:12.5px;color:var(--muted);white-space:nowrap}
+.row{display:grid;grid-template-columns:86px 1fr;gap:6px 16px;padding:14px 0;border-top:1px solid var(--rule);scroll-margin-top:56px}
+.row>.id{padding-top:3px}
+.row p{margin:4px 0;max-width:68ch}
+.pill{display:inline-block;font-size:12px;font-weight:600;padding:1px 9px;border-radius:999px;border:1px solid currentColor;line-height:1.5;white-space:nowrap}
+.pill.open,.pill.held,.pill.lead,.pill.question,.pill.needs{color:var(--open);background:var(--open-bg)}
+.pill.supported,.pill.solved,.pill.confirmed,.pill.supports,.pill.in{color:var(--ok);background:var(--ok-bg)}
+.pill.solved{border-width:2px}
+.pill.refuted,.pill.weakens{color:var(--bad);background:var(--bad-bg)}
+.pill.neutral,.pill.context,.pill.reported,.pill.checked,.pill.training{color:var(--muted);background:transparent;border-style:dashed}
+.meta{font-size:13.5px;color:var(--muted)}
+.meta b{color:var(--ink);font-weight:500}
+.head{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 12px}
+.conf{display:inline-flex;align-items:center;gap:8px;font-size:13px;font-variant-numeric:tabular-nums;color:var(--muted)}
+.bar{width:84px;height:6px;background:var(--rule);border-radius:3px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--accent)}
+.ref{font-family:var(--mono);font-size:11.5px;color:var(--muted);text-decoration:none;white-space:nowrap}
+a.ref:hover{color:var(--accent);text-decoration:underline}
+.refs{display:inline-flex;flex-wrap:wrap;gap:0 8px}
+
+/* map sheet */
+.sheet{background:var(--surface);border:1px solid var(--rule);padding:10px}
+.sheet svg{display:block;width:100%;height:auto}
+.sheet figcaption,.cap{font-size:13px;color:var(--muted);margin-top:8px;max-width:72ch}
+figure{margin:0}
+.mapgrid{display:grid;grid-template-columns:minmax(0,520px) minmax(0,1fr);gap:24px;margin-top:22px;align-items:start}
+.key{list-style:none;margin:0;padding:0;display:grid;gap:7px;font-size:14px}
+.key li{display:grid;grid-template-columns:30px 1fr;gap:8px;align-items:center}
+.key svg{width:30px;height:16px;display:block}
+svg text{font-family:var(--body);fill:var(--ink)}
+svg .halo{paint-order:stroke;stroke:var(--surface);stroke-width:3.5px;stroke-linejoin:round}
+svg .ctry{font-family:var(--display);font-weight:600;letter-spacing:.14em;fill:var(--muted);opacity:.75}
+svg .riv{font-style:italic;fill:var(--water)}
+svg .small{fill:var(--muted)}
+
+/* village comparison */
+.two{display:grid;grid-template-columns:1fr 1fr;gap:0 32px}
+.two>div{border-top:2px solid var(--ink);padding-top:12px}
+.vname{font-family:var(--display);font-size:28px;font-weight:600;line-height:1.1}
+.names{list-style:none;margin:10px 0 14px;padding:0;display:grid;gap:2px;font-size:14.5px}
+.names li{display:grid;grid-template-columns:minmax(0,11.5em) 1fr;gap:10px}
+.names b{font-weight:600}
+.facts{margin:0;padding:0;list-style:none}
+.facts li{padding:9px 0;border-top:1px solid var(--rule);font-size:15px}
+
+.tablewrap{overflow-x:auto}
+table{border-collapse:collapse;width:100%;font-size:14.5px}
+th{font-size:12px;text-align:left;color:var(--muted);font-weight:500;padding:6px 12px 6px 0;border-bottom:1px solid var(--rule);white-space:nowrap}
+td{vertical-align:top;padding:9px 12px 9px 0;border-bottom:1px solid var(--rule)}
+td.when,td.num{white-space:nowrap;font-variant-numeric:tabular-nums}
+td.num{text-align:right}
+th.num{text-align:right}
+td .meta{display:block;margin-top:3px}
+.civil td{min-width:150px}
+.civil td.when{min-width:0}
+.rites{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:8px 32px;margin-top:22px}
+.rite{border-top:2px solid var(--ink);padding-top:10px}
+.steps{list-style:none;margin:10px 0 0;padding:0}
+.steps li{display:grid;grid-template-columns:7.2em 1fr;gap:10px;padding:7px 0;border-top:1px solid var(--rule);font-size:14.5px}
+.steps .w{font-variant-numeric:tabular-nums;color:var(--muted);font-size:13.5px}
+.grp{margin-top:22px}
+.agent{margin-top:20px;padding-top:10px;border-top:2px solid var(--ink)}
+.tgt{font-size:14px;color:var(--muted);margin:2px 0 6px;max-width:68ch}
+.tgt b{font-family:var(--mono);font-weight:500;font-size:12.5px;color:var(--ink)}
+.try{border-left:3px solid var(--accent);padding:2px 0 2px 12px;margin:8px 0 4px;max-width:66ch;font-size:15px}
+.tl{list-style:none;margin:0;padding:0}
+.tl li{display:grid;grid-template-columns:7em 6.5em 1fr;gap:6px 14px;padding:8px 0;border-top:1px solid var(--rule);font-size:15px}
+.tl .y{font-family:var(--mono);font-size:13px;padding-top:2px}
+.tl .p{font-size:13px;color:var(--muted);padding-top:2px}
+ul.rules{margin:8px 0 0;padding-left:20px;max-width:68ch}
+footer{padding:36px 0 48px;color:var(--muted);font-size:13.5px}
+@media (max-width:760px){
+  .row{grid-template-columns:1fr}
+  .two,.mapgrid{grid-template-columns:1fr}
+  .two>div+div{margin-top:28px}
+  .tl li{grid-template-columns:5.5em 1fr}
+  .tl .p{display:none}
+}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+  <div class="eyebrow">Places &middot; old Ung county &middot; repository duska-and-demko-villages</div>
+  <h1>Duska and Demko villages</h1>
+  <p class="lede">The ground under two family lines. Senné and Iňačovce, the places around them, who governed and who baptised there in each period, and where the records ended up. Built beside the Duska and Demko line rebuilds, as the third part of the same blind test.</p>
+  <ul class="stats" id="stats"></ul>
+</div></header>
+<nav class="toc" aria-label="Sections"><div class="wrap">
+  <a href="#map">Map</a><a href="#villages">The two villages</a><a href="#jurisdictions">Who governed</a><a href="#churches">Who baptised</a><a href="#records">Where the records are</a><a href="#notes">Notes for the line agents</a><a href="#hypotheses">Place hypotheses</a><a href="#gazetteer">Gazetteer</a><a href="#timeline">Timeline</a><a href="#batches">Batches</a><a href="#requests">Requests</a><a href="#sources">Sources</a><a href="#role">Brief</a>
+</div></nav>
+<main class="wrap">
+  <section id="map"><h2>Map</h2><p class="sub">The neighbourhood first, then the region. Positions are plotted from coordinates; a hollow mark means the village was placed from memory and may be a kilometre or two out.</p>
+    <figure class="sheet"><div id="map-local"></div><figcaption id="cap-local"></figcaption></figure>
+    <div class="mapgrid">
+      <figure class="sheet"><div id="map-regional"></div><figcaption id="cap-regional"></figcaption></figure>
+      <div><h3>Key</h3><ul class="key" id="key"></ul>
+        <h4>Distances from the villages</h4>
+        <div class="tablewrap"><table id="dist"></table></div>
+        <p class="cap">Straight-line kilometres, computed from the coordinates used on the map.</p></div>
+    </div>
+  </section>
+  <section id="villages"><h2>The two villages</h2><p class="sub">Side by side. Every line cites its source; the reference opens the entry in the source list.</p><div class="two" id="villages-body"></div></section>
+  <section id="jurisdictions"><h2>Who governed</h2><p class="sub">State, county and district by period, and what each change did to the paper trail.</p><div class="tablewrap"><table class="civil" id="civil"></table></div></section>
+  <section id="churches"><h2>Who baptised</h2><p class="sub">The two villages were never one parish. Each church kept its own book, and each answered to a different bishop.</p><div class="rites" id="rites"></div></section>
+  <section id="records"><h2>Where the records are</h2><p class="sub">Record sets for the two villages, with where each is kept. Status says how far this page has got: confirmed from a source, reported second-hand, or only a lead.</p><div id="records-body"></div></section>
+  <section id="notes"><h2>Notes for the line agents</h2><p class="sub">What the places say about hypotheses open on the Duska and Demko boards. A note can lean; only the line agent rules.</p><div id="notes-body"></div></section>
+  <section id="hypotheses"><h2>Place hypotheses</h2><p class="sub">Predictions about places and record-keeping, each with odds and a named test.</p><div id="hyp-body"></div></section>
+  <section id="gazetteer"><h2>Gazetteer</h2><p class="sub">Every other place on the maps or in the notes, with the names it has gone by and why it matters here.</p><div id="gaz-body"></div></section>
+  <section id="timeline"><h2>Timeline</h2><p class="sub">Dated events for the two villages.</p><ul class="tl" id="tl-body"></ul></section>
+  <section id="batches"><h2>Batch log</h2><div id="batches-body"></div></section>
+  <section id="requests"><h2>Request queue</h2><p class="sub">What would move this page on.</p><div id="req-body"></div></section>
+  <section id="sources"><h2>Sources</h2><p class="sub">How each was read is stated, because several were reached only as extracts.</p><div id="sources-body"></div></section>
+  <section id="role"><h2>Brief</h2><div id="role-body"></div></section>
+</main>
+<footer><div class="wrap" id="foot"></div></footer>
+<script>
+const DATA = /*__DATA__*/{};
+const $ = id => document.getElementById(id);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const cls = s => esc(String(s).toLowerCase().split(/[\s,]+/)[0]);
+const pill = (s, label) => `<span class="pill ${cls(s)}">${esc(label || s)}</span>`;
+const row = (id, html) => `<div class="row" id="${esc(id)}"><div class="id">${esc(id)}</div><div>${html}</div></div>`;
+const ref1 = s => s === "training" ? pill("training", "from training, unchecked") : `<a class="ref" href="#${esc(s)}">${esc(s)}</a>`;
+const refs = s => `<span class="refs">${[].concat(s || []).map(ref1).join("")}</span>`;
+const P = DATA.places, byId = Object.fromEntries(P.map(p => [p.id, p]));
+const H = DATA.hypotheses, count = st => H.filter(h => h.status === st).length;
+
+$("stats").innerHTML = [
+  [P.length, "places"],
+  [DATA.holdings.length, "record sets traced"],
+  [DATA.crossnotes.length, "notes for the line agents"],
+  [count("open"), "place hypotheses open"],
+  [count("solved"), "solved"],
+  [DATA.sources.length, "sources"]
+].map(([n, l]) => `<li><b>${esc(n)}</b><span>${esc(l)}</span></li>`).join("");
+
+/* ---------- maps ---------- */
+const NS = "http://www.w3.org/2000/svg";
+const LBL = {
+  local: {"PL-P-001":[12,5,"start"],"PL-P-002":[12,5,"start"],"PL-P-010":[-9,4,"end"],"PL-P-011":[9,4,"start"],"PL-P-012":[-9,4,"end"],"PL-P-013":[-9,4,"end"],
+          "PL-P-014":[10,4,"start"],"PL-P-015":[11,4,"start"],"PL-P-020":[0,20,"middle"],"PL-P-021":[11,4,"start"],"PL-P-022":[12,4,"start"],"PL-P-023":[11,4,"start"],
+          "PL-P-024":[0,22,"middle"],"PL-P-036":[11,4,"start"],"PL-P-037":[0,-12,"middle"]},
+  regional: {"HOME":[0,22,"middle"],"PL-P-021":[-9,4,"end"],"PL-P-022":[10,-3,"start"],"PL-P-023":[-9,4,"end"],"PL-P-024":[10,8,"start"],"PL-P-030":[10,4,"start"],
+             "PL-P-031":[-10,4,"end"],"PL-P-032":[10,4,"start"],"PL-P-033":[-10,4,"end"],"PL-P-034":[-10,4,"end"],"PL-P-035":[10,4,"start"]}
+};
+const ALT = {"PL-P-021":"Nagykapos","PL-P-022":"Szobránc","PL-P-023":"Nagymihály","PL-P-024":"Ungvár","PL-P-030":"Eperjes","PL-P-031":"Beregszász","PL-P-032":"Kassa","PL-P-033":"Szatmár","PL-P-034":"Munkács","PL-P-012":"Kisszeretva"};
+
+function mark(kind, x, y, approx, big) {
+  const fill = approx ? "var(--surface)" : (kind === "home" ? "var(--home)" : "var(--ink)");
+  const stroke = kind === "home" ? "var(--home)" : "var(--ink)";
+  const a = `fill="${fill}" stroke="${stroke}" stroke-width="1.6"`;
+  const r = big || 4.2;
+  if (kind === "home") return `<circle cx="${x}" cy="${y}" r="${big || 7}" ${a}/>`;
+  if (kind === "admin") return `<rect x="${x - r}" y="${y - r}" width="${2 * r}" height="${2 * r}" ${a}/>`;
+  if (kind === "seat") return `<path d="M${x} ${y - r - 2.2}L${x + r + 2.2} ${y}L${x} ${y + r + 2.2}L${x - r - 2.2} ${y}Z" ${a}/>`;
+  if (kind === "archive") return `<path d="M${x} ${y - r - 1.8}L${x + r + 1.6} ${y + r}L${x - r - 1.6} ${y + r}Z" ${a}/>`;
+  if (kind === "origin") return `<circle cx="${x}" cy="${y}" r="${r}" fill="var(--surface)" stroke="var(--ink)" stroke-width="1.6" stroke-dasharray="2.2 2"/>`;
+  return `<circle cx="${x}" cy="${y}" r="${r - 0.4}" ${a}/>`;
+}
+function drawMap(target, o) {
+  const [w, s, e, n] = o.bbox, W = o.width, mid = (s + n) / 2 * Math.PI / 180;
+  const kx = W / (e - w), ky = kx / Math.cos(mid), Hh = Math.round((n - s) * ky);
+  const X = lon => +((lon - w) * kx).toFixed(1), Y = lat => +((n - lat) * ky).toFixed(1);
+  const path = pts => pts.map((p, i) => (i ? "L" : "M") + X(p[0]) + " " + Y(p[1])).join("");
+  const fs = o.font;
+  let g = `<rect x="0" y="0" width="${W}" height="${Hh}" fill="var(--surface)"/>`;
+  g += `<g clip-path="url(#clip-${o.name})">`;
+  if (o.rivers) for (const r of DATA.basemap.rivers) g += `<path d="${path(r.pts)}" fill="none" stroke="var(--water)" stroke-width="1.6" stroke-linejoin="round" opacity=".85"/>`;
+  for (const b of DATA.basemap.borders) g += `<path d="${path(b.pts)}" fill="none" stroke="var(--frontier)" stroke-width="1.5" stroke-dasharray="7 4 1.5 4"/>`;
+  g += `</g>`;
+  if (o.rivers) {
+    const seen = new Set();
+    for (const r of DATA.basemap.rivers) {
+      if (seen.has(r.n)) continue;
+      const inside = r.pts.filter(p => p[0] > w + .12 && p[0] < e - .12 && p[1] > s + .06 && p[1] < n - .06);
+      if (inside.length < 6) continue;
+      seen.add(r.n);
+      const m = inside[Math.floor(inside.length * (o.riverAt?.[r.n] ?? .5))];
+      g += `<text class="riv halo" x="${X(m[0]) + 6}" y="${Y(m[1]) - 5}" font-size="${fs - 0.5}">${esc(r.n === "Latorica" ? "Latorica / Bodrog" : r.n)}</text>`;
+    }
+  }
+  for (const c of o.countries) g += `<text class="ctry" x="${X(c[1])}" y="${Y(c[2])}" font-size="${fs + 1}" text-anchor="middle">${c[0]}</text>`;
+  const home = byId["PL-P-001"];
+  if (o.rays) {
+    for (const p of P.filter(p => p.kind === "parish-ring")) g += `<line x1="${X(home.lon)}" y1="${Y(home.lat)}" x2="${X(p.lon)}" y2="${Y(p.lat)}" stroke="var(--accent)" stroke-width="1.1" opacity=".55"/>`;
+    const b = byId["PL-P-002"];
+    g += `<line x1="${X(home.lon)}" y1="${Y(home.lat)}" x2="${X(b.lon)}" y2="${Y(b.lat)}" stroke="var(--home)" stroke-width="2.4"/>`;
+    g += `<text class="halo" x="${(X(home.lon) + X(b.lon)) / 2 - 9}" y="${(Y(home.lat) + Y(b.lat)) / 2 + 4}" font-size="${fs - 1}" text-anchor="end" font-weight="600" style="fill:var(--home)">${DATA.home_km} km</text>`;
+  }
+  const lbl = LBL[o.name];
+  const shown = o.name === "regional" ? P.filter(p => p.maps.includes("regional") && p.kind !== "home") : P.filter(p => p.maps.includes("local"));
+  for (const p of shown) {
+    const x = X(p.lon), y = Y(p.lat), approx = p.coord === "approximate";
+    if (p.flag === "hu-1939") g += `<circle cx="${x}" cy="${y}" r="10.5" fill="none" stroke="var(--open)" stroke-width="1.6" stroke-dasharray="3 2.4"/>`;
+    g += mark(p.kind, x, y, approx);
+    const [dx, dy, anc] = lbl[p.id] || [9, 4, "start"];
+    const alt = ALT[p.id] && o.name === "local" ? ` <tspan class="small" font-size="${fs - 1.5}" font-weight="400">${esc(ALT[p.id])}</tspan>` : "";
+    g += `<text class="halo" x="${x + dx}" y="${y + dy}" font-size="${p.kind === "home" ? fs + 2.5 : fs}" text-anchor="${anc}" font-weight="${p.kind === "home" ? 600 : 500}">${esc(p.name)}${alt}</text>`;
+  }
+  if (o.name === "regional") {
+    const b = byId["PL-P-002"], x = X((home.lon + b.lon) / 2), y = Y((home.lat + b.lat) / 2), [dx, dy, anc] = lbl.HOME;
+    g += mark("home", x, y, false, 6.5) + `<text class="halo" x="${x + dx}" y="${y + dy}" font-size="${fs + 1.5}" text-anchor="${anc}" font-weight="600">Senné &middot; Iňačovce</text>`;
+    const q = o.localBox;
+    g += `<rect x="${X(q[0])}" y="${Y(q[3])}" width="${X(q[2]) - X(q[0])}" height="${Y(q[1]) - Y(q[3])}" fill="none" stroke="var(--accent)" stroke-width="1" stroke-dasharray="2 3"/>`;
+  }
+  const kmpx = kx / (111.32 * Math.cos(mid)), sb = o.scaleKm * kmpx, sx = 16, sy = Hh - 16;
+  g += `<path d="M${sx} ${sy - 5}V${sy}H${sx + sb}V${sy - 5}" fill="none" stroke="var(--ink)" stroke-width="1.4"/><text class="halo" x="${sx + sb + 7}" y="${sy + 1}" font-size="${fs - 1}">${o.scaleKm} km</text>`;
+  g += `<text class="small halo" x="${W - 12}" y="${Hh - 12}" font-size="${fs - 1.5}" text-anchor="end">north up</text>`;
+  $(target).innerHTML = `<svg viewBox="0 0 ${W} ${Hh}" role="img" aria-label="${esc(o.aria)}"><defs><clipPath id="clip-${o.name}"><rect x="0" y="0" width="${W}" height="${Hh}"/></clipPath></defs>${g}</svg>`;
+}
+const LOCAL = [21.86, 48.525, 22.36, 48.775];
+drawMap("map-local", {name: "local", bbox: LOCAL, width: 900, font: 13, rays: true, rivers: false, scaleKm: 5,
+  countries: [["SLOVAKIA", 21.935, 48.545], ["UKRAINE", 22.3, 48.565]],
+  aria: "Map of Senné, Iňačovce and the villages around them, from Michalovce in the north-west to Uzhhorod in the east."});
+drawMap("map-regional", {name: "regional", bbox: [21.1, 47.7, 23.0, 49.1], width: 520, font: 11.5, rays: false, rivers: true, scaleKm: 25, localBox: LOCAL,
+  riverAt: {"Tisza": .45, "Latorica": .78, "Hornád": .55, "Someș": .72},
+  countries: [["SLOVAKIA", 21.62, 48.9], ["UKRAINE", 22.72, 48.82], ["HUNGARY", 21.72, 47.93], ["ROMANIA", 22.45, 47.745]],
+  aria: "Regional map from Košice and Prešov in the west to Mukachevo in the east and Satu Mare in the south."});
+$("cap-local").innerHTML = `Senné and Iňačovce lie ${DATA.home_km} km apart. Thin lines run from Senné to the villages that were filials of its Roman Catholic parish at the bishop's visitation of 1734 ${ref1("PL-S-009")}. A dashed ring marks a place taken by Hungary in March or April 1939 ${ref1("PL-S-003")} ${ref1("PL-S-034")}; both family villages stayed in Slovakia ${ref1("PL-S-015")}. The dash-dot line is today's border with Ukraine, drawn from 1:10m data and good to a kilometre or two. The Uh and the Laborec are not in that data and are not drawn.`;
+$("cap-regional").innerHTML = `The dotted box is the area of the first map. Rivers and borders from Natural Earth ${ref1("PL-S-033")}. Eger, the bishop's seat before 1804, is off the sheet to the south-west.`;
+const kitem = (svg, text) => `<li><svg viewBox="0 0 30 16" aria-hidden="true">${svg}</svg><span>${text}</span></li>`;
+$("key").innerHTML = [
+  kitem(mark("home", 15, 8, false, 6), "Family village"),
+  kitem(mark("parish-ring", 15, 8, false), "Village of the Senné parish, 1734"),
+  kitem(mark("parish-ring", 15, 8, true), "Same, position approximate"),
+  kitem(mark("admin", 15, 8, false), "District or estate seat"),
+  kitem(mark("seat", 15, 8, false), "County town or bishop's seat"),
+  kitem(mark("archive", 15, 8, false), "Archive holding records of the villages"),
+  kitem(mark("origin", 15, 8, false), "Named origin of settlers after 1720"),
+  kitem(`<circle cx="15" cy="8" r="6.5" fill="none" stroke="var(--open)" stroke-width="1.6" stroke-dasharray="3 2.4"/>`, "Taken by Hungary in 1939"),
+  kitem(`<line x1="2" y1="8" x2="28" y2="8" stroke="var(--accent)" stroke-width="1.2" opacity=".6"/>`, "Tie to the Senné parish"),
+  kitem(`<line x1="2" y1="8" x2="28" y2="8" stroke="var(--frontier)" stroke-width="1.5" stroke-dasharray="7 4 1.5 4"/>`, "State border today")
+].join("");
+$("dist").innerHTML = `<thead><tr><th>Place</th><th class="num">from Senné</th><th class="num">from Iňačovce</th></tr></thead><tbody>` +
+  DATA.distances.map(d => `<tr><td><a href="#${esc(d.id)}">${esc(d.name)}</a></td><td class="num">${d.approx ? "about " : ""}${d.senne} km</td><td class="num">${d.approx ? "about " : ""}${d.inacovce} km</td></tr>`).join("") + `</tbody>`;
+
+/* ---------- villages ---------- */
+$("villages-body").innerHTML = ["PL-P-001", "PL-P-002"].map(id => { const p = byId[id]; return `<div id="${esc(p.id)}">
+  <div class="id">${esc(p.id)} &middot; ${p.lat.toFixed(3)}&deg; N, ${p.lon.toFixed(3)}&deg; E</div>
+  <div class="vname">${esc(p.name)}</div><div class="meta">${esc(p.today)}</div><p>${esc(p.role)}</p>
+  <h4>Names on record</h4><ul class="names">${p.names.map(n => `<li><b>${esc(n.form)}</b><span class="meta">${esc(n.when)} ${ref1(n.src)}</span></li>`).join("")}</ul>
+  <h4>What is known</h4><ul class="facts">${p.facts.map(f => `<li>${esc(f.text)} ${refs(f.src)}</li>`).join("")}</ul></div>`; }).join("");
+
+/* ---------- jurisdictions ---------- */
+$("civil").innerHTML = `<thead><tr><th>Period</th><th>State</th><th>Senné</th><th>Iňačovce</th><th>For the records</th></tr></thead><tbody>` +
+  DATA.jurisdictions.civil.map(c => `<tr><td class="when">${esc(c.from)}<br>to ${esc(c.to)}</td><td><b>${esc(c.state)}</b></td><td>${esc(c.senne)}</td><td>${esc(c.inacovce)}</td><td>${esc(c.records)}<span class="meta">${refs(c.src)}</span></td></tr>`).join("") + `</tbody>`;
+$("rites").innerHTML = DATA.jurisdictions.church.map(c => `<div class="rite"><h3>${esc(c.rite)}</h3><div class="meta">Parish seat: <b>${esc(c.seat)}</b></div><p class="meta">${esc(c.covers)}</p>
+  <ul class="steps">${c.steps.map(s => `<li><span class="w">${esc(s.when)}</span><span>${esc(s.what)} ${refs(s.src)}</span></li>`).join("")}</ul></div>`).join("");
+
+/* ---------- records ---------- */
+const groups = [...new Set(DATA.holdings.map(h => h.group))];
+$("records-body").innerHTML = groups.map(g => `<div class="grp"><h3>${esc(g)}</h3><div class="tablewrap"><table><thead><tr><th>Ref</th><th>Record</th><th>Years</th><th>Kept at</th><th>Status</th></tr></thead><tbody>` +
+  DATA.holdings.filter(h => h.group === g).map(h => `<tr id="${esc(h.id)}"><td class="id">${esc(h.id)}</td>
+    <td style="min-width:260px"><b>${esc(h.record)}</b><span class="meta">${esc(h.covers)}</span><span class="meta">${esc(h.note)} ${refs(h.src)}</span>${h.bears_on.length ? `<span class="meta">Bears on <b>${h.bears_on.map(esc).join(", ")}</b></span>` : ""}</td>
+    <td class="when">${esc(h.years)}</td><td style="min-width:190px">${esc(h.held)}<span class="meta">Online: ${esc(h.online)}</span></td><td>${pill(h.status)}</td></tr>`).join("") + `</tbody></table></div></div>`).join("");
+
+/* ---------- notes ---------- */
+$("notes-body").innerHTML = ["Duska", "Demko"].map(a => `<div class="agent"><h3>For the ${a} agent</h3>` + DATA.crossnotes.filter(n => n.for === a).map(n => row(n.id,
+  `<div class="head">${pill(n.lean)}</div><p class="tgt"><b>${esc(n.target)}</b> ${esc(n.target_text)}</p><p>${esc(n.note)}</p><p class="try"><b>Try next.</b> ${esc(n.try)}</p><div class="meta">${refs(n.src)}</div>`)).join("") + `</div>`).join("");
+
+/* ---------- hypotheses ---------- */
+$("hyp-body").innerHTML = H.map(h => row(h.id,
+  `<div class="head">${pill(h.status)}<span class="conf"><span class="bar"><i style="width:${h.confidence}%"></i></span>${h.confidence}%</span><span class="meta">raised ${esc(h.raised)}${h.resolved ? ", resolved " + esc(h.resolved) : ""}</span></div>
+   <p><strong>${esc(h.statement)}</strong></p>
+   <p class="meta"><b>Basis.</b> ${esc(h.basis)}</p><p class="meta"><b>Test.</b> ${esc(h.test)}</p>
+   ${h.resolution ? `<p><b>Ruling.</b> ${esc(h.resolution)}</p>` : ""}<div class="meta">${refs(h.src)}</div>`)).join("");
+
+/* ---------- gazetteer ---------- */
+const KIND = {"parish-ring": "Senné parish, 1734", admin: "district or estate seat", seat: "county town or bishop's seat", archive: "archive", origin: "settler origin", border: "1939 border"};
+$("gaz-body").innerHTML = P.filter(p => p.kind !== "home").map(p => { const d = DATA.distances.find(x => x.id === p.id); return row(p.id,
+  `<div class="head"><h3>${esc(p.name)}</h3><span class="meta">${esc(p.country)} &middot; ${esc(KIND[p.kind] || p.kind)}${d ? ` &middot; ${d.approx ? "about " : ""}${d.senne} km from Senné` : ""}${p.coord === "approximate" ? " &middot; position approximate" : ""}</span></div>
+   ${p.names.length ? `<div class="meta">Also ${p.names.map(n => `<b>${esc(n.form)}</b> (${esc(n.when)}) ${ref1(n.src)}`).join("; ")}</div>` : ""}
+   <p>${esc(p.role)}</p>${p.facts.map(f => `<p class="meta">${esc(f.text)} ${refs(f.src)}</p>`).join("")}`); }).join("");
+
+/* ---------- the rest ---------- */
+$("tl-body").innerHTML = DATA.timeline.map(t => `<li><span class="y">${esc(t.year)}</span><span class="p">${esc(t.place)}</span><span>${esc(t.text)} ${refs(t.src)}</span></li>`).join("");
+$("batches-body").innerHTML = DATA.batches.slice().reverse().map(b => row(b.id,
+  `<div class="head"><h3>${esc(b.title)}</h3><span class="meta">${esc(b.date)}</span></div><p>${esc(b.blurb)}</p>
+   <div class="meta">Raised: <b>${b.raised.map(esc).join(", ") || "none"}</b> &middot; Resolved: <b>${b.resolved.map(esc).join(", ") || "none"}</b></div>`)).join("");
+$("req-body").innerHTML = DATA.requests.map(r => row(r.id, `<div class="head">${pill(r.status)}<span class="meta">raised ${esc(r.raised)}</span></div><p>${esc(r.text)}</p>`)).join("");
+$("sources-body").innerHTML = DATA.sources.map(s => row(s.id, `<p><b>${esc(s.title)}</b></p><div class="meta">${esc(s.type)} &middot; ${esc(s.read)} &middot; <a href="${esc(s.url)}">open</a></div><p class="meta"><b>Reliability.</b> ${esc(s.reliability)}</p>`)).join("");
+const R = DATA.role;
+$("role-body").innerHTML = row(R.agent_id, `<p>${esc(R.brief)}</p><ul class="rules">${R.rules.map(x => `<li>${esc(x)}</li>`).join("")}</ul><p class="meta">${esc(R.note)} Assigned ${esc(R.assigned)} &middot; ${esc(R.model)}</p>`);
+$("foot").textContent = `Built ${DATA.built} from data/*.json. Last batch ${DATA.batches[DATA.batches.length - 1].id}. Sibling repositories: genealogu-duska-1 (Duska line), genealogy-demko-1 (Demko line).`;
+</script>
+</body>
+</html>

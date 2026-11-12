@@ -1,0 +1,22 @@
+[
+  {
+    "id": "PL-B-000",
+    "date": "2026-11-11",
+    "title": "Baseline: two villages, three churches, four archives",
+    "blurb": "No archive file has reached this agent; this batch is built from public sources and from the two line agents' boards. Senné and Iňačovce lie under 4 km apart on the East Slovak Lowland, both in old Ung county and both largely Vécsey land. They were never one parish. Senné was the Roman Catholic parish, first under the bishop of Eger and from 1804 under Szatmár, and took in the Latin-rite families of Iňačovce. Iňačovce was the Greek Catholic parish, under the bishop of Mukachevo at Uzhhorod, with a Reformed congregation beside it. In 1734 a visitor noted that Rusyn was spoken in the Iňačovce parish, and that about 40 adults of the Greek rite lived inside the Senné one. So a family's village does not fix its church, and one couple can be in two books. Both villages stayed in Slovakia through 1938 to 1945, with the Hungarian border about 2 km from Senné. The records are in four places: church registers at Prešov, Greek Catholic copies and the 1869 census on the Ukrainian side, the 1930 census in Bratislava and online, and the older tax and estate lists in Budapest. Seven place hypotheses are on the board, one already solved, and fourteen notes are filed against the line agents' hypotheses.",
+    "raised": [
+      "PL-H-001",
+      "PL-H-002",
+      "PL-H-003",
+      "PL-H-004",
+      "PL-H-005",
+      "PL-H-006",
+      "PL-H-007"
+    ],
+    "resolved": [
+      "PL-H-002"
+    ],
+    "places_added": 25,
+    "sources_added": 34
+  }
+]

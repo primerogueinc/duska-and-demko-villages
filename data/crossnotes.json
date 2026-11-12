@@ -1,0 +1,188 @@
+[
+  {
+    "id": "PL-N-001",
+    "for": "Duska",
+    "target": "H-004",
+    "target_text": "The Duska male line is from Senné; Iňačovce enters through a wife's family.",
+    "lean": "neutral",
+    "note": "The places do not pick a side yet. They do explain why the two villages pair up: both were Vécsey villages, under 4 km apart, and the Roman Catholics of Iňačovce belonged to the Senné parish. A marriage between the two was a short walk inside one estate, and would be entered at Senné if the couple were Latin-rite.",
+    "try": "Read the 1715 and 1720 tax lists for both villages first (PL-R-020). Senné had 5 and then 11 households, Iňačovce 8 and then 11, so a surname is either there or it arrived later.",
+    "src": [
+      "PL-S-009",
+      "PL-S-012",
+      "PL-S-013",
+      "PL-S-002"
+    ]
+  },
+  {
+    "id": "PL-N-002",
+    "for": "Duska",
+    "target": "H-005",
+    "target_text": "The Duskas were Roman Catholic and the Demkos Greek Catholic.",
+    "lean": "supports, with a caution",
+    "note": "This is the pattern the parish map predicts: Senné was the Latin parish with the only school a Roman Catholic one, Iňačovce the Greek Catholic parish. The caution is that Senné itself had about 40 Greek-rite adults in 1734, and Iňačovce had Roman Catholics and a Reformed congregation. A village does not fix a rite.",
+    "try": "Check both books for one event. A mixed couple can leave entries in the Senné register and in the Iňačovce one.",
+    "src": [
+      "PL-S-009",
+      "PL-S-011",
+      "PL-S-006"
+    ]
+  },
+  {
+    "id": "PL-N-003",
+    "for": "Duska",
+    "target": "H-007",
+    "target_text": "The record cited as the 1869 census does not come from the standard FamilySearch Slovakia collection.",
+    "lean": "supports",
+    "note": "Ung county's 1869 sheets are reported at the Berehove branch of the Zakarpattia archive, offline. The FamilySearch collection is built from three archives in western and central Slovakia. An 1869 sheet for Senné would have to come from Berehove, directly or through a hired researcher.",
+    "try": "Ask the owner how the image reached him, once the line is processed. A Berehove call number would settle H-007 and PL-H-006 together.",
+    "src": [
+      "PL-S-016",
+      "PL-S-017"
+    ]
+  },
+  {
+    "id": "PL-N-004",
+    "for": "Duska",
+    "target": "H-008",
+    "target_text": "Jozef Duska of Senné no. 73 (1930) is not Ahn 8.",
+    "lean": "neutral",
+    "note": "No evidence either way, but the test is within reach. The 1930 sheets are in the Slovak National Archives and are shown online. Senné had 171 houses in 1940, so number 73 is a real house in the older part of the numbering.",
+    "try": "Pull house 73 from the 1930 census online (PL-R-025) and read the absent-member notes.",
+    "src": [
+      "PL-S-028",
+      "PL-S-015"
+    ]
+  },
+  {
+    "id": "PL-N-005",
+    "for": "Duska",
+    "target": "H-010",
+    "target_text": "The copy-book belongs to the Roman Catholic parish of Senné itself.",
+    "lean": "supports",
+    "note": "Three place facts fit. Senné was a working parish of the Szatmár diocese from 1804, with its own priest. The one local entry names a donor 'de K. Sz.', and Stretavka (Kisszeretva) was a filial of Senné in 1734, so she would be a parishioner. Nagykapos, where the clergy met in 1839, is about 13 km from Senné, and Senné was later in that town's civil district. None of this rules out a neighbouring parish such as Pavlovce.",
+    "try": "The title board of the film item still decides it. A Szatmár directory listing the filials of Szenna in the 1830s would settle PL-H-003 on the way.",
+    "src": [
+      "PL-S-009",
+      "PL-S-011"
+    ]
+  },
+  {
+    "id": "PL-N-006",
+    "for": "Duska",
+    "target": "H-001, H-002",
+    "target_text": "The immigrant generation reached Canada between 1924 and 1930.",
+    "lean": "context only",
+    "note": "Senné had two leaving waves: 1870 to 1890, and 1910 to 1930, mostly to the United States, with many returning to buy land. After 1921 the Vécsey estate was sold off in parcels at several times the official price, families took mortgages, and the 1929 slump caught them. That is a village-level reason to leave in the late 1920s. It says nothing about one family.",
+    "try": "Nothing to run here. Keep it as background for whatever the passenger lists show.",
+    "src": [
+      "PL-S-001",
+      "PL-S-003",
+      "PL-S-014"
+    ]
+  },
+  {
+    "id": "PL-N-007",
+    "for": "Duska",
+    "target": "PR-3",
+    "target_text": "A c. 1754 urbarial record where the household kept two beehives.",
+    "lean": "question",
+    "note": "The published urbarial tables for Szenna name four landlords and count 26 villein households; they do not count hives. See PL-H-007: the record may be a tax conscription.",
+    "try": "Record the heading and call number when the image arrives.",
+    "src": [
+      "PL-S-012"
+    ]
+  },
+  {
+    "id": "PL-N-010",
+    "for": "Demko",
+    "target": "DM-H-002",
+    "target_text": "Maria Demko was baptised Greek Catholic.",
+    "lean": "supports, with a caution",
+    "note": "If she was of Iňačovce, Greek Catholic is the likeliest rite: it was the parish church and the larger school. But Iňačovce also had a Reformed congregation with its own school (41 pupils in 1916) and a church built in 1912. A Reformed Demko would be in the Reformed register at Prešov, which runs to 1940, and nothing would be in Uzhhorod.",
+    "try": "Before the Uzhhorod search, rule out the Reformed book (PL-R-005). It is the cheaper check.",
+    "src": [
+      "PL-S-006",
+      "PL-S-011",
+      "PL-S-007"
+    ]
+  },
+  {
+    "id": "PL-N-011",
+    "for": "Demko",
+    "target": "DM-H-004",
+    "target_text": "Maria Demko was born in a village now in Slovakia, not Ukraine.",
+    "lean": "supports",
+    "note": "An Uzhhorod record does not point east of the border. Uzhhorod was the county town for both villages and the seat of the bishop over the Iňačovce parish. See PL-H-005.",
+    "try": "Check whether Solymos is in the Mukachevo eparchy series for the Ung district (PL-R-004).",
+    "src": [
+      "PL-S-024",
+      "PL-S-032",
+      "PL-S-023"
+    ]
+  },
+  {
+    "id": "PL-N-012",
+    "for": "Demko",
+    "target": "DM-H-005",
+    "target_text": "The Uzhhorod record is a Greek Catholic register or duplicate of the Mukachevo eparchy.",
+    "lean": "supports",
+    "note": "The catalogued series covers 1826 to 1938 and the Prešov run for Iňačovce stops at 1898, so the gap is exactly where a birth of about 1899 to 1912 would fall.",
+    "try": "As PL-N-011. If Solymos is listed, note the film numbers for her birth window.",
+    "src": [
+      "PL-S-024",
+      "PL-S-007"
+    ]
+  },
+  {
+    "id": "PL-N-013",
+    "for": "Demko",
+    "target": "DM-H-006",
+    "target_text": "If born after 1 October 1895, a civil birth registration exists for her.",
+    "lean": "supports",
+    "note": "The date is right: Law XXXIII of 1894 took effect on 1 October 1895. Books pass from the registry office to the state archive 100 years after their last entry, so a birth book closed before about 1926 should now be in an archive.",
+    "try": "Find which registry office served Iňačovce and which served Senné. That is still open on this page too.",
+    "src": [
+      "PL-S-019",
+      "PL-S-020"
+    ]
+  },
+  {
+    "id": "PL-N-014",
+    "for": "Demko",
+    "target": "DM-H-008, PR-4",
+    "target_text": "Settling whether the Demkos were Rusyn will need a language or nationality column.",
+    "lean": "supports the owner's lean, at village level only",
+    "note": "The 1734 visitation says Rusyn was spoken in the Greek Catholic parish of Iňačovce. The village was nearly empty in 1715 and was refilled after 1720 from the north of Ung and Zemplín, Belá nad Cirochou among the places named. So the Greek Catholic community there has a recorded Rusyn-speaking start. That is a fact about the parish, not about one family.",
+    "try": "The 1930 census sheet for the household gives nationality as declared (PL-R-025). Compare it with the 1734 note, not with the surname.",
+    "src": [
+      "PL-S-009",
+      "PL-S-006",
+      "PL-S-005"
+    ]
+  },
+  {
+    "id": "PL-N-015",
+    "for": "Demko",
+    "target": "DM-H-003",
+    "target_text": "The Demkos are the Iňačovce side of the family.",
+    "lean": "neutral",
+    "note": "Nothing found on surnames by village; this agent does not search names. The places only say that either village could hold a Greek Catholic family (PL-H-001).",
+    "try": "The 1715 and 1720 lists for both villages (PL-R-020) and the 1930 sheets for Iňačovce (PL-R-025).",
+    "src": [
+      "PL-S-009"
+    ]
+  },
+  {
+    "id": "PL-N-016",
+    "for": "Demko",
+    "target": "DM-H-007",
+    "target_text": "Mihaly Duska and Maria Demko married in the old country between 1908 and 1935.",
+    "lean": "context only",
+    "note": "Where to look depends on the rites. By custom a wedding was held in the bride's parish (from training, unchecked): Iňačovce if she was Greek Catholic of either village, Senné if both were Latin-rite. From October 1895 there is a state register entry as well, whatever the church.",
+    "try": "Search the civil marriage books first; they do not depend on guessing the rite.",
+    "src": [
+      "PL-S-019"
+    ]
+  }
+]

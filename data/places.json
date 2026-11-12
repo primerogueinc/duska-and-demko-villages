@@ -1,0 +1,879 @@
+[
+  {
+    "id": "PL-P-001",
+    "name": "Senné",
+    "kind": "home",
+    "country": "Slovakia",
+    "today": "Michalovce district, Košice Region",
+    "lat": 48.66667,
+    "lon": 22.02778,
+    "coord": "Wikipedia",
+    "maps": [
+      "local",
+      "regional"
+    ],
+    "names": [
+      {
+        "form": "Scinna",
+        "when": "1263",
+        "src": "PL-S-001"
+      },
+      {
+        "form": "Zynna",
+        "when": "1302",
+        "src": "PL-S-001"
+      },
+      {
+        "form": "Senna",
+        "when": "1332",
+        "src": "PL-S-001"
+      },
+      {
+        "form": "Sena, Senna, Zenna",
+        "when": "1427",
+        "src": "PL-S-001"
+      },
+      {
+        "form": "Szenna",
+        "when": "Hungarian official form",
+        "src": "PL-S-001"
+      },
+      {
+        "form": "Ungszenna",
+        "when": "later Hungarian form, with the county prefix",
+        "src": "PL-S-008"
+      },
+      {
+        "form": "Senné",
+        "when": "from 1920",
+        "src": "PL-S-001"
+      }
+    ],
+    "role": "One of the two family villages. Seat of the Roman Catholic parish and of the Vécsey estate.",
+    "facts": [
+      {
+        "text": "First recorded in 1263, when the king gave it to Jakov, the county head of Uzhhorod.",
+        "src": "PL-S-001"
+      },
+      {
+        "text": "At least 25 serf households in 1427. In 1599: 26 serf houses, a nobles' manor, a church and a rectory.",
+        "src": "PL-S-002"
+      },
+      {
+        "text": "Down to 5 taxed households in 1715 and 11 in 1720, with some nobles resident. 120 houses and 833 people in 1828.",
+        "src": "PL-S-002"
+      },
+      {
+        "text": "171 houses and 839 people in 1940.",
+        "src": "PL-S-015"
+      },
+      {
+        "text": "About 720 people today, on 18.75 square kilometres at 100 metres above sea level.",
+        "src": "PL-S-008"
+      },
+      {
+        "text": "Part of the Pavlovce nad Uhom estate; the Vécsey family held land here from the 18th to the 20th century.",
+        "src": "PL-S-001"
+      },
+      {
+        "text": "Urbarial table: Baron István Vécsey had 20 villein households, 3 cottars with a house and 2 without; Count János Barkóczy 1 and 1; Ádám Szirmay 4 and 2; the widow of László Turánszky 1. That is 26 villein households in all.",
+        "src": "PL-S-012"
+      },
+      {
+        "text": "Roman Catholic church of the Visitation of the Virgin Mary, built in 1718 on the foundations of a church thought to be older than the 14th century. In 1734 it was brick, newly repaired, with three altars.",
+        "src": [
+          "PL-S-002",
+          "PL-S-009"
+        ]
+      },
+      {
+        "text": "The manor house dates from the first half of the 17th century and later served the Vécsey and Sztáray families as a farm seat and hunting lodge.",
+        "src": "PL-S-027"
+      },
+      {
+        "text": "Roman Catholic school: a parish school with a teacher by 1774, 61 pupils in 1864, 54 in 1916. No Greek Catholic or Reformed school is recorded here.",
+        "src": "PL-S-011"
+      },
+      {
+        "text": "Many people emigrated between 1870 and 1890.",
+        "src": "PL-S-001"
+      },
+      {
+        "text": "A second wave left between 1910 and 1930, mostly for the United States; many came back to buy land.",
+        "src": "PL-S-003"
+      },
+      {
+        "text": "Baron László Vécsey (1866-1924) ran an estate of about 2,400 cadastral hold from Ungszenna. After 1920 it lay in Czechoslovakia and came under the land reform; his nephew Mihály Sztáray inherited it.",
+        "src": "PL-S-014"
+      },
+      {
+        "text": "The estate's parcels were sold to villagers after 1921 at several times the official price. Young farms took mortgages and were hit by the 1929 slump.",
+        "src": "PL-S-003"
+      },
+      {
+        "text": "Four Jewish families were deported in 1942. Soviet troops entered on 27 November 1944.",
+        "src": "PL-S-003"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-002",
+    "name": "Iňačovce",
+    "kind": "home",
+    "country": "Slovakia",
+    "today": "Michalovce district, Košice Region",
+    "lat": 48.7,
+    "lon": 22.033,
+    "coord": "Wikipedia",
+    "maps": [
+      "local",
+      "regional"
+    ],
+    "names": [
+      {
+        "form": "Solmus, Solmos",
+        "when": "1417",
+        "src": "PL-S-006"
+      },
+      {
+        "form": "Solymos",
+        "when": "Hungarian official form",
+        "src": "PL-S-004"
+      },
+      {
+        "form": "Jeňaššowce",
+        "when": "1808",
+        "src": "PL-S-004"
+      },
+      {
+        "form": "Iňačovce",
+        "when": "from 1920",
+        "src": "PL-S-004"
+      }
+    ],
+    "role": "The other family village. Seat of the Greek Catholic parish, with a Reformed congregation beside it.",
+    "facts": [
+      {
+        "text": "First recorded in a charter of King Sigismund in 1417. At least 19 serf households in 1427 and 32 serf houses in 1599.",
+        "src": [
+          "PL-S-006",
+          "PL-S-005"
+        ]
+      },
+      {
+        "text": "Emptied in the 17th and early 18th centuries: 8 households in 1715, 11 in 1720.",
+        "src": "PL-S-005"
+      },
+      {
+        "text": "Refilled after 1720 by settlers from the north of Ung and Zemplín counties, Belá nad Cirochou among the places named.",
+        "src": "PL-S-006"
+      },
+      {
+        "text": "119 houses and 1,023 people in 1828, more than Senné. Close to 200 fewer by 1900. 190 houses and 747 people in 1940. About 900 today.",
+        "src": [
+          "PL-S-005",
+          "PL-S-006",
+          "PL-S-015",
+          "PL-S-007"
+        ]
+      },
+      {
+        "text": "Owners: the Sztáray family early on; nobles of Pavlovce and Ruská in the 15th to 17th centuries; Count Barkóczy, Baron Vécsey and Szirmay in the early 18th; Thuránszky and Török in the 19th.",
+        "src": "PL-S-006"
+      },
+      {
+        "text": "Urbarial table: Baron István Vécsey had 29 villein households, 9 cottars with a house and 8 without; Ferenc Kovács 1 and 2; Sándor Szirmay 5, 1 and 1. That is 35 villein households in all.",
+        "src": "PL-S-013"
+      },
+      {
+        "text": "A Greek Catholic parish from the middle of the 18th century. The 1734 visitation already found the Greek Catholics with their own parish here, and noted that Rusyn was spoken in it.",
+        "src": "PL-S-009"
+      },
+      {
+        "text": "The first known church was wooden, shingle-roofed, with one bell, dedicated to the Dormition. The present brick church is early 19th century.",
+        "src": "PL-S-006"
+      },
+      {
+        "text": "The Reformed built a daughter church in 1912. Roman Catholics went to Senné, Lutherans to Pozdišovce, and the Jewish families came under the rabbinate at Senné.",
+        "src": "PL-S-006"
+      },
+      {
+        "text": "Two schools before 1918. Greek Catholic: 69 pupils in 1864, 79 in 1916. Reformed: 14 pupils in 1864, 41 in 1916.",
+        "src": "PL-S-011"
+      },
+      {
+        "text": "A salt find is mentioned at the end of the 18th century, and the village had wide meadows.",
+        "src": "PL-S-004"
+      },
+      {
+        "text": "The Senné fishponds reserve lies in its fields: declared in 1955, 213 hectares, a Ramsar wetland since 1990.",
+        "src": "PL-S-006"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-010",
+    "name": "Palín",
+    "kind": "parish-ring",
+    "country": "Slovakia",
+    "lat": 48.66,
+    "lon": 21.99,
+    "coord": "approximate",
+    "maps": [
+      "local"
+    ],
+    "names": [],
+    "role": "Filial of the Senné Roman Catholic parish in 1734.",
+    "facts": [
+      {
+        "text": "Listed with Stretava and Stretavka as a Senné filial where Reformed preachers kept the upper hand under the landlord's protection.",
+        "src": "PL-S-009"
+      },
+      {
+        "text": "A Reformed filial of Stretava in the 1733 list.",
+        "src": "PL-S-010"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-011",
+    "name": "Stretava",
+    "kind": "parish-ring",
+    "country": "Slovakia",
+    "lat": 48.62,
+    "lon": 21.99,
+    "coord": "approximate",
+    "maps": [
+      "local"
+    ],
+    "names": [
+      {
+        "form": "Nagyszeretva",
+        "when": "Hungarian",
+        "src": "training"
+      }
+    ],
+    "role": "Reformed mother church next door to the Senné parish.",
+    "facts": [
+      {
+        "text": "A Reformed mother church with a stone church in 1733; its filials were Stretavka, Palín and Kráška.",
+        "src": "PL-S-010"
+      },
+      {
+        "text": "Counted as a filial of the Senné Roman Catholic parish in the 1734 visitation.",
+        "src": "PL-S-009"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-012",
+    "name": "Stretavka",
+    "kind": "parish-ring",
+    "country": "Slovakia",
+    "lat": 48.61,
+    "lon": 21.97,
+    "coord": "approximate",
+    "maps": [
+      "local"
+    ],
+    "names": [
+      {
+        "form": "Kisszeretva",
+        "when": "Hungarian",
+        "src": "training"
+      }
+    ],
+    "role": "Filial of Senné in 1734. Candidate for the 'K. Sz.' of the 1838 gift note in the Duska agent's Folder 1.",
+    "facts": [
+      {
+        "text": "Filial of the Senné Roman Catholic parish in 1734.",
+        "src": "PL-S-009"
+      },
+      {
+        "text": "A Reformed filial of Stretava in the 1733 list.",
+        "src": "PL-S-010"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-013",
+    "name": "Zemplínska Široká",
+    "kind": "parish-ring",
+    "country": "Slovakia",
+    "lat": 48.69252,
+    "lon": 21.97695,
+    "coord": "GeoNames",
+    "maps": [
+      "local"
+    ],
+    "names": [
+      {
+        "form": "Rebrín",
+        "when": "one of the two villages merged into it",
+        "src": "PL-S-009"
+      },
+      {
+        "form": "Kráška",
+        "when": "the other",
+        "src": "PL-S-009"
+      }
+    ],
+    "role": "Rebrín and Kráška were both filials of Senné in 1734.",
+    "facts": [
+      {
+        "text": "The Senné priest of 1734 gave most of his catechising to Reformed Rebrín.",
+        "src": "PL-S-009"
+      },
+      {
+        "text": "Iňačovce itself had belonged to the Rebrín parish in the 16th century.",
+        "src": "PL-S-006"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-014",
+    "name": "Jastrabie pri Michalovciach",
+    "kind": "parish-ring",
+    "country": "Slovakia",
+    "lat": 48.72,
+    "lon": 22.07,
+    "coord": "approximate",
+    "maps": [
+      "local"
+    ],
+    "names": [],
+    "role": "Filial of the Senné Roman Catholic parish in 1733 and 1734.",
+    "facts": [
+      {
+        "text": "Latin-rite filial of Senné.",
+        "src": "PL-S-010"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-015",
+    "name": "Blatná Polianka",
+    "kind": "parish-ring",
+    "country": "Slovakia",
+    "lat": 48.68,
+    "lon": 22.1,
+    "coord": "approximate",
+    "maps": [
+      "local"
+    ],
+    "flag": "hu-1939",
+    "names": [],
+    "role": "Filial of Senné in 1734. Taken by Hungary in March 1939.",
+    "facts": [
+      {
+        "text": "Filial of the Senné Roman Catholic parish.",
+        "src": "PL-S-009"
+      },
+      {
+        "text": "Came under Hungarian occupation in the Little War of March 1939, with Bežovce and Vysoká nad Uhom.",
+        "src": "PL-S-003"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-020",
+    "name": "Pavlovce nad Uhom",
+    "kind": "admin",
+    "country": "Slovakia",
+    "lat": 48.61092,
+    "lon": 22.06902,
+    "coord": "GeoNames",
+    "maps": [
+      "local"
+    ],
+    "names": [
+      {
+        "form": "Pálóc",
+        "when": "Hungarian",
+        "src": "training"
+      }
+    ],
+    "role": "Seat of the estate Senné belonged to, and a separate Roman Catholic parish.",
+    "facts": [
+      {
+        "text": "Senné was part of the Pavlovce estate.",
+        "src": "PL-S-001"
+      },
+      {
+        "text": "A parish of its own in 1734: brick church formerly used by Calvinists, 30 Catholics, more Calvinists and Uniates.",
+        "src": "PL-S-009"
+      },
+      {
+        "text": "Listed inside the Slovak Michalovce district in 1940.",
+        "src": "PL-S-015"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-021",
+    "name": "Veľké Kapušany",
+    "kind": "admin",
+    "country": "Slovakia",
+    "lat": 48.55197,
+    "lon": 22.08036,
+    "coord": "GeoNames",
+    "maps": [
+      "local",
+      "regional"
+    ],
+    "names": [
+      {
+        "form": "Nagykapos",
+        "when": "Hungarian",
+        "src": "PL-S-023"
+      },
+      {
+        "form": "N. Kapos",
+        "when": "as written in the 1839 circular, Duska Folder 1",
+        "src": "PL-S-031"
+      }
+    ],
+    "role": "District seat south of Senné. The clergy meeting of 14 May 1839 in the Duska agent's Folder 1 was held here.",
+    "facts": [
+      {
+        "text": "Seat of one of the six districts of Ung county in the early 20th century.",
+        "src": "PL-S-023"
+      },
+      {
+        "text": "Senné was in the Veľké Kapušany district before 1960.",
+        "src": "PL-S-001"
+      },
+      {
+        "text": "The Hungarian line of March 1939 ended near here, at its south-east corner.",
+        "src": "PL-S-018"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-022",
+    "name": "Sobrance",
+    "kind": "admin",
+    "country": "Slovakia",
+    "lat": 48.74455,
+    "lon": 22.18136,
+    "coord": "GeoNames",
+    "maps": [
+      "local",
+      "regional"
+    ],
+    "flag": "hu-1939",
+    "names": [
+      {
+        "form": "Szobránc",
+        "when": "Hungarian",
+        "src": "PL-S-023"
+      }
+    ],
+    "role": "District seat north-east of the villages. Its whole district went to Hungary in April 1939. Today the Roman Catholic deanery for Senné.",
+    "facts": [
+      {
+        "text": "Seat of one of the six districts of Ung county.",
+        "src": "PL-S-023"
+      },
+      {
+        "text": "All 41 villages of the Sobrance district passed to Hungary under the protocol of 4 April 1939.",
+        "src": "PL-S-034"
+      },
+      {
+        "text": "The Senné parish is in the Sobrance deanery today.",
+        "src": "PL-S-021"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-023",
+    "name": "Michalovce",
+    "kind": "admin",
+    "country": "Slovakia",
+    "lat": 48.75434,
+    "lon": 21.9195,
+    "coord": "GeoNames",
+    "maps": [
+      "local",
+      "regional"
+    ],
+    "names": [
+      {
+        "form": "Nagymihály",
+        "when": "Hungarian",
+        "src": "training"
+      }
+    ],
+    "role": "District town for both villages today. It was in Zemplén county, not Ung, before 1918.",
+    "facts": [
+      {
+        "text": "Iňačovce has been in the Michalovce district since 1921. Senné was counted in it in 1940 and has been in it for good since 1960.",
+        "src": "PL-S-006"
+      },
+      {
+        "text": "The present district straddles the old Zemplén and Ung county line.",
+        "src": "PL-S-023"
+      },
+      {
+        "text": "Nearest railway station to Senné, 17 kilometres away.",
+        "src": "PL-S-008"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-024",
+    "name": "Uzhhorod",
+    "kind": "seat",
+    "country": "Ukraine",
+    "lat": 48.6242,
+    "lon": 22.2947,
+    "coord": "GeoNames",
+    "maps": [
+      "local",
+      "regional"
+    ],
+    "names": [
+      {
+        "form": "Ungvár",
+        "when": "Hungarian",
+        "src": "PL-S-023"
+      },
+      {
+        "form": "Užhorod",
+        "when": "Slovak and Czech",
+        "src": "PL-S-024"
+      }
+    ],
+    "role": "County town of Ung and seat of the Greek Catholic bishop of Mukachevo. The archive where Maria Demko's birth record is said to be.",
+    "facts": [
+      {
+        "text": "Capital of Ung county.",
+        "src": "PL-S-023"
+      },
+      {
+        "text": "Seat of the Mukachevo Greek Catholic eparchy, which the Iňačovce parish belonged to.",
+        "src": "PL-S-032"
+      },
+      {
+        "text": "Back under Hungarian rule from November 1938, when the First Vienna Award recreated Ung county.",
+        "src": "PL-S-023"
+      },
+      {
+        "text": "The district library for the Roman Catholic clergy, the subject of four circulars in the Duska agent's Folder 1, was kept here.",
+        "src": "PL-S-031"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-030",
+    "name": "Prešov",
+    "kind": "archive",
+    "country": "Slovakia",
+    "lat": 48.99923,
+    "lon": 21.2355,
+    "coord": "GeoNames",
+    "maps": [
+      "regional"
+    ],
+    "names": [
+      {
+        "form": "Eperjes",
+        "when": "Hungarian",
+        "src": "training"
+      }
+    ],
+    "role": "State archive holding the church registers of both villages.",
+    "facts": [
+      {
+        "text": "Holds the Iňačovce registers: Greek Catholic 1811-1898, Reformed 1747-1940, Roman Catholic 1863-1926.",
+        "src": "PL-S-007"
+      },
+      {
+        "text": "Reported home of the originals of the Senné Roman Catholic register, 1831-1926.",
+        "src": "PL-S-025"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-031",
+    "name": "Berehove",
+    "kind": "archive",
+    "country": "Ukraine",
+    "lat": 48.20514,
+    "lon": 22.64453,
+    "coord": "GeoNames",
+    "maps": [
+      "regional"
+    ],
+    "names": [
+      {
+        "form": "Beregszász",
+        "when": "Hungarian",
+        "src": "PL-S-016"
+      }
+    ],
+    "role": "Branch of the Zakarpattia state archive. Holds 1869 census sheets for Ung county.",
+    "facts": [
+      {
+        "text": "The Ung county 1869 census questionnaires are here. They are not online; the reading room needs advance registration and the director's permission.",
+        "src": "PL-S-016"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-032",
+    "name": "Košice",
+    "kind": "seat",
+    "country": "Slovakia",
+    "lat": 48.71441,
+    "lon": 21.25802,
+    "coord": "GeoNames",
+    "maps": [
+      "regional"
+    ],
+    "names": [
+      {
+        "form": "Kassa",
+        "when": "Hungarian",
+        "src": "training"
+      },
+      {
+        "form": "Cassovia",
+        "when": "Latin, as in the 1837 circular in Duska Folder 1",
+        "src": "PL-S-031"
+      }
+    ],
+    "role": "Seat of both of today's dioceses for the villages: the Roman Catholic archdiocese and the Greek Catholic eparchy.",
+    "facts": [
+      {
+        "text": "The Senné parish belongs to the Archdiocese of Košice.",
+        "src": "PL-S-021"
+      },
+      {
+        "text": "The Iňačovce parish belongs to the Greek Catholic diocese of Košice.",
+        "src": "PL-S-022"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-033",
+    "name": "Satu Mare",
+    "kind": "seat",
+    "country": "Romania",
+    "lat": 47.79926,
+    "lon": 22.86255,
+    "coord": "GeoNames",
+    "maps": [
+      "regional"
+    ],
+    "names": [
+      {
+        "form": "Szatmár, Szatmárnémeti",
+        "when": "Hungarian",
+        "src": "PL-S-011"
+      },
+      {
+        "form": "Szathmarinum",
+        "when": "Latin, as the circulars in Duska Folder 1 are dated",
+        "src": "PL-S-031"
+      }
+    ],
+    "role": "Roman Catholic bishop's seat for Ung county from 1804. The circulars in the Duska agent's Folder 1 were sent from here.",
+    "facts": [
+      {
+        "text": "Ung county's Latin-rite parishes passed from Eger to the new diocese of Szatmár in 1804.",
+        "src": "PL-S-011"
+      },
+      {
+        "text": "The Vécsey family's main seat, the Sárköz estate, was in Szatmár county and went to Romania in 1920.",
+        "src": "PL-S-014"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-034",
+    "name": "Mukachevo",
+    "kind": "seat",
+    "country": "Ukraine",
+    "lat": 48.44248,
+    "lon": 22.718,
+    "coord": "GeoNames",
+    "maps": [
+      "regional"
+    ],
+    "names": [
+      {
+        "form": "Munkács",
+        "when": "Hungarian",
+        "src": "training"
+      }
+    ],
+    "role": "Gives its name to the Greek Catholic eparchy. The bishop sat at Uzhhorod.",
+    "facts": [
+      {
+        "text": "The eparchy was erected by the Pope in 1771. A reorganisation in 1818 left Ung county inside it.",
+        "src": "PL-S-011"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-035",
+    "name": "Belá nad Cirochou",
+    "kind": "origin",
+    "country": "Slovakia",
+    "lat": 48.965,
+    "lon": 22.115,
+    "coord": "approximate",
+    "maps": [
+      "regional"
+    ],
+    "names": [
+      {
+        "form": "Biela nad Cirochou",
+        "when": "as spelled in the Iňačovce plan",
+        "src": "PL-S-006"
+      }
+    ],
+    "role": "Named as one source of the settlers who refilled Iňačovce after 1720.",
+    "facts": [
+      {
+        "text": "After 1720 many settlers came to Iňačovce from the north of Ung and Zemplín, this village among them.",
+        "src": "PL-S-006"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-036",
+    "name": "Bežovce",
+    "kind": "border",
+    "country": "Slovakia",
+    "lat": 48.62875,
+    "lon": 22.15354,
+    "coord": "GeoNames",
+    "maps": [
+      "local"
+    ],
+    "flag": "hu-1939",
+    "names": [],
+    "role": "Taken by Hungary in March 1939.",
+    "facts": [
+      {
+        "text": "Named with Blatná Polianka and Vysoká nad Uhom as occupied in the Little War.",
+        "src": "PL-S-003"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-037",
+    "name": "Vysoká nad Uhom",
+    "kind": "border",
+    "country": "Slovakia",
+    "lat": 48.62609,
+    "lon": 22.09133,
+    "coord": "GeoNames",
+    "maps": [
+      "local"
+    ],
+    "flag": "hu-1939",
+    "names": [],
+    "role": "Taken by Hungary in March 1939.",
+    "facts": [
+      {
+        "text": "Occupied in the Little War; afterwards the border ran about 2 kilometres from Senné.",
+        "src": "PL-S-003"
+      },
+      {
+        "text": "A Latin-rite filial of Pavlovce in 1733.",
+        "src": "PL-S-010"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-040",
+    "name": "Eger",
+    "kind": "seat",
+    "country": "Hungary",
+    "lat": 47.90265,
+    "lon": 20.37329,
+    "coord": "GeoNames",
+    "maps": [],
+    "names": [
+      {
+        "form": "Agria",
+        "when": "Latin, as in the 1839 notice in Duska Folder 1",
+        "src": "PL-S-031"
+      }
+    ],
+    "role": "Roman Catholic bishop's seat for Ung county until 1804. Off the map to the south-west.",
+    "facts": [
+      {
+        "text": "The 1734 visitation of the Senné parish was made for the bishop of Eger.",
+        "src": "PL-S-009"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-041",
+    "name": "Bratislava",
+    "kind": "archive",
+    "country": "Slovakia",
+    "lat": 48.1486,
+    "lon": 17.1077,
+    "coord": "approximate",
+    "maps": [],
+    "names": [
+      {
+        "form": "Pozsony",
+        "when": "Hungarian, as in the 1839 circular in Duska Folder 1",
+        "src": "PL-S-031"
+      }
+    ],
+    "role": "Slovak National Archives: originals of the 1930 census.",
+    "facts": [
+      {
+        "text": "The 1930 census sheets for Slovakia are kept at the Slovak National Archives and shown online at slovakiana.sk.",
+        "src": "PL-S-028"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-042",
+    "name": "Budapest",
+    "kind": "archive",
+    "country": "Hungary",
+    "lat": 47.4979,
+    "lon": 19.0402,
+    "coord": "approximate",
+    "maps": [],
+    "names": [],
+    "role": "Hungarian National Archives: the 1715 and 1720 tax censuses and the urbarial papers for Ung county.",
+    "facts": [
+      {
+        "text": "The 1715 and 1720 censuses of Ung county are in the Hungarian National Archives.",
+        "src": "PL-S-011"
+      },
+      {
+        "text": "Urbarial tables for Szenna and Solymos are published from there.",
+        "src": "PL-S-012"
+      }
+    ]
+  },
+  {
+    "id": "PL-P-043",
+    "name": "Cluj-Napoca",
+    "kind": "archive",
+    "country": "Romania",
+    "lat": 46.7712,
+    "lon": 23.6236,
+    "coord": "approximate",
+    "maps": [],
+    "names": [],
+    "role": "Vécsey family papers, including the Ungszenna estate.",
+    "facts": [
+      {
+        "text": "The family fond is no. 452 at the Cluj county branch of the Romanian National Archives.",
+        "src": "PL-S-014"
+      }
+    ]
+  }
+]

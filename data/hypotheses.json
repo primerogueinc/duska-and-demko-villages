@@ -1,0 +1,115 @@
+[
+  {
+    "id": "PL-H-001",
+    "statement": "Greek Catholics who lived in Senné were baptised, married and buried in the Iňačovce (Solymos) parish, so they are in the Iňačovce Greek Catholic register and not in the Senné book.",
+    "confidence": 70,
+    "basis": "The 1734 visitation counted about 40 adults of the Greek rite inside the Senné Roman Catholic parish and found a separate Greek Catholic parish at Iňačovce, under 4 km away. Senné never had a Greek Catholic church or school.",
+    "test": "The Solymos entry in the 1782-1787 parish reorganisation papers (PL-R-031), or any Mukachevo eparchy directory: do they list Szenna as a daughter village? Failing that, a residence of Szenna in the Iňačovce register.",
+    "status": "open",
+    "raised": "PL-B-000",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-009",
+      "PL-S-011"
+    ],
+    "log": []
+  },
+  {
+    "id": "PL-H-002",
+    "statement": "Senné and Iňačovce stayed inside Slovakia from 1938 to 1945. Neither was annexed by Hungary, and no Hungarian-administration records exist for them for those years.",
+    "confidence": 95,
+    "basis": "Raised because the border moved twice within a few kilometres of both villages, and the neighbouring Sobrance district was annexed whole.",
+    "test": "An official list of municipalities of the wartime Slovak Republic.",
+    "status": "solved",
+    "raised": "PL-B-000",
+    "resolved": "PL-B-000",
+    "resolution": "Both villages are in the 1940 figures of the Slovak state's Lexikón obcí under the Michalovce district: Senné with 171 houses, Iňačovce with 190. The Senné municipal history adds that after March 1939 the Hungarian border lay about 2 km from the village, with Blatná Polianka, Bežovce and Vysoká nad Uhom on the far side.",
+    "src": [
+      "PL-S-015",
+      "PL-S-003"
+    ],
+    "log": []
+  },
+  {
+    "id": "PL-H-003",
+    "statement": "The 'K. Sz.' in the 1838 gift note of the Duska agent's Folder 1 is Kis-Szeretva, today Stretavka, and the donor's village lay inside the Senné parish.",
+    "confidence": 60,
+    "basis": "The Duska agent read the place as 'K. Sz[eretva?]'. The 1734 visitation lists Stretavka among the filials of Senné, a few kilometres to the south-west. A local noblewoman giving a veil to her own parish church is the ordinary case.",
+    "test": "A Szatmár diocese directory for the 1830s listing the filials of Szenna. Separately, whether a Kulin family held land at Kisszeretva.",
+    "status": "open",
+    "raised": "PL-B-000",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-009",
+      "PL-S-031"
+    ],
+    "log": []
+  },
+  {
+    "id": "PL-H-004",
+    "statement": "Under Hungary the two villages sat in different districts of Ung county: Szenna under Nagykapos, Solymos under Szobránc. District-level papers for the two families would then be in two different series.",
+    "confidence": 50,
+    "basis": "Recalled from training and unchecked. In its favour: Senné was in the Veľké Kapušany district under Czechoslovakia. Against: Iňačovce went to the Michalovce district in 1921, not to Sobrance.",
+    "test": "The entries for Szenna and Solymos in the 1913 gazetteer of Hungary or the 1910 census volume.",
+    "status": "open",
+    "raised": "PL-B-000",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-001",
+      "PL-S-006",
+      "PL-S-023"
+    ],
+    "log": []
+  },
+  {
+    "id": "PL-H-005",
+    "statement": "A Greek Catholic baptism at Iňačovce can sit in an Uzhhorod archive without the child being born in what is now Ukraine: Uzhhorod was both the bishop's seat and the county town, and the Mukachevo eparchy series for the Ung district, 1826-1938, includes Solymos.",
+    "confidence": 55,
+    "basis": "Iňačovce belonged to the Mukachevo eparchy, whose bishop sat at Uzhhorod. The Prešov run for the parish ends in 1898 and the catalogued Uzhhorod series runs to 1938. From training and unchecked: from 1827 a second copy of every parish register was owed to the county archive, which for Ung is in Uzhhorod; the series starting in 1826 fits that.",
+    "test": "The locality list inside FamilySearch catalogue 1411329, or the fond inventory at the Zakarpattia archive: is Solymos there, and for which years?",
+    "status": "open",
+    "raised": "PL-B-000",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-024",
+      "PL-S-007",
+      "PL-S-032"
+    ],
+    "log": []
+  },
+  {
+    "id": "PL-H-006",
+    "statement": "The 1869 household sheets for Szenna and Solymos survive in the Ung county collection at Berehove.",
+    "confidence": 55,
+    "basis": "A researcher reports that the Ung county questionnaires are held there. No village list was given, and survival is usually patchy.",
+    "test": "The collection's inventory, or a written query to the Zakarpattia state archive naming both villages.",
+    "status": "open",
+    "raised": "PL-B-000",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-016"
+    ],
+    "log": []
+  },
+  {
+    "id": "PL-H-007",
+    "statement": "A household list of about 1754 that counts beehives is a county tax conscription, not an urbarium, and belongs to the Ung county archive now in Ukraine.",
+    "confidence": 45,
+    "basis": "The owner told the Duska agent of a c. 1754 urbarial record with two beehives (its prior PR-3). The urbarial survey proper dates from the reign's later years and its published tables count plots and tenants, not hives. Tax conscriptions of the 1750s did count hives. From training and unchecked.",
+    "test": "The heading and archive reference on the image itself, when the Duska agent receives it.",
+    "status": "open",
+    "raised": "PL-B-000",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-012",
+      "PL-S-031"
+    ],
+    "log": []
+  }
+]

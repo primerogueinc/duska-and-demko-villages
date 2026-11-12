@@ -1,0 +1,231 @@
+{
+  "civil": [
+    {
+      "from": "11th c.",
+      "to": "1918",
+      "state": "Kingdom of Hungary",
+      "senne": "Ung county (Ung vármegye, Užská župa). Estate of Pavlovce nad Uhom; Vécsey lands.",
+      "inacovce": "Ung county. Lands of Vécsey, Barkóczy and Szirmay, later Thuránszky and Török.",
+      "records": "County and estate papers in Latin and Hungarian. Tax censuses 1715, 1720, 1828; urbarial survey; census 1869.",
+      "src": [
+        "PL-S-001",
+        "PL-S-006",
+        "PL-S-023"
+      ]
+    },
+    {
+      "from": "early 1900s",
+      "to": "1918",
+      "state": "Kingdom of Hungary",
+      "senne": "Six districts in the county: Nagyberezna, Nagykapos, Perecseny, Szerednye, Szobránc, Ungvár. Which one Szenna sat in is not yet checked (see PL-H-004).",
+      "inacovce": "As Senné: the district of Solymos is not yet checked.",
+      "records": "State civil registration from 1 October 1895, kept beside the church books.",
+      "src": [
+        "PL-S-023",
+        "PL-S-019"
+      ]
+    },
+    {
+      "from": "1918",
+      "to": "1938",
+      "state": "Czechoslovakia",
+      "senne": "Frontier fixed by the Treaty of Trianon, 4 June 1920. Veľké Kapušany district.",
+      "inacovce": "Michalovce district from 1921.",
+      "records": "Records turn to Slovak. Censuses 1921 and 1930. Land reform files on the Vécsey estate after 1921.",
+      "src": [
+        "PL-S-023",
+        "PL-S-001",
+        "PL-S-006",
+        "PL-S-003"
+      ]
+    },
+    {
+      "from": "Nov 1938",
+      "to": "Mar 1939",
+      "state": "Czecho-Slovakia",
+      "senne": "First Vienna Award, 2 November 1938: Uzhhorod returns to Hungary and Ung county is recreated on the Hungarian side. Senné stays in Slovakia.",
+      "inacovce": "Stays in Slovakia.",
+      "records": "No change of record-keeper for either village.",
+      "src": [
+        "PL-S-023",
+        "PL-S-018"
+      ]
+    },
+    {
+      "from": "Mar 1939",
+      "to": "Nov 1944",
+      "state": "Slovak Republic",
+      "senne": "Little War, 23 to 31 March 1939. Blatná Polianka, Bežovce and Vysoká nad Uhom are taken; the border ends up about 2 km from the village. Senné is counted in the Michalovce district in 1940.",
+      "inacovce": "Counted in the Michalovce district in 1940. The whole Sobrance district next door goes to Hungary on 4 April 1939.",
+      "records": "Slovak state records throughout. Neither village has Hungarian-administration records for the war years.",
+      "src": [
+        "PL-S-003",
+        "PL-S-015",
+        "PL-S-034"
+      ]
+    },
+    {
+      "from": "Nov 1944",
+      "to": "1960",
+      "state": "Czechoslovakia",
+      "senne": "Soviet troops enter on 27 November 1944. Veľké Kapušany district, Prešov region.",
+      "inacovce": "Michalovce district, Prešov region.",
+      "records": "The eastern part of old Ung county, with Uzhhorod and its archives, passes to the Soviet Union in 1945.",
+      "src": [
+        "PL-S-003",
+        "PL-S-001",
+        "PL-S-004",
+        "PL-S-023"
+      ]
+    },
+    {
+      "from": "1960",
+      "to": "today",
+      "state": "Czechoslovakia, then Slovakia",
+      "senne": "Michalovce district, East Slovak region; now Košice Region.",
+      "inacovce": "Michalovce district, East Slovak region; now Košice Region.",
+      "records": "Church registers older than 1895 were gathered into the state archives; civil books follow 100 years after their last entry.",
+      "src": [
+        "PL-S-001",
+        "PL-S-004",
+        "PL-S-020"
+      ]
+    }
+  ],
+  "church": [
+    {
+      "rite": "Roman Catholic",
+      "seat": "Senné",
+      "covers": "Senné, and the Roman Catholics of Iňačovce. In 1734 also Palín, Stretava, Stretavka, Rebrín, Kráška, Jastrabie and Blatná Polianka.",
+      "steps": [
+        {
+          "when": "before the 14th c.",
+          "what": "A church is thought to have stood here. A church and rectory are recorded in 1599.",
+          "src": "PL-S-002"
+        },
+        {
+          "when": "after 1711",
+          "what": "Parish rebuilt step by step after the Rákóczi rising. Church built in 1718.",
+          "src": "PL-S-011"
+        },
+        {
+          "when": "to 1804",
+          "what": "Diocese of Eger. Visited in 1734: 56 Latin-rite adults, about 40 of the Greek rite, 20 Calvinists, 2 Lutherans.",
+          "src": "PL-S-009"
+        },
+        {
+          "when": "1804",
+          "what": "Ung county passes to the new Diocese of Szatmár. Bishop's circulars now come from Szatmár, as in the Duska agent's Folder 1.",
+          "src": "PL-S-011"
+        },
+        {
+          "when": "after 1920",
+          "what": "The part of the Szatmár diocese left in Czechoslovakia was run separately and later joined to Košice. Dates not yet checked.",
+          "src": "training"
+        },
+        {
+          "when": "today",
+          "what": "Archdiocese of Košice, deanery of Sobrance.",
+          "src": "PL-S-021"
+        }
+      ]
+    },
+    {
+      "rite": "Greek Catholic",
+      "seat": "Iňačovce",
+      "covers": "Iňačovce. Probably the Greek Catholics of Senné as well (PL-H-001).",
+      "steps": [
+        {
+          "when": "by 1734",
+          "what": "The Greek Catholics of Iňačovce have their own parish; Rusyn is spoken in it.",
+          "src": "PL-S-009"
+        },
+        {
+          "when": "mid-18th c.",
+          "what": "Wooden church of the Dormition, shingle roof, one bell.",
+          "src": "PL-S-006"
+        },
+        {
+          "when": "1771 to 1782",
+          "what": "Eparchy of Mukachevo erected in 1771, with the bishop at Uzhhorod. By 1782 its parishes in Ung county no longer answer to the Latin bishop.",
+          "src": [
+            "PL-S-032",
+            "PL-S-011"
+          ]
+        },
+        {
+          "when": "1782 to 1787",
+          "what": "Parish reorganisation papers drawn up for every parish in Ung county. Not yet read for Solymos.",
+          "src": "PL-S-026"
+        },
+        {
+          "when": "early 19th c.",
+          "what": "Present brick church built. Register kept from 1811.",
+          "src": [
+            "PL-S-004",
+            "PL-S-007"
+          ]
+        },
+        {
+          "when": "1818",
+          "what": "A reorganisation leaves Ung county in the Mukachevo eparchy. Its Uzhhorod archdeaconry has eight deaneries.",
+          "src": "PL-S-011"
+        },
+        {
+          "when": "after 1938",
+          "what": "Parishes left on the Slovak side were placed under the bishop of Prešov. The church was suppressed from 1950 to 1968. Dates not yet checked.",
+          "src": "training"
+        },
+        {
+          "when": "today",
+          "what": "Greek Catholic diocese of Košice.",
+          "src": "PL-S-022"
+        }
+      ]
+    },
+    {
+      "rite": "Reformed",
+      "seat": "not yet known",
+      "covers": "The Reformed of Iňačovce, a daughter congregation.",
+      "steps": [
+        {
+          "when": "1733",
+          "what": "Reformed mother churches near the villages: Stretava, Lúčky, Veľké Zalužice. Iňačovce is not named under any of them in the summary read.",
+          "src": "PL-S-010"
+        },
+        {
+          "when": "1747",
+          "what": "Register for the Iňačovce Reformed begins. It is kept in another parish.",
+          "src": "PL-S-007"
+        },
+        {
+          "when": "1864 to 1916",
+          "what": "Own school in Iňačovce: 14 pupils, then 41. Part of the Ung Reformed seniorate.",
+          "src": "PL-S-011"
+        },
+        {
+          "when": "1912",
+          "what": "Daughter church built in Iňačovce.",
+          "src": "PL-S-006"
+        }
+      ]
+    },
+    {
+      "rite": "Lutheran and Jewish",
+      "seat": "Pozdišovce; Senné",
+      "covers": "The few Lutherans of Iňačovce; the Jewish families of both villages.",
+      "steps": [
+        {
+          "when": "19th c.",
+          "what": "Lutherans of Iňačovce belonged to the Pozdišovce congregation. Its Jewish families came under the rabbinate at Senné.",
+          "src": "PL-S-006"
+        },
+        {
+          "when": "1942",
+          "what": "Register of Jews: 20 people in Senné, 13 in Iňačovce. Four families were deported from Senné.",
+          "src": "PL-S-015"
+        }
+      ]
+    }
+  ]
+}

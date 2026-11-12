@@ -1,0 +1,332 @@
+[
+  {
+    "id": "PL-R-001",
+    "group": "Church registers",
+    "record": "Senné Roman Catholic register: baptisms, marriages, burials",
+    "years": "1831-1926",
+    "covers": "Roman Catholics of Senné and of its filials, Iňačovce included",
+    "held": "State archive, Prešov. Filmed: FamilySearch catalogue 710997.",
+    "online": "FamilySearch images, where open",
+    "status": "reported",
+    "note": "Taken from the Duska agent's lead L-001; not opened here. Nothing earlier than 1831 has turned up, though the parish had a priest by 1731.",
+    "src": [
+      "PL-S-025",
+      "PL-S-009"
+    ],
+    "bears_on": [
+      "H-004",
+      "H-005",
+      "DM-H-007"
+    ]
+  },
+  {
+    "id": "PL-R-002",
+    "group": "Church registers",
+    "record": "Iňačovce Roman Catholic entries",
+    "years": "1863-1926",
+    "covers": "Roman Catholics living in Iňačovce",
+    "held": "State archive, Prešov",
+    "online": "not checked",
+    "status": "reported",
+    "note": "Listed as kept in another parish, which fits Senné. The start year, 1863, does not match the Senné book's 1831. One of the two lists is incomplete, or Iňačovce entries were split off into their own volume from 1863.",
+    "src": [
+      "PL-S-007",
+      "PL-S-006"
+    ],
+    "bears_on": [
+      "H-004"
+    ]
+  },
+  {
+    "id": "PL-R-003",
+    "group": "Church registers",
+    "record": "Iňačovce Greek Catholic register",
+    "years": "1811-1898",
+    "covers": "Greek Catholics of Iňačovce; probably those of Senné too (PL-H-001)",
+    "held": "State archive, Prešov",
+    "online": "not checked",
+    "status": "reported",
+    "note": "The parish's own book. The run at Prešov stops in 1898; where the later volumes are is not checked. See PL-H-005 for why a copy may sit in Uzhhorod.",
+    "src": [
+      "PL-S-007"
+    ],
+    "bears_on": [
+      "H-005",
+      "H-006",
+      "DM-H-002",
+      "DM-H-005"
+    ]
+  },
+  {
+    "id": "PL-R-004",
+    "group": "Church registers",
+    "record": "Greek Catholic records of the Mukachevo eparchy, Ungvár and Ung district",
+    "years": "1826-1938",
+    "covers": "Multiple parishes of the Ung district. Whether Solymos is among them is not checked (PL-H-005).",
+    "held": "Zakarpattia state archive, Uzhhorod and Berehove. Filmed: FamilySearch catalogue 1411329.",
+    "online": "FamilySearch catalogue",
+    "status": "lead",
+    "note": "The likeliest home for a Greek Catholic baptism from Iňačovce after 1898.",
+    "src": [
+      "PL-S-024"
+    ],
+    "bears_on": [
+      "H-006",
+      "DM-H-004",
+      "DM-H-005"
+    ]
+  },
+  {
+    "id": "PL-R-005",
+    "group": "Church registers",
+    "record": "Iňačovce Reformed register",
+    "years": "1747-1940",
+    "covers": "The Reformed of Iňačovce",
+    "held": "State archive, Prešov",
+    "online": "not checked",
+    "status": "reported",
+    "note": "Kept at a mother church that has not been identified. If a Demko of Iňačovce was Reformed, this is the book, and Uzhhorod would hold nothing.",
+    "src": [
+      "PL-S-007"
+    ],
+    "bears_on": [
+      "DM-H-002"
+    ]
+  },
+  {
+    "id": "PL-R-010",
+    "group": "Civil registration",
+    "record": "State registers of births, marriages and deaths",
+    "years": "from 1 October 1895",
+    "covers": "Everyone, whatever the church",
+    "held": "Registry office for the village; books pass to the state archive 100 years after their last entry",
+    "online": "not checked",
+    "status": "confirmed in principle",
+    "note": "Start date confirmed: Law XXXIII of 1894, in force 1 October 1895. Which registry office served Senné and which served Iňačovce is still to be found.",
+    "src": [
+      "PL-S-019",
+      "PL-S-020"
+    ],
+    "bears_on": [
+      "DM-H-006",
+      "DM-H-001"
+    ]
+  },
+  {
+    "id": "PL-R-020",
+    "group": "Censuses and tax lists",
+    "record": "Tax censuses of 1715 and 1720",
+    "years": "1715, 1720",
+    "covers": "Heads of taxed households. Senné: 5, then 11. Iňačovce: 8, then 11.",
+    "held": "Hungarian National Archives, Budapest",
+    "online": "searchable through Hungaricana",
+    "status": "lead",
+    "note": "With so few households, each village's list is a dozen names at most. Worth reading in full for both surnames.",
+    "src": [
+      "PL-S-011",
+      "PL-S-002",
+      "PL-S-005"
+    ],
+    "bears_on": [
+      "H-004",
+      "DM-H-003"
+    ]
+  },
+  {
+    "id": "PL-R-021",
+    "group": "Censuses and tax lists",
+    "record": "Maria Theresa urbarial survey",
+    "years": "about 1767-1774",
+    "covers": "Landlords, with counts of villeins and cottars. The tenant-level tables behind them name each household.",
+    "held": "Hungarian National Archives, Budapest",
+    "online": "landlord tables on Hungaricana",
+    "status": "confirmed",
+    "note": "Senné: 26 villein households under four landlords. Iňačovce: 35 under three. The date of the survey is from training, not from the page.",
+    "src": [
+      "PL-S-012",
+      "PL-S-013"
+    ],
+    "bears_on": [
+      "H-004",
+      "DM-H-003"
+    ]
+  },
+  {
+    "id": "PL-R-022",
+    "group": "Censuses and tax lists",
+    "record": "Urbaria et Conscriptiones, E 156, fasc. 121, nos. 012 and 014",
+    "years": "not yet read",
+    "covers": "No. 012 describes Solymos among other Ung villages; no. 014 values an estate that includes Szenna",
+    "held": "Hungarian National Archives, Budapest",
+    "online": "abstracts on Hungaricana",
+    "status": "lead",
+    "note": "Estate descriptions of this series often name the tenants. The first abstract mentions runaway serfs listed by name.",
+    "src": [
+      "PL-S-030"
+    ],
+    "bears_on": [
+      "H-004",
+      "DM-H-003"
+    ]
+  },
+  {
+    "id": "PL-R-023",
+    "group": "Censuses and tax lists",
+    "record": "Land census of 1828",
+    "years": "1828",
+    "covers": "Taxed householders. Senné had 120 houses, Iňačovce 119.",
+    "held": "Hungarian National Archives, Budapest",
+    "online": "not checked",
+    "status": "lead",
+    "note": "Only the totals have been seen so far.",
+    "src": [
+      "PL-S-002",
+      "PL-S-005"
+    ],
+    "bears_on": [
+      "H-004",
+      "DM-H-003"
+    ]
+  },
+  {
+    "id": "PL-R-024",
+    "group": "Censuses and tax lists",
+    "record": "Census of 1869, household sheets for Ung county",
+    "years": "1869",
+    "covers": "Every person, by house. Whether the sheets for Szenna and Solymos survive is not confirmed (PL-H-006).",
+    "held": "Zakarpattia state archive, Berehove branch",
+    "online": "no",
+    "status": "confirmed for the county",
+    "note": "Not part of the FamilySearch Slovakia 1869 collection, which draws on the Bytča, Banská Bystrica and Nitra archives. Access is in person, by prior registration.",
+    "src": [
+      "PL-S-016",
+      "PL-S-017"
+    ],
+    "bears_on": [
+      "H-007"
+    ]
+  },
+  {
+    "id": "PL-R-025",
+    "group": "Censuses and tax lists",
+    "record": "Czechoslovak census of 1930, household sheets",
+    "years": "1930",
+    "covers": "Every person, by house number, with birthplace, religion and nationality",
+    "held": "Slovak National Archives, Bratislava",
+    "online": "slovakiana.sk",
+    "status": "reported",
+    "note": "Coverage for the two villages not yet checked. This is where a Senné house number can be tested directly.",
+    "src": [
+      "PL-S-028"
+    ],
+    "bears_on": [
+      "H-008",
+      "DM-H-003",
+      "DM-H-008"
+    ]
+  },
+  {
+    "id": "PL-R-026",
+    "group": "Censuses and tax lists",
+    "record": "Lexikón obcí Slovenskej republiky",
+    "years": "1940 (printed 1942)",
+    "covers": "Totals only: Senné 171 houses and 839 people, Iňačovce 190 houses and 747 people",
+    "held": "Published",
+    "online": "figures republished by the Nation's Memory Institute",
+    "status": "confirmed",
+    "note": "No names. Useful as proof that both villages were in Slovakia, and as a ceiling for house numbers.",
+    "src": [
+      "PL-S-015"
+    ],
+    "bears_on": [
+      "H-008"
+    ]
+  },
+  {
+    "id": "PL-R-030",
+    "group": "Church administration",
+    "record": "List of churches and parishes, 1733; canonical visitations of 1734 and 1746",
+    "years": "1733-1746",
+    "covers": "Each parish: church, priest, filials, head counts by confession",
+    "held": "Archdiocesan archive, Eger",
+    "online": "published in part in three articles",
+    "status": "confirmed",
+    "note": "No villagers named in what has been published. Fixes the parish map of the 18th century.",
+    "src": [
+      "PL-S-009",
+      "PL-S-010",
+      "PL-S-011"
+    ],
+    "bears_on": [
+      "H-005",
+      "DM-H-008"
+    ]
+  },
+  {
+    "id": "PL-R-031",
+    "group": "Church administration",
+    "record": "Greek Catholic parish reorganisation papers, Ung county",
+    "years": "1782-1787",
+    "covers": "Each Greek Catholic parish with its daughter villages and numbers of souls",
+    "held": "Published source edition, 624 pages, free PDF",
+    "online": "real.mtak.hu/63713",
+    "status": "lead",
+    "note": "The catalogue record was seen; the file needs the owner's approval to open from here. The named test for PL-H-001.",
+    "src": [
+      "PL-S-026"
+    ],
+    "bears_on": [
+      "H-005",
+      "DM-H-002"
+    ]
+  },
+  {
+    "id": "PL-R-032",
+    "group": "Church administration",
+    "record": "Parish copy-book of the Bishop of Szatmár's circulars",
+    "years": "1837-1840",
+    "covers": "Ten openings in the Duska agent's Folder 1",
+    "held": "Not yet known; presumed filmed with the Senné register",
+    "online": "in the Duska repo",
+    "status": "in hand",
+    "note": "See the note against H-010 below: Stretavka was inside the Senné parish in 1734.",
+    "src": [
+      "PL-S-031"
+    ],
+    "bears_on": [
+      "H-010"
+    ]
+  },
+  {
+    "id": "PL-R-040",
+    "group": "Estate and county",
+    "record": "Vécsey family papers, with the Ungszenna estate",
+    "years": "to 1924 and after",
+    "covers": "Estate management, land reform, staff. Tenants and labourers may be named.",
+    "held": "Romanian National Archives, Cluj county branch, fond 452",
+    "online": "no",
+    "status": "lead",
+    "note": "The article that cites the fond is about the owner, so what it holds on villagers is unknown.",
+    "src": [
+      "PL-S-014"
+    ],
+    "bears_on": [
+      "H-002"
+    ]
+  },
+  {
+    "id": "PL-R-041",
+    "group": "Estate and county",
+    "record": "Fond Užská župa at Prešov",
+    "years": "about 1880s-1944",
+    "covers": "Mostly Uzhhorod: census sheets, voter lists, some duplicate registers for villages now in Ukraine",
+    "held": "State archive, Prešov",
+    "online": "finding aid only",
+    "status": "checked, nothing found",
+    "note": "Small fond, 5 boxes. Neither village appears in the finding aid as read. The scan's text layer is poor, so this is a weak negative.",
+    "src": [
+      "PL-S-029"
+    ],
+    "bears_on": []
+  }
+]

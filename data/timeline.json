@@ -1,0 +1,279 @@
+[
+  {
+    "year": "1263",
+    "place": "Senné",
+    "text": "First written record, as Scinna: the king gives the village to Jakov, county head of Uzhhorod.",
+    "src": "PL-S-001"
+  },
+  {
+    "year": "1417",
+    "place": "Iňačovce",
+    "text": "First written record, as Solmus, in a charter of King Sigismund.",
+    "src": "PL-S-006"
+  },
+  {
+    "year": "1427",
+    "place": "both",
+    "text": "Senné has at least 25 serf households, Iňačovce at least 19.",
+    "src": [
+      "PL-S-002",
+      "PL-S-005"
+    ]
+  },
+  {
+    "year": "1599",
+    "place": "both",
+    "text": "Senné: 26 serf houses, a manor, a church and a rectory. Iňačovce: 32 serf houses.",
+    "src": [
+      "PL-S-002",
+      "PL-S-005"
+    ]
+  },
+  {
+    "year": "1703-1711",
+    "place": "both",
+    "text": "Rákóczi's rising. The Latin parishes of the county have to be rebuilt afterwards, Senné among them.",
+    "src": "PL-S-011"
+  },
+  {
+    "year": "1715",
+    "place": "both",
+    "text": "Tax census: 5 households in Senné, 8 in Iňačovce.",
+    "src": [
+      "PL-S-002",
+      "PL-S-005"
+    ]
+  },
+  {
+    "year": "1718",
+    "place": "Senné",
+    "text": "Roman Catholic church rebuilt on old foundations.",
+    "src": "PL-S-002"
+  },
+  {
+    "year": "1720",
+    "place": "both",
+    "text": "Tax census: 11 households in each village. After this Iňačovce is refilled from the north of Ung and Zemplín.",
+    "src": [
+      "PL-S-002",
+      "PL-S-005",
+      "PL-S-006"
+    ]
+  },
+  {
+    "year": "1733-1734",
+    "place": "both",
+    "text": "List of parishes, then the bishop of Eger's visitation. Senné is a Latin parish with eight filials. Iňačovce has its own Greek Catholic parish, where Rusyn is spoken.",
+    "src": "PL-S-009"
+  },
+  {
+    "year": "1747",
+    "place": "Iňačovce",
+    "text": "Reformed register begins.",
+    "src": "PL-S-007"
+  },
+  {
+    "year": "about 1770",
+    "place": "both",
+    "text": "Urbarial survey: 26 villein households in Senné, 35 in Iňačovce. Baron István Vécsey is the main landlord of both.",
+    "src": [
+      "PL-S-012",
+      "PL-S-013"
+    ]
+  },
+  {
+    "year": "1771",
+    "place": "Iňačovce",
+    "text": "Greek Catholic eparchy of Mukachevo erected; the bishop sits at Uzhhorod.",
+    "src": "PL-S-032"
+  },
+  {
+    "year": "1778",
+    "place": "Senné",
+    "text": "A water mill on an arm of the Uh is first recorded.",
+    "src": "PL-S-003"
+  },
+  {
+    "year": "1804",
+    "place": "Senné",
+    "text": "The Roman Catholic parishes of Ung county pass from Eger to the new diocese of Szatmár.",
+    "src": "PL-S-011"
+  },
+  {
+    "year": "1807",
+    "place": "Senné",
+    "text": "Augustín Roškováni, later bishop of Vác and of Nitra, is born in the manor to an estate employee's family.",
+    "src": "PL-S-003"
+  },
+  {
+    "year": "1811",
+    "place": "Iňačovce",
+    "text": "Greek Catholic register begins.",
+    "src": "PL-S-007"
+  },
+  {
+    "year": "1828",
+    "place": "both",
+    "text": "Land census: Senné 120 houses and 833 people; Iňačovce 119 houses and 1,023 people.",
+    "src": [
+      "PL-S-002",
+      "PL-S-005"
+    ]
+  },
+  {
+    "year": "1831",
+    "place": "Senné",
+    "text": "Surviving Roman Catholic register begins.",
+    "src": "PL-S-025"
+  },
+  {
+    "year": "1837-1840",
+    "place": "Senné",
+    "text": "The bishop of Szatmár's circulars are copied into a parish book: the Duska agent's Folder 1.",
+    "src": "PL-S-031"
+  },
+  {
+    "year": "1848",
+    "place": "both",
+    "text": "Serfdom abolished. In Senné each holding keeps about 13 hectares; labour dues for forest and pasture run on until the 1896 buy-out law.",
+    "src": "PL-S-003"
+  },
+  {
+    "year": "1864",
+    "place": "both",
+    "text": "Schools: Roman Catholic in Senné, 61 pupils. Greek Catholic, 69 pupils, and Reformed, 14 pupils, in Iňačovce.",
+    "src": "PL-S-011"
+  },
+  {
+    "year": "1869",
+    "place": "both",
+    "text": "First full census of Hungary. The Ung county sheets are now at Berehove.",
+    "src": "PL-S-016"
+  },
+  {
+    "year": "1870-1890",
+    "place": "Senné",
+    "text": "First wave of emigration.",
+    "src": "PL-S-001"
+  },
+  {
+    "year": "1895",
+    "place": "both",
+    "text": "State civil registration begins on 1 October.",
+    "src": "PL-S-019"
+  },
+  {
+    "year": "1910-1930",
+    "place": "Senné",
+    "text": "Second wave of emigration, mostly to the United States. Many return to buy land.",
+    "src": "PL-S-003"
+  },
+  {
+    "year": "1912",
+    "place": "Iňačovce",
+    "text": "The Reformed build their own church.",
+    "src": "PL-S-006"
+  },
+  {
+    "year": "1920",
+    "place": "both",
+    "text": "Treaty of Trianon, 4 June. The villages are in Czechoslovakia; the names Senné and Iňačovce become official.",
+    "src": "PL-S-023"
+  },
+  {
+    "year": "1921",
+    "place": "both",
+    "text": "Land reform begins to break up the Vécsey estate. Iňačovce is placed in the Michalovce district.",
+    "src": [
+      "PL-S-003",
+      "PL-S-006"
+    ]
+  },
+  {
+    "year": "1924",
+    "place": "Senné",
+    "text": "Baron László Vécsey dies; the estate passes to his nephew Mihály Sztáray.",
+    "src": "PL-S-014"
+  },
+  {
+    "year": "1929",
+    "place": "Senné",
+    "text": "The slump hits the farms that had mortgaged themselves to buy estate land.",
+    "src": "PL-S-003"
+  },
+  {
+    "year": "1930",
+    "place": "both",
+    "text": "Czechoslovak census, by household and house number.",
+    "src": "PL-S-028"
+  },
+  {
+    "year": "1938",
+    "place": "both",
+    "text": "Mobilisation in September. On 2 November the First Vienna Award returns Uzhhorod to Hungary.",
+    "src": [
+      "PL-S-003",
+      "PL-S-023"
+    ]
+  },
+  {
+    "year": "1939",
+    "place": "both",
+    "text": "Little War, 23 to 31 March. Slovak volunteers hold Senné; an air fight is seen over the village. The new border runs about 2 km away.",
+    "src": "PL-S-003"
+  },
+  {
+    "year": "1940",
+    "place": "both",
+    "text": "Senné: 171 houses, 839 people. Iňačovce: 190 houses, 747 people. About 600 cows die in Senné and harvests fail until 1942.",
+    "src": [
+      "PL-S-015",
+      "PL-S-003"
+    ]
+  },
+  {
+    "year": "1941",
+    "place": "Senné",
+    "text": "The church chronicle records hunger: \"Niet nieže chleba, ale ani zemiakov\" (not only no bread, not even potatoes).",
+    "src": "PL-S-003"
+  },
+  {
+    "year": "1942",
+    "place": "both",
+    "text": "Register of Jews: 20 people in Senné, 13 in Iňačovce. Four families are deported from Senné.",
+    "src": [
+      "PL-S-015",
+      "PL-S-003"
+    ]
+  },
+  {
+    "year": "1944",
+    "place": "Senné",
+    "text": "Hungarian then German troops in the village from 28 October; fields flooded; a machine-gun post in the church tower. Soviet soldiers enter on 27 November.",
+    "src": "PL-S-003"
+  },
+  {
+    "year": "1945",
+    "place": "both",
+    "text": "Czechoslovakia restored. Uzhhorod and the eastern part of old Ung county pass to the Soviet Union.",
+    "src": "PL-S-023"
+  },
+  {
+    "year": "1955",
+    "place": "both",
+    "text": "The Senné fishponds reserve is declared, in the fields of Iňačovce and Senné.",
+    "src": "PL-S-006"
+  },
+  {
+    "year": "1959",
+    "place": "Senné",
+    "text": "Farm cooperative founded on 30 January, the last in the district.",
+    "src": "PL-S-003"
+  },
+  {
+    "year": "1960",
+    "place": "Senné",
+    "text": "Moved from the Veľké Kapušany district to Michalovce.",
+    "src": "PL-S-001"
+  }
+]

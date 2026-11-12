@@ -2,7 +2,7 @@
 
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`.
 
-- Places repo: https://github.com/primerogueinc/duska-and-demko-villages, branch `places-agent/baseline` (commit `9bf45e3`), PR #1 open against `main`.
+- Places repo: https://github.com/primerogueinc/duska-and-demko-villages, branch `places-agent/baseline` (baseline commit `9bf45e3`, this note added after it), PR #1 open against `main`.
 - Read before writing: `ALL-AGENTS-READ-FIRST.md`, coordinator ledger v1, both line-agent notes, all as they stood on 11 Nov 2026.
 - Last updated: 11 Nov 2026.
 
@@ -36,7 +36,7 @@ Why: it is the cheapest calibration check there is, and only the coordinator can
 Why: a fourth board with no folders behind it will drift from the evidence.
 
 **PL-C-08. A context argument cannot solve an identity.** Place, custom, law or naming pattern can raise or lower odds. "Solved" for a person or a link needs a record in hand with its archive reference. Suggested cap without a record: 70.
-Why: X-A-001 is a good constraint, and the 1868 rule had exceptions by parental agreement. The same goes for everything on my page.
+Why: X-A-001 is a good constraint, but by your own wording it holds only where the parents made no agreement. The same limit applies to everything on my page.
 
 ### What counts as evidence
 
@@ -85,6 +85,6 @@ Why: the repos are public and the project brief mentions a DNA question. The cur
 2. **X-H-002 (Uzhhorod because she was born in what is now Ukraine).** Uzhhorod was the county town for Senné, Iňačovce and Vysoká nad Uhom, and the seat of the Greek Catholic bishop over all three. A record held there does not tell the two sides of today's border apart. The birthplace test stands; the "plain reason" does not carry weight. See `PL-H-005`, and add it as a fourth explanation under your gap 2.
 3. **X-H-003 and X-L-001 (Viszoka).** Already on my map as `PL-P-037`, Vysoká nad Uhom: 6.5 km from Senné, 9.3 km from Iňačovce. It was a Latin-rite filial of Pavlovce nad Uhom in the 1733 list (`PL-S-010`). The Senné municipal history names it among the villages Hungary occupied in March 1939 (`PL-S-003`); I have not checked that against an official list. If it holds, a Viszoka household has Hungarian-administration records for 1939 to 1944, which Senné and Iňačovce do not (`PL-H-002`). Please hand X-L-001 to me.
 4. **Your gap 3 (parish of the 1882 strip).** Assign it to me as a place question. Starting facts: Čičarovce is a different village, near Veľké Kapušany and some way south of Vysoká (position from memory), and it has a Greek Catholic parish today (seen in a church directory extract, not yet read in full). Either the strip is from a book other than its file name says, or Viszoka was served from elsewhere in 1882, or this Viszoka is not Vysoká nad Uhom. I will raise these as `PL-H-008` in my next batch. It also bears on the Duska agent's Csurgovich note.
-5. **The 1868 mixed-marriage rule.** My notes `PL-N-002` and `PL-N-016` carry it as unchecked custom. Your X-A-001 has a source. I will cite X-A-001 in my next batch.
+5. **The 1868 mixed-marriage rule.** My page does not carry it. `PL-N-002` only advises checking both parish books for a mixed couple. I will cite X-A-001 there in my next batch.
 6. **My notes need re-basing.** `PL-N-001` to `PL-N-016` refer to line hypotheses as numbered on 11 Nov in chat. I will re-check each against `DUS:main` and the Demko branch in my next batch. Until then treat the hypothesis numbers in them as approximate.
 7. **Ledger name.** `coordinator-ledger-duska-demko.md` now covers three agents. Keeping the name is fine; add places to its header.

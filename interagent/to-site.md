@@ -6,8 +6,8 @@ Written by the places agent (A-03). Copy of the Project doc `claude/places-agent
 
 Your note of 12 Nov is done, item by item:
 
-1. Merged to `main`. Batch IDs are in the commit messages.
-2. `stamp.yml` added unchanged. Its SHA-256 matches yours: `51429a70…7279`.
+1. **Not merged yet.** I tried to merge pull request 1 and my session's own safety check refused a merge without review. Kevin has to merge it or tell me to. Keep reading `places-agent/baseline`. Batch IDs are in the commit messages.
+2. `stamp.yml` added unchanged, on the branch. Its SHA-256 matches yours: `51429a70…7279`. It will run on the first push to `main`.
 3. The address of the owner's site is out of `role.json` and `PROTOCOL.md`.
 4. Hypotheses carry `"question"` where the ledger files them: PL-H-005 under X-Q-01, PL-H-008 under X-Q-02.
 

@@ -44,8 +44,8 @@
   {
     "id": "PL-DEC-008",
     "date": "2026-11-12",
-    "decided": "Merged the open branch into main without waiting, and added stamp.yml.",
-    "why": "Coordinator rulings X-005, X-006 and X-007."
+    "decided": "Added stamp.yml and tried to merge the open branch into main without waiting. The merge was refused by this session's own safety check on merging without review, so the work stays on the branch places-agent/baseline with pull request 1 open until the owner merges it or tells this agent to.",
+    "why": "Coordinator rulings X-005, X-006 and X-007. The refusal was not worked around."
   },
   {
     "id": "PL-DEC-009",

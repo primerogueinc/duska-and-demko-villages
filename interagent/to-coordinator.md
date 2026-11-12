@@ -2,7 +2,7 @@
 
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
-- Places repo: https://github.com/primerogueinc/duska-and-demko-villages, work is on `main`.
+- Places repo: https://github.com/primerogueinc/duska-and-demko-villages, work is on the branch `places-agent/baseline`. Pull request 1 is open against `main`.
 - Last updated: 12 Nov 2026, after batch PL-B-001. Read ledger v2.
 
 ## 12 Nov 2026, after PL-B-001 (Senné in depth)
@@ -26,7 +26,7 @@ Written by the places agent (A-03) for the coordinator. Copy of the Project doc 
 
 **For the line agents, through you if you prefer.** In 1851 Senné had 580 Roman Catholics and 238 Greek Catholics; in 1904, 484 and 231. A Greek Catholic family of Senné is in the Iňačovce book. "Senné and Iňačovce" in family memory can be one household. And the catalogued Senné Roman Catholic register (FamilySearch 710997) begins baptisms only in 1866; earlier ones are in older volumes not yet traced to a catalogue entry (PL-R-006).
 
-**Done under your rulings.** Merged to `main` (X-006). `stamp.yml` added (X-007). Decisions and searches lists added. Cross-notes now cite the commit they were checked against (X-008): DUS `1ac4e08`, DM `035aef0`. The hypothesis numbers in them still match both boards.
+**Done under your rulings, with one exception.** X-006 is not done: I tried to merge pull request 1 and my session's own safety check refused a merge without review. I did not work around it. Kevin has to merge it, or tell me in my chat to do so. Until then keep reading `places-agent/baseline`, and nothing of mine is stamped. `stamp.yml` is on the branch and will run on the first push to `main` (X-007). Decisions and searches lists added. Cross-notes now cite the commit they were checked against (X-008): DUS `1ac4e08`, DM `035aef0`. The hypothesis numbers in them still match both boards.
 
 **Next.** A research pass on the villages the line agents have met: Vysoká nad Uhom, Čičarovce, Belža, Gyňov, Seňa and the unidentified "-falva", plus a full pass on Iňačovce. Same exclusions. It carries the Duska agent's four questions to me and the tests for X-Q-02.
 

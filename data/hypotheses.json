@@ -523,5 +523,85 @@
         "note": "A coincidence of dates that would explain a gap this repo has carried since PL-B-001. This agent has the fire note at second hand."
       }
     ]
+  },
+  {
+    "id": "PL-H-019",
+    "statement": "Given by the owner: Rusyn. As this board reads it for the places: the Greek Catholic community of Iňačovce and its filials was Rusyn by origin, settled from the Rusyn north after 1720 and Rusyn in speech in the 18th century.",
+    "confidence": 80,
+    "basis": "The owner's words in this chat on 12 Nov 2026: \"I'm giving you a hypothesis that is not a research lead - look into what is Rusyn\". It is his lean of before the first batch (DM-PR-3). For the place: the village was nearly empty in 1715 and refilled after 1720 from the north of Ung and Zemplín; the visitor of 1734 found Rusyn spoken in the Greek Catholic parish; Fényes in 1851 names Rusyn first of three languages, and 526 of 926 people were Greek Catholic; the register is in Cyrillic in 1851-1853; a dialect survey of 1969 finds Sotak features here and at Jastrabie. Against: nothing found. Not shown: the language of any one family.",
+    "test": "The sermon language of the parish of Solymos in the eparchy's conscription of 1806; the language column of the list of 1773; the gazetteer of Magocsi's settlement map (PL-Q-012).",
+    "status": "supported",
+    "raised": "PL-B-011",
+    "resolved": null,
+    "resolution": null,
+    "given": true,
+    "src": [
+      "PL-S-005",
+      "PL-S-006",
+      "PL-S-009",
+      "PL-S-044",
+      "PL-S-107",
+      "PL-S-145",
+      "PL-S-137"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-011",
+        "effect": "raised at 80, given by the owner",
+        "note": "Scored as given (ledger X-029). The owner's words were not used to steer any search toward the family; the searches were on the word, the church, the censuses and the villages."
+      }
+    ]
+  },
+  {
+    "id": "PL-H-020",
+    "statement": "By about 1900 the Greek Catholics of Iňačovce and its filials spoke Slovak and were counted as Slovak. From then on 'Rusyn' or 'Rusnak' in these villages names the church a family belonged to, not the language it spoke.",
+    "confidence": 85,
+    "basis": "A state entry of 1906 was explained to a Greek Catholic father in Slovak; the county map coloured from the census of 1910 marks Solymos and Szenna Slovak; the census of 1930 enters a Greek Catholic woman born at Iňačovce as Slovak; in 2021 the village had 314 Greek Catholics and two to five Rusyns. In eastern Slovakia 'Rusnak' was used for a Greek Catholic whatever he spoke. In the Prešov eparchy in 1880 only about half of the Greek Catholics gave Rusyn as mother tongue. Against: the 1906 and 1930 entries are two clerks' words; a census colour shows the largest group only.",
+    "test": "The village counts by mother tongue for 1880, 1890, 1900 and 1910: Solymos, Jesztreb, Szenna.",
+    "status": "supported",
+    "raised": "PL-B-011",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-108",
+      "PL-S-146",
+      "PL-S-147",
+      "PL-S-148",
+      "PL-S-140",
+      "PL-S-141",
+      "PL-S-139",
+      "PL-S-137"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-011",
+        "effect": "raised at 85",
+        "note": "Sits beside PL-H-019 without contradiction: one is about origin and church, the other about speech and counting. It agrees with the Demko board's DM-H-040."
+      }
+    ]
+  },
+  {
+    "id": "PL-H-021",
+    "statement": "The Mukachevo eparchy's conscription of 1806 gives Rusyn as the language of sermons for the parish of Solymos.",
+    "confidence": 65,
+    "basis": "Not read; a prediction that one book can settle. In 1806 the sermon was Rusyn in 1,276 settlements and Slovak in only 41, and where it was Slovak the Greek Catholics were few, about 70 to a settlement and about 15 per cent of the village. Solymos had a Greek Catholic majority and its own parish. Rusyn was spoken there in 1734, and Fényes still names Rusyn first in 1851. Against: the village lies at the southern edge, where the language was already changing, and a sermon in two languages is possible.",
+    "test": "The entry for Solymos in A munkácsi görögkatolikus püspökség lelkészségeinek 1806. évi összeírása, ed. István Udvari (Nyíregyháza, 1990), or the atlas made from it in 2023.",
+    "status": "open",
+    "raised": "PL-B-011",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-144",
+      "PL-S-009",
+      "PL-S-044",
+      "PL-S-143"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-011",
+        "effect": "raised at 65",
+        "note": "Raised so that the reasoning in PL-H-019 has a test with a yes or no answer."
+      }
+    ]
   }
 ]

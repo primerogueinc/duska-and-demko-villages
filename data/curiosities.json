@@ -218,5 +218,31 @@
     "translation": "The bride's banns called three times; the bridegroom released through the bishop's office, on 21 December 1891 under no. 2370, from the impediments of [first-degree] affinity, mixed marriage, banns and the forbidden season.",
     "why": "The first wedding of 1892 in the Senné book, on the same opening as the Duska agent's entry of 18 January. A Roman Catholic widower of 52, living at Stretava, marries a Reformed widow of 49 from house 52 of a village written Füzesér, on 9 January. She bears the surname of his late wife. Four impediments are lifted in one line: the kinship through the first wife, the difference of church, the banns, and the closed season from Advent to Epiphany when weddings were not held. He asked four days before Christmas. Read by this agent from the image; the bracketed words are doubtful. That the bishop was the bishop of Szatmár is inferred from the diocese the parish belonged to.",
     "tone": "history"
+  },
+  {
+    "id": "PL-CU-019",
+    "batch": "PL-B-011",
+    "src": [
+      "PL-S-107",
+      "PL-S-139"
+    ],
+    "place": "PL-P-002",
+    "original": "5 Rusnák János (Solymos); 10 Joannes Rusnák (Viszoka); Rusznák István esperes plébános (Szenna, 1892)",
+    "translation": "John Rusnak, serf no. 5 at Solymos and no. 10 at Viszoka in the urbarial tables; István Rusznák, dean and parish priest of Senné in 1892.",
+    "why": "'Rusnak' meant a Rusyn or a Greek Catholic. As a surname it turns up in both villages of the Demko side about 1770, and on the Roman Catholic priest of Senné who married the Duska couple in 1892. A recalled rule, not sourced here: a nickname of this kind is given where its bearer stood out, so a man was called 'the Rusnak' among neighbours who were not. The names are as the Duska agent read them.",
+    "tone": "odd"
+  },
+  {
+    "id": "PL-CU-020",
+    "batch": "PL-B-011",
+    "src": [
+      "PL-S-147",
+      "PL-S-148"
+    ],
+    "place": "PL-P-002",
+    "original": "Greek Catholic Church: 314. Rusyn: 5. (ruszinok: 2)",
+    "translation": "Iňačovce in the census of 2021: 314 Greek Catholics; 2 people of Rusyn nationality, 5 if a second nationality is counted.",
+    "why": "The church the Rusyn settlers brought is still the largest in the village. The name they were known by is declared by almost nobody. That is the whole question of this batch in one line of a table.",
+    "tone": "history"
   }
 ]

@@ -921,7 +921,7 @@
   },
   {
     "id": "PL-S-107",
-    "title": "Duska agent, folders F-005 (Iňačovce Greek Catholic), F-007 (Solymos Reformed), F-009 (Senné Roman Catholic), census captures and pile files, and its notes to the Places agent after batches B-010 to B-033",
+    "title": "Duska agent, folders F-005 (Iňačovce Greek Catholic), F-007 (Solymos Reformed), F-009 (Senné Roman Catholic), census captures and pile files, and its notes to the Places agent after batches B-010 to B-033; documents D-006-03, D-005-33, D-011-04, D-011-06 and D-011-18 at DUS main @8e8abb9",
     "type": "Sibling agent's transcriptions of records in hand",
     "url": "https://github.com/primerogueinc/genealogu-duska-1/blob/main/comms/to-places.md",
     "read": "notes to the Places agent read at DUS main @66f89b1, @2e5f111, @4d7a299 @c1c3be2 and @4649eac; the documents behind them were not opened by this agent",
@@ -930,7 +930,7 @@
   },
   {
     "id": "PL-S-108",
-    "title": "Demko agent, documents DM-D-040, DM-D-041 and DM-D-043 to DM-D-053, and its notes to the Places agent DM→PL-003 and DM→PL-004",
+    "title": "Demko agent, documents DM-D-040, DM-D-041 and DM-D-043 to DM-D-053, and its notes to the Places agent DM→PL-003 and DM→PL-004, and its board at DM main @51a25e8 (DM-PR-3, DM-H-008, DM-H-014, DM-H-040, DM-D-008, DM-D-101)",
     "type": "Sibling agent's transcriptions of records in hand",
     "url": "https://github.com/primerogueinc/genealogy-demko-1/blob/main/interagent/to-places.md",
     "read": "notes read in full at DM main @5661373, @b2bdf12, @05cc58c @5d8cbc4 and @5a10545; three document entries opened",
@@ -1188,5 +1188,131 @@
     "read": "search extract, 12 Nov 2026",
     "reliability": "A general statement of church law. It says nothing of Senné or of the diocese of Szatmár. Other references give the end of the winter season as the Epiphany or as the end of its octave.",
     "batch": "PL-B-010"
+  },
+  {
+    "id": "PL-S-137",
+    "title": "Places agent, what 'Rusyn' means and what it means in these villages, 12 Nov 2026",
+    "type": "Research log (this repo)",
+    "url": "https://github.com/primerogueinc/duska-and-demko-villages/blob/main/research/PL-B-011-what-is-rusyn.md",
+    "read": "written by this agent",
+    "reliability": "How the work was done, what each source says, and what was not reached.",
+    "batch": "PL-B-011"
+  },
+  {
+    "id": "PL-S-138",
+    "title": "Paul Robert Magocsi, 'Carpatho-Rusyn Americans' (encyclopedia article)",
+    "type": "Encyclopedia article by the leading historian of the subject",
+    "url": "https://www.encyclopedia.com/social-sciences/encyclopedias-almanacs-transcripts-and-maps/carpatho-rusyn-americans",
+    "read": "search extract only, 12 Nov 2026",
+    "reliability": "Used for the names the people have gone by: Rusyn, Rusnak, Ruthenian and others.",
+    "batch": "PL-B-011"
+  },
+  {
+    "id": "PL-S-139",
+    "title": "Paul Robert Magocsi, An Historiographical Guide to Subcarpathian Rus'",
+    "type": "Scholarly article",
+    "url": "https://shron3.chtyvo.org.ua/Magochii_Pavlo_Robert/An_Historiographical_Guide_to_Subcarpathian_Rus_anhl.pdf",
+    "read": "search extract only, 12 Nov 2026",
+    "reliability": "Used for one point: 'Rusnak' as the name for an adherent of Greek Catholicism, and the northern parts of Ung among the Rusyn-inhabited counties.",
+    "batch": "PL-B-011"
+  },
+  {
+    "id": "PL-S-140",
+    "title": "R. Matlovič, K. Matlovičová, V. Vlčková, Language of Rusyns in Slovakia: Controversies, Vagaries, and Rivalry of Codification Discourses (2020)",
+    "type": "Scholarly chapter",
+    "url": "https://www.unipo.sk/public/media/16282/Language%20of%20Rusyns%20in%20Slovakia%20Controversies,%20Vagaries,%20and%20Rivalry%20of%20Codification%20Discourses.pdf",
+    "read": "read through the tool, one pass, 12 Nov 2026",
+    "reliability": "Census counts of Rusyns in Slovakia 1880-2011, the 1880 finding on Greek Catholics of the Prešov eparchy, the codification of 1995. Its 2011 mother-tongue figure differs by 20 between its table and its text.",
+    "batch": "PL-B-011"
+  },
+  {
+    "id": "PL-S-141",
+    "title": "Peter Šoltés, Tri jazyky, štyri konfesie: etnická a konfesionálna pluralita na Zemplíne, Spiši a v Šariši (Bratislava, 2009)",
+    "type": "Monograph",
+    "url": "https://www.forumhistoriae.sk/sites/default/files/soltes1_2.pdf",
+    "read": "three of five portions read through the tool, 12 Nov 2026; section 12.2 was not reached",
+    "reliability": "The best single source found on how 'Rutheni' was used. It is about Zemplín, Spiš and Šariš; Ung appears only in a table. The Ung figures from its table of 1773 were parsed by the tool from a doubtful layout.",
+    "batch": "PL-B-011"
+  },
+  {
+    "id": "PL-S-142",
+    "title": "Richard D. Custer, 'The Question of Slovaks and Magyars/Hungarians in the Story of Rusyn Pennsylvania', 13 Dec 2014",
+    "type": "Researcher's article",
+    "url": "https://rusynsofpa.blogspot.com/2014/12/the-question-of-slovaks-and.html",
+    "read": "page read through the tool, twice, 12 Nov 2026",
+    "reliability": "Careful and sourced, about emigrants. Names the Michalovce and Sobrance districts but no village in them.",
+    "batch": "PL-B-011"
+  },
+  {
+    "id": "PL-S-143",
+    "title": "Carpatho-Rusyn Research Center, description of P. R. Magocsi, Map of Carpatho-Rusyn Settlement, third revised edition, with gazetteer",
+    "type": "Publisher's description of a map",
+    "url": "https://c-rrc.org/product/map-of-carpatho-rusyn-settlement/",
+    "read": "page read through the tool, 12 Nov 2026",
+    "reliability": "Says what the map covers. The map and its gazetteer were not seen, so whether any of these villages is on it is not known.",
+    "batch": "PL-B-011"
+  },
+  {
+    "id": "PL-S-144",
+    "title": "Gábor Demeter, Az északkelet-magyarországi görögkatolikus lakosság társadalmi-gazdasági-demográfiai jellemzői a 19. század elején",
+    "type": "Scholarly study of the 1806 conscription of the Mukachevo eparchy",
+    "url": "https://real.mtak.hu/198978/1/FrisnyakPROFdg.pdf",
+    "read": "read through the tool, one pass, 12 Nov 2026",
+    "reliability": "Totals of settlements by sermon language in 1806. No village is named in what was read; the conscription itself (ed. Udvari, 1990) was not seen.",
+    "batch": "PL-B-011"
+  },
+  {
+    "id": "PL-S-145",
+    "title": "Martina Čeripková, Nárečie sotáckej oblasti pri Sobranciach z hľadiska slovensko-ukrajinských jazykových vzťahov (Varia 4)",
+    "type": "Conference paper in dialectology",
+    "url": "https://www.juls.savba.sk/ediela/varia/4/pages/Varia4-030-031.pdf",
+    "read": "two pages read through the tool, 12 Nov 2026",
+    "reliability": "Gives Lipták's list of 1969 of villages with Sotak features; nineteen names are printed though twenty are announced. Reports Paulíny's view of 1963 at second hand.",
+    "batch": "PL-B-011"
+  },
+  {
+    "id": "PL-S-146",
+    "title": "Wikipedia, file 'Ung ethnic map.png'",
+    "type": "Map drawn on a county map of 1915 from the census of 1910",
+    "url": "https://www.wikipedia.com/wiki/File:Ung_ethnic_map.png",
+    "read": "search extract only, 12 Nov 2026; the file page would not load",
+    "reliability": "The extract gives the key: red Hungarians, light green Slovaks, violet Ruthenians, pink Germans, black Roma, orange Polish, on 1910 census data. A user-made map; the colour of a village is its largest group only.",
+    "batch": "PL-B-011"
+  },
+  {
+    "id": "PL-S-147",
+    "title": "English Wikipedia, Iňačovce and Senné (Michalovce District): tables from the census of 2021",
+    "type": "Encyclopedia, from the statistical office",
+    "url": "https://en.wikipedia.org/wiki/I%C5%88a%C4%8Dovce",
+    "read": "both pages read through the tool, 12 Nov 2026",
+    "reliability": "The nationality rows add up to more than the population, so they count a second declared nationality as well as the first. Senné: https://en.wikipedia.org/wiki/Senn%C3%A9,_Michalovce_District",
+    "batch": "PL-B-011"
+  },
+  {
+    "id": "PL-S-148",
+    "title": "Velemjáró settlement register: Solymos",
+    "type": "Settlement database",
+    "url": "https://velemjaro.sk/telepulestar/solymos",
+    "read": "page read through the tool, 12 Nov 2026",
+    "reliability": "Gives the first declared nationality in 2021 and the share of Hungarians at several censuses. It names no sources on the page read.",
+    "batch": "PL-B-011"
+  },
+  {
+    "id": "PL-S-149",
+    "title": "Lexicon locorum regni Hungariae populosorum anno 1773 officiose confectum (edition of 1920), machine-read text",
+    "type": "Official list of settlements, 1773",
+    "url": "https://archive.org/details/helyse-geinek-magyarorszag-lexicon-locorum-regni-hungariae-populosorum-1773",
+    "read": "one portion of the machine-read text read through the tool, 12 Nov 2026",
+    "reliability": "Szenna and Solymos stand in the Szobránc district; Solymos has a parish of the Greek rite. The language column is too garbled in the machine-read text to use. Printed pages 287 to 290.",
+    "batch": "PL-B-011"
+  },
+  {
+    "id": "PL-S-150",
+    "title": "István Udvari, A zempléni ruszin községek elöljáróinak nevei Mária Terézia korában (1772), Névtani Értesítő",
+    "type": "Scholarly article",
+    "url": "https://ojs.mtak.hu/index.php/nevtert/article/download/20090/16531",
+    "read": "search extract only, 12 Nov 2026",
+    "reliability": "Used for one point: the Rusyn villages of Sáros, Szepes and Ung were given their urbarial papers in Slovak, so the language of an urbarial table says nothing of the village's own.",
+    "batch": "PL-B-011"
   }
 ]

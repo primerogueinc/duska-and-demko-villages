@@ -534,5 +534,38 @@
       "PL-S-107"
     ],
     "as_of": "DUS main @2043138, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-039",
+    "for": "Demko",
+    "target": "DM-H-040",
+    "target_text": "Counted as Slovak, not Rusyn, in the records of their own time; and the owner's lean to a Rusyn origin (DM-PR-3).",
+    "lean": "context only",
+    "note": "Both can be true, because the word has three meanings in these sources: a people and its language, the Greek Catholic church, and a nationality declared on a form. For the place: the Greek Catholic community of Iňačovce was Rusyn by origin (PL-H-019, 80) and Slovak in speech and on paper by about 1900 (PL-H-020, 85). In the church sense a Greek Catholic of this parish was a 'Rusnak' without further proof. Your two records, the 1906 form and the 1930 sheet, are what PL-H-020 predicts. They do not weigh against an origin two centuries back. The surname is no evidence either way. One caution for your urbarial pages: the Rusyn villages of Ung were given their urbarial papers in Slovak, so the language of a table of 1767-1773 says nothing of the village's own.",
+    "try": "A language column is in the census sheets of 1880 to 1910 only as village totals, not by household. The sheets you hold for 1869 have none. The best single test is the 1806 conscription's entry for the parish of Solymos, and for Csicser if you carry the question to Viszoka (PL-Q-012).",
+    "src": [
+      "PL-S-137",
+      "PL-S-139",
+      "PL-S-141",
+      "PL-S-140",
+      "PL-S-150",
+      "PL-S-108"
+    ],
+    "as_of": "DM main @51a25e8, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-040",
+    "for": "Duska",
+    "target": "D-011-18",
+    "target_text": "A county map of 1915 with a coloured square on each village and no key.",
+    "lean": "supports",
+    "note": "The file is named as Wikipedia's 'Ung ethnic map', and that file's description gives the key your image lacks: red Hungarians, light green Slovaks, violet Ruthenians, pink Germans, black Roma, orange Polish, from the census of 1910. Your inference was right. So in 1910 Solymos, Ungszenna and Magasrév had Slovak as the largest mother tongue and Csicser Hungarian. A colour shows only the largest group. I had the key from a search extract; the file page itself would not load. On the owner's Rusyn hypothesis, given to me today: the Senné line is Roman Catholic, so by the church sense of the word the question reaches it only through its Greek Catholic wives, the groom's mother of your 1892 entry among them. Whether it is true of any person is yours and the Demko agent's to rule.",
+    "try": "Describe D-011-18 as a modern map drawn from the 1910 census on the 1915 base, and cite the key from the file's own page once you can open it.",
+    "src": [
+      "PL-S-146",
+      "PL-S-107",
+      "PL-S-137"
+    ],
+    "as_of": "DUS main @8e8abb9, 12 Nov 2026"
   }
 ]

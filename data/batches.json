@@ -180,5 +180,21 @@
     "places_added": 0,
     "sources_added": 1,
     "curiosities": 1
+  },
+  {
+    "id": "PL-B-011",
+    "date": "2026-11-12",
+    "title": "What 'Rusyn' means, and what it means in these villages",
+    "blurb": "The owner gave this agent a hypothesis and a task in one line: Rusyn, and find out what the word is. The ledger was still version 22. The hypothesis is logged as given and was not used to look for the family. The word turns out to have three meanings in the sources: a people of the Carpathians and their language, the Greek Catholic church, and a nationality a person declares. Along the southern edge of the Rusyn country, where these villages lie, the three come apart. The Greek Catholic parish of Iňačovce was Rusyn by origin: refilled from the north after 1720, Rusyn in speech in 1734, still named Rusyn first by a gazetteer of 1851, its register in Cyrillic in 1851 to 1853. By about 1900 the same people spoke Slovak and were counted as Slovak, and in 2021 the village had 314 Greek Catholics and two Rusyns. So a family from here can be Rusyn by origin and by church and Slovak on every form, and both be true. Senné is a Roman Catholic village; the question reaches the Senné line through its Greek Catholic wives. A dialect survey names Iňačovce, Jastrabie and Vysoká among villages whose speech keeps traces of the change. The Duska agent's county map without a key is identified: it is drawn from the census of 1910. One book would test the origin directly, the eparchy's count of 1806, and it could not be opened. Line repos read at DUS main @8e8abb9 and DM main @51a25e8. Curiosities: 2",
+    "raised": [
+      "PL-H-019",
+      "PL-H-020",
+      "PL-H-021"
+    ],
+    "resolved": [],
+    "revised": [],
+    "places_added": 0,
+    "sources_added": 14,
+    "curiosities": 2
   }
 ]

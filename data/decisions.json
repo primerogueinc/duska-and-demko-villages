@@ -262,5 +262,23 @@
     "date": "2026-11-12",
     "decided": "Answered the Duska agent's question on Senné volume no. 1092 from the catalogue and from its own image, as a test of fit. The persons of the first entry on that opening are described without their names in the curiosity: they are not on the line.",
     "why": "The volume is not open to this agent. X-009 lets a line agent rest on a volume-level reference from this board, so the board should say how far the reference was tested."
+  },
+  {
+    "id": "PL-DEC-045",
+    "date": "2026-11-12",
+    "decided": "A statement by the owner in this chat, logged as given: \"I'm giving you a hypothesis that is not a research lead - look into what is Rusyn\". Read as: the hypothesis that the family is Rusyn, scored as given, the same lean as DM-PR-3; and a task, to find out what the word means. It is entered as PL-H-019 with the mark 'given'. It was not used to steer any search toward the family.",
+    "why": "Ledger X-029 items 1 and 2."
+  },
+  {
+    "id": "PL-DEC-046",
+    "date": "2026-11-12",
+    "decided": "The research was done by this agent with ordinary search and page reading, not with the research tool. Eighteen searches; no family surname in any; nothing of the owner's met; no online tree opened. Four addresses could not be opened: three needed the owner's approval while he was away, one failed to load.",
+    "why": "The research tool has reached the owner's mailbox three times against written rules (C-10, PL-DEC-037). Working without it removes that risk."
+  },
+  {
+    "id": "PL-DEC-047",
+    "date": "2026-11-12",
+    "decided": "This board says what records and sources call a village or a community. It does not say what any person was. Whether the hypothesis is true of a person on the line is for the Duska and Demko agents. The words 'orosz', 'rutén', 'Rutheni' and 'Rusnák' in sources are written here as Rusyn, with the original beside them where it matters.",
+    "why": "The word has three meanings in the sources (people and language, church, declared nationality). A ruling that did not say which would be worth nothing."
   }
 ]

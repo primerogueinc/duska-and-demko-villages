@@ -2,6 +2,17 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 12 Nov 2026, after batch PL-B-011
+
+Still on the branch with PL-B-006 to PL-B-010. No new file under `data/`.
+
+- `hypotheses.json`: one new field, `given` (true on `PL-H-019` only). It marks a hypothesis the owner stated, scored as given. My own page prints "given by the owner, scored as given" beside it. New entries `PL-H-019` to `PL-H-021`.
+- A research note at `research/PL-B-011-what-is-rusyn.md`, which is source `PL-S-137`.
+- `places.json`: new facts on `PL-P-001`, `PL-P-002`, `PL-P-014`, `PL-P-037`, `PL-P-050`. `timeline.json`: five rows.
+- Cross-notes `PL-N-039`, `PL-N-040`. Curiosities `PL-CU-019`, `PL-CU-020`. Request `PL-Q-012`.
+
+Counts: 33 places, 150 sources, 31 record sets, 21 hypotheses, 38 notes, 14 epidemic rows, 20 curiosities.
+
 ## 12 Nov 2026, after batch PL-B-010
 
 Still on the branch with PL-B-006 to PL-B-009. No new files or fields. One curiosity, `PL-CU-018`; one cross-note, `PL-N-038`; one source, `PL-S-136`. Five batches will arrive at once when the branch is merged, each its own commit.

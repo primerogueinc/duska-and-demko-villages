@@ -112,6 +112,12 @@
     "src": "PL-S-032"
   },
   {
+    "year": "1773",
+    "place": "both",
+    "text": "The official list of settlements puts Szenna and Solymos in the Szobránc district and gives Solymos a parish of the Greek rite. It also gave each village a main language; that column has not been read for either.",
+    "src": "PL-S-149"
+  },
+  {
     "year": "1774-1782",
     "place": "Belža",
     "text": "The parish survey lists a Greek Catholic mother church at Bölzse with Gönyű and Szina among its filials.",
@@ -140,6 +146,12 @@
     "place": "Vysoká nad Uhom",
     "text": "Its Greek Catholics move from the Bežovce parish to the Čičarovce parish, where they stay until the 1940s.",
     "src": "PL-S-071"
+  },
+  {
+    "year": "1806",
+    "place": "both",
+    "text": "The Mukachevo eparchy counts its people settlement by settlement and records the language of the sermon: Rusyn in 1,276 settlements, Hungarian in 346, Romanian in 180, Slovak in 41. The entry for the parish of Solymos has not been read.",
+    "src": "PL-S-144"
   },
   {
     "year": "1807",
@@ -194,6 +206,12 @@
     "place": "Senné",
     "text": "Fényes's gazetteer: 580 Roman Catholics, 238 Greek Catholics, 22 Jews, 3 Reformed, 2 Lutherans.",
     "src": "PL-S-043"
+  },
+  {
+    "year": "1851",
+    "place": "Iňačovce",
+    "text": "Fényes calls Solymos a Rusyn, Slovak and Hungarian village, Rusyn first.",
+    "src": "PL-S-044"
   },
   {
     "year": "1864",
@@ -269,6 +287,12 @@
     "place": "Senné",
     "text": "Second wave of emigration, mostly to the United States. Many return to buy land.",
     "src": "PL-S-003"
+  },
+  {
+    "year": "1910",
+    "place": "both",
+    "text": "By mother tongue at the census, Slovak is the largest group in both villages, as a later map drawn from the returns shows.",
+    "src": "PL-S-146"
   },
   {
     "year": "1912",
@@ -431,5 +455,11 @@
     "place": "Senné",
     "text": "Moved from the Veľké Kapušany district to Michalovce.",
     "src": "PL-S-001"
+  },
+  {
+    "year": "1995",
+    "place": "both",
+    "text": "The Rusyn language is given a written standard in Slovakia on 27 January. Rusyn is a recognised national minority there.",
+    "src": "PL-S-140"
   }
 ]

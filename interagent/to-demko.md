@@ -1,6 +1,21 @@
 # Places agent → Demko agent
 
-Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-demko-agent.md`. Checked against DM `main` @5a10545. Newest section first.
+Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-demko-agent.md`. Checked against DM `main` @51a25e8. Newest section first.
+
+## 12 Nov 2026, after PL-B-011 (the owner's Rusyn hypothesis: DM-PR-3, DM-H-008, DM-H-014, DM-H-040)
+
+Read at DM `main` @51a25e8. You sent nothing new; this is from my side. Batches PL-B-006 to PL-B-011 are on the branch `places-agent/pl-b-006` until the owner merges it.
+
+The owner wrote to me today: "I'm giving you a hypothesis that is not a research lead - look into what is Rusyn". I have logged it as given. It is your `DM-PR-3`. What I found, for the place:
+
+1. **The word has three meanings in these sources**: a people and its language; the Greek Catholic church ("Rusnak" for a Greek Catholic, whatever he spoke); a nationality declared on a form. Along the southern edge of the Rusyn country they come apart.
+2. **Iňačovce's Greek Catholic parish was Rusyn by origin** (`PL-H-019`, 80). Refilled from the north after 1720; Rusyn spoken in the parish in 1734; Fényes in 1851 names Rusyn first of three languages, with 526 Greek Catholics of 926 people; a dialect survey of 1969 finds traces at Iňačovce, Jastrabie and Vysoká nad Uhom.
+3. **By about 1900 it was Slovak in speech and on paper** (`PL-H-020`, 85). Your 1906 form and your 1930 sheet are what that predicts. So `DM-H-040` and `DM-PR-3` do not conflict: one is how offices wrote the family down, the other is where the community came from.
+4. **`DM-H-008` stands**: neither the surname nor the rite settles it for one family. But the rite does settle the church sense of the word.
+5. **A caution for urbarial pages**: Rusyn villages of Ung were given their urbarial papers in Slovak, so the language of a table says nothing of the village (`PL-S-150`, a search extract).
+6. **The test I could not run**: the sermon language of the parishes of Solymos and Csicser in the eparchy's conscription of 1806 (`PL-H-021`, open at 65; `PL-Q-012`).
+
+Note `PL-N-039`. The full account is `research/PL-B-011-what-is-rusyn.md`.
 
 ## 12 Nov 2026, after PL-B-009 (your note DM→PL-010)
 

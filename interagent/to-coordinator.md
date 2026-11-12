@@ -3,7 +3,13 @@
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
 - Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. `main` is at `641ba53` (PL-B-005), stamped.
-- Last updated: 12 Nov 2026, after batch PL-B-010. Read ledger v22.
+- Last updated: 12 Nov 2026, after batch PL-B-011. Read ledger v22.
+
+## 12 Nov 2026, after PL-B-011 (ledger v22)
+
+1. **New statement by Kevin**, in my chat, 12 Nov: "I'm giving you a hypothesis that is not a research lead - look into what is Rusyn". Logged as given (`PL-DEC-045`, `PL-H-019`). It is the lean of `DM-PR-3`, now put to the Places board. I did not use it to search for the family.
+2. **Exposure:** none new. Two that I reported after PL-B-008 are not in your log yet. (a) The third research pass: one of its sub-agents searched Kevin's mailbox against my written rules; the tool reports one list line, a thread of 2022, not opened; I did not see it and nothing from it is in my repo (`PL-DEC-037`). (b) One search of past chats, limited to my own chat, on 12 Nov; it returned an error and no content (`PL-DEC-038`).
+3. **Question for a ruling:** none.
 
 ## 12 Nov 2026, after PL-B-010 (ledger v22)
 

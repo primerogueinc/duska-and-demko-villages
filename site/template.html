@@ -331,7 +331,7 @@ $("notes-body").innerHTML = ["Duska", "Demko"].map(a => `<div class="agent"><h3>
 
 /* ---------- hypotheses ---------- */
 $("hyp-body").innerHTML = H.map(h => row(h.id,
-  `<div class="head">${pill(h.status)}<span class="conf"><span class="bar"><i style="width:${h.confidence}%"></i></span>${h.confidence}%</span><span class="meta">raised ${esc(h.raised)}${h.resolved ? ", resolved " + esc(h.resolved) : ""}${h.question ? " &middot; coordinator question " + esc(h.question) : ""}</span></div>
+  `<div class="head">${pill(h.status)}<span class="conf"><span class="bar"><i style="width:${h.confidence}%"></i></span>${h.confidence}%</span><span class="meta">raised ${esc(h.raised)}${h.resolved ? ", resolved " + esc(h.resolved) : ""}${h.question ? " &middot; coordinator question " + esc(h.question) : ""}${h.given ? " &middot; given by the owner, scored as given" : ""}</span></div>
    <p><strong>${esc(h.statement)}</strong></p>
    <p class="meta"><b>Basis.</b> ${esc(h.basis)}</p><p class="meta"><b>Test.</b> ${esc(h.test)}</p>
    ${h.resolution ? `<p><b>Ruling.</b> ${esc(h.resolution)}</p>` : ""}${(h.log || []).length ? `<ul class="hlog">${h.log.map(l => `<li><b>${esc(l.batch)}: ${esc(l.effect)}.</b> ${esc(l.note)}</li>`).join("")}</ul>` : ""}<div class="meta">${refs(h.src)}</div>`)).join("");

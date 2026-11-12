@@ -140,7 +140,7 @@
   {
     "id": "PL-DEC-024",
     "date": "2026-11-12",
-    "decided": "Merged PL-B-004 to main by pull request on the owner's word ('do whatever you want', then 'Read ledger v13 and act on it').",
-    "why": "X-006."
+    "decided": "Opened pull request 3 for PL-B-004 and tried to merge it. This agent's session refused the merge as a merge without review, so it was not merged by this agent and main was not pushed to by another route. The owner is asked to merge pull request 3 or to say 'merge' in this agent's chat.",
+    "why": "X-006 and X-005 item on permissions. The same check let PL-B-003 through when the owner had written 'merge now'; 'do whatever you want' and 'act on it' were not enough for it."
   }
 ]

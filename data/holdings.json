@@ -4,14 +4,15 @@
     "group": "Church registers",
     "record": "Senné Roman Catholic register: baptisms, marriages, burials",
     "years": "1831-1926",
-    "covers": "Roman Catholics of Senné and of its filials. In this title: baptisms 1866-1912, marriages 1863-1926, deaths 1831-1925.",
-    "held": "State archive, Prešov. Filmed in 1993: FamilySearch catalogue 710997, films 1793682 and 1793683 (image groups 4407158 and 4407159).",
+    "covers": "Roman Catholics of the parish district: Senné, Iňačovce, Jastrabie pri Michalovciach, Krášok, Palín, Rebrín, Stretava, Stretavka. Births 1866-1912 (no. 1089), marriages 1863-1886 and 1887-1926 (nos. 1090, 1092), deaths 1831-1886 and 1887-1925 (nos. 1091, 1093).",
+    "held": "State archive, Prešov, church registers catalogue nos. 1089 to 1093, microfilm 287-288. Filmed in 1993: FamilySearch catalogue 710997, films 1793682 and 1793683 (image groups 4407158 and 4407159).",
     "online": "FamilySearch images, where open",
     "status": "confirmed",
-    "note": "The catalogue page was read in the research pass. The span 1831-1926 hides a gap: baptisms in this title begin only in 1866. Earlier baptisms are in the older set, PL-R-006.",
+    "note": "The catalogue page was read in the research pass. The span 1831-1926 hides a gap: baptisms in this title begin only in 1866. Earlier baptisms are in the older set, PL-R-006. The archive's own catalogue agrees volume by volume and lists no births before 1866.",
     "src": [
       "PL-S-025",
-      "PL-S-009"
+      "PL-S-009",
+      "PL-S-075"
     ],
     "bears_on": [
       "DUS:H-004",
@@ -43,16 +44,18 @@
     "group": "Church registers",
     "record": "Iňačovce Greek Catholic register",
     "years": "1811-1898",
-    "covers": "Greek Catholics of the parish district: Iňačovce, Jastrabie, Senné and Stretava",
-    "held": "State archive, Prešov",
+    "covers": "Greek Catholics of the parish district: Iňačovce, Jastrabie pri Michalovciach, Senné and Stretava. Strips in hand also show Kis Szeretva.",
+    "held": "State archive, Prešov, church registers catalogue nos. 380 to 383, film 88",
     "online": "not checked",
-    "status": "reported",
-    "note": "The parish's own book, kept from 1811 and held at Prešov, reportedly complete to 1898. No later volume is in the state archive. The church archive was badly damaged by lightning in 1929 and fire in 1930, so whether the volumes of 1899 onward survive, with the parish or at a registry office, is not known. Burials are not in the index seen, only births and marriages.",
+    "status": "confirmed",
+    "note": "No. 380: births, marriages, deaths 1811-1831. No. 381: the same, 1831-1859. No. 382: births 1861-1870, marriages and deaths 1861-1874. No. 383: births 1870-1898, marriages and deaths 1860-1898. Burials are there throughout; an earlier version of this entry said they were not in the index seen. Births of 1860 are in no listed volume. Nothing after 1898 is in the state archive. A note of 1934 written into the 1870-1898 volume shows it was in use after the fire of 1930, so the fire did not take that book; what became of the volumes begun in 1899 is still not known (PL-Q-006).",
     "src": [
       "PL-S-007",
       "PL-S-047",
       "PL-S-046",
-      "PL-S-093"
+      "PL-S-093",
+      "PL-S-075",
+      "PL-S-107"
     ],
     "bears_on": [
       "DUS:H-005",
@@ -85,16 +88,17 @@
     "id": "PL-R-005",
     "group": "Church registers",
     "record": "Iňačovce Reformed register",
-    "years": "1747-1940 by one list; 1819-1927 for births by another",
+    "years": "Lúčky 1747-1942; the Iňačovce filial's own register 1819-1936",
     "covers": "The Reformed of Iňačovce",
-    "held": "State archive, Prešov. Kept at the Reformed mother church of Lúčky.",
+    "held": "State archive, Prešov: Lúčky Reformed nos. 590 to 592 (microfilm 134); Iňačovce filial no. 592/1 (microfilm 88-89)",
     "online": "not checked",
-    "status": "reported",
-    "note": "The Reformed of Iňačovce were a filial of Lúčky and are entered in the Lúčky book. An index gives births 1819-1927 and marriages 1820-1926 and two film groups, 4406775 and 4406804, which are probably this book. The start year 1747 is not confirmed.",
+    "status": "confirmed",
+    "note": "No. 592/1 is a register kept for the Iňačovce filial alone: births 1819-1927, marriages 1820-1926, deaths 1819-1936. The Lúčky volumes begin in 1747, which confirms the start year. The Lúčky district also takes in Čečehov, Hažín, Komárovce, Zalužice, Nižná Rybnica, Tibava and Závadka.",
     "src": [
       "PL-S-007",
       "PL-S-046",
-      "PL-S-047"
+      "PL-S-047",
+      "PL-S-075"
     ],
     "bears_on": [
       "DM-H-002"
@@ -163,16 +167,17 @@
     "id": "PL-R-052",
     "group": "Church registers",
     "record": "Pavlovce nad Uhom Roman Catholic register",
-    "years": "1818-1907 filmed; births 1795-1827 reported elsewhere",
+    "years": "marriages 1818-1897; births 1869-1896; deaths 1878-1907",
     "covers": "Roman Catholics of Pavlovce and its filials, Vysoká nad Uhom among them",
-    "held": "State archive, Prešov, volumes 795 to 798; FamilySearch catalogue 706219, three reels. Earlier births reported at the archdiocesan archive, Košice.",
+    "held": "State archive, Prešov, nos. 795 to 798, microfilm 191-193; FamilySearch catalogue 706219. Earlier births reported at the archdiocesan archive, Košice.",
     "online": "FamilySearch catalogue; film numbers not obtained",
-    "status": "reported",
-    "note": "The other rite's book for a mixed couple of Viszoka. By one index the Prešov volumes hold births 1869-1896, marriages 1818-1897 and deaths 1878-1907, which leaves births of 1828 to 1868 unaccounted for.",
+    "status": "confirmed",
+    "note": "The other rite's book for a mixed couple of Viszoka. The archive's catalogue lists Vysoká nad Uhom in the parish district. No. 795 holds marriages 1818-1877 and births 1869-1877; no. 796 births 1878-1896; no. 797 marriages 1878-1897; no. 798 deaths 1878-1907. So a Roman Catholic of Viszoka born before 1869, or buried before 1878, is not in the Prešov volumes.",
     "src": [
       "PL-S-087",
       "PL-S-088",
-      "PL-S-086"
+      "PL-S-086",
+      "PL-S-075"
     ],
     "bears_on": [
       "DM-H-009",
@@ -212,6 +217,67 @@
     "src": [
       "PL-S-047",
       "PL-S-094"
+    ],
+    "bears_on": []
+  },
+  {
+    "id": "PL-R-055",
+    "group": "Church registers",
+    "record": "Lastomír Greek Catholic register; Šamudovce Greek Catholic register",
+    "years": "Lastomír: births 1860-1928, marriages and deaths 1890-1937. Šamudovce: 1786-1928",
+    "covers": "Greek Catholics of Lastomír. The Šamudovce parish district also lists Lastomír.",
+    "held": "State archive, Prešov: Lastomír nos. 531 and 532 (microfilm 121-122); Šamudovce nos. 1213 to 1218 (film 329-331)",
+    "online": "not checked",
+    "status": "confirmed",
+    "note": "For a Greek Catholic baptism at Lasztomér in 1887, no. 531. If it is not there, Šamudovce no. 1217 (births 1882-1903).",
+    "src": [
+      "PL-S-075"
+    ],
+    "bears_on": []
+  },
+  {
+    "id": "PL-R-056",
+    "group": "Church registers",
+    "record": "Michalovce Greek Catholic and Roman Catholic registers",
+    "years": "Greek Catholic 1795-1905; Roman Catholic 1826-1899",
+    "covers": "Greek Catholics of Michalovce, Vrbovec and Stráňany. Roman Catholics of Michalovce, Stráňany, Lastomír, Krásnovce, Močarany, Petrovce nad Laborcom and Topoľany.",
+    "held": "State archive, Prešov: Greek Catholic nos. 670 to 675 (film 152-155); Roman Catholic nos. 661 to 669 (film 149-152)",
+    "online": "not checked",
+    "status": "confirmed",
+    "note": "For a baptism at Sztrajnyán in 1887: Greek Catholic no. 673 (1876-1890) or Roman Catholic no. 667 (births 1883-1895). An entry made in one by mistake would belong in the other. Both parishes have a duplicate volume for 1882-1895 (nos. 675 and 669).",
+    "src": [
+      "PL-S-075"
+    ],
+    "bears_on": []
+  },
+  {
+    "id": "PL-R-057",
+    "group": "Church registers",
+    "record": "Slavkovce Greek Catholic register",
+    "years": "1805-1895",
+    "covers": "Greek Catholics of Slavkovce, Drahňov, Kopčany and Stretavka",
+    "held": "State archive, Prešov, nos. 1099 and 1100, microfilm 289",
+    "online": "not checked",
+    "status": "confirmed",
+    "note": "Listed because the catalogue puts Stretavka here, while a strip in hand has a Kis Szeretva family in the Iňačovce book. Search both.",
+    "src": [
+      "PL-S-075",
+      "PL-S-107"
+    ],
+    "bears_on": []
+  },
+  {
+    "id": "PL-R-058",
+    "group": "Church registers",
+    "record": "Reformed registers of Vysoká nad Uhom, Stretava and Palín",
+    "years": "Vysoká 1853-1897, deaths from 1837; Stretava 1761-1887; Palín 1806-1899",
+    "covers": "The Reformed of Vysoká nad Uhom, Pavlovce nad Uhom and Ťahyňa; of Stretava and Stretavka; of Palín",
+    "held": "State archive, Prešov: Vysoká nos. 1456 and 1457 (film 404-405); Stretava no. 1173 (film 315); Palín nos. 787 and 788 (microfilm 189)",
+    "online": "not checked",
+    "status": "confirmed",
+    "note": "For ruling a Reformed baptism in or out. The Duska agent has a Reformed mother at Solymos in 1894; her own book is the Iňačovce filial register (PL-R-005).",
+    "src": [
+      "PL-S-075"
     ],
     "bears_on": []
   },

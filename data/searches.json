@@ -133,5 +133,50 @@
     "for": "Cholera, other epidemics or hunger recorded for Senné, Iňačovce or Vysoká nad Uhom by name",
     "found": "Only the plague of 1709-1710 at Vysoká and the hunger of 1940-1942 at Senné.",
     "note": "See data/epidemics.json."
+  },
+  {
+    "id": "PL-SR-16",
+    "date": "2026-11-12",
+    "batch": "PL-B-004",
+    "where": "Prešov state archive, catalogue of church registers (PL-S-075), read by this agent in seven portions",
+    "for": "Entries for Iňačovce, Senné, Lúčky, Lastomír, Michalovce, Pavlovce nad Uhom, Palín, Stretava, Slavkovce, Šamudovce, Vysoká nad Uhom, Veľké Kapušany",
+    "found": "All found; volume numbers, years, films and parish districts taken into PL-R-001, 003, 005, 052 and 055 to 058.",
+    "note": "No entry lists a Greek Catholic volume for Iňačovce after 1898. The last pages were not reached."
+  },
+  {
+    "id": "PL-SR-17",
+    "date": "2026-11-12",
+    "batch": "PL-B-004",
+    "where": "Open web",
+    "for": "The Greek Catholic parish history of Lastomír and of Stráňany",
+    "found": "Nothing useful beyond name forms; the catalogue answered the question.",
+    "note": ""
+  },
+  {
+    "id": "PL-SR-18",
+    "date": "2026-11-12",
+    "batch": "PL-B-004",
+    "where": "Open web",
+    "for": "The epidemic cemetery at Barca by Košice, 1915",
+    "found": "Nothing.",
+    "note": "One query in Slovak. Not exhaustive."
+  },
+  {
+    "id": "PL-SR-19",
+    "date": "2026-11-12",
+    "batch": "PL-B-004",
+    "where": "Open web",
+    "for": "A custom in eastern Slovakia of entering a man under his wife's or his house's name",
+    "found": "General studies of unofficial 'living names' in western and central Slovakia only. Nothing for Ung or Zemplén.",
+    "note": "Asked by the Duska agent."
+  },
+  {
+    "id": "PL-SR-20",
+    "date": "2026-11-12",
+    "batch": "PL-B-004",
+    "where": "Open web",
+    "for": "Renumbering of houses in Hungarian villages in the 19th century",
+    "found": "Nothing usable.",
+    "note": "Asked by the Duska agent. One query; not exhaustive."
   }
 ]

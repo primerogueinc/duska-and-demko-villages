@@ -22,18 +22,19 @@
     "id": "PL-E-002",
     "years": "1831-1832",
     "what": "Cholera, first wave",
-    "scope": "regional only",
+    "scope": "regional; one observation in the records in hand",
     "places": [
       "PL-P-001",
       "PL-P-002",
       "PL-P-037"
     ],
-    "evidence": "About 100,000 deaths in Hungary. Zemplén, next door, was among the first counties struck; Ung is not on that list. Nothing found for the three villages.",
+    "evidence": "About 100,000 deaths in Hungary. Zemplén, next door, was among the first counties struck; Ung is not on that list. Nothing found for the three villages. In the records in hand: an entry of about 1831 has a Greek Catholic's son of Viszoka baptised by the Latin-rite priest of Pavlovce with the local priest's consent. That fits a parish without its priest in a cholera year, and proves nothing more.",
     "for_the_records": "The surviving Senné Roman Catholic burial volume begins in 1831. Counting its burials by month for 1831 and 1832 is the test.",
     "status": "not found for the villages",
     "src": [
       "PL-S-105",
-      "PL-S-025"
+      "PL-S-025",
+      "PL-S-107"
     ]
   },
   {
@@ -164,6 +165,36 @@
     "src": [
       "PL-S-104",
       "PL-S-105"
+    ]
+  },
+  {
+    "id": "PL-E-012",
+    "years": "1915",
+    "what": "Epidemic hospital and epidemic cemetery at Košice-Barca, wartime",
+    "scope": "outside the three villages; one record in hand",
+    "places": [],
+    "evidence": "A soldier's card held by the Demko agent records a death on 9 March 1915 in the epidemic hospital at Košice and burial in the epidemic cemetery at Barca. The card names no illness. A web search for the cemetery found nothing.",
+    "for_the_records": "Men of these villages who served in 1914-1915 may have died of disease far from home and be absent from the parish burial book.",
+    "status": "observation only",
+    "src": [
+      "PL-S-108"
+    ]
+  },
+  {
+    "id": "PL-E-013",
+    "years": "1876, 1885, 1891, 1892, 1894",
+    "what": "Child deaths noted on baptism entries of the Iňačovce book",
+    "scope": "observations in the records in hand",
+    "places": [
+      "PL-P-014",
+      "PL-P-002"
+    ],
+    "evidence": "Deaths are written against baptisms at Jesztreb in 1876 (two), 1885, 1891 and 1894, and at Solymos in 1892. None gives a cause. The 1892 death falls in a cholera year; one death is not a pattern.",
+    "for_the_records": "The burials are in volume no. 383 (deaths 1860-1898). Counting them by year is now possible in principle.",
+    "status": "observation only",
+    "src": [
+      "PL-S-107",
+      "PL-S-075"
     ]
   }
 ]

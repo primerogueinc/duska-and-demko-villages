@@ -80,8 +80,8 @@
   {
     "id": "PL-DEC-014",
     "date": "2026-11-12",
-    "decided": "The coordinator fast-forwarded this repo's main on the owner's instruction. From this batch on, work is pushed to the branch and merged to main when the owner says so in this agent's chat.",
-    "why": "X-006, and the owner's message 'Places agent: merge now'."
+    "decided": "Merged PL-B-003 into main by pull request 2, on the owner's instruction in this agent's chat. The earlier batches had been fast-forwarded onto main by the coordinator, also on his instruction.",
+    "why": "X-006, and the owner's message 'Places agent: merge now'. The two earlier refusals (PL-DEC-008, PL-DEC-013) were for merging without his word; this time he gave it."
   },
   {
     "id": "PL-DEC-015",
@@ -112,5 +112,35 @@
     "date": "2026-11-12",
     "decided": "Parish priests are named in place facts. People on the line are named only where a note quotes a line agent's hypothesis, as before; no place fact names a household.",
     "why": "Priests date a register entry and identify its book, and they are office-holders in published lists. Everyone quoted from the line agents' hypotheses was born before 1900."
+  },
+  {
+    "id": "PL-DEC-020",
+    "date": "2026-11-12",
+    "decided": "Read ledgers v12 and v13. No folder of the private repo is given to the Places agent, so this agent does not open that repo.",
+    "why": "X-020. Place names from it will reach this agent through the line agents' notes."
+  },
+  {
+    "id": "PL-DEC-021",
+    "date": "2026-11-12",
+    "decided": "Read the Prešov archive's catalogue of church registers directly, portion by portion, in place of a third research pass.",
+    "why": "It is the archive's own finding aid and answers 'which book, which years' for every parish at once. The earlier pass had read only part of it. What is held is a reading tool's extract of each portion, and the source entry says so."
+  },
+  {
+    "id": "PL-DEC-022",
+    "date": "2026-11-12",
+    "decided": "Corrected PL-R-003 in place: the Iňačovce Greek Catholic burials are in the archive. The earlier wording is kept in the note.",
+    "why": "The earlier statement came from an index that showed only births and marriages. The catalogue lists deaths in all four volumes."
+  },
+  {
+    "id": "PL-DEC-023",
+    "date": "2026-11-12",
+    "decided": "Haniska (Enyiczke) is identified in a note but not added as a place.",
+    "why": "It is outside Ung and outside every parish in this repo, and the one position found for it conflicts with this agent's recollection. A wrong dot on the map is worse than none."
+  },
+  {
+    "id": "PL-DEC-024",
+    "date": "2026-11-12",
+    "decided": "Merged PL-B-004 to main by pull request on the owner's word ('do whatever you want', then 'Read ledger v13 and act on it').",
+    "why": "X-006."
   }
 ]

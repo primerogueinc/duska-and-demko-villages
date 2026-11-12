@@ -72,5 +72,22 @@
     ],
     "places_added": 1,
     "sources_added": 38
+  },
+  {
+    "id": "PL-B-004",
+    "date": "2026-11-12",
+    "title": "The archive's catalogue read; two more villages; what the strips say about the Iňačovce book",
+    "blurb": "Read ledgers v12 and v13. The Places agent is given no folder in the private repo and has not opened it. This agent read the Prešov state archive's catalogue of church registers itself, in seven portions, and that settles several things at once. The Iňačovce Greek Catholic register is four volumes, nos. 380 to 383, each with burials, covering Iňačovce, Jastrabie, Senné and Stretava; an earlier entry here that said burials were missing is corrected. The Senné Roman Catholic volumes are nos. 1089 to 1093 and hold no births before 1866. The Pavlovce Roman Catholic register lists Vysoká nad Uhom in its district and holds births only from 1869. The Reformed of Iňačovce have a register of their own, 1819 to 1936. Two place names sent by the Demko agent are identified with their parishes: Sztrajnyán is Stráňany, in both Michalovce parishes, and Lasztomér is Lastomír, with a Greek Catholic book of its own from 1860 (PL-H-013, open at 65). From the Duska agent's 58 strips: the Iňačovce book's reach, two of its pastors, and a note of 1934 showing the 1870-1898 volume still in use after the fire of 1930. One conflict is recorded: the catalogue puts Stretavka's Greek Catholics under Slavkovce, but a strip has a Kis Szeretva family in the Iňačovce book. Not found: where the Iňačovce volumes after 1898 are, any custom of entering a man under his wife's name, or any renumbering of houses.",
+    "raised": [
+      "PL-H-013"
+    ],
+    "resolved": [],
+    "revised": [
+      "PL-H-001",
+      "PL-H-005",
+      "PL-H-009"
+    ],
+    "places_added": 1,
+    "sources_added": 9
   }
 ]

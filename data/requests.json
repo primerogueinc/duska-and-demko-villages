@@ -21,7 +21,7 @@
     "id": "PL-Q-004",
     "status": "held",
     "raised": "PL-B-000",
-    "text": "Exact coordinates still wanted for Palín, Stretava, Stretavka, Jastrabie pri Michalovciach, Blatná Polianka, Belá nad Cirochou, Čičarovce, Gyňov, Seňa and Valaliky, all placed approximately."
+    "text": "Exact coordinates still wanted for Palín, Stretava, Stretavka, Jastrabie pri Michalovciach, Blatná Polianka, Belá nad Cirochou, Čičarovce, Gyňov, Seňa, Valaliky and Lastomír, all placed approximately."
   },
   {
     "id": "PL-Q-005",
@@ -33,18 +33,24 @@
     "id": "PL-Q-006",
     "status": "open",
     "raised": "PL-B-003",
-    "text": "Assigned by the coordinator under X-Q-01 and asked by the Demko agent: which Iňačovce Greek Catholic volumes after 1898 survive, and where. Not answered. The Prešov state archive has none; the parish archive was damaged in 1929 and 1930. Next step is a written question to the parish, the Košice eparchy archive and the registry office that now serves Iňačovce."
+    "text": "Assigned by the coordinator under X-Q-01 and asked by the Demko agent: which Iňačovce Greek Catholic volumes after 1898 survive, and where. Still not answered. The Prešov state archive's catalogue ends at no. 383 (to 1898). A note of 1934 in that volume shows it outlived the fire of 1930, so the older books were not lost; the volumes begun in 1899 are not located. Next step is a written question to the parish, the Košice eparchy archive and the registry office that now serves Iňačovce."
   },
   {
     "id": "PL-Q-007",
     "status": "open",
     "raised": "PL-B-003",
-    "text": "Burial counts by year for Senné (from 1831), Viszoka (Čičarovce volume no. 182, from 1851) and Iňačovce, to turn the epidemic timeline from regional dates into village evidence. Needs the register images."
+    "text": "Burial counts by year to turn the epidemic timeline into village evidence. The volumes are now known: Senné nos. 1091 and 1093, Iňačovce nos. 380 to 383, Viszoka in Čičarovce nos. 182 and 182/1. Needs the register images."
   },
   {
     "id": "PL-Q-008",
     "status": "open",
     "raised": "PL-B-003",
     "text": "Not reached in the second pass: the 1715, 1720 and 1828 lists and urbarial tables for the new villages; the 1869, 1921, 1930 and 1941 census sheets; the 1877 and 1913 gazetteers; the locality list of FamilySearch catalogue 1411329; why 1890s entries were copied onto a Slovak printed form."
+  },
+  {
+    "id": "PL-Q-009",
+    "status": "open",
+    "raised": "PL-B-004",
+    "text": "The last pages of the Prešov catalogue (its contents list and any introduction) were not reached, and the Topoľany entry was seen only as numbers. Not yet looked up there: Čičarovce as read by this agent, Bežovce, Lekárovce, Zemplínska Široká, and what the 'duplicate' volumes of 1882-1895 are."
   }
 ]

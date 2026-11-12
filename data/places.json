@@ -254,6 +254,12 @@
         "src": [
           "PL-S-104"
         ]
+      },
+      {
+        "text": "The archive's catalogue lists the Roman Catholic volumes as nos. 1089 to 1093, on microfilm 287-288: births 1866-1912, marriages 1863-1886 and 1887-1926, deaths 1831-1886 and 1887-1925. It gives the parish district as Senné, Iňačovce, Jastrabie pri Michalovciach, Krášok, Palín, Rebrín, Stretava and Stretavka. No volume of births before 1866 is in that collection.",
+        "src": [
+          "PL-S-075"
+        ]
       }
     ],
     "links": [
@@ -532,6 +538,45 @@
         "src": [
           "PL-S-104"
         ]
+      },
+      {
+        "text": "The archive's catalogue lists four Greek Catholic volumes, nos. 380 to 383, on film 88: 1811-1831 in Latin; 1831-1859 in Church Slavonic, Latin and Hungarian; births 1861-1870 with marriages and deaths 1861-1874, in Latin; and births 1870-1898 with marriages and deaths 1860-1898. Each holds births, marriages and deaths, so the parish's burials to 1898 are there. Births of 1860 are in none of the four as listed.",
+        "src": [
+          "PL-S-075"
+        ]
+      },
+      {
+        "text": "The catalogue gives the parish district as Iňačovce, Jastrabie pri Michalovciach, Senné and Stretava.",
+        "src": [
+          "PL-S-075"
+        ]
+      },
+      {
+        "text": "The 58 strips from this book held by the Duska agent bear the catalogue out. Residences are Solymos, Jesztreb, Szenna, Nagy Szeretva and Kis Szeretva. The language is Latin in 1814-1816, Hungarian in 1837-1848, Cyrillic in 1851-1853, Latin in 1861-1876 and Hungarian from 1877.",
+        "src": [
+          "PL-S-107",
+          "PL-S-075"
+        ]
+      },
+      {
+        "text": "Pastors named on the strips: Josef Danilovics in the 1840s and still in 1866; György Lescsisin as assistant in 1885 and as pastor from 1888.",
+        "src": [
+          "PL-S-107",
+          "PL-S-104"
+        ]
+      },
+      {
+        "text": "Later hands wrote Slovak notes into the Hungarian-era volumes: a corrected surname on an entry of 1877, and a death of 18 August 1934 on an entry of 1872. So the volume for 1870-1898 was in working use in 1934, after the lightning of 1929 and the fire of 1930.",
+        "src": [
+          "PL-S-107",
+          "PL-S-046"
+        ]
+      },
+      {
+        "text": "The Reformed of Iňačovce have a register of their own within the Lúčky parish: births 1819-1927, marriages 1820-1926, deaths 1819-1936 (catalogue no. 592/1).",
+        "src": [
+          "PL-S-075"
+        ]
       }
     ],
     "links": [
@@ -609,6 +654,12 @@
       {
         "text": "A Reformed filial of Stretava in the 1733 list.",
         "src": "PL-S-010"
+      },
+      {
+        "text": "The Reformed of Palín had their own register, 1806-1899 (catalogue nos. 787 and 788).",
+        "src": [
+          "PL-S-075"
+        ]
       }
     ]
   },
@@ -639,6 +690,13 @@
       {
         "text": "Counted as a filial of the Senné Roman Catholic parish in the 1734 visitation.",
         "src": "PL-S-009"
+      },
+      {
+        "text": "In the Greek Catholic parish district of Iňačovce by the archive's catalogue, and 'Nagy Szeretva' is a residence in an Iňačovce entry of about 1862. The Reformed had their own register here for 1761-1887, covering Stretava and Stretavka (catalogue no. 1173).",
+        "src": [
+          "PL-S-075",
+          "PL-S-107"
+        ]
       }
     ]
   },
@@ -694,6 +752,13 @@
           "PL-S-050",
           "PL-S-051",
           "PL-S-052"
+        ]
+      },
+      {
+        "text": "Greek Catholics: sources conflict. The archive's catalogue puts Stretavka in the parish district of Slavkovce (nos. 1099 and 1100, 1805-1895), not of Iňačovce. Yet an entry of about 1871 in the Iňačovce book gives a residence at Kis Szeretva. A Stretavka Greek Catholic may be in either book.",
+        "src": [
+          "PL-S-075",
+          "PL-S-107"
         ]
       }
     ],
@@ -790,6 +855,12 @@
         "src": [
           "PL-S-104"
         ]
+      },
+      {
+        "text": "House numbers do not stay put. One cottar household of Jesztreb is entered in the Iňačovce book at seven different numbers between 1864 and 1885. Whether the village was renumbered or cottars moved from house to house is not established; a house number alone does not identify a household here.",
+        "src": [
+          "PL-S-107"
+        ]
       }
     ]
   },
@@ -871,6 +942,12 @@
         "text": "Its Greek Catholics were a filial of Čičarovce in 1825.",
         "src": [
           "PL-S-072"
+        ]
+      },
+      {
+        "text": "The catalogue lists its Roman Catholic register as nos. 795 to 798: marriages 1818-1897, births 1869-1896, deaths 1878-1907. Parish district: Pavlovce nad Uhom, Bajany, Čierne Pole, Ťahyňa and Vysoká nad Uhom. Births before 1869 and deaths before 1878 are not in that collection.",
+        "src": [
+          "PL-S-075"
         ]
       }
     ]
@@ -975,6 +1052,11 @@
         "form": "Nagymihály",
         "when": "Hungarian",
         "src": "training"
+      },
+      {
+        "form": "Sztrajnyán, Sztrajnán, Laborcszög (Hungarian); Strájňany, Stráňany (Slovak)",
+        "when": "a village beside the town, joined to it in 1925; 'Sztrajnyán' is read, with doubt, on a baptism strip of about 1887",
+        "src": "PL-S-111"
       }
     ],
     "role": "District town for both villages today. It was in Zemplén county, not Ung, before 1918.",
@@ -990,6 +1072,25 @@
       {
         "text": "Nearest railway station to Senné, 17 kilometres away.",
         "src": "PL-S-008"
+      },
+      {
+        "text": "Stráňany, now a part of the town, was a separate village until 1925. Its Greek Catholics were in the Michalovce Greek Catholic parish, with Vrbovec, and its Roman Catholics in the Michalovce Roman Catholic parish, with Lastomír, Krásnovce, Močarany, Petrovce nad Laborcom and Topoľany.",
+        "src": [
+          "PL-S-075",
+          "PL-S-112"
+        ]
+      },
+      {
+        "text": "Registers at Prešov: Greek Catholic nos. 670 to 675 (1795-1905; 1876-1890 is no. 673), Roman Catholic nos. 661 to 669 (1826-1899; births 1883-1895 are no. 667). Each has a duplicate volume for 1882-1895.",
+        "src": [
+          "PL-S-075"
+        ]
+      },
+      {
+        "text": "In the mid-18th century the Greek Catholics of the town were served by a cleric from Topoľany.",
+        "src": [
+          "PL-S-114"
+        ]
       }
     ]
   },
@@ -1376,6 +1477,18 @@
         "text": "Liberated on 23 November 1944. Emigration is noted in the 1930s.",
         "src": [
           "PL-S-070"
+        ]
+      },
+      {
+        "text": "The archive's catalogue confirms the Roman Catholic side: Vysoká nad Uhom is in the parish district of Pavlovce nad Uhom (nos. 795 to 798). The Reformed had a register of their own here, 1853-1897 with deaths from 1837, covering Vysoká, Pavlovce and Ťahyňa (nos. 1456 and 1457).",
+        "src": [
+          "PL-S-075"
+        ]
+      },
+      {
+        "text": "An entry of about 1831 has a Greek Catholic's son of Viszoka baptised by the Latin-rite parish priest of Pálóc, 'with the consent of the local parish priest'. Pálóc is Pavlovce. It shows the two rites' clergy standing in for each other in a cholera year; it does not show cholera in the village.",
+        "src": [
+          "PL-S-107"
         ]
       }
     ],
@@ -1863,6 +1976,76 @@
         "src": [
           "PL-S-069"
         ]
+      }
+    ]
+  },
+  {
+    "id": "PL-P-055",
+    "name": "Lastomír",
+    "kind": "residence",
+    "country": "Slovakia",
+    "today": "Michalovce district, Košice Region",
+    "lat": 48.7,
+    "lon": 21.93,
+    "coord": "approximate",
+    "maps": [
+      "local"
+    ],
+    "names": [
+      {
+        "form": "Lezthemer, Leztemer, Lestemir",
+        "when": "1288, 1302, 1389",
+        "src": "PL-S-109"
+      },
+      {
+        "form": "Lasztomér, Lasztomir",
+        "when": "Hungarian; 'Lasztomér' on a baptism strip of about 1887",
+        "src": "PL-S-108"
+      },
+      {
+        "form": "Lastomír",
+        "when": "1773 and today",
+        "src": "PL-S-109"
+      }
+    ],
+    "role": "Named as a residence in a baptism strip of about 1887 held by the Demko agent. In Zemplén county, outside the Iňačovce and Čičarovce parishes.",
+    "facts": [
+      {
+        "text": "In Zemplén county until 1918, about 6 km south of Michalovce. 137 houses and 1,001 people in 1828. Many emigrated between 1880 and 1910.",
+        "src": [
+          "PL-S-110",
+          "PL-S-109"
+        ]
+      },
+      {
+        "text": "Greek Catholics: a register of its own at Prešov, no. 531, with births 1860-1928 and marriages and deaths 1890-1937, and a duplicate for 1891-1895 (no. 532). The parish district is Lastomír alone. A Greek Catholic baptism here in 1887 should be in no. 531.",
+        "src": [
+          "PL-S-075"
+        ]
+      },
+      {
+        "text": "The Greek Catholic parish of Šamudovce also lists Lastomír in its district (nos. 1213 to 1218, 1786-1928). Before 1860 for births, and before 1890 for marriages and deaths, that is the book to try.",
+        "src": [
+          "PL-S-075"
+        ]
+      },
+      {
+        "text": "Roman Catholics belonged to the Michalovce parish. The Reformed had a parish here with a wide district that took in Michalovce itself (nos. 533 to 535, 1787-1924).",
+        "src": [
+          "PL-S-075"
+        ]
+      }
+    ],
+    "links": [
+      {
+        "label": "Wikipedia (English)",
+        "url": "https://en.wikipedia.org/wiki/Lastom%C3%ADr",
+        "kind": "encyclopedia"
+      },
+      {
+        "label": "e-obce.sk: history",
+        "url": "https://www.e-obce.sk/obec/lastomir/2-historia.html",
+        "kind": "municipal"
       }
     ]
   },

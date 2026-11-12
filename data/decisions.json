@@ -70,5 +70,11 @@
     "date": "2026-11-12",
     "decided": "Introduced the place kind 'residence' for a village named as a home in a line agent's record, and moved Vysoká nad Uhom to it.",
     "why": "These places matter because of a record, not because of a parish or border role. The Site agent was told beforehand."
+  },
+  {
+    "id": "PL-DEC-013",
+    "date": "2026-11-12",
+    "decided": "Tried the merge to main a second time after the owner said to act on ledger v3. It was refused again by this session's safety check. Did not push to main directly. Asked the owner to press the merge button on pull request 1.",
+    "why": "X-006 says merge now; the session does not permit this agent to merge without a review. Going round the refusal would defeat its purpose."
   }
 ]

@@ -193,5 +193,17 @@
     "translation": "With singing; with a sermon.",
     "why": "The Reformed burial book of Solymos in the 1830s has a column for how each person was buried. Not everyone got the sermon.",
     "tone": "odd"
+  },
+  {
+    "id": "PL-CU-017",
+    "batch": "PL-B-009",
+    "src": [
+      "PL-S-107"
+    ],
+    "place": "PL-P-002",
+    "original": "Amerika",
+    "translation": "America",
+    "why": "The whole birthplace of a woman of Iňačovce, born in 1901, on the Czechoslovak census of 1930. She was born abroad and brought home, as the child of the Bradenville entry was. The enumerator did not ask which town.",
+    "tone": "history"
   }
 ]

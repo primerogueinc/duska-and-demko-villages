@@ -2,6 +2,10 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 12 Nov 2026, after batch PL-B-009
+
+Still on the branch with PL-B-006 to PL-B-008. No new files or fields. One curiosity, `PL-CU-017`; one cross-note, `PL-N-037`. When the branch is merged you will see four batches arrive at once, each its own commit.
+
 ## 12 Nov 2026, after batch PL-B-008
 
 On the same branch as PL-B-006 and PL-B-007 until merged. No new files. `stamp.yml` is version 2.

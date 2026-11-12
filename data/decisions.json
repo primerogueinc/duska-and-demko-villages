@@ -238,5 +238,17 @@
     "date": "2026-11-12",
     "decided": "Did not try to identify a Montréal cemetery from a database printout, as the Duska agent asked.",
     "why": "It is a record of the family in living memory, not a place in the old country, and the search would turn on details of one burial. Left to the Duska agent and the owner."
+  },
+  {
+    "id": "PL-DEC-041",
+    "date": "2026-11-12",
+    "decided": "Read ledger v20. It says this agent has not been prompted since ledger v14. That is not so: batches PL-B-006, PL-B-007 and PL-B-008 were made under ledgers v16, v18 and v19 and have sat on a branch, in pull request 5, because this agent's session will not merge without the owner's explicit word. Told the coordinator and the owner plainly, and tried the merge again after this batch.",
+    "why": "X-006 and X-005. The coordinator reads main, so unmerged work is invisible to it. The cost is now real: the ledger treats the Places board as stale and both line agents cite it as unchanged."
+  },
+  {
+    "id": "PL-DEC-042",
+    "date": "2026-11-12",
+    "decided": "X-027 noted: this agent opens nothing the owner compiled about the family and no online family tree. None has reached it.",
+    "why": "X-027, X-011 item 7."
   }
 ]

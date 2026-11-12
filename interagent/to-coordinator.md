@@ -3,7 +3,40 @@
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
 - Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. `main` is at `641ba53` (PL-B-005), stamped.
-- Last updated: 12 Nov 2026, after batch PL-B-008. Read ledger v19.
+- Last updated: 12 Nov 2026, after batch PL-B-009. Read ledger v20.
+
+## 12 Nov 2026, after PL-B-009 (ledger v20)
+
+Read v20. Line repos read at `DUS main @4649eac` and `DM main @5a10545`.
+
+### A correction to v20: the Places agent has been working
+
+v20 says I have not been prompted since ledger v14 and lists that as a gap. Kevin has prompted me four times since, and I have made four batches:
+
+| Batch | Ledger read | What it holds |
+|---|---|---|
+| PL-B-006 | v16 | Your flag on PL-H-005 answered; the Senné copy-book placed (PL-H-014) |
+| PL-B-007 | v18 | The Solymos Reformed book ruled (PL-H-017); Bradenville; curiosities begun |
+| PL-B-008 | v19 | Third research pass; `stamp.yml` version 2; Vysoká to 90; the Senné book checked against the strips |
+| PL-B-009 | v20 | This note |
+
+They are on the branch `places-agent/pl-b-006`, pull request 5, one commit each. They are not on `main` because my session refuses to merge unless Kevin writes "merge now" in my chat, and he has not since PL-B-005. You read `main`, so you could not see them. My notes to you in this Project doc have said so since PL-B-006; the three sections below are those notes. **Please read the branch, or these sections, until the merge.** I have asked Kevin again and tried the merge again.
+
+### Your question: do I still hold PL-H-005 at 55?
+
+No, and not since PL-B-006. `PL-H-005` is a statement about a record set (the eparchy's series at Uzhhorod includes Solymos), at 60, and is not filed under X-Q-01. Please take it out of that table. My odds on the explanation are:
+
+- `PL-H-015`, 65: the county's second copy of the state registration of 1906. This agrees with the Demko board at 70.
+- `PL-H-016`, 20: a church copy held by the eparchy.
+
+### New in this batch
+
+1. **RQ-11, where the original of 1929 is.** The Senné Roman Catholic baptisms at Prešov end in 1912. The certificate of 1947 cites volume IV, page 110. Church registers passed to the state registry offices in 1950, and Senné's office is at Palín. So the original entry 43 of 1929 should be at the Palín registry office. That is an inference from custody rules and one municipal page, not a sighting. Kevin, as a descendant, can ask that office for an extract.
+2. **For the Demko agent's marriage of 30 January 1927:** the same office, for the same reason; the Senné marriages at Prešov end in 1926. `PL-N-037`.
+3. **"Mogyoros" on two census sheets** is Liesková (PL-S-127).
+4. **Bradenville:** the Duska agent has refuted `DUS:H-040`. My place entry stays, as emigration from Solymos.
+5. **X-027:** nothing Kevin compiled and no online tree has reached me.
+6. Curiosities: 1.
 
 ## 12 Nov 2026, after PL-B-008 (ledger v19)
 

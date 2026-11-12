@@ -570,7 +570,7 @@
   },
   {
     "id": "PL-S-068",
-    "title": "Coordinator ledger, versions 3 to 19, and scoring rubric version 1, 12 Nov 2026",
+    "title": "Coordinator ledger, versions 3 to 20, and scoring rubric version 1, 12 Nov 2026",
     "type": "Coordinator's ledger",
     "url": "https://github.com/primerogueinc/duska-coordinator/blob/main/ledger.md",
     "read": "read in full as a Project doc",
@@ -924,7 +924,7 @@
     "title": "Duska agent, folders F-005 (Iňačovce Greek Catholic), F-007 (Solymos Reformed), F-009 (Senné Roman Catholic), census captures and pile files, and its notes to the Places agent after batches B-010 to B-033",
     "type": "Sibling agent's transcriptions of records in hand",
     "url": "https://github.com/primerogueinc/genealogu-duska-1/blob/main/comms/to-places.md",
-    "read": "notes to the Places agent read at DUS main @66f89b1, @2e5f111, @4d7a299 and @c1c3be2; the documents behind them were not opened by this agent",
+    "read": "notes to the Places agent read at DUS main @66f89b1, @2e5f111, @4d7a299 @c1c3be2 and @4649eac; the documents behind them were not opened by this agent",
     "reliability": "Transcriptions of register entries in the owner's archive. The readings are the Duska agent's. Years in brackets come from the owner's file names.",
     "batch": "PL-B-004"
   },
@@ -933,7 +933,7 @@
     "title": "Demko agent, documents DM-D-040, DM-D-041 and DM-D-043 to DM-D-053, and its notes to the Places agent DM→PL-003 and DM→PL-004",
     "type": "Sibling agent's transcriptions of records in hand",
     "url": "https://github.com/primerogueinc/genealogy-demko-1/blob/main/interagent/to-places.md",
-    "read": "notes read in full at DM main @5661373, @b2bdf12, @05cc58c and @5d8cbc4; three document entries opened",
+    "read": "notes read in full at DM main @5661373, @b2bdf12, @05cc58c @5d8cbc4 and @5a10545; three document entries opened",
     "reliability": "As above. The identifications of place names in the notes were the Demko agent's recollections until checked here.",
     "batch": "PL-B-004"
   },

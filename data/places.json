@@ -317,6 +317,14 @@
         "src": [
           "PL-S-127"
         ]
+      },
+      {
+        "text": "For a Senné baptism or marriage later than the volumes at Prešov (births after 1912, marriages after 1926), the book is not in the state archive. A parish certificate of 1947 cites the baptisms of 1929 as volume IV, page 110. Church registers passed to the state registry offices in 1950, and Senné's office is at Palín, so that is the first place to ask for an entry of 1927 or 1929. That the volume is at Palín is an inference, not a finding.",
+        "src": [
+          "PL-S-075",
+          "PL-S-128",
+          "PL-S-108"
+        ]
       }
     ],
     "links": [
@@ -677,6 +685,12 @@
       },
       {
         "text": "Four household sheets of the census of 1869 for Solymos are in the Duska agent's hands. They show Reformed, Greek Catholic and Roman Catholic people of one surname in one village.",
+        "src": [
+          "PL-S-107"
+        ]
+      },
+      {
+        "text": "In the census of 1930 one woman of Iňačovce, born in 1901, has her birthplace written as 'Amerika'.",
         "src": [
           "PL-S-107"
         ]
@@ -2281,6 +2295,13 @@
           "PL-S-127",
           "PL-S-075"
         ]
+      },
+      {
+        "text": "The 'Mogyoros' of two 1930 census sheets, with birthplaces at Mokča, is Liesková: the state archive's district history writes 'Mogyoroš (Liesková)' and lists it beside Mokča-Krišov. It is not Ťahyňa.",
+        "src": [
+          "PL-S-127",
+          "PL-S-107"
+        ]
       }
     ]
   },
@@ -2301,7 +2322,7 @@
         "src": "PL-S-107"
       }
     ],
-    "role": "The one residence that is not Solymos in the Duska agent's 45 Reformed strips: an entry made at home from an extract of a birth certificate.",
+    "role": "The one residence that is not Solymos in the Duska agent's 45 Reformed strips. The Duska agent has since ruled that the child of that entry is not on the line; the place stays as part of the village's emigration.",
     "facts": [
       {
         "text": "A coal town two miles from Latrobe. The reading on the strip is doubtful, but the place exists and was drawing people from this part of Europe at the right date.",

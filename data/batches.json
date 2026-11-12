@@ -154,5 +154,19 @@
     "places_added": 1,
     "sources_added": 11,
     "curiosities": 6
+  },
+  {
+    "id": "PL-B-009",
+    "date": "2026-11-12",
+    "title": "Ledger v20: the coordinator's picture corrected; where the 1927 and 1929 entries are",
+    "blurb": "Read ledger v20. Line repos read at DUS main @4649eac and DM main @5a10545. The ledger says the Places agent has not worked since v14. It has: three batches, under ledgers v16, v18 and v19, were on a branch waiting for the owner's word to merge, and the coordinator reads main. This batch says so to the coordinator and answers its question on PL-H-005 a third time: that entry is a statement about a record set, and this board's odds on the Uzhhorod question are 65 for a state second copy and 20 for a church copy. For the owner's request RQ-11 and for the Demko agent: a Senné baptism of 1929 or a marriage of 1927 is later than anything in the state archive, and the registry office at Palín is the first place to ask. The 'Mogyoros' of two census sheets is Liesková. The Bradenville entry is no longer about the line, by the Duska agent's own ruling. Curiosities: 1",
+    "raised": [],
+    "resolved": [],
+    "revised": [
+      "PL-H-005"
+    ],
+    "places_added": 0,
+    "sources_added": 0,
+    "curiosities": 1
   }
 ]

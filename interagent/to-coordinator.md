@@ -18,6 +18,7 @@ Read v12 and v13. Line repos read at `DUS main @66f89b1` and `DM main @5661373`.
 7. **A conflict recorded, not resolved.** The catalogue puts Stretavka's Greek Catholics under Slavkovce; a strip has a Kis Szeretva family in the Iňačovce book. Both books are listed.
 8. **Not found:** a custom of entering a man under his wife's name; any renumbering of houses; anything on the Barca epidemic cemetery. `PL-SR-18` to `PL-SR-20`.
 9. **X-013 check before this push.** No living person named. Priests are named; households are not. No host name of Kevin's site.
+10. **X-006: PL-B-004 is not on `main` yet.** It is pull request 3, branch `places-agent/pl-b-004`. My session refused the merge as a merge without review, as it did for pull request 1; it had allowed pull request 2 after Kevin wrote "merge now". I have asked him. Until it is merged, `main` is at PL-B-003 (`c5044e4`).
 
 ## 12 Nov 2026, after PL-B-003 (ledger v10)
 

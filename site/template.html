@@ -82,6 +82,7 @@ a.ref:hover{color:var(--accent);text-decoration:underline}
 .sheet svg{display:block;width:100%;height:auto}
 .sheet figcaption,.cap{font-size:13px;color:var(--muted);margin-top:8px;max-width:72ch}
 figure{margin:0}
+figure.sat{margin:10px 0 4px;max-width:405px}figure.sat img{display:block;width:100%;height:auto;border:1px solid var(--rule)}figure.sat figcaption{font-size:12px;line-height:1.4;opacity:.8;margin-top:4px}
 .mapgrid{display:grid;grid-template-columns:minmax(0,520px) minmax(0,1fr);gap:24px;margin-top:22px;align-items:start}
 .key{list-style:none;margin:0;padding:0;display:grid;gap:7px;font-size:14px}
 .key li{display:grid;grid-template-columns:30px 1fr;gap:8px;align-items:center}
@@ -190,6 +191,8 @@ const row = (id, html) => `<div class="row" id="${esc(id)}"><div class="id">${es
 const ref1 = s => s === "training" ? pill("training", "from training, unchecked") : `<a class="ref" href="#${esc(s)}">${esc(s)}</a>`;
 const refs = s => `<span class="refs">${[].concat(s || []).map(ref1).join("")}</span>`;
 const P = DATA.places, byId = Object.fromEntries(P.map(p => [p.id, p]));
+const IMG = Object.fromEntries(((DATA.imagery || {}).images || []).map(x => [x.place, x]));
+const sat = id => { const x = IMG[id]; return x ? `<figure class="sat"><img src="${esc(x.file)}" width="${x.width}" height="${x.height}" loading="lazy" alt="${esc(x.alt)}"><figcaption>From orbit, ${esc(x.taken.slice(0, 10))}: ${x.ground_km[0]} by ${x.ground_km[1]} km, ${x.metres_per_pixel} m to the pixel. ${esc(x.credit)}. <a href="${esc(x.licence_url)}" rel="noopener">Licence</a>: ${esc(x.licence)} ${esc(x.centre_credit)}. Made with ${esc(x.built_with)}.</figcaption></figure>` : ""; };
 const H = DATA.hypotheses, count = st => H.filter(h => h.status === st).length;
 
 $("stats").innerHTML = [
@@ -308,7 +311,7 @@ $("dist").innerHTML = `<thead><tr><th>Place</th><th class="num">from Senné</th>
 const linkList = p => (p.links || []).length ? `<h4>Links out</h4><ul class="links">${p.links.map(l => `<li><a href="${esc(l.url)}" rel="noopener">${esc(l.label)}</a> <span class="meta">${esc(l.kind)}</span></li>`).join("")}</ul>${p.coord_check ? `<p class="meta">${esc(p.coord_check)}</p>` : ""}` : "";
 $("villages-body").innerHTML = ["PL-P-001", "PL-P-002"].map(id => { const p = byId[id]; return `<div id="${esc(p.id)}">
   <div class="id">${esc(p.id)} &middot; ${p.lat.toFixed(3)}&deg; N, ${p.lon.toFixed(3)}&deg; E</div>
-  <div class="vname">${esc(p.name)}</div><div class="meta">${esc(p.today)}</div><p>${esc(p.role)}</p>
+  <div class="vname">${esc(p.name)}</div><div class="meta">${esc(p.today)}</div>${sat(p.id)}<p>${esc(p.role)}</p>
   <h4>Names on record</h4><ul class="names">${p.names.map(n => `<li><b>${esc(n.form)}</b><span class="meta">${esc(n.when)} ${ref1(n.src)}</span></li>`).join("")}</ul>
   <h4>What is known</h4><ul class="facts">${p.facts.map(f => `<li>${esc(f.text)} ${refs(f.src)}</li>`).join("")}</ul>${linkList(p)}</div>`; }).join("");
 
@@ -341,7 +344,7 @@ const KIND = {"parish-ring": "Senné parish, 1734", admin: "district or estate s
 $("gaz-body").innerHTML = P.filter(p => p.kind !== "home").map(p => { const d = DATA.distances.find(x => x.id === p.id); return row(p.id,
   `<div class="head"><h3>${esc(p.name)}</h3><span class="meta">${esc(p.country)} &middot; ${esc(KIND[p.kind] || p.kind)}${d ? ` &middot; ${d.approx ? "about " : ""}${d.senne} km from Senné` : ""}${p.coord === "approximate" ? " &middot; position approximate" : ""}</span></div>
    ${p.names.length ? `<div class="meta">Also ${p.names.map(n => `<b>${esc(n.form)}</b> (${esc(n.when)}) ${ref1(n.src)}`).join("; ")}</div>` : ""}
-   <p>${esc(p.role)}</p>${p.facts.map(f => `<p class="meta">${esc(f.text)} ${refs(f.src)}</p>`).join("")}${linkList(p)}`); }).join("");
+   ${sat(p.id)}<p>${esc(p.role)}</p>${p.facts.map(f => `<p class="meta">${esc(f.text)} ${refs(f.src)}</p>`).join("")}${linkList(p)}`); }).join("");
 
 /* ---------- the rest ---------- */
 $("epi-body").innerHTML = DATA.epidemics.map(e => row(e.id,

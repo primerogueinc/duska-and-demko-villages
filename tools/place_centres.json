@@ -1,0 +1,201 @@
+{
+ "PL-P-001": {
+  "lat": 48.66508,
+  "lon": 22.02358,
+  "osm_class": "place/village",
+  "off_km": 0.36
+ },
+ "PL-P-002": {
+  "lat": 48.69723,
+  "lon": 22.03419,
+  "osm_class": "place/village",
+  "off_km": 0.32
+ },
+ "PL-P-010": {
+  "lat": 48.65821,
+  "lon": 21.98855,
+  "osm_class": "place/village",
+  "off_km": 0.23
+ },
+ "PL-P-011": {
+  "lat": 48.64339,
+  "lon": 22.0022,
+  "osm_class": "place/village",
+  "off_km": 2.75
+ },
+ "PL-P-012": {
+  "lat": 48.62216,
+  "lon": 21.98811,
+  "osm_class": "place/village",
+  "off_km": 1.9
+ },
+ "PL-P-013": {
+  "lat": 48.69316,
+  "lon": 21.97744,
+  "osm_class": "place/village",
+  "off_km": 0.08
+ },
+ "PL-P-014": {
+  "lat": 48.71221,
+  "lon": 22.03006,
+  "osm_class": "place/village",
+  "off_km": 3.06
+ },
+ "PL-P-015": {
+  "lat": 48.69242,
+  "lon": 22.10531,
+  "osm_class": "place/village",
+  "off_km": 1.44
+ },
+ "PL-P-020": {
+  "lat": 48.6128,
+  "lon": 22.06913,
+  "osm_class": "place/village",
+  "off_km": 0.21
+ },
+ "PL-P-021": {
+  "lat": 48.55388,
+  "lon": 22.07737,
+  "osm_class": "place/town",
+  "off_km": 0.31
+ },
+ "PL-P-022": {
+  "lat": 48.74465,
+  "lon": 22.18066,
+  "osm_class": "place/town",
+  "off_km": 0.05
+ },
+ "PL-P-023": {
+  "lat": 48.75144,
+  "lon": 21.92119,
+  "osm_class": "place/town",
+  "off_km": 0.35
+ },
+ "PL-P-024": {
+  "lat": 48.62237,
+  "lon": 22.30226,
+  "osm_class": "boundary/administrative",
+  "off_km": 0.59
+ },
+ "PL-P-030": {
+  "lat": 49.00001,
+  "lon": 21.23921,
+  "osm_class": "boundary/administrative",
+  "off_km": 0.28
+ },
+ "PL-P-031": {
+  "lat": 48.2051,
+  "lon": 22.64532,
+  "osm_class": "boundary/administrative",
+  "off_km": 0.06
+ },
+ "PL-P-032": {
+  "lat": 48.71723,
+  "lon": 21.24968,
+  "osm_class": "boundary/administrative",
+  "off_km": 0.69
+ },
+ "PL-P-033": {
+  "lat": 47.78918,
+  "lon": 22.87256,
+  "osm_class": "boundary/administrative",
+  "off_km": 1.35
+ },
+ "PL-P-034": {
+  "lat": 48.44211,
+  "lon": 22.71854,
+  "osm_class": "boundary/administrative",
+  "off_km": 0.06
+ },
+ "PL-P-035": {
+  "lat": 48.97442,
+  "lon": 22.10727,
+  "osm_class": "boundary/administrative",
+  "off_km": 1.19
+ },
+ "PL-P-036": {
+  "lat": 48.63155,
+  "lon": 22.1537,
+  "osm_class": "place/village",
+  "off_km": 0.31
+ },
+ "PL-P-037": {
+  "lat": 48.62598,
+  "lon": 22.0922,
+  "osm_class": "place/village",
+  "off_km": 0.06
+ },
+ "PL-P-050": {
+  "lat": 48.54067,
+  "lon": 22.0231,
+  "osm_class": "place/village",
+  "off_km": 1.06
+ },
+ "PL-P-051": {
+  "lat": 48.58051,
+  "lon": 21.27316,
+  "osm_class": "place/village",
+  "off_km": 0.17
+ },
+ "PL-P-052": {
+  "lat": 48.58893,
+  "lon": 21.30402,
+  "osm_class": "place/village",
+  "off_km": 1.04
+ },
+ "PL-P-053": {
+  "lat": 48.56129,
+  "lon": 21.25707,
+  "osm_class": "boundary/administrative",
+  "off_km": 0.82
+ },
+ "PL-P-054": {
+  "lat": 48.64153,
+  "lon": 21.29313,
+  "osm_class": "boundary/administrative",
+  "off_km": 1.38
+ },
+ "PL-P-055": {
+  "lat": 48.70372,
+  "lon": 21.92607,
+  "osm_class": "place/village",
+  "off_km": 0.5
+ },
+ "PL-P-057": null,
+ "PL-P-056": {
+  "lat": 40.32146,
+  "lon": -79.34004,
+  "osm_class": "place/hamlet",
+  "off_km": 0.01
+ },
+ "PL-P-040": {
+  "lat": 47.89899,
+  "lon": 20.37437,
+  "osm_class": "boundary/administrative",
+  "off_km": 0.42
+ },
+ "PL-P-041": {
+  "lat": 48.1435,
+  "lon": 17.10829,
+  "osm_class": "boundary/administrative",
+  "off_km": 0.57
+ },
+ "PL-P-042": {
+  "lat": 47.49788,
+  "lon": 19.04024,
+  "osm_class": "boundary/administrative",
+  "off_km": 0.0
+ },
+ "PL-P-043": {
+  "lat": 46.76938,
+  "lon": 23.58995,
+  "osm_class": "boundary/administrative",
+  "off_km": 2.57
+ },
+ "PL-P-058": {
+  "lat": 48.76699,
+  "lon": 22.0645,
+  "osm_class": "place/village",
+  "off_km": 0.57
+ }
+}

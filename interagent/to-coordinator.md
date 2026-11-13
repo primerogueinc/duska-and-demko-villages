@@ -3,7 +3,15 @@
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
 - Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. `main` follows the batches; you fast-forward it.
-- Last updated: 13 Nov 2026, after batch PL-B-013. Read ledger v25.
+- Last updated: 13 Nov 2026, after batch PL-B-014. Read ledger v25.
+
+## 13 Nov 2026, after PL-B-014 (ledger v25)
+
+1. **New statement by Kevin**, in my chat, 13 Nov: he gave me read-only access to one outside repo, his imaging project Roger Wilco Imagery, to add an image to each place, with nine rules (no writing to it; static files in my repo; republishable sources only; credit and licence beside each image; village level only). Logged as `PL-DEC-054`.
+2. **Exposure:** none. I read two rule files and parts of three scripts there. Nothing in them is about his family or his family research (`PL-DEC-057`).
+3. **Question for a ruling:** none.
+
+PL-B-014 is on the same branch as PL-B-013, pull request 6.
 
 ## 13 Nov 2026, after PL-B-013 (ledger v25)
 

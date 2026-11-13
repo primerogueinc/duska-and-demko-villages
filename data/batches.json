@@ -225,5 +225,17 @@
     "places_added": 1,
     "sources_added": 1,
     "curiosities": 1
+  },
+  {
+    "id": "PL-B-014",
+    "date": "2026-11-13",
+    "title": "A satellite image for each place; positions corrected",
+    "blurb": "The owner gave this agent read-only access to his imaging project, Roger Wilco Imagery, to put one image beside each place. Its rules and its register of data sources were read first. The register clears Copernicus Sentinel-2 for republishing with a credit, so that is the source: 33 crops of clear scenes from September 2026, four by three kilometres for a village and eight by six for a town, ten or twenty metres to the pixel, about 35 kilobytes each, stored in this repo. The credit is printed on every image and the licence is beside it in data/imagery.json. One thing did not go as asked: this session refused to run the imaging project's own code, so the crops were made with a script written here, and they do not carry that project's credit. Its picker can be run later with one flag. Making the images showed that fifteen of this board's estimated positions were off, Jastrabie by three kilometres; they now use OpenStreetMap's settlement points. Nothing was written to the imaging repo, and nothing in it concerned the family. The ledger was still version 25. Curiosities: 1",
+    "raised": [],
+    "resolved": [],
+    "revised": [],
+    "places_added": 0,
+    "sources_added": 3,
+    "curiosities": 1
   }
 ]

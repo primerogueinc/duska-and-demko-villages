@@ -316,5 +316,29 @@
     "date": "2026-11-13",
     "decided": "Gave every curiosity a 'title', a field the site's contract lists and this board had never filled.",
     "why": "Site agent's note after SITE-B-012."
+  },
+  {
+    "id": "PL-DEC-054",
+    "date": "2026-11-13",
+    "decided": "A statement and instruction by the owner in this chat: read-only access to his imaging project's repo, Roger Wilco Imagery, to add one image to each place; no writing to that repo of any kind; outputs as small static files in this repo; a source only if its terms allow republishing; credit and licence beside each image; nothing at house or parcel level. Followed as given. The repo was attached read-only and cloned once; its two rule files were read before anything else.",
+    "why": "Ledger X-029."
+  },
+  {
+    "id": "PL-DEC-055",
+    "date": "2026-11-13",
+    "decided": "The images were made with this repo's own script, not with Roger Wilco Imagery's code. This session's safety check refused the command that would have run that repo's code ('Code from External'). This agent did not try again by another route. The script keeps a second engine that calls Roger Wilco Imagery's picker unchanged, for a session that is allowed to run it. Because no image here was built with that project's code or data, none carries its credit; the index says so and says its register was used for the terms.",
+    "why": "A credit should say what was done. The owner was told the exact error."
+  },
+  {
+    "id": "PL-DEC-056",
+    "date": "2026-11-13",
+    "decided": "Replaced fifteen estimated positions with OpenStreetMap settlement points. Largest moves: Jastrabie pri Michalovciach 3.06 km; Stretava 2.75 km; Cluj-Napoca 2.57 km; Stretavka 1.9 km; Blatná Polianka 1.44 km; Valaliky 1.38 km. Distances on the page are recomputed.",
+    "why": "The images showed that several estimates, taken from coordinates given to the minute, were one to three kilometres off the village. Jastrabie was drawn east of Iňačovce; it lies just north of it."
+  },
+  {
+    "id": "PL-DEC-057",
+    "date": "2026-11-13",
+    "decided": "In the imaging repo this agent read: docs/SESSION-RULES.md and data-sources.yaml in full; parts of scripts/pickup.py and scripts/baseline_backfill.py and the function names of scripts/cloudmask.py; the top-level file list. The system also loaded its CLAUDE.md and docs/AGENTS.md. Nothing in them is about the owner's family or his family research. One of its key-holding agents is named with a Rusyn word; nothing is taken from that. Account names seen there are not copied anywhere. Nothing was written to that repo: no push, branch, pull request, issue or workflow start, and its working tree is unchanged.",
+    "why": "The owner asked for a report of any family content met there, and for confirmation that nothing was written."
   }
 ]

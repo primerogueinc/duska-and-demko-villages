@@ -318,5 +318,19 @@
     "translation": "In Hungarian: Zavadka, then Fogas.",
     "why": "When Hungary gave its villages Hungarian names about 1900, Závadka became Fogas. From recall, not sourced: in Hungarian the word means toothed, and is also the name of a fish, the pike-perch, and of a coat rack. Whoever chose it, a burial entry of 1891 still has the old name.",
     "tone": "funny"
+  },
+  {
+    "id": "PL-CU-025",
+    "title": "The ponds are still there",
+    "batch": "PL-B-014",
+    "src": [
+      "PL-S-155",
+      "PL-S-039"
+    ],
+    "place": "PL-P-001",
+    "original": "imagery/PL-P-001.jpg",
+    "translation": "A satellite image of Senné, 20 September 2026.",
+    "why": "The village that fished from dugout boats into the 20th century (PL-CU-005) still has water on its north-east edge: squared fish ponds, the one thing in the picture that is not a field or a street.",
+    "tone": "history"
   }
 ]

@@ -358,6 +358,12 @@
         "src": [
           "PL-S-107"
         ]
+      },
+      {
+        "text": "From orbit on 20 September 2026: a main street running east to west among cut fields, with squared fish ponds on the north-east edge of the picture.",
+        "src": [
+          "PL-S-155"
+        ]
       }
     ],
     "links": [
@@ -823,9 +829,9 @@
     "name": "Palín",
     "kind": "parish-ring",
     "country": "Slovakia",
-    "lat": 48.66,
-    "lon": 21.99,
-    "coord": "approximate",
+    "lat": 48.65821,
+    "lon": 21.98855,
+    "coord": "OpenStreetMap",
     "maps": [
       "local"
     ],
@@ -859,16 +865,17 @@
           "PL-S-075"
         ]
       }
-    ]
+    ],
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 0.23 km away at PL-B-014."
   },
   {
     "id": "PL-P-011",
     "name": "Stretava",
     "kind": "parish-ring",
     "country": "Slovakia",
-    "lat": 48.62,
-    "lon": 21.99,
-    "coord": "approximate",
+    "lat": 48.64339,
+    "lon": 22.0022,
+    "coord": "OpenStreetMap",
     "maps": [
       "local"
     ],
@@ -896,16 +903,17 @@
           "PL-S-107"
         ]
       }
-    ]
+    ],
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 2.75 km away at PL-B-014."
   },
   {
     "id": "PL-P-012",
     "name": "Stretavka",
     "kind": "parish-ring",
     "country": "Slovakia",
-    "lat": 48.61,
-    "lon": 21.97,
-    "coord": "approximate",
+    "lat": 48.62216,
+    "lon": 21.98811,
+    "coord": "OpenStreetMap",
     "maps": [
       "local"
     ],
@@ -971,7 +979,8 @@
         "url": "https://archives.hungaricana.hu/hu/urberi/ung-kisszeretva/?list=eyJxdWVyeSI6ICJNRUdZPVVORyJ9",
         "kind": "records"
       }
-    ]
+    ],
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 1.9 km away at PL-B-014."
   },
   {
     "id": "PL-P-013",
@@ -1026,9 +1035,9 @@
     "name": "Jastrabie pri Michalovciach",
     "kind": "parish-ring",
     "country": "Slovakia",
-    "lat": 48.72,
-    "lon": 22.07,
-    "coord": "approximate",
+    "lat": 48.71221,
+    "lon": 22.03006,
+    "coord": "OpenStreetMap",
     "maps": [
       "local"
     ],
@@ -1091,16 +1100,17 @@
           "PL-S-107"
         ]
       }
-    ]
+    ],
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 3.06 km away at PL-B-014."
   },
   {
     "id": "PL-P-015",
     "name": "Blatná Polianka",
     "kind": "parish-ring",
     "country": "Slovakia",
-    "lat": 48.68,
-    "lon": 22.1,
-    "coord": "approximate",
+    "lat": 48.69242,
+    "lon": 22.10531,
+    "coord": "OpenStreetMap",
     "maps": [
       "local"
     ],
@@ -1119,7 +1129,8 @@
           "PL-S-003"
         ]
       }
-    ]
+    ],
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 1.44 km away at PL-B-014."
   },
   {
     "id": "PL-P-020",
@@ -1544,9 +1555,9 @@
     "name": "Belá nad Cirochou",
     "kind": "origin",
     "country": "Slovakia",
-    "lat": 48.965,
-    "lon": 22.115,
-    "coord": "approximate",
+    "lat": 48.97442,
+    "lon": 22.10727,
+    "coord": "OpenStreetMap",
     "maps": [
       "regional"
     ],
@@ -1563,7 +1574,8 @@
         "text": "After 1720 many settlers came to Iňačovce from the north of Ung and Zemplín, this village among them.",
         "src": "PL-S-006"
       }
-    ]
+    ],
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 1.19 km away at PL-B-014."
   },
   {
     "id": "PL-P-036",
@@ -1824,9 +1836,9 @@
     "name": "Čičarovce",
     "kind": "residence",
     "country": "Slovakia",
-    "lat": 48.55,
-    "lon": 22.02,
-    "coord": "approximate",
+    "lat": 48.54067,
+    "lon": 22.0231,
+    "coord": "OpenStreetMap",
     "maps": [
       "local"
     ],
@@ -1969,7 +1981,8 @@
         "url": "https://www.minv.sk/swift_data/source/verejna_sprava/statny_archiv_v_presove/dokumenty/ap/Cirkevne%20matriky%202026.pdf",
         "kind": "records"
       }
-    ]
+    ],
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 1.06 km away at PL-B-014."
   },
   {
     "id": "PL-P-051",
@@ -2097,9 +2110,9 @@
     "name": "Gyňov",
     "kind": "residence",
     "country": "Slovakia",
-    "lat": 48.58,
-    "lon": 21.3,
-    "coord": "approximate",
+    "lat": 48.58893,
+    "lon": 21.30402,
+    "coord": "OpenStreetMap",
     "maps": [],
     "names": [
       {
@@ -2172,16 +2185,17 @@
         "url": "https://hu.wikipedia.org/wiki/Hern%C3%A1dg%C3%B6ny%C5%B1",
         "kind": "encyclopedia"
       }
-    ]
+    ],
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 1.04 km away at PL-B-014."
   },
   {
     "id": "PL-P-053",
     "name": "Seňa",
     "kind": "residence",
     "country": "Slovakia",
-    "lat": 48.567,
-    "lon": 21.25,
-    "coord": "approximate",
+    "lat": 48.56129,
+    "lon": 21.25707,
+    "coord": "OpenStreetMap",
     "maps": [],
     "names": [
       {
@@ -2255,7 +2269,8 @@
         "url": "https://www.jewishgen.org/yizkor/pinkas_slovakia/slo392.html",
         "kind": "reference"
       }
-    ]
+    ],
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 0.82 km away at PL-B-014."
   },
   {
     "id": "PL-P-054",
@@ -2263,9 +2278,9 @@
     "kind": "residence",
     "country": "Slovakia",
     "today": "Košice-okolie district, Košice Region",
-    "lat": 48.63,
-    "lon": 21.3,
-    "coord": "approximate",
+    "lat": 48.64153,
+    "lon": 21.29313,
+    "coord": "OpenStreetMap",
     "maps": [],
     "names": [
       {
@@ -2318,7 +2333,8 @@
           "PL-S-107"
         ]
       }
-    ]
+    ],
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 1.38 km away at PL-B-014."
   },
   {
     "id": "PL-P-055",
@@ -2326,9 +2342,9 @@
     "kind": "residence",
     "country": "Slovakia",
     "today": "Michalovce district, Košice Region",
-    "lat": 48.7,
-    "lon": 21.93,
-    "coord": "approximate",
+    "lat": 48.70372,
+    "lon": 21.92607,
+    "coord": "OpenStreetMap",
     "maps": [
       "local"
     ],
@@ -2388,7 +2404,8 @@
         "url": "https://www.e-obce.sk/obec/lastomir/2-historia.html",
         "kind": "municipal"
       }
-    ]
+    ],
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 0.5 km away at PL-B-014."
   },
   {
     "id": "PL-P-057",
@@ -2527,9 +2544,9 @@
     "name": "Bratislava",
     "kind": "archive",
     "country": "Slovakia",
-    "lat": 48.1486,
-    "lon": 17.1077,
-    "coord": "approximate",
+    "lat": 48.1435,
+    "lon": 17.10829,
+    "coord": "OpenStreetMap",
     "maps": [],
     "names": [
       {
@@ -2544,16 +2561,17 @@
         "text": "The 1930 census sheets for Slovakia are kept at the Slovak National Archives and shown online at slovakiana.sk.",
         "src": "PL-S-028"
       }
-    ]
+    ],
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 0.57 km away at PL-B-014."
   },
   {
     "id": "PL-P-042",
     "name": "Budapest",
     "kind": "archive",
     "country": "Hungary",
-    "lat": 47.4979,
-    "lon": 19.0402,
-    "coord": "approximate",
+    "lat": 47.49788,
+    "lon": 19.04024,
+    "coord": "OpenStreetMap",
     "maps": [],
     "names": [],
     "role": "Hungarian National Archives: the 1715 and 1720 tax censuses and the urbarial papers for Ung county.",
@@ -2566,16 +2584,17 @@
         "text": "Urbarial tables for Szenna and Solymos are published from there.",
         "src": "PL-S-012"
       }
-    ]
+    ],
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 0.0 km away at PL-B-014."
   },
   {
     "id": "PL-P-043",
     "name": "Cluj-Napoca",
     "kind": "archive",
     "country": "Romania",
-    "lat": 46.7712,
-    "lon": 23.6236,
-    "coord": "approximate",
+    "lat": 46.76938,
+    "lon": 23.58995,
+    "coord": "OpenStreetMap",
     "maps": [],
     "names": [],
     "role": "Vécsey family papers, including the Ungszenna estate.",
@@ -2584,7 +2603,8 @@
         "text": "The family fond is no. 452 at the Cluj county branch of the Romanian National Archives.",
         "src": "PL-S-014"
       }
-    ]
+    ],
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 2.57 km away at PL-B-014."
   },
   {
     "id": "PL-P-058",

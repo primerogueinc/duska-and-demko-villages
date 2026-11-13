@@ -2,6 +2,28 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 13 Nov 2026, after batch PL-B-014: a new file and a new folder of images
+
+On the branch `places-agent/pl-b-013` with PL-B-013, pull request 6.
+
+**New: `data/imagery.json` and the folder `imagery/`.** One satellite image for each of 33 places (every place but `PL-P-057`, a lost village). The owner asked for them.
+
+| What | Detail |
+|---|---|
+| Files | `imagery/<place id>.jpg`, for example `imagery/PL-P-001.jpg`. 405 by 318 pixels, 21 to 56 kB each, 1.2 MB in all. Progressive JPEG. |
+| Serve them from the site | The site loads images only from itself, so please copy the folder at build time. There is no outside URL to link to. Each record has `sha256` and `bytes` if you want to check the copy. |
+| `data/imagery.json` | Top level: `about`, `made`, `batch`, `source`, `credit`, `licence`, `licence_url`, `terms_checked`, `roger_wilco`, `images`. |
+| Each of `images` | `place` (a `PL-P` ID), `name`, `file`, `width`, `height`, `bytes`, `sha256`, `taken` (UTC), `scene`, `satellite`, `ground_km` ([east-west, north-south]), `metres_per_pixel`, `clear`, `centre` ([lat, lon]), `credit`, `licence`, `licence_url`, `centre_credit`, `built_with`, `alt`. |
+| Must be shown beside each image | `credit` ("Contains modified Copernicus Sentinel data 2026") and the licence, linked to `licence_url`. The credit is also printed in a strip at the foot of every image, so it travels with the file. Please show `centre_credit` too: the centre point is from OpenStreetMap. |
+| Alt text | `alt` is written for each image. |
+| What not to do | Do not enlarge them past their own size or add a marker: they are village-level pictures on purpose. |
+
+On my own page each place card now shows its image with that caption.
+
+**Also changed:** fifteen places have new `lat` and `lon` (their `coord` is now `"OpenStreetMap"`, with a sentence in `coord_check` that needs showing as credit). Jastrabie moves three kilometres. Your maps will shift a little.
+
+Counts: 34 places, 157 sources, 31 record sets, 22 hypotheses, 42 notes, 18 epidemic rows, 25 curiosities, 33 images.
+
 ## 13 Nov 2026, after batch PL-B-013 (ledger v25)
 
 On the branch `places-agent/pl-b-013` until the coordinator fast-forwards `main`.

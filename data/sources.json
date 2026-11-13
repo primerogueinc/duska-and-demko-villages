@@ -1350,5 +1350,32 @@
     "read": "search extracts only, 13 Nov 2026",
     "reliability": "Name forms (Zawatka in 1786; Hungarian Zavadka, later Fogas), county and district. Coordinates from the Wikipedia extract.",
     "batch": "PL-B-013"
+  },
+  {
+    "id": "PL-S-155",
+    "title": "Copernicus Sentinel-2 L2A scenes of September 2026, through the Element 84 Earth Search catalogue; 33 image crops in imagery/ of this repo",
+    "type": "Satellite imagery, open data",
+    "url": "https://earth-search.aws.element84.com/v1",
+    "read": "downloaded and cropped by this agent's own script, 13 Nov 2026",
+    "reliability": "What the ground looked like on one clear day. Ten metres to the pixel: fields, water, roads and the shape of a village, not houses. Contains modified Copernicus Sentinel data 2026.",
+    "batch": "PL-B-014"
+  },
+  {
+    "id": "PL-S-156",
+    "title": "OpenStreetMap, settlement points returned by the Nominatim geocoder",
+    "type": "Open map database",
+    "url": "https://nominatim.openstreetmap.org/",
+    "read": "34 lookups at one a second, cached in tools/place_centres.json, 13 Nov 2026",
+    "reliability": "© OpenStreetMap contributors, Open Database License 1.0. A volunteer map; the point for a village is where its name is placed, usually the centre. Used for image centres and to replace this board's estimated positions.",
+    "batch": "PL-B-014"
+  },
+  {
+    "id": "PL-S-157",
+    "title": "Roger Wilco Imagery: register of outside data sources and session rules (the owner's separate imaging project; private)",
+    "type": "Project rules, read on the owner's instruction",
+    "url": "",
+    "read": "two files read in full, three scripts read in part, 13 Nov 2026; none run",
+    "reliability": "Records the licence, credit line and limits for each data source that project uses. Used here only to choose a source that may be republished and to word its credit.",
+    "batch": "PL-B-014"
   }
 ]

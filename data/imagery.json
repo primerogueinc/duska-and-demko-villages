@@ -1,0 +1,937 @@
+{
+  "about": "One satellite image per place, at village level: 4 by 3 km at 10 m to the pixel for villages, 8 by 6 km at 20 m for towns. No marker, nothing at the level of a house or a parcel. The files are in imagery/ in this repo; nothing is loaded from an outside server.",
+  "made": "2026-11-13",
+  "batch": "PL-B-014",
+  "source": "Copernicus Sentinel-2 L2A, read from the Element 84 Earth Search catalogue and the open Sentinel bucket on AWS",
+  "credit": "Contains modified Copernicus Sentinel data 2026",
+  "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+  "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+  "terms_checked": "Against Roger Wilco Imagery's register of outside data sources, as read on 13 Nov 2026: Sentinel data may be republished with this credit.",
+  "roger_wilco": "These images were made by this repo's own script. A run with Roger Wilco Imagery's own scene picker was blocked in this session; tools/place_imagery.py --engine rwi makes them again that way, and those would carry the credit 'Roger Wilco Imagery'.",
+  "images": [
+    {
+      "place": "PL-P-001",
+      "name": "Senné",
+      "file": "imagery/PL-P-001.jpg",
+      "width": 405,
+      "height": 318,
+      "bytes": 26726,
+      "sha256": "9f59e8121f537fb49b329ce1b1cfde89f5e9f860ab1d942fbf7e680281cce34a",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.66508,
+        22.02358
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Senné and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-002",
+      "name": "Iňačovce",
+      "file": "imagery/PL-P-002.jpg",
+      "width": 405,
+      "height": 318,
+      "bytes": 28337,
+      "sha256": "bfa5d18badcf3eaf3a5b19cbe0a11acc55904b75dfe9bd8c17787e3f91d8ceb4",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.69723,
+        22.03419
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Iňačovce and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-010",
+      "name": "Palín",
+      "file": "imagery/PL-P-010.jpg",
+      "width": 404,
+      "height": 318,
+      "bytes": 27953,
+      "sha256": "24cd81f0a8752e611fa25c8c2ff8f4c6b3995fbe6ae0e7ce91eee6e12793b495",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.65821,
+        21.98855
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Palín and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-011",
+      "name": "Stretava",
+      "file": "imagery/PL-P-011.jpg",
+      "width": 405,
+      "height": 318,
+      "bytes": 28530,
+      "sha256": "19fc44219ae40765ca49185bbcb6e0057637fac4e7c98f7897debb7293d7241d",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.64339,
+        22.0022
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Stretava and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-012",
+      "name": "Stretavka",
+      "file": "imagery/PL-P-012.jpg",
+      "width": 404,
+      "height": 318,
+      "bytes": 27411,
+      "sha256": "c3b33b5d8d5f60b32669c2356d5e26fa31672ed00a7d5a8fb3eb142f8f3b51bc",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.62216,
+        21.98811
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Stretavka and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-013",
+      "name": "Zemplínska Široká",
+      "file": "imagery/PL-P-013.jpg",
+      "width": 404,
+      "height": 318,
+      "bytes": 27107,
+      "sha256": "5335f4b2cb73f2e2a014fe078db28547d565345ed25ab56f6047b59c85581c6e",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.69316,
+        21.97744
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Zemplínska Široká and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-014",
+      "name": "Jastrabie pri Michalovciach",
+      "file": "imagery/PL-P-014.jpg",
+      "width": 405,
+      "height": 318,
+      "bytes": 27420,
+      "sha256": "60e0e0a05e1eacc0104ab0d152d2a7546a9f1c27874c5da4c08e154ab3f7d483",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.71221,
+        22.03006
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Jastrabie pri Michalovciach and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-015",
+      "name": "Blatná Polianka",
+      "file": "imagery/PL-P-015.jpg",
+      "width": 405,
+      "height": 318,
+      "bytes": 27088,
+      "sha256": "56c35adad0d33cee02b42421f83b0d83cce622d6c01a6a96924d203593a3321f",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.69242,
+        22.10531
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Blatná Polianka and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-020",
+      "name": "Pavlovce nad Uhom",
+      "file": "imagery/PL-P-020.jpg",
+      "width": 405,
+      "height": 318,
+      "bytes": 29911,
+      "sha256": "4c4fff6d71f250a6516a08347d4ac4ab7b8e50a0476c9248b9080dcf4d19ad75",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.6128,
+        22.06913
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Pavlovce nad Uhom and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-021",
+      "name": "Veľké Kapušany",
+      "file": "imagery/PL-P-021.jpg",
+      "width": 405,
+      "height": 318,
+      "bytes": 33420,
+      "sha256": "02461f4304a6c257aa2dd77a30e163b34a6ac350cca790c02c0ccc934a5d7b03",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.55388,
+        22.07737
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Veľké Kapušany and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-022",
+      "name": "Sobrance",
+      "file": "imagery/PL-P-022.jpg",
+      "width": 405,
+      "height": 319,
+      "bytes": 31184,
+      "sha256": "364811446051651cbcb4405624ee64ca5897c7830c4ee704b1910829381c9eff",
+      "taken": "2026-09-20T09:46Z",
+      "scene": "S2B_34UEV_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.74465,
+        22.18066
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Sobrance and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-023",
+      "name": "Michalovce",
+      "file": "imagery/PL-P-023.jpg",
+      "width": 404,
+      "height": 317,
+      "bytes": 38454,
+      "sha256": "7d6edea21726fb6e64ecfd59919cdf8785deead33ea74eebbbaa0bbdc96ff263",
+      "taken": "2026-09-20T09:46Z",
+      "scene": "S2B_34UEV_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        8,
+        6
+      ],
+      "metres_per_pixel": 20,
+      "clear": 1.0,
+      "centre": [
+        48.75144,
+        21.92119
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Michalovce and the land round it, 8 by 6 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-024",
+      "name": "Uzhhorod",
+      "file": "imagery/PL-P-024.jpg",
+      "width": 406,
+      "height": 319,
+      "bytes": 47453,
+      "sha256": "53b48bcb195eb18ed2163802b42b96b3320a8524aaf82fbc21eae1f8b6857e76",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        8,
+        6
+      ],
+      "metres_per_pixel": 20,
+      "clear": 1.0,
+      "centre": [
+        48.62237,
+        22.30226
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Uzhhorod and the land round it, 8 by 6 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-030",
+      "name": "Prešov",
+      "file": "imagery/PL-P-030.jpg",
+      "width": 402,
+      "height": 314,
+      "bytes": 40831,
+      "sha256": "57c06e8bc015168ac37b94f82061e769ebe41598b16d6eb47f412aa8c2f53c62",
+      "taken": "2026-09-07T09:36Z",
+      "scene": "S2B_34UEV_20260907_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        8,
+        6
+      ],
+      "metres_per_pixel": 20,
+      "clear": 0.997,
+      "centre": [
+        49.00001,
+        21.23921
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Prešov and the land round it, 8 by 6 kilometres, 7 September 2026."
+    },
+    {
+      "place": "PL-P-031",
+      "name": "Berehove",
+      "file": "imagery/PL-P-031.jpg",
+      "width": 407,
+      "height": 321,
+      "bytes": 40608,
+      "sha256": "bbd4e0d0a7c6c54555629f1a2e51f58a0fc4422cf54c8e9f060741d8837e2b89",
+      "taken": "2026-09-17T09:37Z",
+      "scene": "S2B_34UFU_20260917_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        8,
+        6
+      ],
+      "metres_per_pixel": 20,
+      "clear": 1.0,
+      "centre": [
+        48.2051,
+        22.64532
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Berehove and the land round it, 8 by 6 kilometres, 17 September 2026."
+    },
+    {
+      "place": "PL-P-032",
+      "name": "Košice",
+      "file": "imagery/PL-P-032.jpg",
+      "width": 402,
+      "height": 314,
+      "bytes": 43609,
+      "sha256": "ca318069da98da6e00d760d56e40753b0c5f020754336fdc4f2dec0f8195ee6f",
+      "taken": "2026-09-07T09:47Z",
+      "scene": "S2A_34UEV_20260907_1_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        8,
+        6
+      ],
+      "metres_per_pixel": 20,
+      "clear": 0.995,
+      "centre": [
+        48.71723,
+        21.24968
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Košice and the land round it, 8 by 6 kilometres, 7 September 2026."
+    },
+    {
+      "place": "PL-P-033",
+      "name": "Satu Mare",
+      "file": "imagery/PL-P-033.jpg",
+      "width": 408,
+      "height": 322,
+      "bytes": 45584,
+      "sha256": "a77268d3f2a93789ae49986cde03ffd4998de9940c9f586f0bd41b31207026d6",
+      "taken": "2026-09-27T09:37Z",
+      "scene": "S2B_34TFT_20260927_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        8,
+        6
+      ],
+      "metres_per_pixel": 20,
+      "clear": 1.0,
+      "centre": [
+        47.78918,
+        22.87256
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Satu Mare and the land round it, 8 by 6 kilometres, 27 September 2026."
+    },
+    {
+      "place": "PL-P-034",
+      "name": "Mukachevo",
+      "file": "imagery/PL-P-034.jpg",
+      "width": 407,
+      "height": 322,
+      "bytes": 46577,
+      "sha256": "c2d1606f495bb7eb82270f3668986b4deb8af3d77cc5cbf0d8bbe13f71ce29ee",
+      "taken": "2026-09-14T09:37Z",
+      "scene": "S2A_34UFU_20260914_1_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        8,
+        6
+      ],
+      "metres_per_pixel": 20,
+      "clear": 0.999,
+      "centre": [
+        48.44211,
+        22.71854
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Mukachevo and the land round it, 8 by 6 kilometres, 14 September 2026."
+    },
+    {
+      "place": "PL-P-035",
+      "name": "Belá nad Cirochou",
+      "file": "imagery/PL-P-035.jpg",
+      "width": 405,
+      "height": 318,
+      "bytes": 32351,
+      "sha256": "4778b521b8081e71e0de813cba66fc691816e3ca842135226fb182935ee68f71",
+      "taken": "2026-09-20T09:46Z",
+      "scene": "S2B_34UEV_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 0.998,
+      "centre": [
+        48.97442,
+        22.10727
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Belá nad Cirochou and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-036",
+      "name": "Bežovce",
+      "file": "imagery/PL-P-036.jpg",
+      "width": 405,
+      "height": 319,
+      "bytes": 32254,
+      "sha256": "c1e36946ab88cfde9962acb36ed4bb21b05b6ee2bded38ef1a32ccdab00280cc",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.63155,
+        22.1537
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Bežovce and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-037",
+      "name": "Vysoká nad Uhom",
+      "file": "imagery/PL-P-037.jpg",
+      "width": 405,
+      "height": 318,
+      "bytes": 30278,
+      "sha256": "8e37e32920353cd270fbe96f3cda4ab7fcd07d9bd1d919e3b5a71919d0230872",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.62598,
+        22.0922
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Vysoká nad Uhom and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-040",
+      "name": "Eger",
+      "file": "imagery/PL-P-040.jpg",
+      "width": 403,
+      "height": 316,
+      "bytes": 44921,
+      "sha256": "de44c1fea3816c05901a09676dacfafdded7c44fb6761fbb1c650aeab2ac40f5",
+      "taken": "2026-09-07T09:47Z",
+      "scene": "S2A_34UDU_20260907_1_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        8,
+        6
+      ],
+      "metres_per_pixel": 20,
+      "clear": 1.0,
+      "centre": [
+        47.89899,
+        20.37437
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Eger and the land round it, 8 by 6 kilometres, 7 September 2026."
+    },
+    {
+      "place": "PL-P-041",
+      "name": "Bratislava",
+      "file": "imagery/PL-P-041.jpg",
+      "width": 409,
+      "height": 324,
+      "bytes": 51767,
+      "sha256": "e18e596c92636258b2418e6d2cfa8da67aee58da13868727738a5bbb2735ea56",
+      "taken": "2026-09-28T09:57Z",
+      "scene": "S2C_33UXP_20260928_1_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        8,
+        6
+      ],
+      "metres_per_pixel": 20,
+      "clear": 1.0,
+      "centre": [
+        48.1435,
+        17.10829
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Bratislava and the land round it, 8 by 6 kilometres, 28 September 2026."
+    },
+    {
+      "place": "PL-P-042",
+      "name": "Budapest",
+      "file": "imagery/PL-P-042.jpg",
+      "width": 416,
+      "height": 333,
+      "bytes": 58421,
+      "sha256": "e58c5772318991a04613e63c7e8ca92e09c9317525f211fd89d6607d6523dac0",
+      "taken": "2026-09-28T09:57Z",
+      "scene": "S2C_33TYN_20260928_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        8,
+        6
+      ],
+      "metres_per_pixel": 20,
+      "clear": 1.0,
+      "centre": [
+        47.49788,
+        19.04024
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Budapest and the land round it, 8 by 6 kilometres, 28 September 2026."
+    },
+    {
+      "place": "PL-P-043",
+      "name": "Cluj-Napoca",
+      "file": "imagery/PL-P-043.jpg",
+      "width": 410,
+      "height": 326,
+      "bytes": 53656,
+      "sha256": "812a6b22f2b384e71b3c402c3cc31307500e027722217ffece5059043e442de3",
+      "taken": "2026-09-29T09:27Z",
+      "scene": "S2C_34TFS_20260929_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        8,
+        6
+      ],
+      "metres_per_pixel": 20,
+      "clear": 1.0,
+      "centre": [
+        46.76938,
+        23.58995
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Cluj-Napoca and the land round it, 8 by 6 kilometres, 29 September 2026."
+    },
+    {
+      "place": "PL-P-050",
+      "name": "Čičarovce",
+      "file": "imagery/PL-P-050.jpg",
+      "width": 405,
+      "height": 318,
+      "bytes": 27301,
+      "sha256": "4528450f9bd87bdc81ffdd71d564928ff315b3f33d91a99351aa3871682a458b",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.54067,
+        22.0231
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Čičarovce and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-051",
+      "name": "Belža",
+      "file": "imagery/PL-P-051.jpg",
+      "width": 402,
+      "height": 314,
+      "bytes": 25461,
+      "sha256": "d24befe30389dbe1b1f5ace950ce9d8824cbd31a7abcc63663126ddcbe71e57d",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.58051,
+        21.27316
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Belža and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-052",
+      "name": "Gyňov",
+      "file": "imagery/PL-P-052.jpg",
+      "width": 402,
+      "height": 314,
+      "bytes": 29270,
+      "sha256": "fe9d1b56021d69647a83c57216d8f10a7089ccc615fe1ee8c7dfe15c73c6efe1",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.58893,
+        21.30402
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Gyňov and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-053",
+      "name": "Seňa",
+      "file": "imagery/PL-P-053.jpg",
+      "width": 402,
+      "height": 314,
+      "bytes": 26472,
+      "sha256": "e1216d6baa65d480c72ddca317a7eb8099872d9a40ff56f84dbe516c66d0699e",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.56129,
+        21.25707
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Seňa and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-054",
+      "name": "Valaliky",
+      "file": "imagery/PL-P-054.jpg",
+      "width": 402,
+      "height": 314,
+      "bytes": 26979,
+      "sha256": "164f6c7bf52e2a94533b766910e94bdcc0125e211e80fcadb1607a174f77e8e0",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.64153,
+        21.29313
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Valaliky and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-055",
+      "name": "Lastomír",
+      "file": "imagery/PL-P-055.jpg",
+      "width": 404,
+      "height": 317,
+      "bytes": 27120,
+      "sha256": "8dadc180c4f136e51ebbeb8521c1eb80d694aca3bb22b5700c673bf781d4ad7e",
+      "taken": "2026-09-20T09:47Z",
+      "scene": "S2B_34UEU_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.70372,
+        21.92607
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Lastomír and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-056",
+      "name": "Bradenville, Pennsylvania",
+      "file": "imagery/PL-P-056.jpg",
+      "width": 406,
+      "height": 320,
+      "bytes": 37421,
+      "sha256": "99b9e677693ed8a38521d0b285d4a60950ed9297fe1c5321d92c15077f9e61fe",
+      "taken": "2026-09-24T16:12Z",
+      "scene": "S2B_17TPE_20260924_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        40.32146,
+        -79.34004
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Bradenville, Pennsylvania and the land round it, 4 by 3 kilometres, 24 September 2026."
+    },
+    {
+      "place": "PL-P-058",
+      "name": "Závadka",
+      "file": "imagery/PL-P-058.jpg",
+      "width": 405,
+      "height": 318,
+      "bytes": 25062,
+      "sha256": "427cb6a3a212714f07c9adb1df5ecb025f888762a1a0f43886cfb8579e36186d",
+      "taken": "2026-09-20T09:46Z",
+      "scene": "S2B_34UEV_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.76699,
+        22.0645
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Závadka and the land round it, 4 by 3 kilometres, 20 September 2026."
+    }
+  ]
+}

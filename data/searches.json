@@ -322,5 +322,14 @@
     "for": "Which Závadka lies nearest Iňačovce",
     "found": "Závadka in the Michalovce district: Ung county, Zawatka in 1786, Hungarian Fogas (PL-S-154).",
     "note": "No surname searched."
+  },
+  {
+    "id": "PL-SR-37",
+    "date": "2026-11-13",
+    "batch": "PL-B-014",
+    "where": "Element 84 Earth Search (Sentinel-2 L2A) and the open Sentinel bucket on AWS; OpenStreetMap Nominatim",
+    "for": "One clear scene of the last growing season over each place; the settlement point of each place",
+    "found": "33 scenes of 7 to 29 September 2026, all at least 99.5 per cent clear over the box; 33 settlement points. Ťahyňa, a lost village, has no point and no image.",
+    "note": "No surname searched. One request a second to the geocoder, answers cached."
   }
 ]

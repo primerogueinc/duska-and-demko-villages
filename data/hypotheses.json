@@ -614,5 +614,27 @@
         "note": "Raised so that the reasoning in PL-H-019 has a test with a yes or no answer."
       }
     ]
+  },
+  {
+    "id": "PL-H-022",
+    "statement": "The 'Zavatka' written as the origin of a cottar of Solymos who died in 1891 is Závadka in today's Michalovce district.",
+    "confidence": 60,
+    "basis": "It is the nearest village of the name, in the same county, a short walk north of Iňačovce, and it was written Zawatka in 1786. Against: Slovakia has several Závadkas, one of them near Humenné in the country the village was resettled from after 1720, and the word on the strip is the Demko agent's reading of one entry.",
+    "test": "A baptism of about 1821 in the register that served this Závadka; which parish that was has not been looked up.",
+    "status": "open",
+    "raised": "PL-B-013",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-154",
+      "PL-S-108"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-013",
+        "effect": "raised at 60",
+        "note": "Asked by the Demko agent (DM→PL-011, item 3)."
+      }
+    ]
   }
 ]

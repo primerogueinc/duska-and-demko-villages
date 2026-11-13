@@ -570,7 +570,7 @@
   },
   {
     "id": "PL-S-068",
-    "title": "Coordinator ledger, versions 3 to 22, and scoring rubric version 1, 12 Nov 2026",
+    "title": "Coordinator ledger, versions 3 to 25, and scoring rubric version 1, 12 Nov 2026",
     "type": "Coordinator's ledger",
     "url": "https://github.com/primerogueinc/duska-coordinator/blob/main/ledger.md",
     "read": "read in full as a Project doc",
@@ -930,7 +930,7 @@
   },
   {
     "id": "PL-S-108",
-    "title": "Demko agent, documents DM-D-040, DM-D-041 and DM-D-043 to DM-D-053, and its notes to the Places agent DM→PL-003 and DM→PL-004, and its board at DM main @51a25e8 (DM-PR-3, DM-H-008, DM-H-014, DM-H-040, DM-D-008, DM-D-101)",
+    "title": "Demko agent, documents DM-D-040, DM-D-041 and DM-D-043 to DM-D-053, and its notes to the Places agent DM→PL-003 and DM→PL-004, and its board at DM main @51a25e8 (DM-PR-3, DM-H-008, DM-H-014, DM-H-040, DM-D-008, DM-D-101); its note DM→PL-011 and documents DM-D-106 to DM-D-131 at DM main @f1bbdcf",
     "type": "Sibling agent's transcriptions of records in hand",
     "url": "https://github.com/primerogueinc/genealogy-demko-1/blob/main/interagent/to-places.md",
     "read": "notes read in full at DM main @5661373, @b2bdf12, @05cc58c @5d8cbc4 and @5a10545; three document entries opened",
@@ -1341,5 +1341,14 @@
     "read": "search extracts only, 12 Nov 2026",
     "reliability": "The village was formed on 1 January 1961 from Rebrín and Krášok; its Hungarian name is Kráskarebrény. So 'Kraska' in a register of 1872 is Krášok.",
     "batch": "PL-B-012"
+  },
+  {
+    "id": "PL-S-154",
+    "title": "e-obce.sk, Závadka (Michalovce district): História; English Wikipedia, Závadka",
+    "type": "Village profile, secondary",
+    "url": "https://www.e-obce.sk/obec/zavadka-michalovce/2-historia.html",
+    "read": "search extracts only, 13 Nov 2026",
+    "reliability": "Name forms (Zawatka in 1786; Hungarian Zavadka, later Fogas), county and district. Coordinates from the Wikipedia extract.",
+    "batch": "PL-B-013"
   }
 ]

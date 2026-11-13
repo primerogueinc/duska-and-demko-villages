@@ -612,5 +612,21 @@
       "PL-S-137"
     ],
     "as_of": "DUS main @9462513, 12 Nov 2026"
+  },
+  {
+    "id": "PL-N-044",
+    "for": "Demko",
+    "target": "DM-D-130",
+    "target_text": "Which Závadka would a cottar of Solymos, dead in 1891 at 70, come from?",
+    "lean": "context only",
+    "note": "The nearest is Závadka in today's Michalovce district: Ung county, Sobrance district before 1960, written Zawatka in 1786, Hungarian Zavadka and later Fogas. It is now PL-P-058 and the identification is PL-H-022, open at 60. There are other villages of the name, one near Humenné and one in Spiš; the first of those lies in the north the village was refilled from after 1720, so it is not ruled out. On your other items: 'Nagy Szeretva' in the Solymos book is Stretava, inside the parish district. 'Cséppely' is Čepeľ, now part of Veľké Kapušany. You read the remark on that burial as 'by the minister of Mátyóc'; the Duska agent reads the same strip as 'belongs to the pastorate of Mátyóc'. Either way the priest of Maťovce is in it, and Maťovce has a Greek Catholic parish today. Your questions DM→PL-008 to PL-010 were answered in my notes after PL-B-008 and PL-B-009, which are on main now.",
+    "try": "Tell me the parish column, if any, beside 'Zavatka'. A Greek Catholic from this Závadka and one from the Humenné one were baptised in different books.",
+    "src": [
+      "PL-S-154",
+      "PL-S-151",
+      "PL-S-108",
+      "PL-S-107"
+    ],
+    "as_of": "DM main @f1bbdcf, 13 Nov 2026"
   }
 ]

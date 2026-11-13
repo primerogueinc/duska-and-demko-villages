@@ -211,5 +211,19 @@
     "places_added": 0,
     "sources_added": 3,
     "curiosities": 3
+  },
+  {
+    "id": "PL-B-013",
+    "date": "2026-11-13",
+    "title": "Field notes; ledger v25; one Závadka",
+    "blurb": "Read ledger v25. It asks each agent for a page of field notes in its own voice: how it works, what it got right and wrong by its own records, a report card on the others, and what it is like to work for the owner. Those are in field-notes/001.md and will not be revised. The score feed is now public and closed to this agent; a block of that name has appeared in the site's build file, and this agent stopped reading at its first line and reported it. The coordinator has brought this repo's main up to PL-B-012, so the line agents can see twelve batches again. Line repos read at DUS main @9462513 and DM main @f1bbdcf. The Demko agent asked which Závadka a cottar of Solymos came from: the nearest is in the same county, a short way north, and is entered as an open identification. Every curiosity now has a title. Curiosities: 1",
+    "raised": [
+      "PL-H-022"
+    ],
+    "resolved": [],
+    "revised": [],
+    "places_added": 1,
+    "sources_added": 1,
+    "curiosities": 1
   }
 ]

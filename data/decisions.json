@@ -298,5 +298,23 @@
     "date": "2026-11-12",
     "decided": "Four epidemic rows are new and four are changed, on causes of death that the Duska agent read from burial strips. A new status value is used, 'documented for the villages', where a cause is named in registers of more than one village.",
     "why": "Until this batch no cause of death from these villages had been read; the rows said 'not found'."
+  },
+  {
+    "id": "PL-DEC-051",
+    "date": "2026-11-13",
+    "decided": "Read ledger v25, and the change lists of v23 and v24. Taken: the score feed is closed to this agent, that is the repository primerogueinc/duska-score-feed, its file feed.json, and the site's /accuracy/ page. The coordinator now fast-forwards this repo's main, since this session cannot merge. Field notes written as X-032 asks, in field-notes/001.md, and not to be revised.",
+    "why": "Ledger v25."
+  },
+  {
+    "id": "PL-DEC-052",
+    "date": "2026-11-13",
+    "decided": "While checking that main had reached the site, this agent read the first 1,500 characters of the site's build-info.json. The file now has a block named score_feed; the part read ends at that key and shows no figure. This agent will not read that file past its 'sources' block again. Reported to the coordinator.",
+    "why": "X-011: report any exposure, and a near one is cheaper to report than to explain later."
+  },
+  {
+    "id": "PL-DEC-053",
+    "date": "2026-11-13",
+    "decided": "Gave every curiosity a 'title', a field the site's contract lists and this board had never filled.",
+    "why": "Site agent's note after SITE-B-012."
   }
 ]

@@ -9,7 +9,8 @@
     "original": "z opačnej strany matriky prípisy szatmárskeho biskupa od r. 1837-1840",
     "translation": "from the other end of the register, notes by the bishop of Szatmár from 1837 to 1840",
     "why": "The Senné parish copied its bishop's circulars into a blank book in the 1830s, then turned the book over a generation later and began the marriage register of 1863 from the other end.",
-    "tone": "odd"
+    "tone": "odd",
+    "title": "A marriage book with a bishop's notes in the back"
   },
   {
     "id": "PL-CU-002",
@@ -21,7 +22,8 @@
     "original": "Not quoted: a row of a table. Vysoká, 230 houses, 0 inhabitants.",
     "translation": "The Slovak state's list for 1940 gives Vysoká 230 houses and nobody living in them.",
     "why": "A printing or data fault, and the only evidence this repo has that the village was in Slovakia that year.",
-    "tone": "funny"
+    "tone": "funny",
+    "title": "230 houses and nobody home"
   },
   {
     "id": "PL-CU-003",
@@ -33,7 +35,8 @@
     "original": "Not held; taken from the village chronicle as summarised.",
     "translation": "Lightning struck the Greek Catholic church of Iňačovce on 6 July 1929, and fire followed on 1 April 1930.",
     "why": "The parish archive was hit twice in nine months. Yet the baptism book for 1870-1898 was still being written in four years later.",
-    "tone": "sad"
+    "tone": "sad",
+    "title": "Lightning, then fire"
   },
   {
     "id": "PL-CU-004",
@@ -45,7 +48,8 @@
     "original": "Zomrela 18. augusta 1934.",
     "translation": "She died on 18 August 1934.",
     "why": "Written in Slovak into the remarks column of a Latin baptism entry of 1872. Somebody closed the record sixty-two years after opening it, in the third official language the book had seen.",
-    "tone": "history"
+    "tone": "history",
+    "title": "A death written into a baptism book in 1934"
   },
   {
     "id": "PL-CU-005",
@@ -57,7 +61,8 @@
     "original": "Not held; from the municipal history as summarised.",
     "translation": "Senné fished from dugout boats into the 20th century and kept geese in flocks of thousands until 1975.",
     "why": "The village the records describe was half water. It explains the fishponds reserve that fills its fields today.",
-    "tone": "history"
+    "tone": "history",
+    "title": "Dugout boats and geese by the thousand"
   },
   {
     "id": "PL-CU-006",
@@ -69,7 +74,8 @@
     "original": "Szinna (Senya)",
     "translation": "Fényes's spelling of Seňa in 1851.",
     "why": "One letter from Szenna (Senné) and identical to Szinna (Snina). Three villages in three counties that an index can fold into one.",
-    "tone": "odd"
+    "tone": "odd",
+    "title": "How a gazetteer spelled Seňa"
   },
   {
     "id": "PL-CU-007",
@@ -81,7 +87,8 @@
     "original": "House numbers as entered: 38, 32, 54, 33, [8]2, 47, 64.",
     "translation": "One cottar household of Jesztreb at seven house numbers between 1864 and 1885.",
     "why": "Either the family moved every three years or the village could not settle on its numbering. Nobody has found out which.",
-    "tone": "odd"
+    "tone": "odd",
+    "title": "One household, seven house numbers"
   },
   {
     "id": "PL-CU-008",
@@ -94,7 +101,8 @@
     "original": "approximately 30 families purchased a piece of property for $350",
     "translation": "The founding of the Greek Catholic parish at Bradenville, Pennsylvania, in 1902.",
     "why": "The same coal town, in the same year, appears in the residence column of a Reformed baptism book kept for a village of a few hundred people on the Uh.",
-    "tone": "history"
+    "tone": "history",
+    "title": "A parish founded in a Pennsylvania coal town"
   },
   {
     "id": "PL-CU-009",
@@ -106,7 +114,8 @@
     "original": "Not held; from a study of the 1734 visitation as summarised.",
     "translation": "The Catholic priest of Senné in 1734 spent most of his teaching on Rebrín, a Reformed village, while Reformed preachers held three of his other filials under the landlord's protection.",
     "why": "A parish priest whose flock mostly belonged to someone else.",
-    "tone": "history"
+    "tone": "history",
+    "title": "The priest who taught the other church's village"
   },
   {
     "id": "PL-CU-010",
@@ -118,7 +127,8 @@
     "original": "Not held; from the municipal history as summarised.",
     "translation": "About 600 cows died in Senné in 1940, and the harvests failed for two years after.",
     "why": "A village of 171 houses losing 600 cows is most of its wealth gone in a season.",
-    "tone": "sad"
+    "tone": "sad",
+    "title": "Six hundred cows"
   },
   {
     "id": "PL-CU-011",
@@ -130,7 +140,8 @@
     "original": "Od roku 1895 dodnes – bez prerušenia – sídli v obci matričný úrad.",
     "translation": "From 1895 to this day, without a break, a registry office has sat in the village.",
     "why": "The same office at Pavlovce has registered births under the Kingdom of Hungary, Czechoslovakia, the wartime Slovak state, Czechoslovakia again and Slovakia.",
-    "tone": "history"
+    "tone": "history",
+    "title": "A registry office that never moved"
   },
   {
     "id": "PL-CU-012",
@@ -143,7 +154,8 @@
     "original": "per malignum hominem",
     "translation": "by a malicious man",
     "why": "How the parish of Senné recorded the fire of 28 October 1865. The baptism book that survives starts the next year.",
-    "tone": "sad"
+    "tone": "sad",
+    "title": "By a malicious man"
   },
   {
     "id": "PL-CU-013",
@@ -156,7 +168,8 @@
     "original": "Szenna (1 March 1906); Ung Szenna (19 May 1906)",
     "translation": "The village's name as two successive parish priests wrote it, ten weeks apart.",
     "why": "The government renamed the village in 1904. The old priest went on writing the old name for two years; it took a new priest to make the change.",
-    "tone": "funny"
+    "tone": "funny",
+    "title": "The priest who would not use the new name"
   },
   {
     "id": "PL-CU-014",
@@ -168,7 +181,8 @@
     "original": "Búzafalva —; Bernáthfalva 25; Csontosfalva —",
     "translation": "Three villages listed under the Greek Catholic parish of Bölzse, with their numbers of faithful.",
     "why": "Two of the parish's villages are counted with no parishioners at all. The directory lists the ground a priest was answerable for, not the people on it.",
-    "tone": "odd"
+    "tone": "odd",
+    "title": "Three villages under one distant parish"
   },
   {
     "id": "PL-CU-015",
@@ -180,7 +194,8 @@
     "original": "Not quoted; from a state archive's district history.",
     "translation": "From November 1938 to 1944 Vysoká nad Uhom was in Slovakia and its Greek Catholic mother church at Čičarovce was in Hungary.",
     "why": "For six years a Greek Catholic of the village had a state border between the house and the baptism book.",
-    "tone": "history"
+    "tone": "history",
+    "title": "A village in one country, its church in another"
   },
   {
     "id": "PL-CU-016",
@@ -192,7 +207,8 @@
     "original": "Énekszóval; Tanítással",
     "translation": "With singing; with a sermon.",
     "why": "The Reformed burial book of Solymos in the 1830s has a column for how each person was buried. Not everyone got the sermon.",
-    "tone": "odd"
+    "tone": "odd",
+    "title": "With singing, with a sermon"
   },
   {
     "id": "PL-CU-017",
@@ -204,7 +220,8 @@
     "original": "Amerika",
     "translation": "America",
     "why": "The whole birthplace of a woman of Iňačovce, born in 1901, on the Czechoslovak census of 1930. She was born abroad and brought home, as the child of the Bradenville entry was. The enumerator did not ask which town.",
-    "tone": "history"
+    "tone": "history",
+    "title": "Born in 'Amerika'"
   },
   {
     "id": "PL-CU-018",
@@ -217,7 +234,8 @@
     "original": "a menyasszony háromszor hirdetve; a vőlegény 1891 dec. 21 2370 sz. a. püspöki ha[tóság] utján [elsőfokú só]gorsági, vegyesházassági, hirdetések és tiltott idő akadályaitól felmentve",
     "translation": "The bride's banns called three times; the bridegroom released through the bishop's office, on 21 December 1891 under no. 2370, from the impediments of [first-degree] affinity, mixed marriage, banns and the forbidden season.",
     "why": "The first wedding of 1892 in the Senné book, on the same opening as the Duska agent's entry of 18 January. A Roman Catholic widower of 52, living at Stretava, marries a Reformed widow of 49 from house 52 of a village written Füzesér, on 9 January. She bears the surname of his late wife. Four impediments are lifted in one line: the kinship through the first wife, the difference of church, the banns, and the closed season from Advent to Epiphany when weddings were not held. He asked four days before Christmas. Read by this agent from the image; the bracketed words are doubtful. That the bishop was the bishop of Szatmár is inferred from the diocese the parish belonged to.",
-    "tone": "history"
+    "tone": "history",
+    "title": "Four impediments in one line"
   },
   {
     "id": "PL-CU-019",
@@ -230,7 +248,8 @@
     "original": "5 Rusnák János (Solymos); 10 Joannes Rusnák (Viszoka); Rusznák István esperes plébános (Szenna, 1892)",
     "translation": "John Rusnak, serf no. 5 at Solymos and no. 10 at Viszoka in the urbarial tables; István Rusznák, dean and parish priest of Senné in 1892.",
     "why": "'Rusnak' meant a Rusyn or a Greek Catholic. As a surname it turns up in both villages of the Demko side about 1770, and on the Roman Catholic priest of Senné who married the Duska couple in 1892. A recalled rule, not sourced here: a nickname of this kind is given where its bearer stood out, so a man was called 'the Rusnak' among neighbours who were not. The names are as the Duska agent read them.",
-    "tone": "odd"
+    "tone": "odd",
+    "title": "A man called 'the Rusnak'"
   },
   {
     "id": "PL-CU-020",
@@ -243,7 +262,8 @@
     "original": "Greek Catholic Church: 314. Rusyn: 5. (ruszinok: 2)",
     "translation": "Iňačovce in the census of 2021: 314 Greek Catholics; 2 people of Rusyn nationality, 5 if a second nationality is counted.",
     "why": "The church the Rusyn settlers brought is still the largest in the village. The name they were known by is declared by almost nobody. That is the whole question of this batch in one line of a table.",
-    "tone": "history"
+    "tone": "history",
+    "title": "314 Greek Catholics, two Rusyns"
   },
   {
     "id": "PL-CU-021",
@@ -255,7 +275,8 @@
     "original": "suffocata ... 1874 évi víz áradás",
     "translation": "Drowned ... the flood of the year 1874.",
     "why": "A priest keeping a Latin burial book breaks into Hungarian to explain one death: a girl of Solymos, drowned in May 1874. It is the only flood named in any record of the villages so far, and the remark is what dates the page. The words are as the Duska agent read them.",
-    "tone": "sad"
+    "tone": "sad",
+    "title": "The flood of the year 1874"
   },
   {
     "id": "PL-CU-022",
@@ -268,7 +289,8 @@
     "original": "Carbunc[ulus]",
     "translation": "A carbuncle: anthrax.",
     "why": "Twice in five years a small child of Solymos is buried with this one word for a cause, in December 1870 and January 1876. It is a disease of grazing animals. The village lived by its meadows, and the registers of people turn out to hold a trace of what was killing the cattle.",
-    "tone": "history"
+    "tone": "history",
+    "title": "A cattle disease in a burial book"
   },
   {
     "id": "PL-CU-023",
@@ -281,6 +303,20 @@
     "original": "[nationality column, census of 1921, a village beside Uzhhorod: Rusyn; census of 1930, Senné: slovenská]",
     "translation": "Greek Catholic farm people thirty kilometres apart: Rusyn on one census sheet, Slovak on the other.",
     "why": "The Duska agent holds a sheet of 1921 for a household beside Uzhhorod, all entered as Greek Catholic Rusyns, and sheets of 1930 for Senné where a Greek Catholic is entered as Slovak. Between them ran the line drawn in 1919 between Slovakia and Subcarpathian Rus'. The original wording of the 1921 column is not in my hands, so the first half is the Duska agent's abstract.",
-    "tone": "history"
+    "tone": "history",
+    "title": "Rusyn on one sheet, Slovak on the other"
+  },
+  {
+    "id": "PL-CU-024",
+    "title": "A village renamed 'Fogas'",
+    "batch": "PL-B-013",
+    "src": [
+      "PL-S-154"
+    ],
+    "place": "PL-P-058",
+    "original": "po maďarsky Zavadka, Fogas",
+    "translation": "In Hungarian: Zavadka, then Fogas.",
+    "why": "When Hungary gave its villages Hungarian names about 1900, Závadka became Fogas. From recall, not sourced: in Hungarian the word means toothed, and is also the name of a fish, the pike-perch, and of a coat rack. Whoever chose it, a burial entry of 1891 still has the old name.",
+    "tone": "funny"
   }
 ]

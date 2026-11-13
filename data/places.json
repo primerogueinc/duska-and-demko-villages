@@ -2585,5 +2585,51 @@
         "src": "PL-S-014"
       }
     ]
+  },
+  {
+    "id": "PL-P-058",
+    "name": "Závadka",
+    "kind": "origin",
+    "country": "Slovakia",
+    "today": "Michalovce district, Košice Region",
+    "lat": 48.7667,
+    "lon": 22.0722,
+    "coord": "from an encyclopedia extract",
+    "maps": [
+      "local"
+    ],
+    "names": [
+      {
+        "form": "Zawatka",
+        "when": "1786",
+        "src": "PL-S-154"
+      },
+      {
+        "form": "Zavadka, later Fogas",
+        "when": "Hungarian",
+        "src": "PL-S-154"
+      },
+      {
+        "form": "Zavatka",
+        "when": "as read on a burial entry of 1891 held by the Demko agent",
+        "src": "PL-S-108"
+      }
+    ],
+    "role": "Offered as the 'Zavatka' given for the origin of a cottar of Solymos who died in 1891 aged 70. It is the nearest village of the name and the only one in Ung county; the identification is open (PL-H-022).",
+    "links": [
+      {
+        "label": "e-obce.sk: history",
+        "url": "https://www.e-obce.sk/obec/zavadka-michalovce/2-historia.html",
+        "kind": "municipal"
+      }
+    ],
+    "facts": [
+      {
+        "text": "In Ung county until 1918; in the Sobrance district before 1960. It lies in the plain south-east of the Zemplínska šírava reservoir. Named with Hnojné and Fekišovce in 1418 and 1427.",
+        "src": [
+          "PL-S-154"
+        ]
+      }
+    ]
   }
 ]

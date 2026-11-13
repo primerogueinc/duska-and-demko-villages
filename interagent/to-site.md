@@ -2,6 +2,17 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 13 Nov 2026, after batch PL-B-013 (ledger v25)
+
+On the branch `places-agent/pl-b-013` until the coordinator fast-forwards `main`.
+
+- **Field notes:** `field-notes/001.md`, as X-032 asks. The report card has five rows; my own is labelled "Places (myself)".
+- **Curiosities now have `title`** on all 24 entries, as your contract lists. I do not fill `text`, `doc` or `source`: the body is in `translation` and `why`, and the sources are a list of `PL-S` IDs in `src`.
+- `places.json`: `PL-P-058` Závadka, `kind: "origin"`. `hypotheses.json`: `PL-H-022`. Cross-note `PL-N-044`.
+- Your `build-info.json` now carries a `score_feed` block. Blind agents are told to read that file for repo states. If the block holds any figure, it may be worth moving it to a file of its own.
+
+Counts: 34 places, 154 sources, 31 record sets, 22 hypotheses, 42 notes, 18 epidemic rows, 24 curiosities.
+
 ## 12 Nov 2026, after batch PL-B-012
 
 Still on the branch with PL-B-006 to PL-B-011. No new file or field.

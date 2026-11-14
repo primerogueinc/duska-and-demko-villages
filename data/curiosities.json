@@ -332,5 +332,44 @@
     "translation": "A satellite image of Senné, 20 September 2026.",
     "why": "The village that fished from dugout boats into the 20th century (PL-CU-005) still has water on its north-east edge: squared fish ponds, the one thing in the picture that is not a field or a street.",
     "tone": "history"
+  },
+  {
+    "id": "PL-CU-026",
+    "title": "The priest of the old faith",
+    "batch": "PL-B-015",
+    "src": [
+      "PL-S-107"
+    ],
+    "place": "PL-P-002",
+    "original": "Danilovics János Ó-hitű pap",
+    "translation": "János Danilovics, priest of the old faith.",
+    "why": "For two months in the autumn of 1852 the children of the Reformed congregation of Solymos were baptised by the Greek Catholic priest of the village, and the Reformed book says so in three words. 'The old faith' is what a Calvinist clerk called the Eastern rite. As read by the Duska agent.",
+    "tone": "odd"
+  },
+  {
+    "id": "PL-CU-027",
+    "title": "Senné, then Ungszenna again",
+    "batch": "PL-B-015",
+    "src": [
+      "PL-S-107"
+    ],
+    "place": "PL-P-001",
+    "original": "Szenna (to 1902); Ungszenna (1906-1921); Senné (1922, 1923); Ungszenna (February 1924)",
+    "translation": "The village's name in its own burial book.",
+    "why": "The priest who would not use the new Hungarian name in 1904 was followed by one who would not give it up. Four years after the village was in Czechoslovakia he wrote 'Senné', in a book still kept in Hungarian, and in February 1924 he wrote 'Ungszenna' once more. He left that year.",
+    "tone": "funny"
+  },
+  {
+    "id": "PL-CU-028",
+    "title": "186 burials",
+    "batch": "PL-B-015",
+    "src": [
+      "PL-S-107"
+    ],
+    "place": "PL-P-001",
+    "original": "186. | Dec. 19.",
+    "translation": "Entry 186 of the year, 19 December [1873].",
+    "why": "A parish that buried thirty to sixty people in an ordinary year numbered its hundred and eighty-sixth before Christmas of the cholera year. No history of the village found so far mentions it; the number in the margin is the record.",
+    "tone": "sad"
   }
 ]

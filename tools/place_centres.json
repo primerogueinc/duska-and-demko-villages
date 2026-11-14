@@ -197,5 +197,11 @@
   "lon": 22.0645,
   "osm_class": "place/village",
   "off_km": 0.57
+ },
+ "PL-P-059": {
+  "lat": 48.74086,
+  "lon": 22.20825,
+  "osm_class": "place/village",
+  "off_km": 0.0
  }
 }

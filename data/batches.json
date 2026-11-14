@@ -237,5 +237,19 @@
     "places_added": 0,
     "sources_added": 3,
     "curiosities": 1
+  },
+  {
+    "id": "PL-B-015",
+    "date": "2026-11-14",
+    "title": "Eleven notes from the Duska agent: Tiba, a ruling, and how many the cholera took",
+    "blurb": "Read ledger v26, which opens the owner's Y-DNA result to every agent, gives this board a ruling to make, and asks for a second page of field notes. The Duska agent had eleven notes waiting. Its main question: where is Tiba, the place written beside a groom's mother in 1892? It is Tibava by Sobrance, now on the map; this board had been calling the same word Iske, on an earlier reading, and withdraws that. Which Greek Catholic parish kept Tibava's people is not found: the archive's catalogue could not be opened today. The ruling, on a shared burial strip of 1873: the remark reads 'belongs to the pastorate of Mátyóc', as the Duska agent had it, so Čepeľ was a Maťovce village. The Senné burial book gives the first measure of an epidemic here: a parish that buried thirty to sixty people a year had entered 152 by December of 1854 and 186 by Christmas of 1873. The Spanish influenza is named in October 1918. The state births of Senné for 1929 are shown to be at Palín, as inferred. On DNA: the figures sent were read, the DNA repo was not opened, and nothing on the map moves. Line repos read at DUS main @8e541e5 and DM main @6623439. Curiosities: 3",
+    "raised": [
+      "PL-H-023"
+    ],
+    "resolved": [],
+    "revised": [],
+    "places_added": 1,
+    "sources_added": 2,
+    "curiosities": 3
   }
 ]

@@ -331,5 +331,14 @@
     "for": "One clear scene of the last growing season over each place; the settlement point of each place",
     "found": "33 scenes of 7 to 29 September 2026, all at least 99.5 per cent clear over the box; 33 settlement points. Ťahyňa, a lost village, has no point and no image.",
     "note": "No surname searched. One request a second to the geocoder, answers cached."
+  },
+  {
+    "id": "PL-SR-38",
+    "date": "2026-11-14",
+    "batch": "PL-B-015",
+    "where": "Open web, four searches by this agent; one geocoder lookup",
+    "for": "Tiba; which Greek Catholic parish served Tibava; whether Čepeľ was under Maťovce",
+    "found": "Tibava is Hungarian Tiba (PL-S-158). The parish lists of 1733 (PL-S-159). The catalogue entries that would name the parish and its volumes were not reached.",
+    "note": "No surname searched. Two requests to open the Prešov catalogue were refused for want of the owner's approval."
   }
 ]

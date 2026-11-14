@@ -2,6 +2,18 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 14 Nov 2026, after batch PL-B-015 (ledger v26)
+
+On the branch `places-agent/pl-b-015` until the coordinator fast-forwards `main`.
+
+- **Field notes 2:** `field-notes/002.md`.
+- `places.json`: `PL-P-059` Tibava. `data/imagery.json`: its image, `imagery/PL-P-059.jpg`; 34 images now.
+- `epidemics.json`: `PL-E-019`, `PL-E-020`; `PL-E-005` is now `"documented for the villages"`.
+- `hypotheses.json`: `PL-H-023`. Cross-notes `PL-N-045` to `PL-N-047`. Curiosities `PL-CU-026` to `PL-CU-028`. Four timeline rows.
+- I read your build file only as far as its `sources` block.
+
+Counts: 35 places, 34 images, 159 sources, 31 record sets, 23 hypotheses, 45 notes, 20 epidemic rows, 28 curiosities.
+
 ## 13 Nov 2026, after batch PL-B-014: a new file and a new folder of images
 
 On the branch `places-agent/pl-b-013` with PL-B-013, pull request 6.

@@ -364,6 +364,36 @@
         "src": [
           "PL-S-155"
         ]
+      },
+      {
+        "text": "The name in the Roman Catholic burial book: 'Szenna' to 1902, 'Ungszenna' from 1906 to 1921, 'Senné' in entries of 1922 and 1923 that are still written in Hungarian, and 'Ungszenna' once more in February 1924.",
+        "src": [
+          "PL-S-107"
+        ]
+      },
+      {
+        "text": "House numbers again: one couple is entered at Szenna 73, 92, 71, 37, 32 and 38 between 1893 and 1918. Whether the village was renumbered or the family moved is not established.",
+        "src": [
+          "PL-S-107"
+        ]
+      },
+      {
+        "text": "Burials entered in the Roman Catholic book of the parish, by the last entry number seen in each year on the Duska agent's strips: usually 30 to 60 a year; 152 by 6 December [1854]; 97 by 2 December [1872]; 186 by 19 December [1873]; 71 by 26 September [1879]. The bracketed years are from the owner's file names.",
+        "src": [
+          "PL-S-107"
+        ]
+      },
+      {
+        "text": "A child of the parish born in Newark, in America, is entered in the baptism book in 1905 from an extract. 'Hrabó tanya', the Hrabó farm, is the residence of a herdsman in 1907.",
+        "src": [
+          "PL-S-107"
+        ]
+      },
+      {
+        "text": "The state births of Senné for 1929 are kept by the registry office of the commune of Palín: a certificate issued in 2005 cites its book of births, volume 5, year 1929, page 102, entry 57.",
+        "src": [
+          "PL-S-107"
+        ]
       }
     ],
     "links": [
@@ -774,6 +804,18 @@
         "src": [
           "PL-S-107"
         ]
+      },
+      {
+        "text": "From 9 October to 7 December 1852 the baptisms in the Reformed book of Solymos are by 'Danilovics János Ó-hitű pap', a priest 'of the old faith', that is the Greek Catholic priest. The Greek Catholic books name the parish priest of those decades as Josephus (József). Whether János is the same man miswritten or a second priest is not established.",
+        "src": [
+          "PL-S-107"
+        ]
+      },
+      {
+        "text": "Houses of Solymos in the Reformed baptisms of 1852: 23, 33, 35, 38, 44, 45, 51 and one read doubtfully as 96. Cholera is named in the Reformed burials on 16 September [1855] and 27 July [1873], and smallpox in January 1878.",
+        "src": [
+          "PL-S-107"
+        ]
       }
     ],
     "links": [
@@ -863,6 +905,12 @@
         "src": [
           "PL-S-107",
           "PL-S-075"
+        ]
+      },
+      {
+        "text": "'Pálini malom', the mill of Pálin, is a residence in the Senné baptism book in 1880; the miller came from Ribnicze. The commune's registry office holds the state births of Senné for 1929.",
+        "src": [
+          "PL-S-107"
         ]
       }
     ],
@@ -1248,6 +1296,13 @@
         "src": [
           "PL-S-151",
           "PL-S-107"
+        ]
+      },
+      {
+        "text": "Ruled at PL-B-015 (X-S-008): the remark beside the Csepely burial of 7 August [1873] reads 'mátyóci lelkészethez tartozik', 'belongs to the pastorate of Mátyóc'. So Čepeľ was under the Greek Catholic parish of Maťovce, and the priest of Čičarovce entered a burial that was not of his own parish, in a cholera month. A parish of the Greek rite at Maťovce is in the list of 1733.",
+        "src": [
+          "PL-S-107",
+          "PL-S-159"
         ]
       }
     ]
@@ -2648,6 +2703,65 @@
         "text": "In Ung county until 1918; in the Sobrance district before 1960. It lies in the plain south-east of the Zemplínska šírava reservoir. Named with Hnojné and Fekišovce in 1418 and 1427.",
         "src": [
           "PL-S-154"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "PL-P-059",
+    "name": "Tibava",
+    "kind": "origin",
+    "country": "Slovakia",
+    "today": "Sobrance district, Košice Region",
+    "lat": 48.74086,
+    "lon": 22.20825,
+    "coord": "OpenStreetMap",
+    "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0.",
+    "maps": [
+      "local"
+    ],
+    "names": [
+      {
+        "form": "Tyboa, Tyba",
+        "when": "1282, 1284",
+        "src": "PL-S-158"
+      },
+      {
+        "form": "Tiba",
+        "when": "Hungarian",
+        "src": "PL-S-158"
+      },
+      {
+        "form": "Cibava, then Tibava",
+        "when": "1920, 1927",
+        "src": "PL-S-158"
+      }
+    ],
+    "role": "Taken to be the 'Tiba' written beside the groom's mother, a Greek Catholic, in the Senné marriage entry of 18 January 1892 (PL-H-023).",
+    "links": [
+      {
+        "label": "e-obce.sk: history",
+        "url": "https://www.e-obce.sk/obec/tibava/2-historia.html",
+        "kind": "municipal"
+      }
+    ],
+    "facts": [
+      {
+        "text": "Two kilometres east of Sobrance. Seat of the Tibava estate, which held Sobrance and a dozen villages; the Sztáray family were its lords into the 20th century. 58 houses and 548 people in 1828.",
+        "src": [
+          "PL-S-158"
+        ]
+      },
+      {
+        "text": "A Latin-rite parish in the list of 1733. No parish of the Greek rite is listed there or at Sobrance in that year; the nearest ones listed are Choňkovce, Nižná Rybnica, Porostov and Koromľa. Which of them, or which later parish, kept the Greek Catholics of Tibava in 1830 to 1870 has not been found.",
+        "src": [
+          "PL-S-159"
+        ]
+      },
+      {
+        "text": "Census of 2021: 536 people; 300 Roman Catholics, 114 Greek Catholics; one person of Rusyn nationality.",
+        "src": [
+          "PL-S-158"
         ]
       }
     ]

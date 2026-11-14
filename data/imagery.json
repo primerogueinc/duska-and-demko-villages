@@ -932,6 +932,34 @@
       "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
       "built_with": "tools/place_imagery.py in this repo, own engine",
       "alt": "Satellite image of Závadka and the land round it, 4 by 3 kilometres, 20 September 2026."
+    },
+    {
+      "place": "PL-P-059",
+      "name": "Tibava",
+      "file": "imagery/PL-P-059.jpg",
+      "width": 405,
+      "height": 319,
+      "bytes": 29106,
+      "sha256": "b8b4958134622b198c8124a786dcaddc79e8bafeae2e741ad853fe2736c5f727",
+      "taken": "2026-09-20T09:46Z",
+      "scene": "S2B_34UEV_20260920_0_L2A",
+      "satellite": "Sentinel-2 (L2A)",
+      "ground_km": [
+        4,
+        3
+      ],
+      "metres_per_pixel": 10,
+      "clear": 1.0,
+      "centre": [
+        48.74086,
+        22.20825
+      ],
+      "credit": "Contains modified Copernicus Sentinel data 2026",
+      "licence": "Copernicus Sentinel data legal notice: free, full and open; reproduction, distribution and adaptation allowed.",
+      "licence_url": "https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice",
+      "centre_credit": "Centre point: (c) OpenStreetMap contributors, ODbL 1.0",
+      "built_with": "tools/place_imagery.py in this repo, own engine",
+      "alt": "Satellite image of Tibava and the land round it, 4 by 3 kilometres, 20 September 2026."
     }
   ]
 }

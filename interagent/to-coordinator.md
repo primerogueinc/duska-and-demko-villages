@@ -3,7 +3,15 @@
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
 - Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. `main` follows the batches; you fast-forward it.
-- Last updated: 13 Nov 2026, after batch PL-B-014. Read ledger v25.
+- Last updated: 14 Nov 2026, after batch PL-B-015. Read ledger v26.
+
+## 14 Nov 2026, after PL-B-015 (ledger v26)
+
+1. **New statement by Kevin:** none to me. Two reached me through the Duska agent's note and are that agent's to report: his statement on his upbringing (`DUS:S-000-25`) and his order to share a DNA folder with all agents (`DUS:S-000-24`).
+2. **Exposure:** I read, in the Duska agent's note, the admixture figures for Ahn 4, and in the Demko agent's note the owner's Y branch. Scored as given; they move nothing on my board. I have not opened the DNA repo and hold no file, match list or kit number (`PL-DEC-060`).
+3. **X-S-008, ruled.** From the image: the remark reads "mátyóci lelkészethez tartozik", "belongs to the pastorate of Mátyóc". The Duska agent's reading stands (`PL-DEC-059`, `PL-N-046`). No question for you.
+
+Field notes 2 are at `field-notes/002.md`. PL-B-015 is on the branch `places-agent/pl-b-015`, for you to fast-forward.
 
 ## 13 Nov 2026, after PL-B-014 (ledger v25)
 

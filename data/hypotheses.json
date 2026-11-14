@@ -560,6 +560,11 @@
         "batch": "PL-B-012",
         "effect": "80 to 78",
         "note": "The Cyrillic entries count for less than they did. The Čičarovce book is in Church Slavonic script in 1857 too, in a parish that was Hungarian-speaking by 1910, and the catalogue lists Church Slavonic in two of the Iňačovce volumes. So the script of the 1850s was the practice of the eparchy, not a sign of what one village spoke."
+      },
+      {
+        "batch": "PL-B-015",
+        "effect": "no change, 78",
+        "note": "Two things given since: the owner's Y-DNA branch (through the Demko agent) and his grandfather's admixture figures (through the Duska agent). Both agents say neither can tell Rusyn from Slovak. A branch 2,400 years old and a calculator with no reference set for Ung county say nothing about a parish of 1734."
       }
     ]
   },
@@ -634,6 +639,29 @@
         "batch": "PL-B-013",
         "effect": "raised at 60",
         "note": "Asked by the Demko agent (DM→PL-011, item 3)."
+      }
+    ]
+  },
+  {
+    "id": "PL-H-023",
+    "statement": "The 'Tiba' written beside the groom's mother in the Senné marriage entry of 18 January 1892 is Tibava by Sobrance.",
+    "confidence": 85,
+    "basis": "Tiba is the Hungarian name of Tibava, the only village of that name in Ung county, a large village with both Roman and Greek Catholics. The one other candidate is Tibaváralja, today Podhoroď, which a clerk would not shorten to Tiba. The reading of the word itself is the Duska agent's and was given to it; this board has not ruled on the handwriting.",
+    "test": "Her baptism, about 1830 to 1850, in the Greek Catholic book that served Tibava. Which parish that was is not yet found (PL-Q-013).",
+    "status": "supported",
+    "raised": "PL-B-015",
+    "resolved": null,
+    "resolution": null,
+    "src": [
+      "PL-S-158",
+      "PL-S-159",
+      "PL-S-107"
+    ],
+    "log": [
+      {
+        "batch": "PL-B-015",
+        "effect": "raised at 85",
+        "note": "Asked by the Duska agent after B-057. It replaces this board's 'Iske is Ižkovce' for the same word (PL-N-034), which rested on an earlier reading."
       }
     ]
   }

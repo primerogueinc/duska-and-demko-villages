@@ -70,14 +70,18 @@
     "id": "PL-E-005",
     "years": "1854-1855",
     "what": "Cholera, third wave",
-    "scope": "regional only",
-    "places": [],
-    "evidence": "Nothing village-level found.",
-    "for_the_records": "The Čičarovce Greek Catholic burial volume no. 182 begins in 1851 and covers Viszoka.",
-    "status": "not found for the villages",
+    "scope": "regional; a burial count from the Senné parish and one named death at Solymos",
+    "places": [
+      "PL-P-001",
+      "PL-P-002"
+    ],
+    "evidence": "Nothing village-level found. Now seen in two books. The Senné Roman Catholic burial book had reached entry 152 by 6 December [1854], against 30 to 60 in an ordinary year; the two entries on that strip are not cholera, so the count is the evidence. The Reformed book of Solymos names cholera on 16 September [1855]. The years are from the owner's file names.",
+    "for_the_records": "Senné no. 1091, the entries of July to October 1854 and 1855: the cause column will show whether the surplus is cholera.",
+    "status": "documented for the villages",
     "src": [
       "PL-S-105",
-      "PL-S-075"
+      "PL-S-075",
+      "PL-S-107"
     ]
   },
   {
@@ -101,9 +105,11 @@
     "places": [
       "PL-P-014",
       "PL-P-037",
-      "PL-P-050"
+      "PL-P-050",
+      "PL-P-001",
+      "PL-P-002"
     ],
-    "evidence": "In one Greek Catholic parish of Zemplén nearly every death entry of summer 1873 gives cholera as the cause. In the records in hand: twins born in May 1873 are both marked dead, with no cause written and a residence that is not one of the three villages. Now named in two registers. In the Čičarovce Greek Catholic book: a man of 30 at Viszoka in December 1872; a youth of 17 at Csepely on 7 August 1873 and a boy of 14 at Bés in the next entry. In the Iňačovce Greek Catholic book: three entries in a row at Jesztreb in August 1873, children of 2 and 14 among them. So the wave reached the Uh villages in the winter of 1872 and came back in August 1873.",
+    "evidence": "In one Greek Catholic parish of Zemplén nearly every death entry of summer 1873 gives cholera as the cause. In the records in hand: twins born in May 1873 are both marked dead, with no cause written and a residence that is not one of the three villages. Now named in two registers. In the Čičarovce Greek Catholic book: a man of 30 at Viszoka in December 1872; a youth of 17 at Csepely on 7 August 1873 and a boy of 14 at Bés in the next entry. In the Iňačovce Greek Catholic book: three entries in a row at Jesztreb in August 1873, children of 2 and 14 among them. So the wave reached the Uh villages in the winter of 1872 and came back in August 1873. The Senné Roman Catholic book gives the scale: 97 burials entered by 2 December [1872] and 186 by 19 December [1873], three to four times an ordinary year; entry 78 falls on 25 July, so more than a hundred came after it. The Reformed book of Solymos names cholera on 27 July [1873].",
     "for_the_records": "Iňačovce no. 382, leaves 83 to 141, and Čičarovce no. 182. Every cholera entry of August and September 1873 can be counted.",
     "status": "documented for the villages",
     "src": [
@@ -119,14 +125,17 @@
     "what": "Hunger after cold wet years",
     "scope": "regional only (Zemplén and Borsod)",
     "places": [
+      "PL-P-001",
+      "PL-P-002",
       "PL-P-037"
     ],
-    "evidence": "A penury is documented for the two counties to the west. In the records in hand: a child of Viszoka no. 120 dead at twelve days in March 1879, no cause written.",
+    "evidence": "A penury is documented for the two counties to the west. In the records in hand: a child of Viszoka no. 120 dead at twelve days in March 1879, no cause written. In the Senné Roman Catholic book 71 burials were entered by 26 September [1879], more than most whole years. Causes on the strips of that month: 'burning fever' in a woman of 24, and 'pokolvar', anthrax, in a boy of ten at Solymos. No entry speaks of hunger.",
     "for_the_records": "One infant death is not a pattern. Count the Viszoka burials for 1879 and 1880 in volume no. 182.",
-    "status": "not found for the villages",
+    "status": "observation only",
     "src": [
       "PL-S-105",
-      "PL-S-104"
+      "PL-S-104",
+      "PL-S-107"
     ]
   },
   {
@@ -258,13 +267,13 @@
   },
   {
     "id": "PL-E-017",
-    "years": "1870, 1876",
+    "years": "1870, 1876, 1879",
     "what": "Anthrax ('carbunculus') at Iňačovce",
     "scope": "one village, from burial entries",
     "places": [
       "PL-P-002"
     ],
-    "evidence": "Two children of Solymos are entered as dead of 'carbunculus': a boy of a year and a half on 11 December 1870, and a cottar's daughter at house 13 on 3 January 1876. The Duska agent reads the word as anthrax, a disease of cattle and sheep that passes to people. From recall, not sourced: it was common where stock grazed wet meadows, and Iňačovce was a village of wide meadows.",
+    "evidence": "Two children of Solymos are entered as dead of 'carbunculus': a boy of a year and a half on 11 December 1870, and a cottar's daughter at house 13 on 3 January 1876. The Duska agent reads the word as anthrax, a disease of cattle and sheep that passes to people. From recall, not sourced: it was common where stock grazed wet meadows, and Iňačovce was a village of wide meadows. A third case: the Roman Catholic book of Senné has a boy of ten at Solymos 19 dead of 'pokolvar', the Hungarian name for the same disease, in late September [1879].",
     "for_the_records": "Other entries with the same word in Iňačovce nos. 382 and 383; any note of cattle deaths in the same winters.",
     "status": "documented for one village",
     "src": [
@@ -282,6 +291,36 @@
     ],
     "evidence": "Measles ('red pox') is the cause of a child's death at Jesztreb in January 1846, February 1867, April 1876 and February 1894. A youth of 19 died of 'nervous fever', typhus, in December 1864.",
     "for_the_records": "Iňačovce nos. 381 to 383.",
+    "status": "documented for one village",
+    "src": [
+      "PL-S-107"
+    ]
+  },
+  {
+    "id": "PL-E-019",
+    "years": "1918",
+    "what": "The Spanish influenza",
+    "scope": "one village, one named death",
+    "places": [
+      "PL-P-001"
+    ],
+    "evidence": "A girl of eleven at Ungszenna 38 died on 29 October 1918 of 'spanyol nátha' and was buried the next day. The year's burials in the parish had reached 43 by 28 December, within the ordinary range, so the book does not show a wave on the scale of the cholera years.",
+    "for_the_records": "Senné no. 1093, October to December 1918: count the entries with this cause.",
+    "status": "documented for one village",
+    "src": [
+      "PL-S-107"
+    ]
+  },
+  {
+    "id": "PL-E-020",
+    "years": "1846 to 1913",
+    "what": "Other causes named in the Senné Roman Catholic book",
+    "scope": "one parish, from burial entries",
+    "places": [
+      "PL-P-001"
+    ],
+    "evidence": "Whooping cough in [1846] and [1847]; smallpox in [1847], November [1884] and April 1908; diphtheria in 1885; typhus in 1913, a year with 46 burials by 28 October. Smallpox at Senné in 1847 and 1884 to 1885 matches the years it is named at Jastrabie in the Greek Catholic book.",
+    "for_the_records": "Senné nos. 1091 and 1093.",
     "status": "documented for one village",
     "src": [
       "PL-S-107"

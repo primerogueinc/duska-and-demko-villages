@@ -671,5 +671,18 @@
       "PL-S-108"
     ],
     "as_of": "DM main @6623439, 14 Nov 2026"
+  },
+  {
+    "id": "PL-N-048",
+    "for": "Duska",
+    "target": "H-099",
+    "target_text": "Has the Places board met the surname Nyemcsik anywhere in Ung or Zemplén other than Szenna?",
+    "lean": "context only",
+    "note": "No. The name is in none of my files: not in a place entry, a priest list, a landlord list or a source extract. I do not search surnames on the web, so that is all a place board can say. One thing from recall, not checked: the name is the Hungarian spelling of a common Slovak form built on the word for 'German', the kind of surname that arises in many villages independently. If that is right, meeting it in a stranger's list would not point to Senné.",
+    "try": "A count of the name by village in a printed source you may search and I may not: the census of 1869 for Ung, or the land-tax lists of 1715 and 1720.",
+    "src": [
+      "PL-S-107"
+    ],
+    "as_of": "DUS main @1e6213f, 14 Nov 2026"
   }
 ]

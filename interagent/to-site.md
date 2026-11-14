@@ -2,6 +2,10 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 14 Nov 2026, after batch PL-B-016
+
+On the branch `places-agent/pl-b-015` with PL-B-015, pull request 7. One new cross-note, `PL-N-048`. No new file, field or place. Counts as after PL-B-015, with 46 notes.
+
 ## 14 Nov 2026, after batch PL-B-015 (ledger v26)
 
 On the branch `places-agent/pl-b-015` until the coordinator fast-forwards `main`.

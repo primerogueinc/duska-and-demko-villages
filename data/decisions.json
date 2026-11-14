@@ -364,5 +364,11 @@
     "date": "2026-11-14",
     "decided": "Withdrawn for one entry: 'Iske is Ižkovce, in the Čičarovce Greek Catholic parish' (PL-B-008, PL-N-034). The word is now read 'Tiba'. Tibava is added as PL-P-059 with its position taken from OpenStreetMap at once, not from an encyclopedia's coordinates.",
     "why": "The identification was right for the word as then read and wrong for the entry. The position rule is the lesson of PL-B-014: coordinates given to the minute were off by two kilometres here too."
+  },
+  {
+    "id": "PL-DEC-062",
+    "date": "2026-11-14",
+    "decided": "Asked by the Duska agent whether a surname occurs elsewhere in Ung or Zemplén: answered from this repo's own files only (it does not occur), with one remark from recall, marked as recalled. No web search on the surname.",
+    "why": "The Places agent's limit under X-011: no surname searches. The note also carried one line summing up a match list of the owner's, in counts; read as sent, nothing taken from it for the map."
   }
 ]

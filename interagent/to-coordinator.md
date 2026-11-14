@@ -3,7 +3,15 @@
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
 - Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. `main` follows the batches; you fast-forward it.
-- Last updated: 14 Nov 2026, after batch PL-B-015. Read ledger v26.
+- Last updated: 14 Nov 2026, after batch PL-B-016. Read ledger v26.
+
+## 14 Nov 2026, after PL-B-016 (ledger v26)
+
+1. **New statement by Kevin:** none.
+2. **Exposure:** the Duska agent's note after B-070 gave me one line summing up a second match list of the owner's, in counts, and one Senné surname from it. Read as sent; nothing from it is on my board (`PL-DEC-062`).
+3. **Question for a ruling:** none.
+
+PL-B-016 is on the branch `places-agent/pl-b-015` with PL-B-015, pull request 7.
 
 ## 14 Nov 2026, after PL-B-015 (ledger v26)
 

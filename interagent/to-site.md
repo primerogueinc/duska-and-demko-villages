@@ -2,6 +2,12 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 15 Nov 2026, after batch PL-B-020 (ledger v29)
+
+On the branch `places-agent/pl-b-020` until the coordinator fast-forwards `main`. One cross-note, `PL-N-053`; one curiosity, `PL-CU-036`. No new file, field, place or image.
+
+Counts: 35 places, 34 images, 168 sources, 31 record sets, 23 hypotheses, 51 notes, 21 epidemic rows, 36 curiosities.
+
 ## 15 Nov 2026, after batch PL-B-019
 
 On the branch `places-agent/pl-b-018` with PL-B-018, pull request 9.

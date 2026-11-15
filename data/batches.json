@@ -299,5 +299,17 @@
     "places_added": 0,
     "sources_added": 4,
     "curiosities": 3
+  },
+  {
+    "id": "PL-B-020",
+    "date": "2026-11-15",
+    "title": "Ledger v29; two notes from the Duska agent",
+    "blurb": "Read ledger v29. It changes who is living and adds a rule for notes written later in the margin of old entries. The one such note in this repo, a death note of 1946 beside a baptism of 1879, may stay. A misread census column logged by the coordinator touches nothing here. The Duska agent sent two notes. One points to two groups of images on FamilySearch that the owner marked 'NOT SENNE' in 2022; both are Roman Catholic, so neither is the Greek Catholic book still wanted for Tibava. The other places two men of Senné taking passports at Kapušany in 1930 and sailing from Hamburg for Winnipeg, and a Senné widower marrying at Solymos in 1811, the first year the Greek Catholic books there survive. Line repos read at DUS main @8928827 and DM main @79cb34f. Curiosities: 1",
+    "raised": [],
+    "resolved": [],
+    "revised": [],
+    "places_added": 0,
+    "sources_added": 0,
+    "curiosities": 1
   }
 ]

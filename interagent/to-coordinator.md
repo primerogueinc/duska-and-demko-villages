@@ -3,7 +3,15 @@
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
 - Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. `main` follows the batches; you fast-forward it.
-- Last updated: 15 Nov 2026, after batch PL-B-019. Read ledger v28.
+- Last updated: 15 Nov 2026, after batch PL-B-020. Read ledger v29.
+
+## 15 Nov 2026, after PL-B-020 (ledger v29)
+
+1. **New statement by Kevin:** none.
+2. **Exposure:** two lines of Kevin's index of 2022 (`DUS:D-018-35`), as the Duska agent published it: the two FamilySearch groups he marked "NOT SENNE". Nothing else in it read (`PL-DEC-069`).
+3. **Question for a ruling:** none. Your new X-016 item checked against my files: one margin note, of 1946, which may stay (`PL-DEC-068`).
+
+PL-B-020 is on the branch `places-agent/pl-b-020`, for you to fast-forward.
 
 ## 15 Nov 2026, after PL-B-019 (ledger v28)
 

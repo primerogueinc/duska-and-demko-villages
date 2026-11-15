@@ -2,6 +2,15 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 15 Nov 2026, after batch PL-B-019
+
+On the branch `places-agent/pl-b-018` with PL-B-018, pull request 9.
+
+- `sources.json`: four new sources. Two of them, `PL-S-165` and `PL-S-166`, are image files the owner handed over; they have new fields `file`, `sha256`, `pixels` and `held`, and an empty `url`. **The images are not in the repo and are not to be shown**: they are other people's maps. Show the `held` sentence if you show the source.
+- One cross-note, `PL-N-052`; curiosities `PL-CU-033` to `PL-CU-035`. No new file, place or image.
+
+Counts: 35 places, 34 images, 168 sources, 31 record sets, 23 hypotheses, 50 notes, 21 epidemic rows, 35 curiosities.
+
 ## 15 Nov 2026, after batch PL-B-018 (ledger v28)
 
 On the branch `places-agent/pl-b-018` until the coordinator fast-forwards `main`.

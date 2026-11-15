@@ -930,7 +930,7 @@
   },
   {
     "id": "PL-S-108",
-    "title": "Demko agent, documents DM-D-040, DM-D-041 and DM-D-043 to DM-D-053, and its notes to the Places agent DM→PL-003 and DM→PL-004, and its board at DM main @51a25e8 (DM-PR-3, DM-H-008, DM-H-014, DM-H-040, DM-D-008, DM-D-101); its note DM→PL-011 and documents DM-D-106 to DM-D-131 at DM main @f1bbdcf; its notes DM→PL-012 and DM→PL-013 at DM main @6623439; its note DM→PL-014 and documents DM-D-158 to DM-D-169 at DM main @afd2601",
+    "title": "Demko agent, documents DM-D-040, DM-D-041 and DM-D-043 to DM-D-053, and its notes to the Places agent DM→PL-003 and DM→PL-004, and its board at DM main @51a25e8 (DM-PR-3, DM-H-008, DM-H-014, DM-H-040, DM-D-008, DM-D-101); its note DM→PL-011 and documents DM-D-106 to DM-D-131 at DM main @f1bbdcf; its notes DM→PL-012 and DM→PL-013 at DM main @6623439; its note DM→PL-014 and documents DM-D-158 to DM-D-169 at DM main @afd2601; its notes DM→PL-015 and DM→PL-016 at DM main @79cb34f",
     "type": "Sibling agent's transcriptions of records in hand",
     "url": "https://github.com/primerogueinc/genealogy-demko-1/blob/main/interagent/to-places.md",
     "read": "notes read in full at DM main @5661373, @b2bdf12, @05cc58c @5d8cbc4 and @5a10545; three document entries opened",
@@ -1440,5 +1440,49 @@
     "read": "search extract only, 15 Nov 2026",
     "reliability": "The extract lists 'Csascs Hreha' at Oroszvolya beside Gregor, Gergely and Hricz in neighbouring villages: Hreha written as a given name in a Rusyn village. The extract does not itself say that Hreha is Gregory.",
     "batch": "PL-B-018"
+  },
+  {
+    "id": "PL-S-165",
+    "title": "Map 'Kingdom of Hungary in 1910', the counties, with today's Slovakia outlined in red; the address www.cisarik.com is printed on it. From the owner's folder 'Duska Maps', his file name 'Former_Counties_of_Slovakia_Map.jpg'",
+    "type": "Modern reference map, image file handed over by the owner in chat, 15 Nov 2026",
+    "url": "",
+    "read": "the image, in full",
+    "reliability": "A present-day drawing of the county borders of 1910, made for a genealogy reference site. Good for which county a place was in and for where today's border cuts the old counties; too small to place a village. No date in the file. The folder and file names are the owner's labels.",
+    "batch": "PL-B-019",
+    "file": "Former_Counties_of_Slovakia_Map.jpg",
+    "sha256": "2c6f2717d448bd55d52d67b483d5816cda548e5a3bdad178a9aedde79d8dc88e",
+    "pixels": "950 x 628",
+    "held": "held: a third party's map, no licence known; not copied into this repo"
+  },
+  {
+    "id": "PL-S-166",
+    "title": "Screenshot of an aeronautical chart for visual flight, eastern Slovakia from Vranov to Mukachevo, with airspace boundaries. From the owner's folder 'Duska Maps', his file name 'VFR_flight_map_of_Slovakia_Senne_Region.png'",
+    "type": "Screenshot of a present-day flight chart, image file handed over by the owner in chat, 15 Nov 2026",
+    "url": "",
+    "read": "the image, in full",
+    "reliability": "A pilot's chart: towns as yellow patches, roads, railways, rivers, and the limits of controlled and restricted airspace with their heights. It names Michalovce, Sobrance, Pavlovce nad Uhom, Veľké Kapušany and Uzhhorod; it does not name Senné or Iňačovce. It shows the restricted area LZR55, so it is no older than 2020. No date in the file.",
+    "batch": "PL-B-019",
+    "file": "VFR_flight_map_of_Slovakia_Senne_Region.png",
+    "sha256": "cade89c3e357550c472d2b37c95671fa421eb1b07940118832dabbb4fe0ef6b2",
+    "pixels": "1443 x 893",
+    "held": "held: a third party's chart, no licence known; not copied into this repo"
+  },
+  {
+    "id": "PL-S-167",
+    "title": "The restricted airspace LZR55: the agreement between Slovakia and Ukraine published as no. 227/2021 in the Slovak collection of laws, and the legend of the military aeronautical chart",
+    "type": "Law text; official chart legend",
+    "url": "https://www.zakonypreludi.sk/print/zz/2021-227/znenie-0.htm",
+    "read": "search extracts only, 15 Nov 2026",
+    "reliability": "Defines LZR55 as a restricted area on Slovakia's outer border with Ukraine, bounded on the east by the border and reaching 10 km inland; the chart legend gives it from the ground to 8,000 feet. The agreement was signed on 24 September 2020.",
+    "batch": "PL-B-019"
+  },
+  {
+    "id": "PL-S-168",
+    "title": "Hungarian law on the religion of children of mixed marriages: lecture notes on the history of marriage law (ELTE) and an article in Acta Historica (Szeged)",
+    "type": "University lecture notes; scholarly article",
+    "url": "https://ojs.bibl.u-szeged.hu/index.php/acthist/article/download/10578/10470/10935",
+    "read": "search extracts only, 15 Nov 2026",
+    "reliability": "Before 1868: with a Catholic father all children follow him; with a Catholic mother only the sons may follow their father. Act LIII of 1868: sons follow the father, daughters the mother, and pledges about the children's religion are forbidden. Act XXXII of 1894 allows such agreements again. The article says the struggle over pledges went on between those dates.",
+    "batch": "PL-B-019"
   }
 ]

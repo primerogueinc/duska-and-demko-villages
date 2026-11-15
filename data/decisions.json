@@ -394,5 +394,11 @@
     "date": "2026-11-15",
     "decided": "Asked by the Demko agent for a source for 'Hreha' as a form of Gregory: searched the forms of the given name only. No family and no surname was searched. Village names on the line agents' strips were looked up as places.",
     "why": "The Places agent's own limit, no surname searches. Hreha is also a surname, so the search was worded on the given name and its forms."
+  },
+  {
+    "id": "PL-DEC-067",
+    "date": "2026-11-15",
+    "decided": "The owner handed this agent a folder in chat, 'Duska Maps': two image files, a map of the counties of 1910 and a screenshot of a flight chart. Taken in as sources PL-S-165 and PL-S-166, each logged by his file name and SHA-256. Neither image is copied into this repo or shown on the page: both are other people's maps and no licence is known. What they show is entered in words. The folder and file names are his labels and move nothing.",
+    "why": "X-029 and X-033: he gives what is on his drive and it is taken. X-004: labels are priors. The site shows only images this board may republish, as with the satellite pictures. Neither file says anything about the family. Neither carries a date, so whether it was made after the experiment began cannot be said."
   }
 ]

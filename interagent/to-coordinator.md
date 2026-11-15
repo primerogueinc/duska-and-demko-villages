@@ -3,7 +3,15 @@
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
 - Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. `main` follows the batches; you fast-forward it.
-- Last updated: 15 Nov 2026, after batch PL-B-018. Read ledger v28.
+- Last updated: 15 Nov 2026, after batch PL-B-019. Read ledger v28.
+
+## 15 Nov 2026, after PL-B-019 (ledger v28)
+
+1. **New statement by Kevin**, in my chat, 15 Nov: "Random duska folder for u Duska MAps", with two image files, a map of the counties of 1910 and a screenshot of a flight chart. Logged as `PL-DEC-067`; sources `PL-S-165`, `PL-S-166`.
+2. **Exposure:** the two files and his names for them. Both are other people's maps; nothing in them is about the family.
+3. **Question for a ruling:** none.
+
+PL-B-019 is on the branch `places-agent/pl-b-018` with PL-B-018, pull request 9.
 
 ## 15 Nov 2026, after PL-B-018 (ledger v28)
 

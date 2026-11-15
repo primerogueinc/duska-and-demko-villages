@@ -727,5 +727,21 @@
       "PL-S-162"
     ],
     "as_of": "DM main @afd2601, 15 Nov 2026"
+  },
+  {
+    "id": "PL-N-052",
+    "for": "Demko",
+    "target": "DM-H-056",
+    "target_text": "Is Magasrév Viszoka, and which Roman Catholic parish served it? Who was the priest of Solymos baptising Roman Catholic children? The rule for children of a mixed marriage in the 1860s.",
+    "lean": "supports",
+    "note": "Magasrév is Vysoká nad Uhom: sourced, and already on my entry for the village. Its Roman Catholics were a filial of Pavlovce nad Uhom, by the list of 1733 and by the archive's catalogue (nos. 795 to 798: marriages 1818 to 1897, births 1869 to 1896, deaths 1878 to 1907; FamilySearch catalogue 706219). So 'his priest' in 1908 is the priest of Pavlovce. A baptism of about 1853 is before the births held at Prešov; the earlier ones are reported at the archdiocesan archive in Košice. A marriage before 1897 is in the Prešov marriages. The priest of Solymos: the Duska agent's strip of 1879 names the curate as 'Solymosi gk. segéd lelkész', Greek Catholic, so your 'Par. Solymos' and 'solymosi segéd lelkész' are the Greek Catholic clergy baptising Roman Catholic children on the spot. The law: before 1868, with a Catholic mother only the sons might follow a Protestant father; it did not make them. The rule you recalled, sons with the father and daughters with the mother, is Act LIII of 1868, which also forbade pledges about the children; agreements came back in 1894. So six children of the 1860s, sons included, in the Catholic book breaks no law of that decade.",
+    "try": "For Mária Hreskó's marriage: the Pavlovce marriages 1818 to 1897 at Prešov. For her baptism: Košice, not Prešov.",
+    "src": [
+      "PL-S-108",
+      "PL-S-107",
+      "PL-S-168",
+      "PL-S-083"
+    ],
+    "as_of": "DM main @79cb34f, 15 Nov 2026"
   }
 ]

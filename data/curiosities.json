@@ -423,5 +423,45 @@
     "translation": "Died 20 November 1946.",
     "why": "Someone in the parish office of Senné, the year after the war, turned back to a baptism of 1879 and wrote the day of death beside it. The book had seen two states and three official languages by then.",
     "tone": "sad"
+  },
+  {
+    "id": "PL-CU-033",
+    "title": "The Senné map that does not name Senné",
+    "batch": "PL-B-019",
+    "src": [
+      "PL-S-166"
+    ],
+    "place": "PL-P-001",
+    "original": "VFR_flight_map_of_Slovakia_Senne_Region.png",
+    "translation": "The owner's name for a pilot's chart of the region.",
+    "why": "The owner keeps a flight chart in a folder of family maps and names it for Senné. The chart names Michalovce, Sobrance and Pavlovce nad Uhom and gives the radio frequency of an airfield forty kilometres away. Senné is on it only as two ponds. To a pilot the family's village is a water feature.",
+    "tone": "funny"
+  },
+  {
+    "id": "PL-CU-034",
+    "title": "A restricted sky over one village and not the other",
+    "batch": "PL-B-019",
+    "src": [
+      "PL-S-166",
+      "PL-S-167"
+    ],
+    "place": "PL-P-037",
+    "original": "LZR55 8000 ft MSL GND",
+    "translation": "Restricted area 55, from the ground to 8,000 feet above sea level.",
+    "why": "A band of restricted airspace now runs ten kilometres in from the Ukrainian border. Vysoká nad Uhom, the Demko village, lies under it. Senné and Iňačovce, a morning's walk to the west, lie just outside. In 1910 all three were in one county whose town is now across that border.",
+    "tone": "history"
+  },
+  {
+    "id": "PL-CU-035",
+    "title": "Juliet, Ilinois",
+    "batch": "PL-B-019",
+    "src": [
+      "PL-S-108"
+    ],
+    "place": "PL-P-001",
+    "original": "Juliet, Ilinois",
+    "translation": "Joliet, Illinois, as the priest of Senné heard it.",
+    "why": "A groom of the 1900s gave his birthplace, the parish priest of a village on the Uh plain wrote down what he heard, and an American steel town became a girl's name. As read by the Demko agent.",
+    "tone": "funny"
   }
 ]

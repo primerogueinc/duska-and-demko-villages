@@ -419,6 +419,26 @@
         "src": [
           "PL-S-107"
         ]
+      },
+      {
+        "text": "On a pilot's chart from the owner's folder the village is not named: it appears as its fish ponds, the only water drawn on the plain besides the Šírava reservoir. The chart's 22nd meridian runs 2 km west of the village, and Senné lies 2 km from the point where it crosses 48°40' north (by this board's coordinates).",
+        "src": [
+          "PL-S-166"
+        ]
+      },
+      {
+        "text": "The restricted airspace along the Ukrainian border, LZR55, reaches 10 km inland. Read from the chart, its western edge passes about 4 km east of Senné and 6 km east of Iňačovce: both home villages lie just outside it.",
+        "src": [
+          "PL-S-166",
+          "PL-S-167"
+        ]
+      },
+      {
+        "text": "The Roman Catholic book from 1901 to 1925, by the Demko agent's 99 strips: 'Szenna' to early 1906, 'Ungszenna' from May 1906, 'Senné' from 1922; Gyula Buzinkay parish priest to early 1906 and János Barna from May 1906 to 1925; an assistant from Vinna in October 1910. Birthplaces written in those years: Csecsehó (Čečehov), Pálócz (Pavlovce), Dubróka (Dúbravka), 'Szalók, Zemplén m.' (Slavkovce), Varannó (Vranov) and Tiszaszőllős on the Tisza; two grooms were born in America, one in Pennsylvania and one at 'Juliet, Ilinois'. The identifications other than Pavlovce are from recall.",
+        "src": [
+          "PL-S-108",
+          "training"
+        ]
       }
     ],
     "links": [
@@ -860,6 +880,13 @@
           "PL-S-108",
           "PL-S-163"
         ]
+      },
+      {
+        "text": "Roman Catholic children of Solymos were baptised in the village by the priest of Solymos and entered in the Senné book: 'Par. Solymos' in [1870], a 'solymosi segéd lelkész' in [1876] and [1879]. The Duska agent's strip of 1879 calls that curate Greek Catholic, so the priest on the spot was the Greek Catholic one. The entries are Latin in [1870] and Hungarian from [1873].",
+        "src": [
+          "PL-S-108",
+          "PL-S-107"
+        ]
       }
     ],
     "links": [
@@ -955,6 +982,12 @@
         "text": "'Pálini malom', the mill of Pálin, is a residence in the Senné baptism book in 1880; the miller came from Ribnicze. The commune's registry office holds the state births of Senné for 1929.",
         "src": [
           "PL-S-107"
+        ]
+      },
+      {
+        "text": "In the Senné Roman Catholic book: 'Pályin' to the early 1920s, 'Palín' in 1925.",
+        "src": [
+          "PL-S-108"
         ]
       }
     ],
@@ -1204,6 +1237,12 @@
           "PL-S-107",
           "PL-S-162"
         ]
+      },
+      {
+        "text": "In the Senné Roman Catholic book the village is 'Alsókánya' from 1908 and 'Jesztreb' again in 1925.",
+        "src": [
+          "PL-S-108"
+        ]
       }
     ],
     "coord_check": "Position: the settlement point in OpenStreetMap, © OpenStreetMap contributors, ODbL 1.0. It replaced an estimate 3.06 km away at PL-B-014."
@@ -1306,6 +1345,13 @@
         "src": [
           "PL-S-129",
           "PL-S-127"
+        ]
+      },
+      {
+        "text": "Drawn inside the restricted airspace LZR55 on a present-day flight chart, with Veľké Kapušany: the band that runs 10 km in from the Ukrainian border, from the ground to 8,000 feet.",
+        "src": [
+          "PL-S-166",
+          "PL-S-167"
         ]
       }
     ]
@@ -1514,6 +1560,12 @@
       {
         "text": "The district library for the Roman Catholic clergy, the subject of four circulars in the Duska agent's Folder 1, was kept here.",
         "src": "PL-S-031"
+      },
+      {
+        "text": "A map of the counties of 1910 from the owner's folder shows the point plainly: the line of today's Slovakia cuts Ung county in two, the villages of the Uh plain on one side and the county town on the other.",
+        "src": [
+          "PL-S-165"
+        ]
       }
     ]
   },
@@ -1903,6 +1955,14 @@
         "text": "Houses of Viszoka in the Čičarovce burial strips: 34, 120, 121 and 136. A man of 30 died there of cholera in December 1872.",
         "src": [
           "PL-S-107"
+        ]
+      },
+      {
+        "text": "East of Pavlovce and nearer the border, the village lies under the restricted airspace LZR55, the 10 km band along the Ukrainian border (by its position on the flight chart, which does not name it). In the Senné Roman Catholic book of 1908 it is 'Magasrév'; a groom living there brought a certificate from 'his priest', who by the parish district was the priest of Pavlovce.",
+        "src": [
+          "PL-S-166",
+          "PL-S-167",
+          "PL-S-108"
         ]
       }
     ],

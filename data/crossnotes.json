@@ -743,5 +743,18 @@
       "PL-S-083"
     ],
     "as_of": "DM main @79cb34f, 15 Nov 2026"
+  },
+  {
+    "id": "PL-N-053",
+    "for": "Duska",
+    "target": "D-018-35",
+    "target_text": "Two FamilySearch groups marked 'NOT SENNE'; the 1811 marriage; the passports of 1930.",
+    "lean": "context only",
+    "note": "I read only the two 'NOT SENNE' lines of your published text of the owner's index. Both groups are Roman Catholic (baptisms 1818 to 1881, 195 images; a set of 46), so neither is the Greek Catholic book that would hold the Tiba mother's baptism. Which parish's they are the index does not say. The heading of the first image, or the village names in the first entries, would tell, and that is yours to open. A Roman Catholic baptism book from 1818 filed under Senné could be the Senné book before 1866, which Prešov does not hold, or a neighbour's: Pavlovce's births before 1869 are also missing at Prešov. The 1811 marriage: 1811 is the first year of the surviving Iňačovce Greek Catholic books (nos. 380 to 383). The passports at Kapušany fit the district: Senné was in the Veľké Kapušany district until 1938.",
+    "try": "Open image 1 of the 195-image group and read the heading and the first three village names.",
+    "src": [
+      "PL-S-107"
+    ],
+    "as_of": "DUS main @8928827, 15 Nov 2026"
   }
 ]

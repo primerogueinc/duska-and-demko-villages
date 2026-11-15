@@ -400,5 +400,17 @@
     "date": "2026-11-15",
     "decided": "The owner handed this agent a folder in chat, 'Duska Maps': two image files, a map of the counties of 1910 and a screenshot of a flight chart. Taken in as sources PL-S-165 and PL-S-166, each logged by his file name and SHA-256. Neither image is copied into this repo or shown on the page: both are other people's maps and no licence is known. What they show is entered in words. The folder and file names are his labels and move nothing.",
     "why": "X-029 and X-033: he gives what is on his drive and it is taken. X-004: labels are priors. The site shows only images this board may republish, as with the satellite pictures. Neither file says anything about the family. Neither carries a date, so whether it was made after the experiment began cannot be said."
+  },
+  {
+    "id": "PL-DEC-068",
+    "date": "2026-11-15",
+    "decided": "Read ledger v29. Checked against its new X-016 item on notes added later to old entries: the one such note in this repo is a death note of 20 November 1946 beside a baptism of [1879]. It falls on the side that may be shown, and the note names no one; it stays. Checked against C-46: this repo has used no figure from columns 9 or 10 of the 1930 census. The repo holds nothing of Ahn 5.",
+    "why": "Ledger v29."
+  },
+  {
+    "id": "PL-DEC-069",
+    "date": "2026-11-15",
+    "decided": "Read two lines of the owner's index of 2022 (D-018-35) as the Duska agent published it, to see whether either group marked 'NOT SENNE' could be the Tibava book. Nothing else in that text was read. The Duska agent reports that it names no person.",
+    "why": "X-027 holds the owner's compilations about the family; this is an index of image groups, already public in a line agent's repo. Read narrowly and logged as an exposure."
   }
 ]

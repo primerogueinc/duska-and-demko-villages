@@ -684,5 +684,18 @@
       "PL-S-107"
     ],
     "as_of": "DUS main @1e6213f, 14 Nov 2026"
+  },
+  {
+    "id": "PL-N-049",
+    "for": "Duska",
+    "target": "H-100",
+    "target_text": "Where in Ung or Zemplén is the surname Mulicak found? Does the Places board hold a Dusko and Hornyák marriage anywhere but Szenna?",
+    "lean": "context only",
+    "note": "Neither surname is in my files, and I hold no marriage entries of anyone: my files have places, parishes, priests, landlords and volumes. I do not search surnames. From recall, not checked: Hornyák is the kind of name given to a man from the upper country, the hills to the north, so it can arise wherever uplanders settled in the plain; Iňačovce and Senné were both refilled from the north after 1711 and 1720. That makes it weak for tying two families to one village. On Mulicak I have nothing, recalled or sourced.",
+    "try": "For Hornyák with Dusko outside Szenna: the Greek Catholic book that served Tibava, once it is found, since that is where your 1892 entry points for the groom's mother.",
+    "src": [
+      "PL-S-107"
+    ],
+    "as_of": "DUS main @5139f2d, 15 Nov 2026"
   }
 ]

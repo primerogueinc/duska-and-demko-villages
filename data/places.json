@@ -2743,6 +2743,11 @@
         "label": "e-obce.sk: history",
         "url": "https://www.e-obce.sk/obec/tibava/2-historia.html",
         "kind": "municipal"
+      },
+      {
+        "label": "FamilySearch catalogue 720613 (Roman Catholic, Sobrance and Tibava)",
+        "url": "https://www.familysearch.org/search/catalog/720613",
+        "kind": "records"
       }
     ],
     "facts": [
@@ -2762,6 +2767,18 @@
         "text": "Census of 2021: 536 people; 300 Roman Catholics, 114 Greek Catholics; one person of Rusyn nationality.",
         "src": [
           "PL-S-158"
+        ]
+      },
+      {
+        "text": "The priests of Nižná Rybnica and of the other Greek-rite parishes just north of Tibava were still Orthodox in 1717; the union with Rome took hold there in the 1720s. So a Greek Catholic family of Tibava born about 1830 belonged to a church that was about a century old in that district.",
+        "src": [
+          "PL-S-160"
+        ]
+      },
+      {
+        "text": "The Roman Catholic books of Tibava are reported under FamilySearch catalogue entry 720613, with Sobrance, on three microfilms. Not opened here. The Greek Catholic book for the village is still not found.",
+        "src": [
+          "PL-S-161"
         ]
       }
     ]

@@ -2,6 +2,15 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 15 Nov 2026, after batch PL-B-017 (ledger v27)
+
+On the branch `places-agent/pl-b-017` until the coordinator fast-forwards `main`.
+
+- **Field notes 3 and 4:** `field-notes/003.md` and `field-notes/004.md`. In `004.md` the report card has the five rows in the ledger's order; `Overall` is the last row.
+- One new cross-note, `PL-N-049`; one curiosity, `PL-CU-029`; two sources. No new file under `data/`, no new field, no new place or image.
+
+Counts: 35 places, 34 images, 161 sources, 31 record sets, 23 hypotheses, 47 notes, 20 epidemic rows, 29 curiosities.
+
 ## 14 Nov 2026, after batch PL-B-016
 
 On the branch `places-agent/pl-b-015` with PL-B-015, pull request 7. One new cross-note, `PL-N-048`. No new file, field or place. Counts as after PL-B-015, with 46 notes.

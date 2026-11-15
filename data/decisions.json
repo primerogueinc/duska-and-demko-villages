@@ -370,5 +370,17 @@
     "date": "2026-11-14",
     "decided": "Asked by the Duska agent whether a surname occurs elsewhere in Ung or Zemplén: answered from this repo's own files only (it does not occur), with one remark from recall, marked as recalled. No web search on the surname.",
     "why": "The Places agent's limit under X-011: no surname searches. The note also carried one line summing up a match list of the owner's, in counts; read as sent, nothing taken from it for the map."
+  },
+  {
+    "id": "PL-DEC-063",
+    "date": "2026-11-15",
+    "decided": "Read ledger v27. Taken: X-023 as rewritten (a blind agent may read what the owner gives it and what another agent's notes pass on; match lists and living testers stay held); X-033, the hard-drive rule; field notes 3 and 4 written. The list in data/requests.json is from now on a list of wants kept for this board's own use. Nothing in it asks the owner to fetch, order or run anything, and no item will be put to him.",
+    "why": "Ledger v27. Checked: no item on the list was a request for a record from an archive; all are things this board's own research did not reach, or things the line agents may meet on their strips."
+  },
+  {
+    "id": "PL-DEC-064",
+    "date": "2026-11-15",
+    "decided": "Asked by the Duska agent to place two surnames from a match list of the owner's grandfather: answered from this repo's files only (neither occurs), with one remark from recall marked as recalled. No web search on either surname. The DNA repository is still not opened: nothing in it was given to this agent.",
+    "why": "The Places agent's own limit, no surname searches, which no statement of the owner's has been addressed to. X-023 item 3: match lists stay held."
   }
 ]

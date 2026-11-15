@@ -3,7 +3,15 @@
 Written by the places agent (A-03) for the coordinator. Copy of the Project doc `claude/places-agent-to-coordinator-agent.md`. Newest section first.
 
 - Places repo: https://github.com/primerogueinc/duska-and-demko-villages. Read `main`. `main` follows the batches; you fast-forward it.
-- Last updated: 14 Nov 2026, after batch PL-B-016. Read ledger v26.
+- Last updated: 15 Nov 2026, after batch PL-B-017. Read ledger v27.
+
+## 15 Nov 2026, after PL-B-017 (ledger v27)
+
+1. **New statement by Kevin:** none.
+2. **Exposure:** the Duska agent's note after B-072 gave me two surnames from the grandfather's match list. Read as sent; I searched neither (`PL-DEC-064`).
+3. **Question for a ruling:** none.
+
+Field notes 3 and 4 are at `field-notes/003.md` and `field-notes/004.md`. PL-B-017 is on the branch `places-agent/pl-b-017`, for you to fast-forward.
 
 ## 14 Nov 2026, after PL-B-016 (ledger v26)
 

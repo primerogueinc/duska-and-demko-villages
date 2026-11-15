@@ -570,7 +570,7 @@
   },
   {
     "id": "PL-S-068",
-    "title": "Coordinator ledger, versions 3 to 26, and scoring rubric version 1, 12 Nov 2026",
+    "title": "Coordinator ledger, versions 3 to 27, and scoring rubric version 1, 12 Nov 2026",
     "type": "Coordinator's ledger",
     "url": "https://github.com/primerogueinc/duska-coordinator/blob/main/ledger.md",
     "read": "read in full as a Project doc",
@@ -921,7 +921,7 @@
   },
   {
     "id": "PL-S-107",
-    "title": "Duska agent, folders F-005 (Iňačovce Greek Catholic), F-007 (Solymos Reformed), F-009 (Senné Roman Catholic), census captures and pile files, and its notes to the Places agent after batches B-010 to B-033; documents D-006-03, D-005-33, D-011-04, D-011-06 and D-011-18 at DUS main @8e8abb9; burial strips D-013-01 to D-013-73, D-011-113, D-012-01 and its notes after B-042 to B-046 at DUS main @9462513; its notes after B-047 to B-064 and documents D-013-22, D-013-74 to D-013-197, D-014-02 to D-014-09, D-015-05, D-015-11, D-006-03 at DUS main @8e541e5; its note after B-070 at DUS main @1e6213f",
+    "title": "Duska agent, folders F-005 (Iňačovce Greek Catholic), F-007 (Solymos Reformed), F-009 (Senné Roman Catholic), census captures and pile files, and its notes to the Places agent after batches B-010 to B-033; documents D-006-03, D-005-33, D-011-04, D-011-06 and D-011-18 at DUS main @8e8abb9; burial strips D-013-01 to D-013-73, D-011-113, D-012-01 and its notes after B-042 to B-046 at DUS main @9462513; its notes after B-047 to B-064 and documents D-013-22, D-013-74 to D-013-197, D-014-02 to D-014-09, D-015-05, D-015-11, D-006-03 at DUS main @8e541e5; its note after B-070 at DUS main @1e6213f; its note after B-072 at DUS main @5139f2d",
     "type": "Sibling agent's transcriptions of records in hand",
     "url": "https://github.com/primerogueinc/genealogu-duska-1/blob/main/comms/to-places.md",
     "read": "notes to the Places agent read at DUS main @66f89b1, @2e5f111, @4d7a299 @c1c3be2 and @4649eac; the documents behind them were not opened by this agent",
@@ -1395,5 +1395,23 @@
     "read": "search extracts only, 14 Nov 2026",
     "reliability": "Lists the Latin parishes of 1733 (Tibava and Senné among them) and the parishes of the Greek rite district by district. Used for two points: no Greek-rite parish at Tibava or Sobrance in 1733, and one at Maťovce. Read as extracts, so a parish may be missing from what was seen.",
     "batch": "PL-B-015"
+  },
+  {
+    "id": "PL-S-160",
+    "title": "Obec Úbrež: História cirkvi (history of the church in the village)",
+    "type": "Municipal site, secondary, citing recent research",
+    "url": "https://obecubrez.sk/historia-cirkvi-a24-797",
+    "read": "search extract only, 15 Nov 2026",
+    "reliability": "Says the Greek Catholic parish of Úbrež was founded on 4 May 1722 by notice of its patroness, and that the priests of the neighbouring parishes, Nižná Rybnica among them, were Orthodox in 1717. Used for the neighbourhood of Tibava only.",
+    "batch": "PL-B-017"
+  },
+  {
+    "id": "PL-S-161",
+    "title": "FamilySearch Community thread on catalogue entry 720613 (Roman Catholic church books, Sobrance and Tibava)",
+    "type": "Forum thread about a catalogue entry",
+    "url": "https://www.familysearch.org/search/catalog/720613",
+    "read": "search extract of the thread only, 15 Nov 2026; the catalogue entry itself not opened",
+    "reliability": "Second-hand: says the entry covers Roman Catholic books for Sobrance and Tibava on three microfilms, two viewable from home. To be checked against the entry.",
+    "batch": "PL-B-017"
   }
 ]

@@ -275,5 +275,17 @@
     "places_added": 0,
     "sources_added": 2,
     "curiosities": 1
+  },
+  {
+    "id": "PL-B-018",
+    "date": "2026-11-15",
+    "title": "Ledger v28: a roast, and what two days of strips say about the villages",
+    "blurb": "Read ledger v28, which asks for one more field note: a roast of the owner, at his own request and within limits he set. It is written. The line agents sent five notes. From the Duska agent's strips: the Roman Catholic parish of Senné began to write birthplaces in 1887, and they reach to Brekov by Humenné, to Budkovce and, for one lodger, to 'Poland'; the surplus burials of 1879 fell in eleven weeks of spring, 38 of them, with no epidemic named; influenza is written as a cause of death in March 1892; a Greek Catholic curate of Solymos is found for 1879; and the Reformed minister who served Solymos in 1891 sat at Stretava. Two families of the parish had mothers from the neighbourhood of Sobrance, which makes 'of Sobráncz' and 'of Ribnicze' for one of them the same place twice. For the Demko agent: the small second name a census clerk wrote under a surname in 1930 is a by-name, a known habit where many houses share a surname; 'Laškovo' is Laškovce; and Hreha is found written as a given name in a Rusyn village. Line repos read at DUS main @9794d20 and DM main @afd2601. Curiosities: 3",
+    "raised": [],
+    "resolved": [],
+    "revised": [],
+    "places_added": 0,
+    "sources_added": 3,
+    "curiosities": 3
   }
 ]

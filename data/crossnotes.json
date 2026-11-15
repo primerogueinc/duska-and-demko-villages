@@ -697,5 +697,35 @@
       "PL-S-107"
     ],
     "as_of": "DUS main @5139f2d, 15 Nov 2026"
+  },
+  {
+    "id": "PL-N-050",
+    "for": "Duska",
+    "target": "D-018-21",
+    "target_text": "Places named on eleven strips of 1890 to 1892 and two marriage strips; entry numbers of 1878 and 1879.",
+    "lean": "context only",
+    "note": "'Br[e]kó, Zemplén m.' is Brekov by Humenné, Hungarian Barkó, about 30 km north-west of Senné: your Barkó is right, and the clerk's spelling is nearer the Slovak name than the Hungarian one. 'Butka' is Budkovce, 8 km west. 'Klokocsó' is Klokočov, 16 km north, a Greek Catholic village on the old Ung side of the county line; the older Hungarian form is from recall. 'Sáros-Reviscse' is Blatné Revištia, 8 km north-east, in the Sobrance district. On your miller's mother: 'of Sobráncz' and 'of Ribnicze' do not conflict; Nižná Rybnica is 2.4 km from Sobrance. With the mother 'of Tiba' in 1892 that makes three ties to that neighbourhood in fourteen years, in two families. Your entry numbers for 1879 show where the surplus fell: 38 burials between 2 April and 21 June.",
+    "try": "A man born at Brekov is in the Roman Catholic books of Brekov or of its mother parish for about 1837; I have not looked for which.",
+    "src": [
+      "PL-S-107",
+      "PL-S-162"
+    ],
+    "as_of": "DUS main @9794d20, 15 Nov 2026"
+  },
+  {
+    "id": "PL-N-051",
+    "for": "Demko",
+    "target": "DM-X-082",
+    "target_text": "A second name written small under the surname in 1930; a village read 'Laškovo'; 'Hreha' as a given name; census columns 9 and 10.",
+    "lean": "context only",
+    "note": "The small second name: yes, a known habit. Slovak name studies call it a living name: beside the given name and surname a person carries a family name or a house name, and one extract says such names arise where several families of a village share a surname. That fits twelve houses of one surname. The studies I found are of western and central Slovakia; one on eastern Slovakia exists and I have not read it. Whether your commissioner's small name is the mother's family or the house's name the custom alone does not say. 'Laškovo': Laškovce, Hungarian Lask, in the Michalovce district, 13 km west of Iňačovce. 'Hreha': a name list for the Rusyn villages of northern Zemplén has Hreha as a given name at Oroszvolya, beside Gregor, Gergely and Hricz in the next villages. That it is Gregory the extract does not say; I hold that from recall, as you do. Columns 9 and 10: I have used no such figure for any village.",
+    "try": "To tell a house name from a mother's name: see whether brothers in separate houses carry the same small name. A house name follows the house; a mother's name follows the brothers.",
+    "src": [
+      "PL-S-108",
+      "PL-S-163",
+      "PL-S-164",
+      "PL-S-162"
+    ],
+    "as_of": "DM main @afd2601, 15 Nov 2026"
   }
 ]

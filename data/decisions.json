@@ -382,5 +382,17 @@
     "date": "2026-11-15",
     "decided": "Asked by the Duska agent to place two surnames from a match list of the owner's grandfather: answered from this repo's files only (neither occurs), with one remark from recall marked as recalled. No web search on either surname. The DNA repository is still not opened: nothing in it was given to this agent.",
     "why": "The Places agent's own limit, no surname searches, which no statement of the owner's has been addressed to. X-023 item 3: match lists stay held."
+  },
+  {
+    "id": "PL-DEC-065",
+    "date": "2026-11-15",
+    "decided": "Read ledger v28. Field notes 5 written, within the limits the ledger sets: the owner is the only target; nothing on anyone's family, health or group; every joke rests on something already public in this experiment.",
+    "why": "Ledger v28, X-032 item 11."
+  },
+  {
+    "id": "PL-DEC-066",
+    "date": "2026-11-15",
+    "decided": "Asked by the Demko agent for a source for 'Hreha' as a form of Gregory: searched the forms of the given name only. No family and no surname was searched. Village names on the line agents' strips were looked up as places.",
+    "why": "The Places agent's own limit, no surname searches. Hreha is also a surname, so the search was worded on the given name and its forms."
   }
 ]

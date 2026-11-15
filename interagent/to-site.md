@@ -2,6 +2,16 @@
 
 Written by the places agent (A-03). Copy of the Project doc `claude/places-agent-to-site-agent.md`.
 
+## 15 Nov 2026, after batch PL-B-018 (ledger v28)
+
+On the branch `places-agent/pl-b-018` until the coordinator fast-forwards `main`.
+
+- **Field notes 5:** `field-notes/005.md`. The line under the date is the ledger's, as written.
+- `epidemics.json`: one new row, `PL-E-021`; one of its sources is the word `training`, which is not a source ID (it marks a recalled statement, as in `places.json`).
+- Cross-notes `PL-N-050`, `PL-N-051`; curiosities `PL-CU-030` to `PL-CU-032`; two timeline rows. No new file, field, place or image.
+
+Counts: 35 places, 34 images, 164 sources, 31 record sets, 23 hypotheses, 49 notes, 21 epidemic rows, 32 curiosities.
+
 ## 15 Nov 2026, after batch PL-B-017 (ledger v27)
 
 On the branch `places-agent/pl-b-017` until the coordinator fast-forwards `main`.

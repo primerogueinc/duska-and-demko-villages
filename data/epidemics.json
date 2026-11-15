@@ -129,8 +129,8 @@
       "PL-P-002",
       "PL-P-037"
     ],
-    "evidence": "A penury is documented for the two counties to the west. In the records in hand: a child of Viszoka no. 120 dead at twelve days in March 1879, no cause written. In the Senné Roman Catholic book 71 burials were entered by 26 September [1879], more than most whole years. Causes on the strips of that month: 'burning fever' in a woman of 24, and 'pokolvar', anthrax, in a boy of ten at Solymos. No entry speaks of hunger.",
-    "for_the_records": "One infant death is not a pattern. Count the Viszoka burials for 1879 and 1880 in volume no. 182.",
+    "evidence": "A penury is documented for the two counties to the west. In the records in hand: a child of Viszoka no. 120 dead at twelve days in March 1879, no cause written. In the Senné Roman Catholic book 71 burials were entered by 26 September [1879], more than most whole years. Causes on the strips of that month: 'burning fever' in a woman of 24, and 'pokolvar', anthrax, in a boy of ten at Solymos. No entry speaks of hunger. More strips give the shape of the year at Senné: entry 19 on 19 March, 25 on 2 April, 63 on 21 June, 71 on 26 September [1879]. Thirty-eight burials in eleven weeks of spring, then eight in the next fourteen. The causes on those strips are dropsy, old age, 'sudden', weakness and pneumonia; no epidemic is named. A spring peak after a hungry winter is what a dearth would leave, and it is not proof of one. The year before had 49 burials by 22 August [1878], with smallpox named at Solymos that January.",
+    "for_the_records": "Senné no. 1091, April to June 1879: the cause column, entry by entry. Then the Viszoka burials for 1879 and 1880 in volume no. 182.",
     "status": "observation only",
     "src": [
       "PL-S-105",
@@ -324,6 +324,22 @@
     "status": "documented for one village",
     "src": [
       "PL-S-107"
+    ]
+  },
+  {
+    "id": "PL-E-021",
+    "years": "1889-1892",
+    "what": "The influenza pandemic",
+    "scope": "one village, one named death",
+    "places": [
+      "PL-P-001"
+    ],
+    "evidence": "A cottar of Szenna 30, aged 55, was buried on 11 March 1892, dead 'of influenza'. It is entry 9 of the year, so the book shows no surge by March. The pandemic of those winters is from recall and is not sourced here.",
+    "for_the_records": "Senné no. 1093, the winters of 1889-90 to 1891-92: count the entries with this cause.",
+    "status": "documented for one village",
+    "src": [
+      "PL-S-107",
+      "training"
     ]
   }
 ]

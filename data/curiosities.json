@@ -384,5 +384,44 @@
     "translation": "A parish church-house: the Slavic word for an Eastern church with the Hungarian word for house, as this board reads it.",
     "why": "On 4 May 1722 the patroness of Úbrež, north of Tibava, announced that she had founded a parish, and that is how a Greek Catholic parish began there. Five years earlier the priests of the next villages were Orthodox. The church into which the Tiba woman of the 1892 entry was baptised was, in her district, about as old as her great-grandparents.",
     "tone": "history"
+  },
+  {
+    "id": "PL-CU-030",
+    "title": "Born in a country that was not there",
+    "batch": "PL-B-018",
+    "src": [
+      "PL-S-107"
+    ],
+    "place": "PL-P-001",
+    "original": "Lengyelország",
+    "translation": "Poland.",
+    "why": "The marriage form of 1890 asked where the groom was born. For a lodger whose parents nobody knew, the priest of Senné wrote 'Poland', a state that had been off the map for ninety-five years. Every other birthplace on these strips is a village with its county. As read by the Duska agent.",
+    "tone": "odd"
+  },
+  {
+    "id": "PL-CU-031",
+    "title": "Why the baptism was late",
+    "batch": "PL-B-018",
+    "src": [
+      "PL-S-107"
+    ],
+    "place": "PL-P-002",
+    "original": "id. Szakal István, n. szeretvai h.v. lelkész",
+    "translation": "The elder István Szakal, minister of the Helvetic confession at Nagy-Szeretva.",
+    "why": "In December 1891 a Reformed father and a Catholic mother of Solymos had their child baptised by the Reformed minister. The entry then went into the Catholic book, three weeks after the birth, with a note explaining the delay. Forty years earlier the Greek Catholic priest had been baptising in the Reformed book. In Solymos the books kept to their churches better than the people did.",
+    "tone": "funny"
+  },
+  {
+    "id": "PL-CU-032",
+    "title": "A death added sixty-seven years on",
+    "batch": "PL-B-018",
+    "src": [
+      "PL-S-107"
+    ],
+    "place": "PL-P-001",
+    "original": "+ 20.XI.1946",
+    "translation": "Died 20 November 1946.",
+    "why": "Someone in the parish office of Senné, the year after the war, turned back to a baptism of 1879 and wrote the day of death beside it. The book had seen two states and three official languages by then.",
+    "tone": "sad"
   }
 ]
